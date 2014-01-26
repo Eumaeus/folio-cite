@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Les Troyens</title>
+                <author>Hector Berlioz</author>
+            </titleStmt>
+            <publicationStmt>
+                <p part="N">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector
+                    Berlioz, based on Virgil's Aeneid. Plain-text transcription provided by
+                    http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
+                    public domain.</p>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <p part="N">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector
+                    Berlioz, based on Virgil's Aeneid. Plain-text transcription provided by
+                    http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
+                    public domain.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="part" n="1" part="N" org="uniform" sample="complete">
+                <head n="title">FIRST PART: THE CONQUEST OF TROY.</head>
+                <div type="act" n="1" part="N" org="uniform" sample="complete">
+                    <head n="title">FIRST ACT</head>
+                    <stage n="stage1">The site of the abandoned Greek camp in the Trojan plain. To the left of
+                        the audience and some distance inside Troy, lies the Citadel. To the right,
+                        the Simoeis river, and on one of its banks, Achilles’ thumb. In the
+                        distance, the peaks of Mount Ida. An altar lies at the front of the stage,
+                        and next to it an elevated throne.</stage>
+                    <div type="song" n="1" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 1 – Chorus of Trojans </head>
+                        <stage n="stage2">The Trojan people joyfully spread out on the plain. Soldiers,
+                            citizens, women, and children. Dances, various games. Three shepherds
+                            play the double flute on top of Achilles’ tomb.</stage>
+
+                        <sp n="1">
+                            <speaker>CHORUS</speaker>
+                            <l n="1">Ha! Ha!</l>
+                            <l n="2">After ten years spent within our walls,</l>
+                            <l n="3">Ah! How joyful it is to breathe</l>
+                            <l n="4">The pure air of the fields, that will no longer be torn by battle
+                                cries.</l>
+                            <stage n="stage3">Young men and children come running holding shards of
+                                weapons.</stage>
+                            <l n="5">What wreckage! An iron spear!</l>
+                            <l n="6">I found a helmet! – And I, two javelins!</l>
+                            <l n="7">Look, this huge shield!</l>
+                            <l n="8">It would float a man over water!</l>
+                            <l n="9">What cowards are these Greeks!</l>
+                        </sp>
+                        <sp n="2">
+                            <speaker>A SOLDIER</speaker>
+                            <l n="10">Do you know whose tent</l>
+                            <l n="11">Stood on this very site?</l>
+                        </sp>
+                        <sp n="3">
+                            <speaker>CHORUS</speaker>
+                            <l n="12">No! Tell us… Whose was it?</l>
+                        </sp>
+                        <sp n="4">
+                            <speaker>THE SOLDIER</speaker>
+                            <l n="13">That of Achilles.</l>
+                        </sp>
+                        <sp n="5">
+                            <speaker>CHORUS</speaker>
+                            <stage n="stage4">Falling back, in terror</stage>
+                            <l n="14">Oh gods!</l>
+                        </sp>
+                        <sp n="6">
+                            <speaker>THE SOLDIER</speaker>
+                            <l n="15">Remain there, valiant troops!</l>
+                            <l n="16">Achilles is dead, you can see </l>
+                            <l n="17">His tomb, it is here.</l>
+                        </sp>
+                        <sp n="7">
+                            <speaker>CHORUS</speaker>
+                            <l n="18">True, from this homicidal monster </l>
+                            <l n="19">Paris delivered us. – Do you know the wooden</l>
+                            <l n="20">Horse, that before departing for Aulis,</l>
+                            <l n="21">The Greeks built? This colossal horse,</l>
+                            <l n="22">Their offering to Pallas, a battalion would fit</l>
+                            <l n="23">Inside its vast guts. They are tearing down the city walls.</l>
+                            <l n="24">This evening we will drag it Into town;</l>
+                            <l n="25">They say the King will come soon to inspect it!</l>
+                            <l n="26">Where is it? – On the banks of the river Scamander!</l>
+                            <l n="27">We must see it without delay!</l>
+                            <l n="28">Let us run! Let us run! The horse! The horse!</l>
+                        </sp>
+                        <stage n="stage5">They leave, tumultuously</stage>
+                    </div>
+                    <div type="song" n="2" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº. 2 -Recitative and Aria </head>
+                        <stage n="stage6">(As the previous scene ends, Cassandra has appeared among the people,
+                            striding the plain in agitation. Her gaze is restless and scattered.) </stage>
+
+                        <sp n="8">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="29">The Greeks have disappeared!… but what fatal intention </l>
+                            <l n="30">lies behind the strange haste of this departure? </l>
+                            <l n="31">All comes together to justify my somber disquiet.</l>
+                            <l n="32">I have seen the shadow of Hector striding our walls</l>
+                            <l n="33">Like a night sentry, I have seen his black gaze</l>
+                            <l n="34">scouring from a distance the strait of Sigeion…</l>
+                            <l n="35">Woe! Falling into madness and drunkenness</l>
+                            <l n="36">The crowd leaves the city walls, with Priam in the lead! </l>
+                            <l n="37">Unfortunate King! It is certain </l>
+                            <l n="38">You will descend into eternal night!</l>
+                            <l n="39">You will not listen to me; you refuse to understand, </l>
+                            <l n="40">Unfortunate people, the horror that pursues me. </l>
+                            <l n="41">Coroebus, alas, even Coroebus</l>
+                            <l n="42">Believes that I have lost my wits! At the mention of his name my
+                                dread</l>
+                            <l n="43">redoubles! Oh Gods! Coroebus! He loves me! </l>
+                            <l n="44">He is loved! But no more marriage for me.</l>
+                            <l n="45">No more love, no more joyous songs, </l>
+                            <l n="46">no more sweet tender dreams!</l>
+                            <l n="47">I must submit to the inexorable course </l>
+                            <l n="48">Of the frightful destiny that oppresses me.</l>
+                            <stage n="stage7">She falls into a tender daydream</stage>
+                            <l n="49">Coroebus!… He must depart from Troy.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="3" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 3 - Duet </head>
+                        <stage n="stage8">Coroebus arrives at a brisk pace</stage>
+
+                        <sp n="9">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="50">It is he!</l>
+                        </sp>
+                        <sp n="10">
+                            <speaker>COROEBUS</speaker>
+                            <l n="51">While Troy is bursting with joy to the heavens,</l>
+                            <l n="52">You flee the joyful palaces</l>
+                            <l n="53">To the woods and fields, pensive forest nymph!</l>
+                            <l n="54">They are concerned about you…</l>
+                        </sp>
+                        <sp n="11">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="55">Ah! I hide from your eyes</l>
+                            <l n="56">The frightful dread that fills my soul!</l>
+                        </sp>
+                        <sp n="12">
+                            <speaker>COROEBUS</speaker>
+                            <l n="57">Cassandra!</l>
+                        </sp>
+                        <sp n="13">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="58">Leave me!</l>
+                        </sp>
+                        <sp n="14">
+                            <speaker>COROEBUS</speaker>
+                            <l n="59">Come!</l>
+                        </sp>
+                        <sp n="15">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="60">Leave, I entreat you!</l>
+                        </sp>
+                        <sp n="16">
+                            <speaker>COROEBUS</speaker>
+                            <l n="61">Me, leave!</l>
+                            <l n="62">Leave you when the most sacred of ties…</l>
+                        </sp>
+                        <sp n="17">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="63">It is the time to die and not to be happy.</l>
+                        </sp>
+                        <sp n="18">
+                            <speaker>COROEBUS</speaker>
+                            <l n="64">Return to your senses, adored maiden!</l>
+                            <l n="65">Cease to prophesy and so cease to fear;</l>
+                            <l n="66">Raise towards the heavenly vault </l>
+                            <l n="67">The gaze of your comforted soul.</l>
+                            <l n="68">Let a sweet ray of hope enter your heart.</l>
+                        </sp>
+                        <sp n="19">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="69">The heavens are full of menace. Believe my voice, inspired by the</l>
+                            <l n="70">same barbarian god who is intent on destroying us. </l>
+                            <l n="71">I have deciphered the book of destiny.</l>
+                            <l n="72"> I see a swarm of evils unleashed upon us!</l>
+                            <l n="73">It will fall upon Troy!</l>
+                            <l n="74">Prey to its fury</l>
+                            <l n="75">The people will howl,</l>
+                            <l n="76">And their blood </l>
+                            <l n="77">Will stain the streets red;</l>
+                            <l n="78">Half-naked virgins</l>
+                            <l n="79">In the arms of their ravishers</l>
+                            <l n="80">Will utter screams</l>
+                            <l n="81">That will pierce the clouds!</l>
+                            <l n="82">Already the black vulture,</l>
+                            <l n="83">On the highest tower</l>
+                            <l n="84">Sings of the carnage!</l>
+                            <l n="85">All things fall apart! All things swim</l>
+                            <l n="86">In a river of blood.</l>
+                            <l n="87">And in your side</l>
+                            <l n="88">Lies a Greek sword!… Ah!</l>
+                            <stage n="stage9">Coroebus supports for a moment in his arms a half-fainting
+                                Cassandra.</stage>
+                        </sp>
+                        <sp n="20">
+                            <speaker>COROEBUS</speaker>
+                            <l n="89">Poor lost soul!</l>
+                            <l n="90">Return to your senses, adored maiden, etc.</l>
+                        </sp>
+                        <sp n="21">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="91">Death already hovers in the air…</l>
+                            <l n="92">And I have seen the sinister flash</l>
+                            <l n="93">Of its cold murderous gaze!</l>
+                            <l n="94">If you love me, go away -</l>
+                            <l n="95">Leave!… Go and give to your father</l>
+                            <l n="96">The necessary support</l>
+                            <l n="97">In his old age,</l>
+                            <l n="98">Now useless to us.</l>
+                        </sp>
+                        <sp n="22">
+                            <speaker>COROEBUS</speaker>
+                            <l n="99">Ah, if such evil should fall on us ,</l>
+                            <l n="100">Dear heedless one, with what kind of eye</l>
+                            <l n="101">Would my father look upon me, </l>
+                            <l n="102">If I fled from my betrothed</l>
+                            <l n="103">At a time of danger?</l>
+                            <l n="104">But the heavens and the earth,</l>
+                            <l n="105">Forgetful of war,</l>
+                            <l n="106">Proclaim your error.</l>
+                            <l n="107">The warm sweetness</l>
+                            <l n="108">Of the breeze’s breath</l>
+                            <l n="109">and the sea whose waves</l>
+                            <l n="110">Break so languidly</l>
+                            <l n="111">On the headlands of Tenedos;</l>
+                            <l n="112">These serene flocks</l>
+                            <l n="113">On the rolling plain</l>
+                            <l n="114">This happy shepherd singing</l>
+                            <l n="115">And these merry birds</l>
+                            <l n="116">Seem only to proclaim</l>
+                            <l n="117">Under the celestial vault,</l>
+                            <l n="118">And everywhere only spread</l>
+                            <l n="119">The hymn of peace.</l>
+                        </sp>
+                        <sp n="23">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="120">Misleading signs! Perfidious calm!</l>
+                            <l n="121">Death already hovers in the air…</l>
+                            <l n="122">And I have seen the sinister flash</l>
+                            <l n="123">Of its cold murderous gaze!</l>
+                            <l n="124">Leave us this evening,</l>
+                            <l n="125">Hear me, I entreat you,</l>
+                            <l n="126">Let dawn see you no more</l>
+                            <l n="127">Within our walls!</l>
+                            <l n="128">I am dying of fear</l>
+                            <l n="129">And my heart is tearing itself apart!</l>
+                            <l n="130">Leave tonight, leave tonight!</l>
+                        </sp>
+                        <sp n="24">
+                            <speaker>COROEBUS</speaker>
+                            <l n="131">Leave you, tonight!</l>
+                            <l n="132">Cassandra! and I adore you!</l>
+                            <l n="133">Save me, I beg you,</l>
+                            <l n="134">From a terrible despair.</l>
+                            <l n="135">Do you want me then to die?</l>
+                            <l n="136">Pitiless, can you say: </l>
+                            <l n="137">Leave tonight, leave tonight!</l>
+                        </sp>
+                        <sp n="25">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="138">If you once found me worthy, Coroebus,</l>
+                            <l n="139">Of your noble love, you would leave!</l>
+                        </sp>
+                        <sp n="26">
+                            <speaker>COROEBUS</speaker>
+                            <l n="140">In the name of the heavenly gods and of Erebus,</l>
+                            <l n="141">Cassandra, you must listen to me!</l>
+                            <l n="142">I fall at your feet,</l>
+                            <l n="143">Cassandra!</l>
+                        </sp>
+                        <sp n="27">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="144">I cede before such pain!</l>
+                            <l n="145">Oh, cruel gods!</l>
+                        </sp>
+                        <sp n="28">
+                            <speaker>COROEBUS</speaker>
+                            <l n="146">Leave you, tonight! etc.</l>
+                        </sp>
+                        <sp n="29">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="147">Hear me, I entreat you, etc.</l>
+                            <l n="148">You are blind and deaf like them! You persist</l>
+                            <l n="149">In sacrificing yourself to your deadly love!?</l>
+                        </sp>
+                        <sp n="30">
+                            <speaker>COROEBUS</speaker>
+                            <l n="150">I’ll not leave you!</l>
+                        </sp>
+                        <sp n="31">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="151">So the frightful day</l>
+                            <l n="152">Will see you fight alongside my brothers?</l>
+                        </sp>
+                        <sp n="32">
+                            <speaker>COROEBUS</speaker>
+                            <l n="153">I’ll not leave you!</l>
+                        </sp>
+                        <sp n="33">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="154">So be it! Here is my hand</l>
+                            <l n="155">And my chaste marital kiss!</l>
+                            <l n="156">Remain! Jealous death</l>
+                            <l n="157">Prepares our nuptial bed for tomorrow.</l>
+                        </sp>
+                        <sp n="34">
+                            <speaker>COROEBUS</speaker>
+                            <l n="158">Come! Come!</l>
+                        </sp>
+                        <stage n="stage10">He drags her after him, distraught</stage>
+                    </div>
+                    <div type="song" n="4" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 4. March and Hymn </head>
+                        <stage n="stage11">Enter Ascanius leading the children, Hecuba and the princesses,
+                            Aeneas leading the Trojan warriors, Priam and the priests.</stage>
+
+                        <sp n="35">
+                            <speaker>CHORUS</speaker>
+                            <l n="159">Gods, protectors of the eternal city,</l>
+                            <l n="160">Accept our offerings of incense,</l>
+                            <l n="161">and of the happiness of your faithful people</l>
+                            <l n="162">Hear the cries!</l>
+                            <l n="163">Oh divine authors of our deliverance,</l>
+                            <l n="164">Gods of Olympus! Gods of the seas!</l>
+                            <l n="165">Rulers of the universe,</l>
+                            <l n="166">Accept the gifts of gratitude.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="5" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 5 – Gloved combat.</head>
+                        <l n="167">Dance of the Wrestlers </l>
+                        <stage n="stage12">Dances and popular games.</stage>
+                    </div>
+                    <div type="song" n="6" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 6 - Pantomime. </head>
+                        <stage n="stage13">Andromache enters with heavy steps, holding Astyanax’s hand. They are
+                            in mourning, both wearing white clothes</stage>
+
+                        <sp n="36">
+                            <speaker>CHORUS</speaker>
+                            <l n="168">Andromache and her son!</l>
+                            <l n="169">Oh fate!</l>
+                            <l n="170">These cries of public joy…</l>
+                            <stage n="stage14">Astyanax lays a basket of flowers at the altar. Andromache kneels
+                                beside him and prays for a few minutes.</stage>
+                            <l n="171">And this immense sadness,</l>
+                            <l n="172">This profound grief.</l>
+                            <stage n="stage15">Andromache stands and takes her son to Priam’s throne.</stage>
+                            <l n="173">This speechless suffering!</l>
+                            <stage n="stage16">She presents the child to the King and the Queen. She pulls
+                                Astyanax to her bosom and embraces him with a convulsive
+                                tenderness.</stage>
+                            <l n="174">Trojan wives and mothers weep at the sight…</l>
+                            <stage n="stage17">Priam stands up and blesses the child. Hecuba blesses him in
+                                turn. The King and the Queen sit back on their thrones. Astyanax,
+                                intimidated, seeks refuge by his mother. Andromache’s painful
+                                emotion increases.</stage>
+                        </sp>
+                        <sp n="37">
+                            <speaker>CASSANDRA</speaker>
+                            <stage n="stage18">passing by the back of the stage</stage>
+                            <l n="175">Alas! Save your tears,</l>
+                            <l n="176">Widow of Hector…</l>
+                            <stage n="stage19">Andromache lowers her veil.</stage>
+                            <l n="177">Faced with future disasters</l>
+                            <l n="178">You will spill bitter tears…</l>
+                            <stage n="stage20">Her tears overwhelming her, Andromache takes Astyanax’s hand and
+                                departs, passing in front of the various groups of Trojans. The
+                                crowd parts for them. Several Trojan women weep, hiding their faces
+                                on the shoulders of the neighboring men. The two leave with slow
+                                steps.</stage>
+                        </sp>
+                        <sp n="38">
+                            <speaker>CHORUS</speaker>
+                            <l n="179">Ah!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="7" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 7 - Narrative</head>
+
+                        <sp n="39">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage21">Comes running</stage>
+                            <l n="180">Oh King! A great crowd of people and soldiers</l>
+                            <l n="181">Flees and runs</l>
+                            <l n="182">Like an unstoppable torrent!</l>
+                            <l n="183">An unprecedented portent has just frightened them: </l>
+                            <l n="184">Laocoön, discerning some treacherous trick</l>
+                            <l n="185">In the handworks of the Greek, with an intrepid arm </l>
+                            <l n="186">hurled his javelin at the wood, incitng</l>
+                            <l n="187">The indecisive and vacillating populace</l>
+                            <l n="188">To burn it. But then, swollen with rage,</l>
+                            <l n="189">Two monstrous sea serpents advanced towards the shore,</l>
+                            <l n="190">fell upon the priest, and in their terrible coils </l>
+                            <l n="191">Entangled him, and burning him with their fiery breath, </l>
+                            <l n="192">and bathing him in bloody saliva,</l>
+                            <l n="193">They devoured him in front of our eyes.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="8" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 8 - Double Chorus </head>
+
+                        <sp n="40">
+                            <speaker>PRIAM, PANTHUS, COROEBUS, AENEAS, HELENUS, CASSANDRA, ASCANIUS,
+                                HECUBA, THE PEOPLE</speaker>
+                            <l n="194">Dreadful punishment!</l>
+                            <l n="195">Mysterious horror!</l>
+                            <l n="196">At this terrifying story</l>
+                            <l n="197">My blood has turned to ice</l>
+                            <l n="198">A chill of terror</l>
+                            <l n="199">Convulses my entire being!</l>
+                            <l n="200">Lacoön! A priest!</l>
+                            <l n="201">The target of the gods’ ire,</l>
+                            <l n="202">Devoured alive by these hideous monsters!</l>
+                            <l n="203">Horror!</l>
+                        </sp>
+                        <sp n="41">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="204">Oh, pitiful people!</l>
+                            <l n="205">Mysterious horror, etc. </l>
+                        </sp>
+                    </div>
+                    <div type="song" n="9" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 9 - Recitative and Chorus</head>
+
+                        <sp n="42">
+                            <speaker>AENEAS</speaker>
+                            <l n="206">May the goddess protect us,</l>
+                            <l n="207">Let us fight this new danger!</l>
+                            <l n="208">It is too true, Pallas has just avenged</l>
+                            <l n="209">A hideous sacrilege.</l>
+                        </sp>
+                        <sp n="43">
+                            <speaker>PRIAM</speaker>
+                            <l n="210">To appease her, follow my orders without delay.</l>
+                        </sp>
+                        <sp n="44">
+                            <speaker>AENEAS</speaker>
+                            <l n="211">Already set skilfully on wheels,</l>
+                            <l n="212">The horse is prepared, therefore let all accompany it </l>
+                            <l n="213">with due pomp towards the Palladium. </l>
+                            <l n="214">Let children, women, warriors lead this sacred object in procession, </l>
+                            <l n="215">paving the way with flowers,</l>
+                            <l n="216">And may the trumpet and the lyre </l>
+                            <l n="217">Accompany your songs into Troy!</l>
+                        </sp>
+                        <sp n="45">
+                            <speaker>ALL</speaker>
+                            <l n="218">Let (…) in procession this sacred object, etc </l>
+                        </sp>
+                        <sp n="46">
+                            <speaker>CASSANDRA</speaker>
+                            <stage n="stage22">walking around the stage as if lost</stage>
+                            <l n="219">Woe!</l>
+                        </sp>
+                        <sp n="47">
+                            <speaker>PRIAM, HECUBA, AENEAS, PANTHUS, COROEBUS, HELENUS</speaker>
+                            <l n="220">Pallas, forgive Troy!</l>
+                            <stage n="stage23">They exit. Cassandra stays alone in the proscenium. After taking
+                                a few steps in the direction of the crowd, she abruptly comes
+                                back.</stage>
+                        </sp>
+                    </div>
+                    <div type="song" n="10" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 10 - Aria </head>
+
+                        <sp n="48">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="221">No, I will not witness this deplorable party.</l>
+                            <l n="222">A people drunk with hopes of a dazzling future, </l>
+                            <l n="223">A doomed people, that cannot, alas, be saved</l>
+                            <l n="224">From the brink of the chasm. Oh cruel memories!</l>
+                            <l n="225">Glory of our country!… To see fading</l>
+                            <l n="226">The enticing image of the purest happiness!</l>
+                            <l n="227">Oh Coroebus! Oh Priam!… My courage is spent,</l>
+                            <l n="228">Tears of anguish pour down my face!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="11" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 11 - Final: Trojan March </head>
+                        <stage n="stage24">The procession is heard from a great distance.</stage>
+
+                        <sp n="49">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="229">Is this an illusion of my lost senses?</l>
+                            <l n="230">The sacred choruses of Ilion!</l>
+                        </sp>
+                        <sp n="50">
+                            <speaker>CHORUS</speaker>
+                            <l n="231">Oh beloved daughter of the king of the gods, </l>
+                            <l n="232">Armed with your shield and your spear,</l>
+                            <l n="233">Wise warrior with a sweet gaze,</l>
+                            <l n="234">Look favourably on our destiny,</l>
+                            <l n="235">Make Ilion invincible,</l>
+                            <l n="236">Beautiful Pallas, protect us.</l>
+                        </sp>
+                        <sp n="51">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="237">What, the procession is underway!… I see it in the distance! </l>
+                            <l n="238">The enemy is coming and the city is open!… </l>
+                            <l n="239">This crazed people running heedless to its doom </l>
+                            <l n="240">seems to have anticipated the King’s orders!</l>
+                            <stage n="stage25">We hear the procession, closer.</stage>
+                        </sp>
+                        <sp n="52">
+                            <speaker>CHORUS</speaker>
+                            <l n="241">Oh beloved daughter of the king of the gods, etc.</l>
+                            <l n="242">Hear our voices, oh sublime maiden,</l>
+                            <l n="243">Accompanied by Dindymus’s flutes,</l>
+                            <l n="244">Blend with the noblest of melodies.</l>
+                            <l n="245">May the Phrygian trumpet</l>
+                            <l n="246">Together with the Trojan lyre</l>
+                            <l n="247">Carry to you our devotional music!</l>
+                        </sp>
+                        <sp n="53">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="248">The sound of singing grows!</l>
+                            <l n="249">The enormous wheeled machine</l>
+                            <l n="250">Comes forth… here it is!</l>
+                        </sp>
+                        <sp n="54">
+                            <speaker>CHORUS</speaker>
+                            <stage n="stage26">Enters</stage>
+                            <l n="251">Oh beloved daughter of the king of the gods, etc.</l>
+                            <l n="252">Smiling wreath,</l>
+                            <l n="253">Around the offerings</l>
+                            <l n="254">Dance, happy children!</l>
+                            <l n="255">Scatter over the branches</l>
+                            <l n="256">The scented snow</l>
+                            <l n="257">Of the springtime lily-of-the-valley.</l>
+                            <l n="258">Pallas! Protect us!</l>
+                            <stage n="stage27">The singing stops abruptly. The chorus shows agitation; some
+                                women exit, as if going to see what is happening off-stage; they
+                                return almost immediately.</stage>
+                        </sp>
+                        <sp n="55">
+                            <speaker>SOME TROJAN MEN </speaker>
+                            <l n="259">What is happening? Why these starts of alarm?</l>
+                        </sp>
+                        <sp n="56">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="260">Jupiter! They hesitate!</l>
+                            <l n="261">And the crowd grows restless!</l>
+                        </sp>
+                        <sp n="57">
+                            <speaker>THE WOMEN</speaker>
+                            <l n="262">Inside the colossus we hear the sound of arms… </l>
+                        </sp>
+                        <sp n="58">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="263">They are stopping… Oh gods… If… </l>
+                        </sp>
+                        <sp n="59">
+                            <speaker>THE MEN</speaker>
+                            <l n="264">Favorable auspices! Sing, children!</l>
+                            <stage n="stage28">The chanting resumes more loudly than before.</stage>
+                        </sp>
+                        <sp n="60">
+                            <speaker>ALL THE CHORUS</speaker>
+                            <l n="265">Proud peaks of Pergamus,</l>
+                            <l n="266">Shine triumphantly.</l>
+                            <l n="267">With a joyous flame, </l>
+                            <stage n="stage29">The chorus follows the procession and exits.</stage>
+                        </sp>
+                        <sp n="61">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="268">Stop! Stop! Yes, the flame, the axe!</l>
+                            <l n="269">Search the monstrous horse! </l>
+                            <l n="270">Lacoön!… the Greeks!… it conceals</l>
+                            <l n="271">An infernal trap…</l>
+                            <l n="272">My voice is lost!… all hope is lost!</l>
+                            <l n="273">You have no pity, great gods,</l>
+                            <l n="274">For this deluded people!</l>
+                            <l n="275">Oh what noble use of omnipotence, </l>
+                            <l n="276">to lead them into the abyss while covering their eyes!</l>
+                            <stage n="stage30">She listens to the last sounds of the triumphal march which can
+                                still be heard, and which vanishes suddenly.</stage>
+                            <l n="277">They enter, it is done, destiny has its prey!</l>
+                            <l n="278">Sister of Hector,</l>
+                            <l n="279">Go to your death in the ruins of Troy!</l>
+                        </sp>
+                        <stage n="stage31">She exits.</stage>
+
+                    </div>
+                </div>
+                <div type="act" n="2" part="N" org="uniform" sample="complete">
+                    <head n="title">SECOND ACT</head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">First Tableau</head>
+                    </div>
+                    <div type="song" n="12" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 12 - Scene and Recitative </head>
+                        <stage n="stage32">An apartment in Aeneas’ palace, barely lit by a lamp. Distant combat
+                            noise. Aeneas is asleep on his bed, half-armed. Ascanius comes out of a
+                            neighboring apartment, frightened. He listens; he approaches his
+                            father’s bed. The city noise fades; he dare not wake his father, and
+                            turns away from him. From a dark corner the bloody ghost of Hector
+                            advances slowly and solemnly towards Aeneas. His beard and hair are
+                            dirty and disheveled. Arriving by Aeneas, he remains motionless for a
+                            moment, looking at him, and sighs deeply. The noise of a collapsing
+                            building, louder than the previous ones, startles and awakens Aeneas. He
+                            sees Hector standing in front of him and after a moment of hesitation he
+                            addresses him, half rising from his bed..</stage>
+
+                        <sp n="62">
+                            <speaker>AENEAS</speaker>
+                            <l n="280">Oh, light of Troy!… ¡Oh, glory of the Trojans!</l>
+                            <l n="281">After so much work by your fellow citizens,</l>
+                            <l n="282">From what unknown borders do you return? What cloud </l>
+                            <l n="283">seems to veil your serene eyes?</l>
+                            <l n="284">Hector, what woes have withered your face?</l>
+                        </sp>
+                        <sp n="63">
+                            <speaker>THE GHOST OF HECTOR</speaker>
+                            <l n="285">Ah!… flee, son of Venus! </l>
+                            <l n="286">The enemy holds our walls!</l>
+                            <l n="287">From their high ridge the whole of Troy crumbles!</l>
+                            <l n="288">A hurricane of flames unfurls </l>
+                            <l n="289">Its tainted eddies from temples to palaces…</l>
+                            <l n="290">Without fate’s decree, we could have done enough </l>
+                            <l n="291">To save the motherland. Pergamus entrusts you </l>
+                            <l n="292">With his children and his gods. Go, seek Italy… </l>
+                            <l n="293">Where for your reborn people,</l>
+                            <l n="294">After having erred for a long time over the waves,</l>
+                            <l n="295">You shall found a mighty empire,</l>
+                            <l n="296">That in the future will dominate the world,</l>
+                            <l n="297">And where a hero’s death awaits you.</l>
+                        </sp>
+                        <stage n="stage33">Hector departs solemnly, and his form becomes more and more blurry
+                            while Aeneas follows him with a look of alarm.</stage>
+
+                    </div>
+                    <div type="song" n="13" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 13 - Recitative and Chorus </head>
+                        <stage n="stage34">Enter Panthus, his face wounded, holding the gods of Troy.</stage>
+
+                        <sp n="64">
+                            <speaker>AENEAS</speaker>
+                            <l n="298">What hope may we still have, Panthus?</l>
+                            <l n="299">Should we fight or flee?</l>
+                        </sp>
+                        <sp n="65">
+                            <speaker>PANTHUS</speaker>
+                            <l n="300">The blood-soaked city </l>
+                            <l n="301">Burns! Our doom is nigh!</l>
+                            <l n="302">Priam is no more! Issued from the monstrous horse,</l>
+                            <l n="303">the Greeks have massacred the guards at our gates, </l>
+                            <l n="304">and already innumerable cohorts,</l>
+                            <l n="305">Pouring in from outside, race all over</l>
+                            <l n="306">Fanning the flames </l>
+                            <l n="307">That shone light on their leaders’ vile treachery;</l>
+                            <l n="308">Others occupy the battlements.</l>
+                            <stage n="stage35">Enter Ascanius</stage>
+                        </sp>
+                        <sp n="66">
+                            <speaker>ASCANIUS</speaker>
+                            <l n="309">Oh, father! Ucalegón’s palace is collapsing!</l>
+                            <l n="310">Its roof is melting and falling like fiery rain!</l>
+                        </sp>
+                        <sp n="67">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage36">Interrupting him</stage>
+                            <l n="311">Follow us, Ascanius!</l>
+                            <stage n="stage37">Coroebus enters, at the head of an armed troop.</stage>
+                        </sp>
+                        <sp n="68">
+                            <speaker>COROEBUS</speaker>
+                            <l n="312">To arms, great Aeneas!</l>
+                            <l n="313">Come, the Citadel is surrounded</l>
+                            <l n="314">But still resists!</l>
+                        </sp>
+                        <sp n="69">
+                            <speaker>AENEAS</speaker>
+                            <l n="315">We need to reach it whatever the cost.</l>
+                            <l n="316">Though prepared to perish, </l>
+                            <l n="317">Let us attempt our defense.</l>
+                            <l n="318">The refuge of the vanquished lies in not awaiting rescue.</l>
+                            <stage n="stage38">Loud noises and distant cries.</stage>
+                        </sp>
+                        <sp n="70">
+                            <speaker>CHORUS</speaker>
+                            <l n="319">The refuge of the vanquished lies in not awaiting rescue. </l>
+                            <l n="320">Can you hear</l>
+                            <l n="321">The towers crumbling? The devouring flame?</l>
+                            <l n="322">The roars of the Greeks?</l>
+                            <l n="323">Their crowd is still increasing in numbers.</l>
+                            <l n="324">Let us march! Our despair will aim our blows.</l>
+                        </sp>
+                        <sp n="71">
+                            <speaker>ALL</speaker>
+                            <l n="325">Though prepared to perish, let us attempt our defense, </l>
+                            <l n="326">the refuge of the vanquished lies in not awaiting rescue.</l>
+                            <stage n="stage39">Aeneas takes Ascanius’s hand and places him in the middle of an
+                                armed group.</stage>
+                            <l n="327">Mars! Erinyes! Guide us!</l>
+                        </sp>
+                        <stage n="stage40">They exit.</stage>
+
+
+                    </div>
+                    <div n="tableau2" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Second Tableau</head>
+                    </div>
+                    <div type="song" n="14" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 14 - Chorus - Prayer</head>
+                        <stage n="stage41">Interior of Priam’s palace. In the back, a colonnade with a slightly
+                            elevated balcony opens over a much lower plaza. Between the columns we
+                            see Mount Ida in the distance. The altar of Vesta-Cybele is lighted.
+                            Polyxena, Trojan women, are around the altar. Some are kneeling, others
+                            sit on the ground, many lie on the terrace of the altar, face to the
+                            ground. All have an attitude of the deepest despair.</stage>
+
+                        <sp n="72">
+                            <speaker>CHORUS OF TROJAN WOMEN</speaker>
+                            <l n="328">Ah!</l>
+                            <l n="329">Powerful Cybele,</l>
+                            <l n="330">Immortal goddess,</l>
+                            <l n="331">Mother of the unfortunate,</l>
+                            <l n="332">Render help to the Trojans,</l>
+                            <l n="333">Show favor to their efforts,</l>
+                            <l n="334">In this terrible time!</l>
+                            <l n="335">Save from dishonor</l>
+                            <l n="336">And from slavery</l>
+                            <l n="337">Their mothers, their sisters.</l>
+                            <l n="338">Break the ungodly weapons</l>
+                            <l n="339">Of treachery</l>
+                            <l n="340">In the very hands of the conquerors,</l>
+                            <l n="341">Powerful Cybele, etc.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="15" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 15 - Recitative and Chorus </head>
+                        <stage n="stage42">Cassandra enters, her hair disheveled.</stage>
+
+                        <sp n="73">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="342">Not all will perish. Worthy Aeneas</l>
+                            <l n="343">And his troops, thrice renewing combat, </l>
+                            <l n="344">Have freed our brave citizens</l>
+                            <l n="345">Immured in the Citadel.</l>
+                            <l n="346">Priam’s treasury is safe in Trojan hands.</l>
+                            <l n="347">Soon to be in Italy, where fate beckons them,</l>
+                            <l n="348">They will see built, even more powerful and beautiful, </l>
+                            <l n="349">A new Troy. They march towards Mount Ida.</l>
+                        </sp>
+                        <sp n="74">
+                            <speaker>CHORUS</speaker>
+                            <l n="350">And Coroebus?</l>
+                        </sp>
+                        <sp n="75">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="351">He is dead.</l>
+                        </sp>
+                        <sp n="76">
+                            <speaker>CHORUS</speaker>
+                            <l n="352">Cruel gods!</l>
+                        </sp>
+                        <sp n="77">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="353">Before the altar of Vesta</l>
+                            <l n="354">I prostrate myself one last time. </l>
+                            <l n="355">I follow my young spouse. Yes, here is an end </l>
+                            <l n="356">To my useless life.</l>
+                        </sp>
+                        <sp n="78">
+                            <speaker>CHORUS</speaker>
+                            <l n="357">Oh, worthy sister of Hector!</l>
+                            <l n="358">Prophetess whom Troy accused of insanity!</l>
+                            <l n="359">Yesterday was still time to save us,</l>
+                            <l n="360">When she predicted this huge downfall!</l>
+                        </sp>
+                        <sp n="79">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="361">Soon she will be no more.</l>
+                        </sp>
+                        <sp n="80">
+                            <speaker>CHORUS</speaker>
+                            <l n="362">Oh, despair! Oh, vain regrets!</l>
+                        </sp>
+                        <sp n="81">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="363">But you, frightened doves,</l>
+                            <l n="364">Can you consent </l>
+                            <l n="365">To this horrible slavery? And will you submit</l>
+                            <l n="366">Dishonored maidens and women, </l>
+                            <l n="367">To the conquerors’ brutal law?</l>
+                        </sp>
+                        <sp n="82">
+                            <speaker>CHORUS</speaker>
+                            <l n="368">Must we banish all hope from our hearts?</l>
+                        </sp>
+                        <sp n="83">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="369">Hope! Oh unhappy ones!</l>
+                            <l n="370">In these luminous shadows,</l>
+                            <l n="371">Can you not see, can you not hear</l>
+                            <l n="372">The cruel Myrmidons who fill our streets</l>
+                            <l n="373">And those who guard the avenues of the palace?</l>
+                        </sp>
+                        <sp n="84">
+                            <speaker>CHORUS</speaker>
+                            <l n="374">All is ended; nothing can save us from their embraces!</l>
+                        </sp>
+                        <sp n="85">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="375">Nothing, say you? If you are driven by honor,</l>
+                            <stage n="stage43">points to the gallery</stage>
+                            <l n="376">Why does this chasm, then,</l>
+                            <l n="377">Open before you?</l>
+                            <stage n="stage44">Shows her dagger and points to the women’s belts</stage>
+                            <l n="378">For whom is this weapon and its silken bindings,</l>
+                            <l n="379">If not for you, women of Troy?</l>
+                            <stage n="stage45">A small group remains silent, showing profound horror.</stage>
+                        </sp>
+                        <sp n="86">
+                            <speaker>A PART OF THE CHORUS</speaker>
+                            <l n="380">Champion of love </l>
+                            <l n="381">And honor, you speak the truth! We will follow you!</l>
+                        </sp>
+                        <sp n="87">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="382">The break of day</l>
+                            <l n="383">Will not find us sullied by the Greeks!</l>
+                        </sp>
+                        <sp n="88">
+                            <speaker>THE GREAT CHORUS</speaker>
+                            <l n="384">No, Cassandra, we swear it!</l>
+                        </sp>
+                        <sp n="89">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="385">You will not be paraded in triumph?</l>
+                        </sp>
+                        <sp n="90">
+                            <speaker>THE GREAT CHORUS </speaker>
+                            <l n="386">Never! Never! We will die with you!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="16" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 16 - Final </head>
+                        <stage n="stage46">The women confer together. Some of them take up lyres, and play and
+                            sing. </stage>
+
+                        <sp n="91">
+                            <speaker>THE GREAT CHORUS</speaker>
+                            <l n="387">Partners in her glory,</l>
+                            <l n="388">Sharing her fate,</l>
+                            <l n="389">Let us, through our death, </l>
+                            <l n="390">Blight the victory of the Greeks</l>
+                            <l n="391">Pure and free we have lived.</l>
+                            <l n="392">On this fatal night</l>
+                            <l n="393">Pure and free we will descend</l>
+                            <l n="394">To the shores of Hades!</l>
+                        </sp>
+                        <sp n="92">
+                            <speaker>CASSANDRA</speaker>
+                            <stage n="stage47">Talking to a small group</stage>
+                            <l n="395">You who tremble and keep silence,</l>
+                            <l n="396">Do you hesitate?</l>
+                        </sp>
+                        <sp n="93">
+                            <speaker>A SMALL GROUP</speaker>
+                            <l n="397">Ah! I tremble!</l>
+                        </sp>
+                        <sp n="94">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="398">What?! Would you endure a vile existence</l>
+                            <l n="399">Unworthy of great hearts?</l>
+                        </sp>
+                        <sp n="95">
+                            <speaker>A SMALL GROUP</speaker>
+                            <l n="400">Alas! To die, already!</l>
+                        </sp>
+                        <sp n="96">
+                            <speaker>CASSANDRA</speaker>
+                            <stage n="stage48">explosively</stage>
+                            <l n="401">Go and prepare the table and the bed of your masters! </l>
+                            <l n="402">Slaves, away from us! </l>
+                        </sp>
+                        <sp n="97">
+                            <speaker>A SMALL GROUP</speaker>
+                            <l n="403">Have pity…</l>
+                        </sp>
+                        <sp n="98">
+                            <speaker>CASSANDRA, THE GREAT CHORUS</speaker>
+                            <l n="404">Shame on you!</l>
+                            <l n="405">Go down to those traitors,</l>
+                            <l n="406">Throw yourselves at their feet, clasp their knees!</l>
+                            <stage n="stage49">With a violent expression of contempt</stage>
+                            <l n="407">Go and survive! Thessalians!</l>
+                            <l n="408">Shame on you! Go! You are not Trojans!</l>
+                            <stage n="stage50">They chase them away. The small group moves silently backstage in
+                                front of the other women, and finally exits. All the others return
+                                to the stage in ever growing exaltation.</stage>
+                        </sp>
+                        <sp n="99">
+                            <speaker>THE GREAT CHORUS</speaker>
+                            <l n="409">Cassandra, we wiil die with you!</l>
+                            <l n="410">We will not be violated by the Greeks,</l>
+                            <l n="411">We will not be paraded in triumph,</l>
+                            <l n="412">No, no, never, we swear.</l>
+                            <stage n="stage51">Taking up their lyres again.</stage>
+                            <l n="413">Partners in her glory, etc.</l>
+                            <l n="414">Open up for us, black Pluto,</l>
+                            <l n="415">The gates of Tenarus!</l>
+                            <l n="416">Ring out, Charon,</l>
+                            <l n="417">Your funereal fanfare!</l>
+                        </sp>
+                        <sp n="100">
+                            <speaker>CASSANDRA</speaker>
+                            <stage n="stage52">in the greatest exaltation</stage>
+                            <l n="418">Coroebus! Hector! Priam! </l>
+                            <l n="419">King! Father! Brother! Lover!</l>
+                            <l n="420">I join you! Hear their oath.</l>
+                            <l n="421">Gods of Hades!</l>
+                            <stage n="stage53">She seizes the lyre of a Trojan woman.</stage>
+                            <l n="422">Die worthy of glory,</l>
+                            <l n="423">And in sharing my fate</l>
+                            <l n="424">Let us through our death, etc. </l>
+                            <stage n="stage54">A Greek chieftain enters towards the end of this scene; he
+                                advances quickly with his sword drawn, and stops in astonishment at
+                                the sight of the Trojan women.</stage>
+                        </sp>
+                        <sp n="101">
+                            <speaker>A GREEK CHIEFTAIN</speaker>
+                            <stage n="stage55">while the Chorus finishes singing</stage>
+                            <l n="425">What?! With a lyre in their hands… </l>
+                            <l n="426">Despite myself I admire the sublime irony of this noble emotion. </l>
+                            <l n="427">Cassandra!… how beautiful she looks while singing of death,</l>
+                            <l n="428">Blue-eyed priestess of Bacchus, heady with harmonies!</l>
+                            <stage n="stage56">A group of Greeks enters.</stage>
+                        </sp>
+                        <sp n="102">
+                            <speaker>SOLDIERS</speaker>
+                            <l n="429">The treasure! The treasure! Give us the treasure!</l>
+                            <stage n="stage57">They draw their swords at the women.</stage>
+                        </sp>
+                        <sp n="103">
+                            <speaker>CASSANDRA</speaker>
+                            <l n="430">We despise your craven threat,</l>
+                            <l n="431">Monsters drunk on blood, foul and predatory band!</l>
+                            <l n="432">You will not quench, you thugs, your thirst for gold!</l>
+                            <stage n="stage58">She stabs herself and gives the dagger to Polyxena.</stage>
+                            <l n="433">Take it! The pain is nothing!</l>
+                            <stage n="stage59">Polyxena stabs herself in her turn. Cassandra holds herself
+                                up.</stage>
+                        </sp>
+                        <sp n="104">
+                            <speaker>ANOTHER GROUP OF GREEKS</speaker>
+                            <stage n="stage60">Entering</stage>
+                            <l n="434">Enemy gods! Oh fury!</l>
+                            <l n="435">Blood-sodden, in the midst of the carnage,</l>
+                            <l n="436">Aeneas and his Trojans escape our blows.</l>
+                            <l n="437">And, masters of the treasure, they leave!…</l>
+                        </sp>
+                        <sp n="105">
+                            <speaker>CASSANDRA, WOMEN</speaker>
+                            <stage n="stage61">Some of the women undo their belts and draw their
+                                daggers.</stage>
+                            <l n="438">Despite your efforts,</l>
+                            <l n="439">They are all already on the paths of Ida,</l>
+                            <l n="440">And we brave your ire.</l>
+                            <stage n="stage62">They all wave their veils and scarves towards Mount Ida.</stage>
+                            <l n="441">Save our sons, Aeneas!</l>
+                            <l n="442">Italy! Italy!</l>
+                        </sp>
+                        <stage n="stage63">Some jump from the balcony, others hang themselves or stab
+                            themselves. The Greeks shout in horror and run towards the colonnade.
+                            During this last scene, Cassandra, after stabbing herself and seeing the
+                            Trojans climb the balcony to jump down, advances staggering to the back
+                            of the stage; but her strength falters before she reaches the colonnade.
+                            She falls to her knees, and then by a supreme effort she stands again,
+                            and spreading her arms to Mount Ida, she shouts: Italy! and falls
+                            dead.</stage>
+
+                    </div>
+                </div>
+            </div>
+            <div type="part" n="2" part="N" org="uniform" sample="complete">
+                <head n="title">SECOND PART: THE TROJANS IN CARTHAGE. </head>
+
+                <div type="act" n="3" part="N" org="uniform" sample="complete">
+                    <head n="title">THIRD ACT</head>
+                    <stage n="stage64">A vast green courtyard in Dido’s palace in Carthage. On one side sits a
+                        throne surrounded by trophies of agriculture, commerce, and arts; on the
+                        other side and at the back, a terraced amphitheater, where a large crowd is
+                        sitting, as the curtain rises.</stage>
+
+                    <div type="song" n="17" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 17 - Chorus </head>
+
+                        <sp n="106">
+                            <speaker>CHORUS</speaker>
+                            <stage n="stage65">one section of the Carthaginian people</stage>
+                            <l n="443">The heavens of Carthage seem to bless the festival! </l>
+                            <l n="444">Has there ever been such a day </l>
+                            <l n="445">After so fearful a storm?</l>
+                            <l n="446">How sweet is the breeze! Our blazing sun </l>
+                            <l n="447">Soothes the storm’s fury with its rays;</l>
+                            <l n="448">Beneath its orb the immense plain </l>
+                            <l n="449">thrills with joy; it moves though the sky</l>
+                            <l n="450">Lighting up the rosy smile</l>
+                            <l n="451">Of nature at its awakening.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="18" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 18 – National Anthem </head>
+                        <stage n="stage66">Enter Dido with her court. When she enters, all the people seated in
+                            the amphitheater stand up and wave multicolored banners, palms, and
+                            flowers. Dido takes her seat on her throne with her sister on her right
+                            and Narbal on her left; some soldiers stand guard around her.</stage>
+
+                        <sp n="107">
+                            <speaker>GENERAL CHORUS</speaker>
+                            <l n="452">Glory to Dido, our beloved queen!</l>
+                            <l n="453">She reigns by her beauty, grace, and wisdom;</l>
+                            <l n="454">She reigns with the blessing of the gods,</l>
+                            <l n="455">And by the love of her happy subjects!</l>
+                        </sp>
+                        <stage n="stage67">People wave palms and throw flowers.</stage>
+
+                    </div>
+                    <div type="song" n="19" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 19 - Recitative and Aria</head>
+
+                        <sp n="108">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage68">Standing, from the height of her throne.</stage>
+                            <l n="456">It has been barely seven years,</l>
+                            <l n="457">Since the day when, to foil the ire</l>
+                            <l n="458">Of the tyrannical murderer of my august spouse,</l>
+                            <l n="459">I had to flee with you,</l>
+                            <l n="460">From Tyre to the African shore.</l>
+                            <l n="461">And already we see Carthage rise up,</l>
+                            <l n="462">Its fields in flower, its fleet complete!</l>
+                            <l n="463">Already from the distant shores where dawn rises,</l>
+                            <l n="464">You bring back, toilers of the sea,</l>
+                            <l n="465">Wheat, wine, wool, and iron,</l>
+                            <l n="466">And the goods that we still lack.</l>
+                            <l n="467">Dear Tyrians, such noble labours</l>
+                            <l n="468">Have intoxicated my heart with righteous pride.</l>
+                            <l n="469">But do not falter, heed the sublime voice </l>
+                            <l n="470">Of the God who urges you to strive anew!</l>
+                            <l n="471">Give yet another example to the earth;</l>
+                            <l n="472">Great in peace, become in wartime</l>
+                            <l n="473">A heroic people</l>
+                        </sp>
+                        <sp n="109">
+                            <speaker>THE PEOPLE</speaker>
+                            <l n="474">Great in peace, etc.</l>
+                        </sp>
+                        <sp n="110">
+                            <speaker>DIDO</speaker>
+                            <l n="475">Fierce Iarbas wants to fetter me in the chains</l>
+                            <l n="476">Of a hateful marriage;</l>
+                            <l n="477">His arrogance is in vain.</l>
+                        </sp>
+                        <sp n="111">
+                            <speaker>THE PEOPLE</speaker>
+                            <l n="478">His arrogance is in vain.</l>
+                        </sp>
+                        <sp n="112">
+                            <speaker>DIDO</speaker>
+                            <l n="479">I count on you to defend me,</l>
+                            <l n="480">And on the gods.</l>
+                        </sp>
+                        <sp n="113">
+                            <speaker>THE PEOPLE</speaker>
+                            <l n="481">Glory to Dido, our beloved queen!</l>
+                            <l n="482">Each of us would lay down his life for her!</l>
+                            <l n="483">Together we will defend her.</l>
+                            <l n="484">We defy the arrogance and fury of Iarbas,</l>
+                            <l n="485">And we will drive back</l>
+                            <l n="486">To the end of the deserts this Numidian savage!</l>
+                        </sp>
+                        <sp n="114">
+                            <speaker>DIDO, PEOPLE</speaker>
+                            <l n="487">Dear Tyrians, such noble labours, etc.</l>
+                        </sp>
+                        <sp n="115">
+                            <speaker>DIDO</speaker>
+                            <l n="488">This beautiful day,</l>
+                            <l n="489">Which will remain always in your memory,</l>
+                            <l n="490">Has been dedicated by me</l>
+                            <l n="491">To crown the works of peace.</l>
+                            <l n="492">Approach, builders,</l>
+                            <l n="493">Sailors, farmers,</l>
+                            <l n="494">Receive from my hand the just reward</l>
+                            <l n="495">For the work that gives the State</l>
+                            <l n="496">Its power and its life.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="20" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 20 – Entrance of the Builders</head>
+                        <stage n="stage69">The builders advance towards the throne. Dido gives their leader a
+                            silver set-square and an axe. The procession returns to the back of the
+                            stage.</stage>
+                    </div>
+                    <div type="song" n="21" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 21 – Entrance of the Sailors </head>
+                        <stage n="stage70">The sailors advance towards the throne. Dido gives their leader a
+                            helm and an oar. The procession returns to the back of the
+                            stage.</stage>
+                    </div>
+                    <div type="song" n="22" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 22 – Entrance of the Farmers </head>
+                        <stage n="stage71">The procession of the farmers, more numerous than the two preceding
+                            ones, advances slowly towards the throne; led by a hale old man</stage>
+                    </div>
+                    <div type="song" n="23" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 23 - Recitative and Chorus </head>
+                        <stage n="stage72">Dido gives to the aged leader of the farmers a golden sickle, and
+                            then, holding in her hands a wreath of flowers and ears of corn, she
+                            proclaims: </stage>
+                        <sp n="116">
+                            <speaker>DIDO</speaker>
+                            <l n="497">People! All honor</l>
+                            <l n="498">To the greatest of arts,</l>
+                            <l n="499">The art that feeds the people!</l>
+                        </sp>
+                        <sp n="117">
+                            <speaker>THE PEOPLE</speaker>
+                            <l n="500">Long life to the farmers! We are</l>
+                            <l n="501">Their grateful children; they give us bread!</l>
+                        </sp>
+                        <sp n="118">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage73">Aside</stage>
+                            <l n="502">Oh, Ceres! The future of Carthage is secure!</l>
+                        </sp>
+                        <sp n="119">
+                            <speaker>GENERAL CHORUS</speaker>
+                            <l n="503">Glory to Dido, our beloved queen!</l>
+                            <l n="504">Each of us would lay down his life for her!</l>
+                            <l n="505">Let us prove our love for her through new </l>
+                            <l n="506">pledges. Settlers, sailors, let us become a heroic people! </l>
+                            <l n="507">Glory to Dido, our beloved queen!</l>
+                            <l n="508">She reigns by her beauty, etc.</l>
+                        </sp>
+                        <stage n="stage74">The people, led by Narbal, parade in procession before Dido’s throne,
+                            and exit.</stage>
+
+                    </div>
+                    <div type="song" n="24" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 24 - Recitative and Duet </head>
+
+                        <sp n="120">
+                            <speaker>DIDO</speaker>
+                            <l n="509">The happy songs, the sight of this noble festival,</l>
+                            <l n="510">Have restored peace to my troubled heart.</l>
+                            <l n="511">I breathe again, my sister, yes, my joy is perfect,</l>
+                            <l n="512">I return again to calm and serenity.</l>
+                        </sp>
+                        <sp n="121">
+                            <speaker>ANNA</speaker>
+                            <l n="513">Queen of a budding empire</l>
+                            <l n="514">That rises flourishing every day,</l>
+                            <l n="515">Beloved queen admired by the world</l>
+                            <l n="516">What fear has briefly disturbed you? </l>
+                        </sp>
+                        <sp n="122">
+                            <speaker>DIDO</speaker>
+                            <l n="517">A strange sadness,</l>
+                            <l n="518">Without reason, as you know, overwhelms me at times. </l>
+                            <l n="519">I struggle in vain against this weakness, </l>
+                            <l n="520">A chill pierces my bosom, oppressed by vague troubles, </l>
+                            <l n="521">and burning tears sear my flushed face…</l>
+                        </sp>
+                        <sp n="123">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage75">Smiling</stage>
+                            <l n="522">You will love, my sister…</l>
+                        </sp>
+                        <sp n="124">
+                            <speaker>DIDO</speaker>
+                            <l n="523">No, any new attachment</l>
+                            <l n="524">Is irrevocably forbidden to my heart.</l>
+                        </sp>
+                        <sp n="125">
+                            <speaker>ANNA</speaker>
+                            <l n="525">You will love, my sister… </l>
+                        </sp>
+                        <sp n="126">
+                            <speaker>DIDO</speaker>
+                            <l n="526">No, the faithful widow </l>
+                            <l n="527">Must suppress her soul and shun love.</l>
+                        </sp>
+                        <sp n="127">
+                            <speaker>ANNA</speaker>
+                            <l n="528">Dido, you are queen, and too young, and too beautiful, </l>
+                            <l n="529">to defy the sweet rule of love; </l>
+                            <l n="530">Carthage needs a king.</l>
+                        </sp>
+                        <sp n="128">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage76">Displaying Sychaeus’ ring on her finger</stage>
+                            <l n="531">May my people and the gods curse me,</l>
+                            <l n="532">If I ever remove this sacred ring!</l>
+                        </sp>
+                        <sp n="129">
+                            <speaker>ANNA</speaker>
+                            <l n="533">Such an oath makes lovely Venus</l>
+                            <l n="534">Smile; the gods refuse </l>
+                            <l n="535">To note it in their sacred books.</l>
+                        </sp>
+                        <sp n="130">
+                            <speaker>DIDO</speaker>
+                            <l n="536">Her words raise in my breast</l>
+                            <l n="537">A dangerous intoxication;</l>
+                            <l n="538">Already in my weakness,</l>
+                            <l n="539">I fight in vain an uncertain hope.</l>
+                        </sp>
+                        <sp n="131">
+                            <speaker>ANNA</speaker>
+                            <l n="540">My words raise in her breast</l>
+                            <l n="541">Dreams of tenderness;</l>
+                            <l n="542">Already in her weakness,</l>
+                            <l n="543">She fights in vain the sweet hope of love.</l>
+                        </sp>
+                        <sp n="132">
+                            <speaker>DIDO</speaker>
+                            <l n="544">Sychaeus! Oh, my husband, forgive me </l>
+                            <l n="545">This brief involuntary failing</l>
+                            <l n="546">And may your memory banish from my heart </l>
+                            <l n="547">This unexpected turmoil.</l>
+                        </sp>
+                        <sp n="133">
+                            <speaker>ANNA</speaker>
+                            <l n="548">Dido, my tender sister, forgive me</l>
+                            <l n="549">If I dispel a fallacy too dear to you</l>
+                            <l n="550">Forgive me if my words create in your heart</l>
+                            <l n="551">This unexpected turmoil.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="25" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 25 - Recitative and Aria </head>
+
+                        <sp n="134">
+                            <speaker>IOPAS</speaker>
+                            <l n="552">Barely saved from the angry sea,</l>
+                            <l n="553">Queen, the representatives of an unknown fleet </l>
+                            <l n="554">Beg admission to your presence.</l>
+                        </sp>
+                        <sp n="135">
+                            <speaker>DIDO</speaker>
+                            <l n="555">The doors of my palace are never barred</l>
+                            <l n="556">To such supplicants. </l>
+                            <stage n="stage77">The queen dismisses Iopas; he exits.</stage>
+                            <l n="557">Wandering the seas,</l>
+                            <l n="558">Was I not also, from shore to shore,</l>
+                            <l n="559">Drawn into the eye of the storm</l>
+                            <l n="560">A plaything of the cruel seas!</l>
+                            <l n="561">Alas, I know the violence of fate’s blows</l>
+                            <l n="562">On those that it targets. Compassion for others’ woes </l>
+                            <l n="563">is easy for us. Those who have known pain</l>
+                            <l n="564">Cannot see others suffer in vain. </l>
+                        </sp>
+                    </div>
+                    <div type="song" n="26" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 26 – Trojan March</head>
+                        <stage n="stage78">In the sad mode</stage>
+
+                        <sp n="136">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage79">Aside</stage>
+                            <l n="565">I feel a sudden and vivid desire </l>
+                            <l n="566">To see them, and secretely I fear their presence.</l>
+                        </sp>
+                        <stage n="stage80">She takes a seat on her throne. Aeneas enters disguised as a sailor,
+                            Panthus, Ascanius and Trojan chieftains bear gifts.</stage>
+
+                    </div>
+                    <div type="song" n="27" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 27 - Recitative </head>
+
+                        <sp n="137">
+                            <speaker>ASCANIUS</speaker>
+                            <stage n="stage81">Bowing in front of the queen</stage>
+                            <l n="567">August queen, a wandering and unfortunate people </l>
+                            <l n="568">requests a few days of shelter.</l>
+                            <l n="569">I lay at your feet these precious gifts; </l>
+                            <l n="570">Remnants of a devoted leader’s greatness, </l>
+                            <l n="571">Offered in the name of Jupiter, by means of my weak hand.</l>
+                        </sp>
+                        <sp n="138">
+                            <speaker>DIDO</speaker>
+                            <l n="572">Lovely child, tell me the name and nation of this commander.</l>
+                        </sp>
+                        <sp n="139">
+                            <speaker>ASCANIUS</speaker>
+                            <l n="573">Oh queen, our steps are stained with blood </l>
+                            <l n="574">On the paths from the Phrygian mountains </l>
+                            <l n="575">To the sea. This scepter of Iliona,</l>
+                            <stage n="stage82">he offers the gifts one by one</stage>
+                            <l n="576">Daughter of King Priam, this crown of Hecuba’s,</l>
+                            <l n="577">And Helen’s fine veil glinting with gold,</l>
+                            <l n="578">Should tell you clearly that we are Trojans.</l>
+                        </sp>
+                        <sp n="140">
+                            <speaker>DIDO</speaker>
+                            <l n="579">Trojans!</l>
+                        </sp>
+                        <sp n="141">
+                            <speaker>ASCANIUS</speaker>
+                            <l n="580">Our chief is Aeneas,</l>
+                            <l n="581">I am his son.</l>
+                        </sp>
+                        <sp n="142">
+                            <speaker>DIDO</speaker>
+                            <l n="582">Strange fate!</l>
+                        </sp>
+                        <sp n="143">
+                            <speaker>PANTHUS</speaker>
+                            <stage n="stage83">Advancing</stage>
+                            <l n="583">Obeying the king of gods,</l>
+                            <l n="584">This hero seeks Italy,</l>
+                            <l n="585">Where fate has promised him a glorious death</l>
+                            <l n="586">And the joy of giving a country to his people.</l>
+                        </sp>
+                        <sp n="144">
+                            <speaker>DIDO</speaker>
+                            <l n="587">Who can fail to admire this prince, friend of the great Hector? </l>
+                            <l n="588">Who is unaware of his famous name? </l>
+                            <l n="589">All Carthage speaks of nothing else.</l>
+                            <l n="590">Tell him that my port awaits his ships. </l>
+                            <l n="591">May you all come, may you forget </l>
+                            <l n="592">Your misfortunes in my court.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="28" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 28 - Final </head>
+
+                        <sp n="145">
+                            <speaker>NARBAL</speaker>
+                            <stage n="stage84">Enters, perturbed</stage>
+                            <l n="593">I hardly dare announce such terrible news!</l>
+                        </sp>
+                        <sp n="146">
+                            <speaker>DIDO</speaker>
+                            <l n="594">What is happening?</l>
+                        </sp>
+                        <sp n="147">
+                            <speaker>NARBAL</speaker>
+                            <l n="595">The Numidian rebel,</l>
+                            <l n="596">Fierce Iarbas</l>
+                            <l n="597">With countless soldiers</l>
+                            <l n="598">Advances upon Carthage.</l>
+                        </sp>
+                        <sp n="148">
+                            <speaker>CARTHAGINIANS</speaker>
+                            <stage n="stage85">From a distance</stage>
+                            <l n="599">Arms! We need arms!</l>
+                        </sp>
+                        <sp n="149">
+                            <speaker>NARBAL</speaker>
+                            <l n="600">The savage troops</l>
+                            <l n="601">Butcher our herds</l>
+                            <l n="602">And raze our fields.</l>
+                            <l n="603">But new woes</l>
+                            <l n="604">Threaten the city itself:</l>
+                            <l n="605">Our young warriors</l>
+                            <l n="606">With their extreme ardor</l>
+                            <l n="607">Lack weapons </l>
+                        </sp>
+                        <sp n="150">
+                            <speaker>DIDO</speaker>
+                            <l n="608">What are you saying, Narbal?</l>
+                        </sp>
+                        <sp n="151">
+                            <speaker>NARBAL</speaker>
+                            <l n="609">That we are planning to take part in an unequal combat.</l>
+                        </sp>
+                        <sp n="152">
+                            <speaker>CARTHAGINIANS</speaker>
+                            <l n="610">Arms! We need arms! </l>
+                        </sp>
+                        <sp n="153">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage86">Coming forward, no longer dressed as a sailor, he is clad in
+                                shining armor, but wears no helmet or shield.</stage>
+                            <l n="611">Queen, I am Aeneas!</l>
+                            <l n="612">My fleet, blown by the winds upon your shores, </l>
+                            <l n="613">Was destined by me for rugged deeds;</l>
+                            <l n="614">Permit the Trojans to fight alongside you!</l>
+                        </sp>
+                        <sp n="154">
+                            <speaker>DIDO</speaker>
+                            <l n="615">I accept such an alliance with pride!</l>
+                            <l n="616">Aeneas armed in my defense!</l>
+                            <l n="617">The gods are on our side.</l>
+                            <stage n="stage87">Aside, to Anna</stage>
+                            <l n="618">Oh sister, how proud he is, this son of a goddess, </l>
+                            <l n="619">And how much grace and nobility we can see on his face!</l>
+                        </sp>
+                        <sp n="155">
+                            <speaker>AENEAS</speaker>
+                            <l n="620">Against this filthy horde of Africans,</l>
+                            <l n="621">Let us march, Trojans and Tyrians,</l>
+                            <l n="622">Let us fly to victory together!</l>
+                            <l n="623">Like grains of sand blown by the wind,</l>
+                            <l n="624">Let us drive into these fiery deserts</l>
+                            <l n="625">The wild Numidian; let him tremble.</l>
+                        </sp>
+                        <sp n="156">
+                            <speaker>AENEAS, PANTHUS, NARBAL, IOPAS, ASCANIUS, DIDO, ANNA,
+                                TROJANS</speaker>
+                            <l n="626">It is the god Mars who has gathered you/us together, </l>
+                            <l n="627">It’s the son of Venus who leads you/us into the fray!</l>
+                            <l n="628">Wipe out/let us wipe out the black army,</l>
+                            <l n="629">And tomorrow may public report</l>
+                            <l n="630">Proclaim in distant lands the shame and the death of Iarbas!</l>
+                            <stage n="stage88">Towards the end of this scene, they bring Aeneas his arms. He
+                                quickly puts on his helmet, passes his arm through his massive
+                                shield and seizes his javelins.</stage>
+                        </sp>
+                        <sp n="157">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage89">To Panthus.</stage>
+                            <l n="631">Announce to our Trojans the new venture</l>
+                            <l n="632">Where glory beckons.</l>
+                            <stage n="stage90">Exit Panthus.</stage>
+                            <l n="633">Queen, soon from the odious barbarian </l>
+                            <l n="634">You will be free. To your generous care </l>
+                            <l n="635">I relinquish my son.</l>
+                        </sp>
+                        <sp n="158">
+                            <speaker>DIDO</speaker>
+                            <l n="636">For him be assured </l>
+                            <l n="637">Of a mother’s love.</l>
+                        </sp>
+                        <sp n="159">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage91">To Ascanius</stage>
+                            <l n="638">Come and embrace your father.</l>
+                            <stage n="stage92">He embraces him, covering him entirely with his arms. Ascanius
+                                weeps silently.)</stage>
+                            <l n="639">Others will teach you, child, the art of being happy;</l>
+                            <l n="640">As for me, I will but teach you a warrior’s virtue </l>
+                            <l n="641">And respect for the gods; </l>
+                            <l n="642">But venerate in your heart and keep in your memory </l>
+                            <l n="643">The glorious examples of Hector and Aeneas.</l>
+                            <stage n="stage93">The people of Carthage pour in from all sides demanding arms.
+                                Only some men are properly armed, the others hold sickles, axes,
+                                slings. Enter Panthus. Ascanius suddenly dries his tears and runs to
+                                the sides of the Trojan chieftains.</stage>
+                        </sp>
+                        <sp n="160">
+                            <speaker>ALL</speaker>
+                            <l n="644">Arms! We need arms!</l>
+                            <l n="645">Against this filthy horde of Africans,</l>
+                            <l n="646">Let us march, Trojans and Tyrians, etc.</l>
+                        </sp>
+                    </div>
+                </div>
+                <div type="act" n="4" part="N" org="uniform" sample="complete">
+                    <head n="title">FOURTH ACT</head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">First Tableau</head>
+                    </div>
+                    <div type="song" n="29" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 29 – Royal Hunt and Storm. </head>
+                        <l n="647">Pantomime </l>
+                        <stage n="stage94">An African forest by morning. At the back, a towering rock. To the
+                            left and at the foot of the rock, the mouth of a cave. A stream runs
+                            around the rock and flows into a natural pond bordered by bulrushes and
+                            reeds. Two naiads (river nymphs) appear for a brief moment before
+                            vanishing, then reappear swimming in the pond. Royal hunt. Horn fanfares
+                            sound from afar in the forest. The frightened naiads hide in the reeds.
+                            We see Tyrian hunters pass by, holding dogs on leads. Young Ascanius
+                            gallops across the stage on horseback. The sky turns dark; rain falls
+                            and becomes a growing storm. Soon the terrible tempest intensifies, with
+                            torrential rain, hail, lighting and thunder. The hunting horns sound in
+                            the midst of the tumultuous weather. The hunters scatter; and finally we
+                            see Dido, dressed as Diana the huntress, holding a bow, with a sheath of
+                            arrows over her shoulder, and Aeneas in semi-military dress. They are
+                            both on foot. As they enter the cave, wood nymphs appear atop of the
+                            rock, their hair disheveled, and run back and forth, shouting and
+                            gesticulating wildly. In the midst of their clamor, we can at times make
+                            out the word: Italy! The stream swells and becomes a noisy torrent.
+                            Several other waterfalls surge at various points of the rock, and add
+                            their noise to the crashing of the storm. In the darkness satyrs and
+                            wood people dance grotesquely with the fauns. Lightning strikes a tree,
+                            shatters it and sets it on fire. Fragments of the tree fall upon the
+                            stage. The satyrs, fauns, and wood people, still dancing, take up the
+                            burning branches, then together with the nymphs vanish into the depths
+                            of the forest. The storm recedes. The clouds lift.</stage>
+                        <l n="648">Second Scene </l>
+                        <stage n="stage95">The gardens of Dido, by the sea, at sunset.</stage>
+                    </div>
+                    <div type="song" n="30" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 30 - Recitative </head>
+
+                        <sp n="161">
+                            <speaker>ANNA</speaker>
+                            <l n="649">Tell me, Narbal, what is it that alarms you?</l>
+                            <l n="650">That day that ended war and its woes</l>
+                            <l n="651">Did it not witness the brilliant glory of our arms?</l>
+                            <l n="652">Are the Tyrians not victorious?</l>
+                        </sp>
+                        <sp n="162">
+                            <speaker>NARBAL</speaker>
+                            <l n="653">We have nothing more to fear on that account; </l>
+                            <l n="654">The Numidians were driven back to their sandy deserts; </l>
+                            <l n="655">no more will they appear at our walls; </l>
+                            <l n="656">And the mighty sword</l>
+                            <l n="657">Of the invincible hero</l>
+                            <l n="658">Has delivered us from Iarbas.</l>
+                            <l n="659">But Dido now neglects</l>
+                            <l n="660">The tasks that were previously so dear to her;</l>
+                            <l n="661">In hunting and partying she spends her days;</l>
+                            <l n="662">Public works are deferred, the workshops are empty, </l>
+                            <l n="663">the long sojourn of the Trojans in Carthage</l>
+                            <l n="664">Causes me cares that are shared by the people.</l>
+                        </sp>
+                        <sp n="163">
+                            <speaker>ANNA</speaker>
+                            <l n="665">Ah! Can you not see, Narbal, that she loves</l>
+                            <l n="666">This fierce warrior, and that he too experiences</l>
+                            <l n="667">For my sister an equivalent love?</l>
+                        </sp>
+                        <sp n="164">
+                            <speaker>NARBAL</speaker>
+                            <l n="668">What?!</l>
+                        </sp>
+                        <sp n="165">
+                            <speaker>ANNA</speaker>
+                            <l n="669">What do you fear from</l>
+                            <l n="670">The passion that moves them?</l>
+                            <l n="671">Could Dido find a braver husband, and </l>
+                            <l n="672">Carthage a more magnanimous king?</l>
+                        </sp>
+                        <sp n="166">
+                            <speaker>NARBAL</speaker>
+                            <l n="673">But insistent fate</l>
+                            <l n="674">Summons Aeneas to Italy!</l>
+                        </sp>
+                        <sp n="167">
+                            <speaker>ANNA</speaker>
+                            <l n="675">One voice tells him: Leave!</l>
+                            <l n="676">Another voice urges: Stay!</l>
+                            <l n="677">Love is the greatest of the gods.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="31" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 31 - Aria and Duet </head>
+
+                        <sp n="168">
+                            <speaker>NARBAL</speaker>
+                            <l n="678">With what setbacks do you threaten Carthage,</l>
+                            <l n="679">O gloomy future?</l>
+                            <l n="680">I see foreboding lightning bolts</l>
+                            <l n="681">Issuing from the heart of your cloud!</l>
+                            <l n="682">Jupiter! God of hospitality,</l>
+                            <l n="683">In demonstrating a virtue dear to your heart,</l>
+                            <l n="684">Have we therefore earned</l>
+                            <l n="685">The blows of your rage?</l>
+                        </sp>
+                        <sp n="169">
+                            <speaker>ANNA</speaker>
+                            <l n="686">Useless fears!</l>
+                            <l n="687">Carthage is triumphant!</l>
+                            <l n="688">Our charming queen</l>
+                            <l n="689">Loves a victorious hero,</l>
+                            <l n="690">A garland of flowers entwines them;</l>
+                            <l n="691">Soon they will be united.</l>
+                            <l n="692">Such the threat</l>
+                            <l n="693">Of your gloomy future.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="32" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 32 – March for the Queen’s entrance</head>
+                        <stage n="stage96">over the theme of the National Anthem</stage>
+                        <stage n="stage97">Enter Dido, Aeneas, Panthus, Iopas and Ascanius. Dido takes a seat
+                            with Anna on a platform, with Aeneas and Narbal close to her.</stage>
+                    </div>
+                    <div type="song" n="33" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 33 - Ballets </head>
+                        <stage n="stage98">a) Pas des Almées </stage>
+                        <stage n="stage99">b) Danse des Esclaves </stage>
+                        <stage n="stage100">c) Pas d’Esclaves nubiennes </stage>
+
+                        <sp n="170">
+                            <speaker>NUBIAN SLAVES</speaker>
+                            <l n="694">Ah! Ah!</l>
+                            <l n="695">Amaloué</l>
+                            <l n="696">Midonaé</l>
+                            <l n="697">Faï caraïmé</l>
+                            <l n="698">Deï beraïmbé</l>
+                            <l n="699">Ah! Ah!</l>
+                        </sp>
+                        <stage n="stage101">The queen descends from the platform and reclines on a couch in the
+                            proscenium, with her left profile to the audience. At first Aeneas
+                            remains upright.</stage>
+
+                    </div>
+                    <div type="song" n="34" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 34 – Scene and Iopas’ song </head>
+
+                        <sp n="171">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage102">languidly</stage>
+                            <l n="700">Enough, my sister, I can tolerate no more</l>
+                            <l n="701">These importunate festivities…</l>
+                            <stage n="stage103">Anna waves away the ballerinas.</stage>
+                            <l n="702">Iopas, sing for us,</l>
+                            <l n="703">In simple and sweet mode,</l>
+                            <l n="704">Your pastoral poem.</l>
+                        </sp>
+                        <sp n="172">
+                            <speaker>IOPAS</speaker>
+                            <l n="705">I obey</l>
+                            <l n="706">The queen’s order.</l>
+                            <stage n="stage104">A Theban harpist stands close to Iopas to accompany him. The
+                                harpist is attired as an Egyptian priest.</stage>
+                            <l n="707">Oh, fair Ceres!</l>
+                            <l n="708">When to our fallow fields</l>
+                            <l n="709">You restore their crown</l>
+                            <l n="710">Of fresh greenery</l>
+                            <l n="711">How happy you make us!</l>
+                            <l n="712">The gratitude</l>
+                            <l n="713">Of the aged farm-hand,</l>
+                            <l n="714">Of the young shepherd,</l>
+                            <l n="715">Gives thanks for the abundance</l>
+                            <l n="716">That you pledge to them.</l>
+                            <l n="717">Oh, fair Ceres, etc.</l>
+                            <l n="718">The shy bird,</l>
+                            <l n="719">The playful lamb,</l>
+                            <l n="720">The soft breath</l>
+                            <l n="721">Of the prairie winds,</l>
+                            <l n="722">All praise your virtues.</l>
+                            <l n="723">Fruitful Ceres, etc.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="35" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 35 - Recitative and quintet </head>
+
+                        <sp n="173">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage105">Interrupting him</stage>
+                            <l n="724">Forgive me, Iopas, even your voice,</l>
+                            <l n="725">In my extreme unease,</l>
+                            <l n="726">Fails to beguile me this evening…</l>
+                        </sp>
+                        <sp n="174">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage106">seats himself at Dido’s feet</stage>
+                            <l n="727">Dear Dido!</l>
+                        </sp>
+                        <sp n="175">
+                            <speaker>DIDO</speaker>
+                            <l n="728">Aeneas.</l>
+                            <l n="729">Ah! deign to finish</l>
+                            <l n="730">The tale you started </l>
+                            <l n="731">Of your long journey</l>
+                            <l n="732">And of Troy’s woes.</l>
+                            <l n="733">Relay to me the fate</l>
+                            <l n="734">Of beautiful Andromache…</l>
+                        </sp>
+                        <sp n="176">
+                            <speaker>AENEAS</speaker>
+                            <l n="735">Alas! Reduced to slavery</l>
+                            <l n="736">By Pyrrhus,</l>
+                            <l n="737">She begged for death;</l>
+                            <l n="738">But the steadfast love</l>
+                            <l n="739">This prince bore her</l>
+                            <l n="740">Finally rendered her unfaithful</l>
+                            <l n="741">To the warmest of memories…</l>
+                            <l n="742">After lengthy resistance,</l>
+                            <l n="743">She wed Pyrrhus.</l>
+                        </sp>
+                        <sp n="177">
+                            <speaker>DIDO</speaker>
+                            <l n="744">What?! Hector’s widow!</l>
+                        </sp>
+                        <sp n="178">
+                            <speaker>AENEAS</speaker>
+                            <l n="745">Thus she ascended </l>
+                            <l n="746">To the throne of Epirus.</l>
+                        </sp>
+                        <sp n="179">
+                            <speaker>DIDO</speaker>
+                            <l n="747">Oh, propriety!</l>
+                            <stage n="stage107">Aside.</stage>
+                            <l n="748">Everything conspires</l>
+                            <l n="749">To dispel my doubts and absolve my heart.</l>
+                            <stage n="stage108">Ascanius, leaning on his bow and looking like a statue of Love
+                                [Cupid], stands to the left of the queen; Anna, leans over with her
+                                elbow resting on the back of Dido’s couch. Next to Anna stand Narbal
+                                and Iopas.</stage>
+                            <l n="750">To think that Andromache wed the man who slew her father, </l>
+                            <l n="751">the son of the murderer of her illustrious husband!</l>
+                        </sp>
+                        <sp n="180">
+                            <speaker>AENEAS</speaker>
+                            <l n="752">She loves her conqueror,</l>
+                            <l n="753">The man who slew her father,</l>
+                            <l n="754">The son of the murderer of her illustrious husband!</l>
+                        </sp>
+                        <sp n="181">
+                            <speaker>DIDO</speaker>
+                            <l n="755">Everything conspires, etc.</l>
+                            <stage n="stage109">As Dido rests her left arm on Ascanius’ shoulder, her hand
+                                hanging over the child’s chest, he laughingly removes Sychaeus’ ring
+                                from the queen’s finger. Seemingly distracted, Dido takes it back,
+                                and forgets it on the couch as she rises.</stage>
+                        </sp>
+                        <sp n="182">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage110">Pointing to Ascanius.</stage>
+                            <l n="756">See, Narbal, as this child</l>
+                            <l n="757">Resembling Cupid, with light touch</l>
+                            <l n="758">Gently steals from Dido</l>
+                            <l n="759">The ring that she reveres.</l>
+                        </sp>
+                        <sp n="183">
+                            <speaker>IOPAS Y NARBAL</speaker>
+                            <l n="760">See, Narbal, as this child, etc.</l>
+                        </sp>
+                        <sp n="184">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage111">daydreaming</stage>
+                            <l n="761">The son of the murderer of her illustrious husband!… </l>
+                            <l n="762">Everything conspires, etc.</l>
+                        </sp>
+                        <sp n="185">
+                            <speaker>AENEAS</speaker>
+                            <l n="763">Dido sighs…</l>
+                            <l n="764">But her doubts fly away,</l>
+                            <l n="765">And her heart is absolved!…</l>
+                            <l n="766">Dido sighs…</l>
+                            <l n="767">But her heart, yes, her heart is absolved.</l>
+                        </sp>
+                        <sp n="186">
+                            <speaker>ANNA, IOPAS AND NARBAL</speaker>
+                            <l n="768">Everything conspires, etc.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="36" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 36 - Recitative and Septet </head>
+
+                        <sp n="187">
+                            <speaker>AENEAS</speaker>
+                            <l n="769">But let us banish these sad memories.</l>
+                            <stage n="stage112">He stands up.</stage>
+                            <l n="770">What a resplendent night full of charm!</l>
+                            <l n="771">Come, dear Dido, breathe in the sighs</l>
+                            <l n="772">Of this breeze that caresses.</l>
+                        </sp>
+                        <stage n="stage113">Dido rises in her turn</stage>
+
+                        <sp n="188">
+                            <speaker>DIDO, AENEAS, ASCANIUS, ANNA, IOPAS, NARBAL, PANTHUS,
+                                CHORUS</speaker>
+                            <l n="773">Only peace and delight surround us! </l>
+                            <l n="774">Night spreads its veil, and the sleeping sea</l>
+                            <l n="775">Croons sweet harmonies in its repose. </l>
+                        </sp>
+                        <stage n="stage114">All, except Aeneas and Dido, gradually exit from backstage, until
+                            they are all gone.</stage>
+
+                    </div>
+                    <div type="song" n="37" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 37 - DUET </head>
+                        <stage n="stage115">Moonshine</stage>
+
+                        <sp n="189">
+                            <speaker>DIDO, AENEAS</speaker>
+                            <l n="776">Endlessly intoxicating night of ecstasy!</l>
+                            <l n="777">Golden Phoebe, and you, great stars of her court,</l>
+                            <l n="778">Shine upon us your blessed light;</l>
+                            <l n="779">Heavenly flowers, smile upon eternal love!</l>
+                        </sp>
+                        <sp n="190">
+                            <speaker>DIDO</speaker>
+                            <l n="780">On such a night, crowned with golden laburnum, </l>
+                            <l n="781">Your mother Venus followed the fair Anchises </l>
+                            <l n="782">To the groves of Mount Ida.</l>
+                        </sp>
+                        <sp n="191">
+                            <speaker>AENEAS</speaker>
+                            <l n="783">On such a night, headlong in joyous love,</l>
+                            <l n="784">Troilus came to the foot of Troy’s walls</l>
+                            <l n="785">To await the lovely Cressida. </l>
+                        </sp>
+                        <sp n="192">
+                            <speaker>DIDO, AENEAS</speaker>
+                            <l n="786">Endlessly intoxicating night of ecstasy!</l>
+                            <l n="787">Golden Phoebe, etc.</l>
+                        </sp>
+                        <sp n="193">
+                            <speaker>AENEAS</speaker>
+                            <l n="788">On such a night, chaste Diana</l>
+                            <l n="789">Finally shed her diaphanous veil,</l>
+                            <l n="790">In the sight of Endymion.</l>
+                        </sp>
+                        <sp n="194">
+                            <speaker>DIDO</speaker>
+                            <l n="791">On such a night the son of Cythera</l>
+                            <l n="792">Received coldly the rapturous tenderness</l>
+                            <l n="793">Of Queen Dido!</l>
+                        </sp>
+                        <sp n="195">
+                            <speaker>AENEAS</speaker>
+                            <l n="794">And on the same night, alas! the unjust queen,</l>
+                            <l n="795">Accusing her lover, obtained from him with ease,</l>
+                            <l n="796">The sweetest of forgiveness.</l>
+                        </sp>
+                        <sp n="196">
+                            <speaker>DIDO, AENEAS</speaker>
+                            <l n="797">Endlessly intoxicating night of ecstasy, etc.</l>
+                            <stage n="stage116">They stroll slowly to the back of the stage, embracing; then,
+                                still singing, they exit. Just as the two lovers, now out of sight
+                                backstage, come to the end of their song, Mercury suddenly appears,
+                                bathed in a ray of moonlight, close to a broken column on which hang
+                                Aeneas’ weapons. Approaching the column, he strikes the shield twice
+                                with his staff, giving forth a prolonged and lugubrious
+                                sound.</stage>
+                        </sp>
+                        <sp n="197">
+                            <speaker>MERCURY</speaker>
+                            <stage n="stage117">in a solemn voice, extending his arm out to sea.</stage>
+                            <l n="798">Italy! Italy! Italy!</l>
+                        </sp>
+                        <stage n="stage118">He exits.</stage>
+
+                    </div>
+                </div>
+                <div type="act" n="5" part="N" org="uniform" sample="complete">
+                    <head n="title">FIFTH ACT</head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">First Tableau</head>
+                        <stage n="stage119">The seaside camp full of Trojan tents. We see the Trojan ships in the
+                            port. It’s night. A young Phrygian sailor sings while he swings from the
+                            top of a ship mast. Two sentries guard the tents, at the back of the
+                            stage.</stage>
+                    </div>
+                    <div type="song" n="38" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 38 – Hylas’ Song</head>
+
+                        <sp n="198">
+                            <speaker>HYLAS</speaker>
+                            <l n="799">Resonant valley,</l>
+                            <l n="800">Which, at dawn.</l>
+                            <l n="801">singing, I would visit, alas </l>
+                            <l n="802">Will poor Hylas</l>
+                            <l n="803">Ever sing again in your great woods?</l>
+                            <l n="804">Softly cradle Dindymus’s child</l>
+                            <l n="805">On your sublime breast, oh mighty sea!</l>
+                            <l n="806">Fresh leafy boughs,</l>
+                            <l n="807">Beloved refuge</l>
+                            <l n="808">From the blazing day, alas!</l>
+                            <l n="809">When will you again spread your scented shade</l>
+                            <l n="810">Over poor Hylas?</l>
+                            <l n="811">Softly cradle Dindymus’s child</l>
+                            <l n="812">On your sublime breast, oh mighty sea!</l>
+                            <l n="813">Humble cottage,</l>
+                            <l n="814">Where I received </l>
+                            <l n="815">My mother’s farewell.</l>
+                        </sp>
+                        <sp n="199">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="816">He is dreaming of his country…</l>
+                        </sp>
+                        <sp n="200">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="817">Which he will never see again.</l>
+                        </sp>
+                        <sp n="201">
+                            <speaker>HYLAS</speaker>
+                            <l n="818">Alas!</l>
+                            <l n="819">Will he see again his cheerful poverty,</l>
+                            <l n="820">Poor Hylas?…</l>
+                            <l n="821">Softly cradle Dindymus’s child</l>
+                            <l n="822">On your sublime breast, oh mighty sea!</l>
+                        </sp>
+                        <stage n="stage120">He falls asleep.</stage>
+
+                    </div>
+                    <div type="song" n="39" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 39 - Recitative and Chorus </head>
+                        <stage n="stage121">Enter Panthus and other Trojan chieftains.</stage>
+
+                        <sp n="202">
+                            <speaker>PANTHUS</speaker>
+                            <l n="823">Prepare everything, we must leave at last.</l>
+                            <l n="824">In vain does Aeneas </l>
+                            <l n="825">Behold with despair the queen’s anguish,</l>
+                            <l n="826">Glory and duty will shatter his fetters, </l>
+                            <l n="827">and his heart Will be steadfast at the moment of parting.</l>
+                        </sp>
+                        <sp n="203">
+                            <speaker>PANTHUS, CHIEFTAINS</speaker>
+                            <l n="828">Each passing day sees the gods’ ire grow.</l>
+                            <l n="829">Fearsome signs already forewarn us;</l>
+                            <l n="830">The sea, the mountains, the deep woods groan;</l>
+                            <l n="831">Our weapons resound from invisible blows,</l>
+                            <l n="832">As in Troy on that fatal night,</l>
+                            <l n="833">Hector, with his wrathful gaze,</l>
+                            <l n="834">In armor appears; a horde of shades succeeds him, </l>
+                            <l n="835">and these exasperated ghosts,</l>
+                            <l n="836">Only last night thrice cried …</l>
+                        </sp>
+                        <sp n="204">
+                            <speaker>THE GHOSTS</speaker>
+                            <l n="837">Italy! Italy! Italy!</l>
+                        </sp>
+                        <sp n="205">
+                            <speaker>PANTHUS, CHIEFTAINS</speaker>
+                            <l n="838">Vengeful gods! It is their voice!…</l>
+                            <l n="839">Too long have we defied the heavenly orders;</l>
+                            <l n="840">Let us depart without delay from these baneful shores! </l>
+                            <l n="841">Tomorrow! Tomorrow!</l>
+                            <l n="842">Let us prepare, we must finally go.</l>
+                        </sp>
+                        <stage n="stage122">They enter their tents.</stage>
+
+                    </div>
+                    <div type="song" n="40" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 40 - Duet </head>
+                        <stage n="stage123">The two sentries march, one from right to left, the other from left
+                            to right. They halt sometimes close to each other in the middle of the
+                            stage.</stage>
+
+                        <sp n="206">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="843">In the name of Bacchus! They are mad with their Italy! </l>
+                            <l n="844">I heard nothing!</l>
+                        </sp>
+                        <sp n="207">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="845">Neither did I.</l>
+                        </sp>
+                        <sp n="208">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="846">And to think of the beautiful life, though,</l>
+                            <l n="847">That we lead here!</l>
+                        </sp>
+                        <sp n="209">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="848">In more than one home</l>
+                            <l n="849">We find both good wine and abundant meat.</l>
+                        </sp>
+                        <sp n="210">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="850">I have already learned how to speak Phoenician</l>
+                            <l n="851">To my beautiful Carthaginian woman.</l>
+                        </sp>
+                        <sp n="211">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="852">Mine understands Trojan,</l>
+                            <l n="853">And she obeys me without complaint.</l>
+                        </sp>
+                        <sp n="212">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="854">Yours understands Trojan?</l>
+                        </sp>
+                        <sp n="213">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="855">She obeys me without complaint.</l>
+                            <l n="856">These women are not ill-disposed to foreigners.</l>
+                        </sp>
+                        <sp n="214">
+                            <speaker>BOTH</speaker>
+                            <l n="857">No! These women are not ill-disposed to foreigners.</l>
+                        </sp>
+                        <sp n="215">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="858">And they wish us to exchange</l>
+                            <l n="859">This soft life for a lengthy voyage!</l>
+                        </sp>
+                        <sp n="216">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="860">The storm’s embrace!</l>
+                        </sp>
+                        <sp n="217">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="861">Hunger.</l>
+                        </sp>
+                        <sp n="218">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="862">Thirst.</l>
+                        </sp>
+                        <sp n="219">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="863">Twenty infernal woes!</l>
+                        </sp>
+                        <sp n="220">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="864">And all the troubles of the sea!</l>
+                        </sp>
+                        <sp n="221">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="865">Cursed folly!</l>
+                        </sp>
+                        <sp n="222">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="866">For this Italy…</l>
+                        </sp>
+                        <sp n="223">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="867">Where we are to enjoy the fruits of our labours …</l>
+                        </sp>
+                        <sp n="224">
+                            <speaker>BOTH</speaker>
+                            <l n="868">With backbreaking work!</l>
+                        </sp>
+                        <sp n="225">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="869">To suffer, again!</l>
+                        </sp>
+                        <sp n="226">
+                            <speaker>FIRST SENTRY</speaker>
+                            <l n="870">To suffer, again!</l>
+                            <l n="871">Our fate is to obey.</l>
+                        </sp>
+                        <sp n="227">
+                            <speaker>SECOND SENTRY</speaker>
+                            <l n="872">Silence!</l>
+                            <l n="873">I see Aeneas striding towards us.</l>
+                        </sp>
+                        <stage n="stage124">The two sentries leave.</stage>
+
+                    </div>
+                    <div type="song" n="41" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 41 - Recitative and Aria </head>
+
+                        <sp n="228">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage125">Enters, highly agitated.</stage>
+                            <l n="874">Futile regrets!… I must leave Carthage!</l>
+                            <l n="875">Dido knows it… her fear, her shock</l>
+                            <l n="876">In learning it, breached my courage…</l>
+                            <l n="877">But I must go!… It is essential!…</l>
+                            <l n="878">No, I cannot forget the palor</l>
+                            <l n="879">Rising in her face like death,</l>
+                            <l n="880">Her unyielding silence, her fixed gaze</l>
+                            <l n="881">Full of melancholy fire…</l>
+                            <l n="882">In vain did I speak of the countless great feats </l>
+                            <l n="883">Imposed upon me by the gods,</l>
+                            <l n="884">I invoked the greatness of my sacred undertaking,</l>
+                            <l n="885">The future of my son and the fate of Trojans,</l>
+                            <l n="886">My triumphal death assured by destiny, </l>
+                            <l n="887">Which will crown my glory on the Ausonian fields;</l>
+                            <l n="888">Nothing could touch her; </l>
+                            <l n="889">I fled from her awful eloquent gaze, without breaching her
+                                silence.</l>
+                            <l n="890">Ah! When the moment comes for the final farewells, </l>
+                            <l n="891">a time of anguish, bathed in tears,</l>
+                            <l n="892">How will I endure the dreadful sight </l>
+                            <l n="893">Of this indignant grief?…</l>
+                            <l n="894">I must struggle with myself and also with you, Dido! </l>
+                            <l n="895">And beg for forgiveness while breaking your heart! </l>
+                            <l n="896">Could I do it? Ah! Better to perish at last</l>
+                            <l n="897">In a shipwreck, than to leave Carthage</l>
+                            <l n="898">Without seeing you once more!…</l>
+                            <l n="899">Without seeing her? Cowardice!</l>
+                            <l n="900">Such contempt for the inviolate laws of hospitality!</l>
+                            <l n="901">No, no, beloved queen,</l>
+                            <l n="902">Sublime soul that I have torn asunder,</l>
+                            <l n="903">Oh beloved queen! No, I will see you again,</l>
+                            <l n="904">One last time clasp your trembling hands,</l>
+                            <l n="905">Shed my burning tears at your feet,</l>
+                            <l n="906">Even if such despair leads to my downfall.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="42" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 42 - Scene </head>
+
+                        <sp n="229">
+                            <speaker>CHORUS OF GHOSTS</speaker>
+                            <l n="907">Aeneas!…</l>
+                        </sp>
+                        <sp n="230">
+                            <speaker>AENEAS</speaker>
+                            <l n="908">Those voices, again!</l>
+                            <stage n="stage126">Four veiled ghosts appear one by one; one from stage right,
+                                another from stage left, and the other two from backstage. On each
+                                ghost’s brow shines a crown of small pale flames.</stage>
+                        </sp>
+                        <sp n="231">
+                            <speaker>AENEAS</speaker>
+                            <l n="909">Menacing messengers from the shadows,</l>
+                            <l n="910">What then drew you forth?</l>
+                        </sp>
+                        <sp n="232">
+                            <speaker>GHOST OF PRIAM</speaker>
+                            <stage n="stage127">visible</stage>
+                            <l n="911">Your weakness and your glory…</l>
+                        </sp>
+                        <sp n="233">
+                            <speaker>AENEAS</speaker>
+                            <l n="912">Ah! better to die!</l>
+                        </sp>
+                        <sp n="234">
+                            <speaker>GHOST OF PRIAM</speaker>
+                            <l n="913">No more delay!</l>
+                        </sp>
+                        <sp n="235">
+                            <speaker>GHOST OF COROEBUS</speaker>
+                            <stage n="stage128">Invisible.</stage>
+                            <l n="914">Not one day further!</l>
+                        </sp>
+                        <sp n="236">
+                            <speaker>GHOSTS OF HECTOR Y CASSANDRA</speaker>
+                            <stage n="stage129">Invisibles.</stage>
+                            <l n="915">Not one hour more!</l>
+                        </sp>
+                        <sp n="237">
+                            <speaker>GHOST OF PRIAM</speaker>
+                            <stage n="stage130">lifting his veil before Aeneas.</stage>
+                            <l n="916">It is I, Priam! you must depart and still live!</l>
+                            <stage n="stage131">His crown of fire dies out and he vanishes. Aeneas, distraught,
+                                rushes to the right of the stage, and there encounters the ghost of
+                                Coroebus.</stage>
+                        </sp>
+                        <sp n="238">
+                            <speaker>GHOST OF COROEBUS</speaker>
+                            <stage n="stage132">removes his veil</stage>
+                            <l n="917">It is I, Coroebus!</l>
+                            <l n="918">You must leave and conquer!</l>
+                            <stage n="stage133">His crown of fire dies out and he vanishes. Aeneas, moving to the
+                                back of the stage, encounters the other two ghosts. Cassandra has
+                                her left arm on Hector’s shoulder. Hector is armed from head to
+                                toe.</stage>
+                        </sp>
+                        <sp n="239">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage134">recognizing them when they remove their veils</stage>
+                            <l n="919">Hector! Gods of Erebus!</l>
+                            <l n="920">Cassandra!</l>
+                        </sp>
+                        <sp n="240">
+                            <speaker>GHOSTS OF CASSANDRA AND HECTOR</speaker>
+                            <l n="921">You must conquer and found!…</l>
+                            <stage n="stage135">Their crowns of fire die out, they vanish.</stage>
+                        </sp>
+                        <sp n="241">
+                            <speaker>AENEAS</speaker>
+                            <l n="922">I must obey</l>
+                            <l n="923">Your ruthless orders!</l>
+                            <l n="924">I obey, I obey, o inexorable ghosts!</l>
+                            <l n="925">Great gods, you force me to be an ungrateful brute!</l>
+                            <l n="926">And I must sacrifice Dido, while averting my gaze!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="43" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 43 - Scene and Chorus </head>
+
+                        <sp n="242">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage136">Passing before the tents</stage>
+                            <l n="927">To your feet, Trojans, awaken, be alert!</l>
+                            <l n="928">The wind is favorable, the sea beckons us!</l>
+                            <l n="929">Awaken!</l>
+                            <l n="930">We must depart before daybreak!</l>
+                        </sp>
+                        <sp n="243">
+                            <speaker>THE TROJANS</speaker>
+                            <stage n="stage137">from inside the tents.</stage>
+                            <l n="931">Be alert!… Do you hear, friends, the voice of Aeneas?</l>
+                            <stage n="stage138">They come out of the tents.</stage>
+                            <l n="932">Sound the reveille in all parts…</l>
+                        </sp>
+                        <sp n="244">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage139">to a chieftain</stage>
+                            <l n="933">Go, hurry, relay this order to the astonished attention </l>
+                            <l n="934">of Ascanius. He must rise and board the ship! </l>
+                            <l n="935">We must leave the port before break of day.</l>
+                            <l n="936">My task, o great gods, will be finally </l>
+                            <l n="937">accomplished. Be alert, friends! Let us not waste a moment! </l>
+                            <l n="938">Slash the ropes, it is time!</l>
+                            <l n="939">To sea! To sea! Italy! Italy!</l>
+                        </sp>
+                        <sp n="245">
+                            <speaker>CHORUS</speaker>
+                            <l n="940">This is the day, let us not waste a moment!</l>
+                            <l n="941">Slash the ropes, it is time!</l>
+                            <l n="942">To sea! To sea! Italy! Italy!</l>
+                        </sp>
+                        <sp n="246">
+                            <speaker>AENEAS</speaker>
+                            <stage n="stage140">Turns to Dido’s palace.</stage>
+                            <l n="943">Farewell, my soul! Worthy of your forgiveness,</l>
+                            <l n="944">I leave, noble Dido!</l>
+                            <l n="945">Impatient fate summons me;</l>
+                            <l n="946">To die as a hero, I am unfaithful to you.</l>
+                        </sp>
+                        <stage n="stage141">All rush from the stage in various directions, making preparations to
+                            depart. We see the ships start to move off. There is lighting and
+                            thunder in the distance.</stage>
+
+                    </div>
+                    <div type="song" n="44" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 44 - Duet and Chorus </head>
+
+                        <sp n="247">
+                            <speaker>DIDO</speaker>
+                            <l n="947">Wandering in your footsteps,</l>
+                            <l n="948">In the rumbling thunderstorm,</l>
+                            <l n="949">I wanted to see, and now I watch in disbelief… </l>
+                            <l n="950">Are you preparing to flee?</l>
+                        </sp>
+                        <sp n="248">
+                            <speaker>AENEAS</speaker>
+                            <l n="951">In my profound grief,</l>
+                            <l n="952">Dear Dido, spare me!</l>
+                        </sp>
+                        <sp n="249">
+                            <speaker>DIDO</speaker>
+                            <l n="953">You are leaving? You are leaving?</l>
+                            <l n="954">Without remorse! What!?</l>
+                            <l n="955">Contemptuous of the scepter of Libya, </l>
+                            <l n="956">Ripping out my heart, you flee to Italy!</l>
+                        </sp>
+                        <sp n="250">
+                            <speaker>AENEAS</speaker>
+                            <l n="957">I have tarried too long…</l>
+                            <l n="958">The sovereign orders from the gods…</l>
+                        </sp>
+                        <sp n="251">
+                            <speaker>DIDO</speaker>
+                            <l n="959">He departs! He follows the call of implacable fate,</l>
+                            <l n="960">Without heeding my voice! He lets me expose</l>
+                            <l n="961">My overwhelming grief to his cowardly disdain.</l>
+                            <stage n="stage142">She sees a group of Trojans sneering at her</stage>
+                            <l n="962">And my majestic beauty</l>
+                            <l n="963">To the insolent sniggers of these ungrateful Trojans!</l>
+                        </sp>
+                        <sp n="252">
+                            <speaker>AENEAS</speaker>
+                            <l n="964">Dido!</l>
+                        </sp>
+                        <sp n="253">
+                            <speaker>DIDO</speaker>
+                            <l n="965">Does the sight of such misery not bring </l>
+                            <l n="966">A tear of pity to his moisten his eye!</l>
+                            <l n="967">Do you leave? No! it was not Venus who bore you!</l>
+                            <l n="968">Some foul she-wolf suckled you in the forest!</l>
+                        </sp>
+                        <sp n="254">
+                            <speaker>AENEAS</speaker>
+                            <l n="969">O Queen, when I consigned you my soul,</l>
+                            <l n="970">I became subject of to the sway of an immortal love, </l>
+                            <l n="971">and to the end of my days,</l>
+                            <l n="972">My heart will burn with this flame…</l>
+                        </sp>
+                        <sp n="255">
+                            <speaker>DIDO</speaker>
+                            <l n="973">Silence! Nothing can stop you,</l>
+                            <l n="974">Not death that hovers above my head,</l>
+                            <l n="975">My shame, my love, our union just begun,</l>
+                            <l n="976">My name struck forth today from the golden book. </l>
+                            <l n="977">Yet had I a tender pledge of your faith, </l>
+                            <l n="978">Yes, if a son of Aeneas </l>
+                            <l n="979">With his noble tender features</l>
+                            <l n="980">Lay smiling on my breast, </l>
+                            <l n="981">I would feel less abandoned…</l>
+                        </sp>
+                        <sp n="256">
+                            <speaker>AENEAS</speaker>
+                            <l n="982">I love you, Dido, have mercy! Only a divine command </l>
+                            <l n="983">could thus be so cruelly victorious. </l>
+                            <stage n="stage143">We hear the fanfare of the Trojan March.</stage>
+                        </sp>
+                        <sp n="257">
+                            <speaker>DIDO</speaker>
+                            <l n="984">At this triumphal march where your glory shines, </l>
+                            <l n="985">I see you quiver! </l>
+                            <l n="986">Are you leaving?</l>
+                        </sp>
+                        <sp n="258">
+                            <speaker>AENEAS</speaker>
+                            <l n="987">I must leave…</l>
+                        </sp>
+                        <sp n="259">
+                            <speaker>DIDO</speaker>
+                            <l n="988">Are you leaving?</l>
+                        </sp>
+                        <sp n="260">
+                            <speaker>AENEAS</speaker>
+                            <l n="989">To obey the gods,</l>
+                            <l n="990">I go only to my death,</l>
+                            <l n="991">I am leaving and I love you!</l>
+                        </sp>
+                        <sp n="261">
+                            <speaker>DIDO</speaker>
+                            <l n="992">Do not let my tears delay you further,</l>
+                            <l n="993">You monster of righteousness!</l>
+                            <l n="994">Go, then, go! I curse both you and your gods!</l>
+                            <stage n="stage144">She exits.</stage>
+                            <stage n="stage145">Groups of Trojan soldiers busy preparing to leave, pass by on
+                                their way to the ships.</stage>
+                        </sp>
+                        <sp n="262">
+                            <speaker>AENEAS, THE TROJANS</speaker>
+                            <l n="995">Italy!</l>
+                        </sp>
+                        <stage n="stage146">A Trojan chieftain leads in Ascanius. Aeneas boards a ship.</stage>
+                    </div>
+                    <div n="tableau2" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Second Tableau</head>
+                        <stage n="stage147">Dido’s chambers. Daybreak.</stage>
+                    </div>
+
+
+                    <div type="song" n="45" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 45 - Scene </head>
+
+                        <sp n="263">
+                            <speaker>DIDO</speaker>
+                            <l n="996">Go and beg him, my sister,</l>
+                            <l n="997">Pride has deserted </l>
+                            <l n="998">My despairing soul. Go! This departure kills me</l>
+                            <l n="999">As I see him preparing to leave.</l>
+                        </sp>
+                        <sp n="264">
+                            <speaker>ANNA</speaker>
+                            <l n="1000">Alas! I was the guilty party,</l>
+                            <l n="1001">When I encouraged you to form new ties.</l>
+                            <l n="1002">Can we contest the gods’ will?…</l>
+                            <l n="1003">His departure is inevitable,</l>
+                            <l n="1004">And yet he loves you.</l>
+                        </sp>
+                        <sp n="265">
+                            <speaker>DIDO</speaker>
+                            <l n="1005">He loves me?! No! No! His heart is made of ice!</l>
+                            <l n="1006">Ah! I know love, and even if Jupiter himself</l>
+                            <l n="1007">Had forbidden my love, my burning passion </l>
+                            <l n="1008">Would have braved his curse.</l>
+                            <l n="1009">But go, my sister, go, Narbal, beg him</l>
+                            <l n="1010">To grant me yet</l>
+                            <l n="1011">A few days more. Humbly I beg him:</l>
+                            <l n="1012">Can he forget all I did for him ,</l>
+                            <l n="1013">And, wise Narbal, would he reject your paramount authority, </l>
+                            <l n="1014">and yours, my sister, whom he loves?…</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="46" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 46 - Scene </head>
+
+                        <sp n="266">
+                            <speaker>CHORUS</speaker>
+                            <stage n="stage148">from afar, backstage</stage>
+                            <l n="1015">Look, six ships! Seven! Nine! Ten! At sea!</l>
+                        </sp>
+                        <sp n="267">
+                            <speaker>IOPAS</speaker>
+                            <stage n="stage149">Entering.</stage>
+                            <l n="1016">The Trojans have left!</l>
+                        </sp>
+                        <sp n="268">
+                            <speaker>DIDO</speaker>
+                            <l n="1017">What do I hear?</l>
+                        </sp>
+                        <sp n="269">
+                            <speaker>IOPAS</speaker>
+                            <l n="1018">Before dawn,</l>
+                            <l n="1019">Their fleet went to sea, they are still in sight!</l>
+                        </sp>
+                        <sp n="270">
+                            <speaker>DIDO</speaker>
+                            <l n="1020">Immortal gods! To arms, Tyrians!</l>
+                            <l n="1021">Carthaginians, hurry, pursue the Trojans!</l>
+                            <l n="1022">Strive with your oars,</l>
+                            <l n="1023">Glide over the sea,</l>
+                            <l n="1024">Hurl flames at them,</l>
+                            <l n="1025">Burn their vessels!</l>
+                            <l n="1026">May the entire city…</l>
+                            <l n="1027">What am I saying? Futile rage!</l>
+                            <l n="1028">Endure your fate and despair,</l>
+                            <l n="1029">Consume your own grief,</l>
+                            <l n="1030">Oh unhappy woman!</l>
+                            <l n="1031">And this is, then, the troth of that dutiful soul!</l>
+                            <l n="1032">I offered him a throne… Ah, I should instead</l>
+                            <l n="1033">Have exterminated the wandering race</l>
+                            <l n="1034">Of these accursed men, and scattered on the waves </l>
+                            <l n="1035">the remnants of their bodies!</l>
+                            <l n="1036">That was the time to foresee their treachery </l>
+                            <l n="1037">and set fire to their fleet,</l>
+                            <l n="1038">And take vengeance on Aeneas by serving him </l>
+                            <l n="1039">The limbs of his son in a grisly banquet!</l>
+                            <l n="1040">Help me, gods of Hades! Olympus is immovable!</l>
+                            <l n="1041">Help me! Light in my heart the flames</l>
+                            <l n="1042">Of a terrible hatred</l>
+                            <l n="1043">For this fugitive that once I loved!</l>
+                            <l n="1044">Let the priest of Pluto be summoned!</l>
+                            <l n="1045">To bring peace my transports of grief,</l>
+                            <l n="1046">Let us offer directly a sacrifice</l>
+                            <l n="1047">To the grim deities of the kingdom of the dead!</l>
+                            <l n="1048">Let a pyre be built!</l>
+                            <l n="1049">May the gifts of the traitor</l>
+                            <l n="1050">And those that I gave him</l>
+                            <l n="1051">Be consumed, detested memories,</l>
+                            <l n="1052">By the blazing flames!… Leave!</l>
+                        </sp>
+                        <sp n="271">
+                            <speaker>NARBAL</speaker>
+                            <stage n="stage150">To Anna.</stage>
+                            <l n="1053">Her gaze terrifies me, oh princess! Stay with her!</l>
+                        </sp>
+                        <sp n="272">
+                            <speaker>DIDO</speaker>
+                            <l n="1054">Anna, follow Narbal!</l>
+                        </sp>
+                        <sp n="273">
+                            <speaker>ANNA</speaker>
+                            <l n="1055">May my sister forgive me!</l>
+                        </sp>
+                        <sp n="274">
+                            <speaker>DIDO</speaker>
+                            <l n="1056">I am your queen and this is my order;</l>
+                            <l n="1057">Leave me alone, Anna. </l>
+                        </sp>
+                        <stage n="stage151">Anna, Narbal and Iopas exit.</stage>
+
+                    </div>
+                    <div type="song" n="47" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 47 - Monologue </head>
+                        <stage n="stage152">Dido walks around the stage tearing her hair, beating her breast and
+                            shouting wordlessly.</stage>
+
+                        <sp n="275">
+                            <speaker>DIDO</speaker>
+                            <l n="1058">Ah! Ah!</l>
+                            <stage n="stage153">She stops suddenly.</stage>
+                            <l n="1059">I will die…</l>
+                            <l n="1060">Drowning in intense grief</l>
+                            <l n="1061">I will die without being avenged!…</l>
+                            <l n="1062">Let me die, then. Yes, may he shudder</l>
+                            <l n="1063">At the distant glow of the flames of my pyre!</l>
+                            <l n="1064">If there is still something human left in his soul,</l>
+                            <l n="1065">Perhaps he will weep over my dreadful fate.</l>
+                            <l n="1066">He, grieve for me!…</l>
+                            <l n="1067">Aeneas!… Aeneas!…</l>
+                            <l n="1068">Oh, my soul follows you,</l>
+                            <l n="1069">Bound to your love,</l>
+                            <l n="1070">Which, enslaved, it draws into eternal night…</l>
+                            <l n="1071">Venus! Restore your son to me!… Futile prayer</l>
+                            <l n="1072">Of a breaking heart!… Until the end,</l>
+                            <l n="1073">Dido can hope for nothing more than death.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="48" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 48 - Aria </head>
+
+                        <sp n="276">
+                            <speaker>DIDO</speaker>
+                            <l n="1074">Farewell, proud city, which a communal effort</l>
+                            <l n="1075">So rapidly built and made it blossom</l>
+                            <l n="1076">Farewell my sweet sister who followed me blindly,</l>
+                            <l n="1077">Farewell, my people, farewell, farewell, hallowed land, </l>
+                            <l n="1078">that once welcomed my entreaties, </l>
+                            <l n="1079">Farewell, beautiful African sky, its stars that I admired; </l>
+                            <l n="1080">Farewell to endlessly intoxicating nights of ecstasy! </l>
+                            <l n="1081">I will see you no more, my life journey has ended!…</l>
+                            <stage n="stage154">She exits slowly.</stage>
+
+                        </sp>
+                    </div>
+                    <div n="tableau3" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Third Tableau</head>
+
+                    </div>
+                    <div type="song" n="49" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 49 – Funeral ceremony </head>
+                        <stage n="stage155">Dido’s gardens by the sea. A vast pyre has been built, with steps
+                            leading to it. On the platform of the pyre, there is a bed, a toga, a
+                            helmet, a sword and sheath, and a bust of Aeneas.</stage>
+                        <stage n="stage156">Enter the priests of Pluto, clad in mourning; they proceed in and
+                            stand next to the two altars, where greenish flames shine, followed by
+                            Anna, Narbal, and finally a veiled Dido crowned with leaves. During the
+                            beginning of the priests’ chorus, Anna, approaching her sister, unties
+                            her hair and removes her left cothurnus [laced boot].</stage>
+
+                        <sp n="277">
+                            <speaker>CHORUS OF THE PRIESTS OF PLUTO</speaker>
+                            <l n="1082">Gods of forgetfulness, gods of Tenarus,</l>
+                            <l n="1083">Restore strength and peace to this wounded heart!</l>
+                            <l n="1084">From the depths of black Tartarus,</l>
+                            <l n="1085">Hear us, Hecate, Erebus, and you, Chaos!</l>
+                        </sp>
+                        <sp n="278">
+                            <speaker>ANNA, NARBAL</speaker>
+                            <stage n="stage157">opening their arms to the sea</stage>
+                            <l n="1086">If Aeneas must land in Italy,</l>
+                            <l n="1087">May he die there unrecognized!</l>
+                            <l n="1088">May the Latin people ally with the Umbrians</l>
+                            <l n="1089">To arrest his course!</l>
+                            <l n="1090">Pierced by a common arrow in the heat of battle,</l>
+                            <l n="1091">May he languish abandoned on the bloody battlefield, </l>
+                            <l n="1092">to serve as carrion for ravening birds!</l>
+                            <l n="1093">Hear us, Hecate, Erebus, and you, Chaos!</l>
+                        </sp>
+                        <sp n="279">
+                            <speaker>PRIESTS, ANNA, NARBAL</speaker>
+                            <l n="1094">Gods of forgetfulness, gods of Tenarus, etc.</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="50" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 50 - Scene </head>
+
+                        <sp n="280">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage158">As though in a dream</stage>
+                            <l n="1095">Pluto… seems to be propitious…</l>
+                            <l n="1096">At this cruel moment… Narbal… my sister…</l>
+                            <l n="1097">All is ended… let us make the reverent sacrifice…</l>
+                            <l n="1098">I feel peace … return to my heart.</l>
+                            <stage n="stage159">Two priests carrying the first altar advance from left to right;
+                                two others carrying the second move from right to left and circle
+                                the pyre, their paths crossing. Dido, with her left foot bare and
+                                her hair disheveled, after placing her crown of leaves on one of the
+                                altars, follows them with halting steps. During this procession,
+                                Anna kneels to the right of the stage with Narbal to the left.
+                                Between them, the great priest of Pluto, standing, stretches out
+                                with both hands the forked staff of Pluto towards the pyre. Finally,
+                                full of manic energy, Dido rapidly mounts the steps of the pyre.
+                                Arriving at the top, she seizes Aeneas’ toga, removes the golden
+                                veil from her head, and throwing them both onto the pyre, she says: </stage>
+                            <l n="1099">Baneful tokens of an unhappy love,</l>
+                            <l n="1100">Carry my woes with you into the fire! </l>
+                            <stage n="stage160">She contemplates Aeneas’ weapons.</stage>
+                            <l n="1101">Ah!</l>
+                            <stage n="stage161">She prostrates herself on the bed, which she embraces with
+                                convulsive sobs. She rises, and taking up the sword, says in a tone
+                                of prophesy: </stage>
+                            <l n="1102">My memory will live in future ages.</l>
+                            <l n="1103">My people will do heroic deeds.</l>
+                            <l n="1104">One day on African land,</l>
+                            <l n="1105">A glorious avenger will rise from my ashes…</l>
+                            <l n="1106">I hear already this conqueror’s name.</l>
+                            <l n="1107">Hannibal! Hannibal! My soul is full of pride!</l>
+                            <l n="1108">Let there be an end to bitter memories!</l>
+                            <l n="1109">This is how it is proper to descend into Hades!</l>
+                        </sp>
+                        <stage n="stage162">She unsheathes the sword, stabs herself, and drops onto the
+                            bed.</stage>
+
+                    </div>
+                    <div type="song" n="51" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 51 - Chorus </head>
+
+                        <sp n="281">
+                            <speaker>ALL</speaker>
+                            <l n="1110">Ah! Help! Help! The queen has stabbed herself!</l>
+                            <stage n="stage163">Narbal leaves, as if seeking help.</stage>
+                        </sp>
+                        <sp n="282">
+                            <speaker>CHORUS</speaker>
+                            <stage n="stage164">rushing in from backstage</stage>
+                            <l n="1111">What cries! ah! drenched in her own blood</l>
+                            <l n="1112">The queen is dying!</l>
+                            <stage n="stage165">Narbal comes back, the great chorus enters.</stage>
+                            <l n="1113">Can it be true? Day of horror! </l>
+                        </sp>
+                        <sp n="283">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage166">sits up, leaning on her elbow.</stage>
+                            <l n="1114">Ah!</l>
+                            <stage n="stage167">She falls again.</stage>
+                        </sp>
+                        <sp n="284">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage168">over the pyre.</stage>
+                            <l n="1115">My sister!</l>
+                            <stage n="stage169">Dido rises.</stage>
+                        </sp>
+                        <sp n="285">
+                            <speaker>DIDO</speaker>
+                            <l n="1116">Ah!</l>
+                            <stage n="stage170">She lifts her eyes to heaven and falls again, groaning.</stage>
+                        </sp>
+                        <sp n="286">
+                            <speaker>ANNA</speaker>
+                            <l n="1117">It is I,</l>
+                            <l n="1118">It is your sister who calls you…</l>
+                        </sp>
+                        <sp n="287">
+                            <speaker>DIDO</speaker>
+                            <stage n="stage171">Half-rises.</stage>
+                            <l n="1119">Ah! The implacable anger of hostile fate!</l>
+                            <l n="1120">Carthage will fall!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="52" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 52 - Curse</head>
+                        <stage n="stage172">We see in distant glory the Roman Capitol; on its facade gleams the
+                            word Rome. Legions and an emperor march past the Capitol, surrounded by
+                            a court of poets and artists. During this apotheosis, which the
+                            Carthaginians cannot see, we hear from afar the Trojan March passed down
+                            by tradition to the Romans, which has become their triumphal
+                            chant.</stage>
+
+                        <sp n="288">
+                            <speaker>DIDO</speaker>
+                            <l n="1121">Rome… eternal… Rome!</l>
+                            <stage n="stage173">She falls dead. Anna falls fainting by her side. The people of
+                                Carthage, advancing towards the proscenium and turning their backs
+                                to the pyre, hurl a curse, the first Punic battle-cry, in furious
+                                contrast to the solemn ceremony.</stage>
+                        </sp>
+                        <sp n="289">
+                            <speaker>CHORUS</speaker>
+                            <l n="1122">Eternal hatred to the race of Aeneas!</l>
+                            <l n="1123">May a bloody conflict</l>
+                            <l n="1124">Ever pitch our sons against theirs!</l>
+                            <l n="1125">May our ships sink theirs,</l>
+                            <l n="1126">Shattered into a thousand pieces </l>
+                            <l n="1127">In the deep sea! May the last of our descendants</l>
+                            <l n="1128">Ever taking arms against them, by land and by sea,</l>
+                            <l n="1129">One day appall the world with their massacre!</l>
+                        </sp>
+                    </div>
+                    <div type="song" n="52b" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 52b – Original finale [replaced by the definitive text
+                            starting with Dido’s last line in Nº 52]</head>
+                        <stage n="stage174">A rainbow forms over the pyre, and a ray of sunlight split into the
+                            colors of the prism falls on Dido’s body.</stage>
+
+                        <sp n="290">
+                            <speaker>THE GREAT PRIEST</speaker>
+                            <l n="1130">As she dies, the faithful one</l>
+                            <l n="1131">Rouses the pity of the gods;</l>
+                            <stage n="stage175">Iris appears in the air and flies over the pyre, scattering
+                                poppies over the dying queen. All prostrate themselves before divine
+                                Iris.</stage>
+                            <l n="1132">Iris descends from the heavens</l>
+                            <l n="1133">To bring her death pangs to an end.</l>
+                            <stage n="stage176">The rainbow vanishes along with Iris, but not the ray of
+                                sunlight.</stage>
+                            <l n="1134">Repeat with me </l>
+                            <l n="1135">the sacred incantation:</l>
+                            <l n="1136">O suffering soul, breathe your last…</l>
+                        </sp>
+                        <sp n="291">
+                            <speaker>NARBAL, CHORUS</speaker>
+                            <l n="1137">Suffering soul, breathe your last…</l>
+                        </sp>
+                        <sp n="292">
+                            <speaker>THE GREAT PRIEST</speaker>
+                            <l n="1138">In the name of the gods, be free from your body.</l>
+                        </sp>
+                        <sp n="293">
+                            <speaker>NARBAL, CHORUS</speaker>
+                            <l n="1139">In the name of the gods, be free from your body.</l>
+                            <stage n="stage177">The ray fades. Dido dies. Anna falls fainting beside her.</stage>
+                        </sp>
+                        <sp n="294">
+                            <speaker>THE GREAT PRIEST</speaker>
+                            <l n="1140">She is no more, the queen has breathed her last!</l>
+                        </sp>
+                        <sp n="295">
+                            <speaker>NARBAL, THE GREAT PRIEST, CHORUS</speaker>
+                            <l n="1141">Over her pyre and by her royal blood</l>
+                            <l n="1142">Let us consecrate today the standard of Carthage!</l>
+                            <l n="1143">May the same oath bind all of us here</l>
+                            <l n="1144">To an inevitable fate!</l>
+                            <l n="1145">Hatred to the race of Aeneas!</l>
+                            <l n="1146">May a bloody conflict</l>
+                            <l n="1147">Ever pitch our sons against theirs!</l>
+                            <l n="1148">May our ships sink theirs,</l>
+                            <l n="1149">Shattered into a thousand pieces </l>
+                            <l n="1150">In the deep sea! May the last of our descendants,</l>
+                            <l n="1151">Ever taking arms against them, by land and by sea,</l>
+                            <l n="1152">One day appall the world with their massacre!</l>
+                        </sp>
+                        <sp n="296">
+                            <speaker>EPILOGUE</speaker>
+                            <stage n="stage178">A screen is lowered to the fore of the stage, symbolizing Time
+                                followed by the procession of the hours, twelve in pink and white
+                                gowns, and twelve in black gowns with golden stars. We hear a
+                                mysterious murmur from the orchestra, mingled with solemn
+                                sounds.</stage>
+                            <stage n="stage179">The screen rises, and we see the glorious Roman Capitol. The
+                                stage is empty, except for Clio, the Muse of History on one side,
+                                and next to her, a goddess with a trumpet representing Fame. We hear
+                                the Trojan March sound out, transmitted by tradition to become the
+                                triumphal chant of the Romans.</stage>
+                            <stage n="stage180">We see passing before the Capitol a warrior in shining armor at
+                                the head of several Roman legions.</stage>
+                        </sp>
+                        <sp n="297">
+                            <speaker>CLIO</speaker>
+                            <l n="1153">Scipio the African! Glory!</l>
+                            <stage n="stage181">Another warrior, crowned with laurels, passes by, marching at the
+                                head of more legions.</stage>
+                        </sp>
+                        <sp n="298">
+                            <speaker>CLIO</speaker>
+                            <l n="1154">Julius Caesar! Glory!</l>
+                            <stage n="stage182">We see an emperor surrounded by a court of poets and
+                                artists.</stage>
+                        </sp>
+                        <sp n="299">
+                            <speaker>CLIO</speaker>
+                            <l n="1155">Emperor Augustus and the poet Virgil! Glory! Glory! </l>
+                            <l n="1156">Troy is no more;</l>
+                            <l n="1157">Now, Rome!</l>
+                        </sp>
+                        <sp n="300">
+                            <speaker>A SOPRANO</speaker>
+                            <stage n="stage183">backstage</stage>
+                            <l n="1158">Now, Rome!</l>
+                        </sp>
+                        <sp n="301">
+                            <speaker>A TENOR</speaker>
+                            <stage n="stage184">farther away</stage>
+                            <l n="1159">Now, Rome!</l>
+                        </sp>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

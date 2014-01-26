@@ -1,0 +1,3150 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Saint Chad Gospels</title>
+                <editor xml:id="bh">Bonnie Lewis</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>A new transcription from digital imagery, with semantic markup, based on
+                    digital images captured by the University of Kentucky’s Center for Visualization
+                    and Virtual Environments, Brent Seales, Director. The images are copyrighted by
+                    the Chapter of Lichfield Cathedral, 2010, and are released under a Creative
+                    Commons License. This material is based upon work supported by the National
+                    Science Foundation under Grants No. 0916148 &amp; No. 0916421. Any opinions,
+                    findings and conclusions or recomendations expressed in this material are those
+                    of the author(s) and do not necessarily reflect the views of the National
+                    Science Foundation (NSF).</edition>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Bonnie Lewis, Tony Brown, Christopher Blackwell, Brent Seales edd.</name>
+                </respStmt>
+            </editionStmt>
+            <extent>under 1Mb</extent>
+            <publicationStmt>
+                <publisher> The Center for Hellenic Studies of Harvard University </publisher>
+                <authority>
+                    <name>Casey Dué and Mary Ebbott, edd.</name>
+                </authority>
+                <availability>
+                    <p> ©2012, Bonnie Lewis. This work is made available under the Creative Commons
+                        Attribution-Noncommercial-Share Alike 3.0 United States License:
+                        http://creativecommons.org/licenses/by-nc-sa/3.0/us/ </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p> File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+                <language ident="deu">German</language>
+                <language ident="fra">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="eng">
+        <body>
+            <div n="1" type="chapter">
+                <div n="1" type="verse">
+                    <p>The beginning of the good news about Jesus the Messiah, the Son of God <pb
+                            n="72r"/></p>
+                </div>
+                <div n="2" type="verse">
+                    <p>as it is written in Isaiah the prophet: <lb n="1"/> I will send my messenger
+                        ahead of you who will prepare <lb n="2"/> your way</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>a voice of one calling in the wilderness <lb n="3"/> Prepare the way for the
+                        Lord, make straight paths for him <lb n="4"/></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>And so John the Baptist appeared in the wilderness preaching <lb n="5"/> a
+                        baptism of repentance for the forgiveness <lb n="6"/> of sins</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>The whole Judean countryside and <lb n="7"/> all the people of Jerusalem went
+                        out to him. Confessing their sins, they were baptized <lb n="8"/> by him in
+                        the Jordan River <lb n="9"/>.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>John wore clothing <lb n="10"/> made of camel's hair, with a leather belt
+                        around his waist <lb n="11"/>, and he ate locusts and wild honey. <lb n="12"
+                        /></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>And this was his message: “After me <lb n="13"/> comes the one more powerful
+                        than I, <lb n="14"/> the straps of whose sandals I am not worthy to stoop
+                        down and untie.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>I baptize <lb n="15"/> you with water, but he will baptize you with the Holy
+                        Spirit.” <lb n="16"/></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>At that time Jesus came from Nazareth <lb n="17"/> in Galilee and was
+                        baptized by John in the Jordan. <lb n="18"/></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Just as Jesus was coming up out of the water, he saw heaven being torn <lb
+                            n="19"/> open and the Spirit descending <lb n="20"/>
+                        <pb n="72v"/> on him like a dove.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>And a voice came <lb n="1"/> from heaven: “You are my Son, whom I love <lb
+                            n="2"/> with you I am well pleased.”</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>At once the Spirit sent him out into the wilderness, <lb n="3"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>and he was in the wilderness forty days <lb n="4"/>, being tempted by Satan.
+                            <lb n="5"/> He was with the wild animals, and angels attended <lb n="6"
+                        /> him.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>After John was put in prison, <lb n="7"/> Jesus went into Galilee,
+                        proclaiming <lb n="8"/> the good news of God.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>“The time has come,” <lb n="9"/> he said. “The kingdom of God has come near.
+                            <lb n="10"/> Repent and believe the good news!”</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>As Jesus walked beside <lb n="11"/> the Sea of Galilee, he saw Simon and his
+                        brother Andrew <lb n="12"/> casting a net into the lake, for they were <lb
+                            n="13"/> fishermen.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>“Come, follow me,” Jesus said, <lb n="14"/> “and I will send you out to fish
+                        for people.” <lb n="15"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>At once they left their nets and followed him. <lb n="16"/></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>When he had gone a little farther, he saw James son of <lb n="17"/> Zebedee
+                        and his brother John <lb n="18"/> in a boat, preparing their nets.</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Without delay he called <lb n="19"/> them, and they left their father Zebedee
+                        in the boat <lb n="20"/>
+                        <pb n="73r"/> with the hired men and followed him.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>They went to <lb n="1"/> Capernaum, and when the Sabbath came, Jesus went
+                        into the synagogue <lb n="2"/> and began to teach.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>The people were amazed at his teaching <lb n="3"/>, because he taught them as
+                        one who had authority, <lb n="4"/> not as the teachers of the law.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Just then a man in their synagogue <lb n="5"/> who was possessed by an impure
+                        spirit cried out, <lb n="6"/></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>“What do you want with us, Jesus of Nazareth? <lb n="7"/> Have you come to
+                        destroy us? I know who you are-the Holy One of God!” <lb n="8"/></p>
+                </div>
+                <div n="25" type="verse">
+                    <p>“Be quiet!” said Jesus sternly. “Come out of him!” <lb n="9"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The impure spirit shook the man violently <lb n="10"/> and came out of him
+                        with a shriek.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>The people <lb n="11"/> were all so amazed that they asked <lb n="12"/> each
+                        other, “What is this? A new teaching <lb n="13"/>-and with authority! He
+                        even gives orders to impure spirits <lb n="14"/> and they obey him.”</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>News about <lb n="15"/> him spread quickly over the whole region of Galilee.
+                            <lb n="16"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>As soon as they left the synagogue, they went <lb n="17"/> with James and
+                        John to the home of Simon <lb n="18"/> and Andrew.</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Simon's mother-in-law <lb n="19"/> was in bed with a fever, and they
+                        immediately told Jesus about her. <lb n="20"/>
+                        <pb n="73v"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>So he went to her, took her hand <lb n="1"/> and helped her up. The fever
+                        left her and she began to wait on <lb n="2"/> them.</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>That evening after sunset <lb n="3"/> the people brought to Jesus all the
+                        sick <lb n="4"/> and demon-possessed. <lb n="5"/></p>
+                </div>
+                <div n="33" type="verse">
+                    <p>The whole town gathered at the door, <lb n="6"/></p>
+                </div>
+                <div n="34" type="verse">
+                    <p>and Jesus healed many who had various diseases.<lb n="7"/> He also drove out
+                        many demons, but <lb n="8"/> he would not let the demons speak because they
+                        knew who he was. <lb n="9"/></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Very early in the morning, while it was still dark, Jesus got up, left the
+                        house and went off <lb n="10"/> to a solitary place, where he prayed.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Simon and <lb n="11"/> his companions went to look for him,</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>and <lb n="12"/> when they found him, they exclaimed: <lb n="13"/> “Everyone
+                        is looking for you!”</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Jesus replied, “Let us go somewhere else-<lb n="14"/> to the nearby
+                        villages-so I can preach there also. <lb n="15"/> That is why I have
+                        come.”</p>
+                </div>
+                <div n="39" type="verse">
+                    <p>So he traveled throughout Galilee, preaching in their synagogues <lb n="16"/>
+                        and driving out demons. <lb n="17"/></p>
+                </div>
+                <div n="40" type="verse">
+                    <p>A man with leprosy came <lb n="18"/> to him and begged him on his knees, “If
+                        you are willing, you can make me clean.” <lb n="19"/></p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Jesus was indignant. He reached out his hand <lb n="20"/>
+                        <pb n="74r"/> and touched the man. “I am willing,” he said. “Be clean!”</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Immediately <lb n="1"/> the leprosy left him and he was cleansed <lb n="2"
+                        />.</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Jesus sent him away at once with a strong warning:</p>
+                </div>
+                <div n="44" type="verse">
+                    <p><lb n="3"/> “See that you don't tell this to anyone. But go, show <lb n="4"/>
+                        yourself to the priest and offer the sacrifices <lb n="5"/> that Moses
+                        commanded for your cleansing, as a testimony to <lb n="6"/> them.”</p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Instead he went out and began to talk freely, spreading <lb n="7"/> the news.
+                        As a result, Jesus could no longer <lb n="8"/> enter a town openly but
+                        stayed outside in lonely places. <lb n="9"/> Yet the people still came to
+                        him from everywhere. <lb n="10"/></p>
+                </div>
+            </div>
+            <div n="2" type="chapter">
+                <div n="1" type="verse">
+                    <p>A few days later, when Jesus again entered Capernaum, <hi rend="italics"> the
+                            people heard that he had come home.</hi>
+                        <note place="margin" type="gloss"> Italicized text not found in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="2" type="verse">
+                    <p>They gathered <lb n="11"/> in such large numbers that there was no room left
+                            <lb n="12"/> not even outside the door, <lb n="13"/> and he preached the
+                        word to them.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Some men came, <lb n="14"/> bringing to him a paralyzed man, <lb n="15"/>
+                        carried by four of them.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Since they could not <lb n="16"/> get him to Jesus because of the crowd, <lb
+                            n="17"/> they made an opening in the roof above Jesus by digging through
+                        it <lb n="18"/> and then lowered the mat the man was lying on.</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>When Jesus saw their faith <lb n="19"/>, he said to the paralyzed man, “Son,
+                            <lb n="20"/>
+                        <pb n="74v"/> your sins are forgiven.”</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Now some <lb n="1"/> teachers of the law were sitting there, thinking to <lb
+                            n="2"/> themselves,</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>“Why does this fellow talk like that? He's blaspheming! <lb n="3"/> Who can
+                        forgive sins but God alone?”</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Immediately <lb n="4"/> Jesus knew in his spirit that this was what they were
+                        thinking in their hearts, <lb n="5"/> and he said to them, “Why are you
+                        thinking these <lb n="6"/> things?</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Which is easier: to say to this paralyzed man, <lb n="7"/> 'Your sins are
+                        forgiven,' or to say, <lb n="8"/> 'Get up, take your mat and walk'? <lb
+                            n="9"/></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>But I want you to know that the Son <lb n="10"/> of Man has authority on
+                        earth to forgive sins.” So he said to the <lb n="11"/> man,</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>“I tell you, get up, take your <lb n="12"/> mat and go home.”</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>He got up, took his mat <lb n="13"/> and walked out in full view of them all
+                            <lb n="14"/>. This amazed everyone and they praised God, saying <lb
+                            n="15"/>, “We have never seen anything like this!” <lb n="16"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Once again Jesus went out beside the lake. A large crowd <lb n="17"/> came to
+                        him, and he began to teach them.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>As he walked along <lb n="18"/>, he saw Levi son of Alphaeus sitting at the
+                        tax collector's <lb n="19"/> booth. “Follow me,” Jesus told him, and Levi
+                        got up and followed him <lb n="20"/>
+                        <pb n="75r"/></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>While Jesus was having dinner at Levi's house <lb n="1"/>, many tax
+                        collectors and sinners were eating <lb n="2"/> with him and his disciples,
+                        for there were <lb n="3"/> many who followed him.</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>When the teachers of the law who were Pharisees <lb n="4"/> saw him eating
+                        with the sinners <lb n="5"/> and tax collectors, they asked his disciples:
+                            <lb n="6"/> “Why does he eat with tax collectors <lb n="7"/> and
+                        sinners?”</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>On hearing this, Jesus <lb n="8"/> said to them, “It is not the healthy who
+                        need a doctor, but the sick. <lb n="9"/> I have not come to call the
+                        righteous, but sinners.” <lb n="10"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Now John's disciples and the Pharisees <lb n="11"/> were fasting. Some people
+                        came and asked Jesus, “How is it that <lb n="12"/> John's disciples and the
+                        disciples of the Pharisees are fasting, <lb n="13"/> but yours are not?”</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Jesus answered, <lb n="14"/> “How can the guests of the bridegroom fast <lb
+                            n="15"/> while he is with them? They cannot, <lb n="16"/> so long as
+                        they have him with them. <lb n="17"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>But the time will come when the bridegroom will be taken <lb n="18"/> from
+                        them, and on that day they <lb n="19"/> will fast.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>“No one sews a patch <lb n="20"/>
+                        <pb n="76v"/> of unshrunk cloth on an old garment. Otherwise, <lb n="1"/>
+                        the new piece will pull away from the old, making the <lb n="2"/> tear
+                        worse.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>And no one pours new wine into <lb n="3"/> old wineskins. Otherwise, the wine
+                        will burst the skins, <lb n="4"/> and both the wine and the wineskins will
+                        be ruined. No, <lb n="5"/> they pour new wine into new wineskins.” <lb n="6"
+                        /></p>
+                </div>
+                <div n="23" type="verse">
+                    <p>One Sabbath Jesus was going through <lb n="7"/> the grainfields, and as his
+                        disciples walked along, they began <lb n="8"/> to pick some heads of
+                        grain.</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>The Pharisees <lb n="9"/> said to him, “Look, why are they doing what is <lb
+                            n="10"/> unlawful on the Sabbath?”</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>He answered, “Have you never <lb n="11"/> read what David did when he and his
+                        companions <lb n="12"/> were hungry and in need? <lb n="13"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>In the days of Abiathar the high priest, he entered the house of God <lb
+                            n="14"/> and ate the consecrated bread, <lb n="15"/> which is lawful <lb
+                            n="16"/> only for priests to eat. And he also gave some <lb n="17"/> to
+                        his companions.”</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Then he said to them, “The Sabbath <lb n="18"/> was made for man, not man <lb
+                            n="19"/> for the Sabbath.</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>So the Son of Man is Lord <lb n="20"/>
+                        <pb n="77r"/> even of the Sabbath.”</p>
+                </div>
+            </div>
+            <div n="3" type="chapter">
+                <div n="1" type="verse">
+                    <p>Another time Jesus went <lb n="1"/> into the synagogue, and a man with a
+                        shriveled hand <lb n="2"/> was there.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Some of them were looking for a reason to accuse Jesus, <lb n="3"/> so they
+                        watched him closely to see if he would heal him on the Sabbath.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Jesus said to the man with the shriveled <lb n="4"/> hand, “Stand up in front
+                        of everyone.”</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Then Jesus asked <lb n="5"/> them, “Which is lawful on the Sabbath: to do
+                        good or to do evil, <lb n="6"/> to save life or to kill?” But they remained
+                        silent. <lb n="7"/></p>
+                </div>
+                <div n="5" type="verse">
+                    <p>He looked around at them in anger and, deeply distressed at their <lb n="8"/>
+                        stubborn hearts, said to the man, “Stretch out <lb n="9"/> your hand.” He
+                        stretched it out, and <lb n="10"/> his hand was completely restored.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Then the Pharisees <lb n="11"/> went out and began to plot with the Herodians
+                            <lb n="12"/> how they might kill Jesus.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Jesus withdrew with his disciples <lb n="13"/> to the lake, and a large crowd
+                        from Galilee <lb n="14"/> followed.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>When they heard <lb n="15"/> about all he was doing, many people came to him
+                        from Judea, <lb n="16"/> Jerusalem, Idumea, and the regions across the
+                        Jordan and <lb n="17"/> around Tyre and Sidon.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Because of the crowd he told his disciples <lb n="18"/> to have a small boat
+                        ready for him, to <lb n="19"/> keep the people from crowding him.</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>For he had healed many <lb n="20"/>
+                        <pb n="76v"/>, so that those with diseases were pushing <lb n="1"/> forward
+                        to touch him.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Whenever the impure spirits <lb n="2"/> saw him, they fell down before him
+                        and <lb n="3"/> cried out, “You are the Son of God.”</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>But he gave them strict <lb n="4"/> orders not to tell others about him. <lb
+                            n="5"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Jesus went up on a mountainside and called to him <lb n="6"/> those he
+                        wanted, and they came to him.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>He appointed <lb n="7"/> twelve that they might be with him and that he might
+                        send them <lb n="8"/> out to preach</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>and to have authority <lb n="9"/> to drive out demons. <lb n="10"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>These are the twelve he appointed <lb n="11"/>: Simon (to whom he gave the
+                        name Peter), <lb n="12"/></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>James son of Zebedee and his brother John <lb n="13"/> (to them he gave the
+                        name Boanerges, which <lb n="14"/> means “sons of thunder”),</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Andrew, Philip, <lb n="15"/> Bartholomew, Matthew, Thomas, James <lb n="16"/>
+                        son of Alphaeus, Thaddaeus, Simon the Zealot <lb n="17"/></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>and Judas Iscariot, who betrayed him. <lb n="18"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Then Jesus entered a house, and again a crowd gathered, <lb n="19"/> so that
+                        he and his disciples were not even able to eat.<lb n="20"/>
+                        <pb n="77r"/></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>When his family heard about this, they went to take charge of him <lb n="1"
+                        />, for they said, “He is out of his mind.” <lb n="2"/></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>And the teachers of the law who came down from Jerusalem <lb n="3"/> said,
+                        “He is possessed by Beelzebul! By the prince <lb n="4"/> of demons he is
+                        driving out demons.” <lb n="5"/></p>
+                </div>
+                <div n="23" type="verse">
+                    <p>So Jesus called them over to him and began to speak to them in parables: <lb
+                            n="6"/> “How can Satan drive out Satan?</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>If a kingdom is divided against <lb n="7"/> itself, that kingdom cannot
+                        stand.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>If a house <lb n="8"/> is divided against itself, that <lb n="9"/> house
+                        cannot stand.</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>And if Satan opposes <lb n="10"/> himself and is divided, he cannot stand;
+                            <lb n="11"/> his end has come.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>In fact, no one can enter a strong <lb n="12"/> man's house without first
+                        tying him up. <lb n="13"/> Then he can plunder the strong man's house. <lb
+                            n="14"/></p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Truly I tell you, people can be forgiven <lb n="15"/> all their sins and
+                        every slander they <lb n="16"/> utter,</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>but whoever blasphemes against the <lb n="17"/> Holy Spirit will never be
+                        forgiven; <lb n="18"/> they are guilty of an eternal sin.”</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>He said this because they were saying, <lb n="19"/> “He has an impure
+                        spirit.”</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Then Jesus' mother and brothers arrived <lb n="20"/>
+                        <pb n="77v"/>. Standing outside, they sent someone <lb n="1"/> in to call
+                        him.</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>A crowd was sitting around him <lb n="2"/>, and they told him, “Your mother
+                        and brothers <lb n="3"/> are outside looking for you.”</p>
+                </div>
+                <div n="33" type="verse">
+                    <p><lb n="4"/> “Who are my mother and my brothers?” he asked. <lb n="5"/></p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Then he looked at those seated in a circle around him <lb n="6"/> and said,
+                        “Here are my mother and my brothers!</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Whoever <lb n="7"/> does God's will is my brother and <lb n="8"/> sister and
+                        mother.” <lb n="9"/></p>
+                </div>
+            </div>
+            <div n="4" type="chapter">
+                <div n="1" type="verse">
+                    <p>Again Jesus began to teach by the lake. The crowd <lb n="10"/> that gathered
+                        around him was so large that he got into a boat and sat in it out on the <lb
+                            n="11"/> lake, while all the people were along the shore at the water's
+                            <lb n="12"/> edge.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>He taught them many things by parables, and <lb n="13"/> in his teaching
+                        said:</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>“Listen! A farmer <lb n="14"/> went out to sow his seed.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>As he was scattering <lb n="15"/> the seed, some fell along the path, and <lb
+                            n="16"/> the birds came and ate it up.</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Some fell <lb n="17"/> on rocky places, where it did not have much soil. <lb
+                            n="18"/> It sprang up quickly, because <lb n="19"/> the soil was
+                        shallow.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>But when <lb n="20"/>
+                        <pb n="78r"/> the sun came up, the plants were scorched, and they withered
+                        because <lb n="1"/> they had no root.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Other seed fell among thorns, which <lb n="2"/> grew up and choked the
+                        plants, so that <lb n="3"/> they did not bear grain.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Still other seed fell on good soil. <lb n="4"/> It came up, grew and produced
+                        a crop <lb n="5"/>, some multiplying thirty, some sixty, some <lb n="6"/> a
+                        hundred times.”</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Then Jesus said, “Whoever has ears to hear, let <lb n="7"/> them hear.”</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>When he was alone, <lb n="8"/> the Twelve and the others around him asked him
+                        about the <lb n="9"/> parables.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>He told them, “The secret <lb n="10"/> of the kingdom of God has been given
+                        to you. But to those on the outside <lb n="11"/> everything is said in
+                        parables</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>so that,”'they may be ever seeing <lb n="12"/> but never perceiving, and ever
+                        hearing but <lb n="13"/> never understanding; otherwise they might turn and
+                        be <lb n="14"/> forgiven!'”</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Then Jesus said to them, “Don't you understand this parable <lb n="15"/>? How
+                        then will you understand any parable? <lb n="16"/></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>The farmer sows the word.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Some <lb n="17"/> people are like seed along the path, where the word <lb
+                            n="18"/> is sown. As soon as they hear it, Satan comes and takes away
+                            <lb n="19"/> the word that was sown in them. <lb n="20"/>
+                        <pb n="78v"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Others, like seed sown on rocky places, <lb n="1"/> hear the word and at once
+                        receive it with joy <lb n="2"/>.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>But since they have no root, <lb n="3"/> they last only a short time. When
+                        trouble <lb n="4"/> or persecution comes because of the word, <lb n="5"/>
+                        they quickly fall away.</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Still others, like seed sown among thorns <lb n="6"/>, hear the word;</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>but the worries <lb n="7"/> of this life, the deceitfulness of wealth and the
+                        desires for other things come in <lb n="8"/> and choke the word, <lb n="9"/>
+                        making it unfruitful.</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Others, like seed sown on <lb n="10"/> good soil, hear the word, <lb n="11"/>
+                        accept it, and produce a crop-some thirty <lb n="12"/>, some sixty, some a
+                        hundred times what was sown.”</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>He said to them, “Do <lb n="13"/> you bring in a lamp to put it <lb n="14"/>
+                        under a bowl or a bed? Instead, don't you put it on its stand? <lb n="15"
+                        /></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>For whatever is hidden is meant to be disclosed, <lb n="16"/> and whatever is
+                        concealed is meant to be brought out <lb n="17"/> into the open.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>If anyone has ears to hear, let them hear.” <lb n="18"/></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>“Consider carefully what you hear,” he continued. <lb n="19"/> “With the
+                        measure you use, it will be measured to <lb n="20"/>
+                        <pb n="79r"/> you-and even more.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Whoever has will be given <lb n="1"/> more; whoever does not have, even what
+                        they have will be taken <lb n="2"/> from them.”</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>He also said, “This is what the kingdom of God is like <lb n="3"/>. A man
+                        scatters seed on the ground. <lb n="4"/></p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Night and day, whether he sleeps or gets up, the seed <lb n="5"/> sprouts and
+                        grows, though he does not know how.</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>All by itself <lb n="6"/> the soil produces grain-first the stalk, then the
+                        head <lb n="7"/>, then the full kernel in the head.</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>As soon <lb n="8"/> as the grain is ripe, he puts the sickle to it, because
+                        the <lb n="9"/> harvest has come.”</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Again he said, “What shall we say the <lb n="10"/> kingdom of God is like, or
+                        what parable shall we use to describe it? <lb n="11"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>It is like a mustard seed, which is the <lb n="12"/> smallest of all seeds on
+                        earth.</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Yet when planted, <lb n="13"/> it grows and becomes the largest of all garden
+                        plants, <lb n="14"/> with such big branches that the <lb n="15"/> birds can
+                        perch in its shade.”</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>With many similar parables <lb n="16"/> Jesus spoke the word to them, as much
+                        as they could <lb n="17"/> understand.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>He did not say anything to them without using a parable <lb n="18"/>. But
+                        when he was alone with his own disciples, he explained <lb n="19"/>
+                        everything.</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>That day when evening came, he said to his disciples, <lb n="20"/>
+                        <pb n="79v"/> Let us go over to the other side.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Leaving the crowd behind <lb n="1"/>, they took him along, just as he was, in
+                        the boat. There were also other <lb n="2"/> boats with him.</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>A furious squall came up, <lb n="3"/> and the waves broke over the boat, so
+                        that it was <lb n="4"/> nearly swamped.</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Jesus was in the stern, <lb n="5"/> sleeping on a cushion. The disciples woke
+                        him and said to him, <lb n="6"/> “Teacher, don't you care if we drown?” <lb
+                            n="7"/></p>
+                </div>
+                <div n="39" type="verse">
+                    <p>He got up, rebuked the wind and said to the waves, <lb n="8"/> “Quiet! Be
+                        still!” Then the wind died down and it was <lb n="9"/> completely calm.</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>He said to his disciples, “Why are you so afraid? <lb n="10"/> Do you still
+                        have no faith?”</p>
+                </div>
+                <div n="41" type="verse">
+                    <p>They were terrified <lb n="11"/> and asked each other, “Who is this? <lb
+                            n="12"/> Even the wind and the waves obey him!” <lb n="13"/></p>
+                </div>
+            </div>
+            <div n="5" type="chapter">
+                <div n="1" type="verse">
+                    <p>They went across the lake to the region of the Gerasenes <lb n="14"/></p>
+                </div>
+                <div n="2" type="verse">
+                    <p>When Jesus got out of the boat <lb n="15"/> a man with an impure spirit came
+                        from the tombs to meet him.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>This <lb n="16"/> man lived in the tombs, and no one <lb n="17"/> could bind
+                        him anymore, not even with a chain. <lb n="18"/></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>For he had often been chained hand and foot, but he tore the chains <lb
+                            n="19"/> apart and broke the irons on his feet. <lb n="20"/>
+                        <pb n="80r"/> No one was strong enough to subdue him.</p>
+                </div>
+                <div n="5" type="verse">
+                    <p><lb n="1"/> Night and day among the tombs and in the hills <lb n="2"/> he
+                        would cry out and cut himself with stones. <lb n="3"/></p>
+                </div>
+                <div n="6" type="verse">
+                    <p>When he saw Jesus from a distance, he ran and fell on his knees in front <lb
+                            n="4"/> of him.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>He shouted at the top of his voice, “What do you want with me <lb n="5"/>,
+                        Jesus, Son of the Most High God? In God's name don't <lb n="6"/> torture
+                        me!”</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>For Jesus had said to him, “Come out of this man, you impure <lb n="7"/>
+                        spirit!”</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Then Jesus asked him, <lb n="8"/> “What is your name?” “My name is Legion,”
+                        he replied, <lb n="9"/> “for we are many.”</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>And he begged Jesus again and again <lb n="10"/> not to send them out of the
+                        area.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>A large herd <lb n="11"/> of pigs was feeding on the nearby hillside. <lb
+                            n="12"/></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>The demons begged Jesus, “Send us among the <lb n="13"/> pigs; allow us to go
+                        into them.”</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>He gave them <lb n="14"/> permission, and the impure spirits came out and
+                        went <lb n="15"/> into the pigs. The herd, about two thousand in number, <lb
+                            n="16"/> rushed down the steep bank into the lake and were drowned. <lb
+                            n="17"/></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Those tending the pigs ran off and reported this <lb n="18"/> in the town and
+                        countryside, and the people went out to see what <lb n="19"/> had
+                        happened.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>When they came to Jesus, they saw the man <lb n="20"/>
+                        <pb n="80v"/> who had been possessed by the legion of demons, sitting there,
+                        dressed <lb n="1"/> and in his right mind; and they were afraid.</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Those who had seen <lb n="2"/> it told the people what had happened to the
+                            <lb n="3"/> demon-possessed man-and told about the pigs as well.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Then the <lb n="4"/> people began to plead with Jesus to leave their region.
+                            <lb n="5"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>As Jesus was getting into the boat, the man <lb n="6"/> who had been
+                        demon-possessed begged to go <lb n="7"/> with him.</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Jesus did not let him, but said, <lb n="8"/> “Go home to your own people and
+                        tell them <lb n="9"/> how much the Lord has done for you, and how he has had
+                        mercy on you.” <lb n="10"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>So the man went away and began to tell in the Decapolis how much <lb n="11"/>
+                        Jesus had done for him. And all the people were amazed. <lb n="12"/></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>When Jesus had again crossed over by boat to the other side <lb n="13"/> of
+                        the lake, a large crowd gathered around him while he was <lb n="14"/> by the
+                        lake.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Then one of the synagogue leaders <lb n="15"/>, named Jairus, came, and when
+                        he saw Jesus, he fell at <lb n="16"/> his feet.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>He pleaded earnestly with him, <lb n="17"/> “My little daughter is dying.
+                        Please come and put your <lb n="18"/> hands on her so that she will be
+                        healed and live.” <lb n="19"/></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>So Jesus went with him. A large crowd followed <lb n="20"/>
+                        <pb n="81r"/> and pressed around him.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>And a woman was there <lb n="1"/> who had been subject to bleeding for twelve
+                        years.</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>She had <lb n="2"/> suffered a great deal under the care of many doctors <lb
+                            n="3"/> and had spent all she had, yet instead of getting better <lb
+                            n="4"/> she grew worse.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>When she heard <lb n="5"/> about Jesus, she came up behind him in the crowd
+                        and touched <lb n="6"/> his cloak,</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>because she thought, “If <lb n="7"/> I just touch his clothes, I will be
+                        healed.”</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Immediately <lb n="8"/> her bleeding stopped and she felt <lb n="9"/> in her
+                        body that she was freed from her suffering.</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>At once <lb n="10"/> Jesus realized that power had gone out from him. <lb
+                            n="11"/> He turned around in the crowd and asked, <lb n="12"/> “Who
+                        touched my clothes?”</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>“You see the people <lb n="13"/> crowding against you,” his disciples
+                        answered, “and yet you can ask, '<lb n="14"/> Who touched me?' “</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>But Jesus kept looking around to see <lb n="15"/> who had done it.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Then the woman, <lb n="16"/> knowing what had happened to her, came and <lb
+                            n="17"/> fell at his feet and, trembling with fear, told him the whole
+                        truth.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>He <lb n="18"/> said to her, “Daughter, your faith has healed you. <lb n="19"
+                        /> Go in peace and be freed from your suffering.”</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>While <lb n="20"/>
+                        <pb n="81v"/> Jesus was still speaking, some people came from the house of
+                        Jairus, the synagogue leader. <lb n="1"/> “Your daughter is dead,” they
+                        said. “Why bother the <lb n="2"/> teacher anymore?”</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Overhearing what they said <lb n="3"/>, Jesus told him, “Don't be afraid;
+                        just <lb n="4"/> believe.”</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>He did not let anyone follow him <lb n="5"/> except Peter, James and John the
+                        brother of <lb n="6"/> James.</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>When they came to the home of the synagogue leader, Jesus saw a <lb n="7"/>
+                        commotion, with people crying and wailing loudly. <lb n="8"/></p>
+                </div>
+                <div n="39" type="verse">
+                    <p>He went in and said to them, “Why all this commotion and wailing? The child
+                            <lb n="9"/> is not dead but asleep.”</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>But they laughed <lb n="10"/> at him. After he put them all out, he took the
+                        child's father <lb n="11"/> and mother and the disciples who were with him,
+                        and went in <lb n="12"/> where the child was.</p>
+                </div>
+                <div n="41" type="verse">
+                    <p>He took her by the hand <lb n="13"/> and said to her, “Talitha koum!” (which
+                        means “Little girl, I say to you, <lb n="14"/> get up!”).</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Immediately the girl stood up and began to walk <lb n="15"/> around (she was
+                        twelve years old). At this they were <lb n="16"/> completely astonished.</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>He gave strict orders <lb n="17"/> not to let anyone know about this, and
+                        told them to give her something to eat. <lb n="18"/></p>
+                </div>
+            </div>
+            <div n="6" type="chapter">
+                <div n="1" type="verse">
+                    <p>Jesus left there and went to his hometown, accompanied by <lb n="19"/> his
+                        disciples.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>When the Sabbath came <lb n="20"/>
+                        <pb n="82r"/>, he began to teach in the synagogue, and many who heard him
+                            <lb n="1"/> were amazed. “Where did this man get these things?” they
+                        asked. <lb n="2"/> “What's this wisdom that has been given him? What <lb
+                            n="3"/> are these remarkable miracles he is performing? <lb n="4"/></p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Isn't this the carpenter? Isn't this Mary's <lb n="5"/> son and the brother
+                        of James, Joseph, Judas and Simon? <lb n="6"/> Aren't his sisters here with
+                        us?” And they took offense <lb n="7"/> at him.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Jesus said to them, “A prophet is not <lb n="8"/> without honor except in his
+                        own town, among his <lb n="9"/> relatives and in his own home.”</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>He could not <lb n="10"/> do any miracles there, except lay his hands on a
+                        few <lb n="11"/> sick people and heal them.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p><lb n="12"/> He was amazed at their lack of faith. Then Jesus went <lb n="13"
+                        /> around teaching from village to village. <lb n="14"/></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Calling the Twelve to him, he began to send them out two by two <lb n="15"/>
+                        and gave them authority over impure spirits.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>These were <lb n="16"/> his instructions: “Take nothing for the journey
+                        except a staff- <lb n="17"/> no bread, no bag, no money in your belts. <lb
+                            n="18"/></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Wear sandals but not an extra <lb n="19"/> shirt.</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Whenever you enter a <lb n="20"/>
+                        <pb n="82v"/> house, stay there until you leave that town. <lb n="1"/></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>And if any place will not welcome you <lb n="2"/> or listen to you, leave
+                        that place and shake the <lb n="3"/> dust off your feet as a testimony
+                        against them.” <lb n="4"/></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>They went out and preached that people should repent. <lb n="5"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>They drove out many demons and anointed <lb n="6"/> many sick people with oil
+                        and healed them.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>King Herod heard <lb n="7"/> about this, for Jesus' name had become well
+                        known <lb n="8"/>. Some were saying, “John the Baptist has been raised from
+                            <lb n="9"/> the dead, and that is why miraculous powers are at work in
+                        him.” <lb n="10"/></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Others said, “He is Elijah.” And still others <lb n="11"/> claimed, “He is a
+                        prophet, like one of the prophets of long ago.” <lb n="12"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>But when Herod heard this, he said, “John, <lb n="13"/> whom I beheaded, has
+                        been raised from the dead!”</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>For Herod <lb n="14"/> himself had given orders to have John arrested, and he
+                        had him bound <lb n="15"/> and put in prison. He did this because of
+                        Herodias, his brother Philip's <lb n="16"/> wife, whom he had married. <lb
+                            n="17"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>For John had been saying to Herod, “It is not lawful for you <lb n="18"/> to
+                        have your brother's wife.”</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>So Herodias <lb n="19"/> nursed a grudge against John and wanted to kill him.
+                        But she was not <lb n="20"/>
+                        <pb n="83r"/> able to,</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>because Herod feared John <lb n="1"/> and protected him, knowing him to be a
+                        righteous and holy man. When Herod <lb n="2"/> heard John, he was greatly
+                        puzzled; yet he liked to <lb n="3"/> listen to him.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Finally the opportune time came. On his birthday <lb n="4"/> Herod gave a
+                        banquet for his high officials and military commanders <lb n="5"/> and the
+                        leading men of Galilee.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>When the daughter <lb n="6"/> of Herodias came in and danced, she pleased <lb
+                            n="7"/> Herod and his dinner guests. The king said to the girl, <lb
+                            n="8"/> “Ask me for anything you want, and I'll give it to you.”</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>And he promised <lb n="9"/> her with an oath, “Whatever you ask I will give
+                            <lb n="10"/> you, up to half my kingdom.”</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>She went out <lb n="11"/> and said to her mother, “What shall I ask for?”
+                        “The head of <lb n="12"/> John the Baptist,” she answered.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>At once the girl hurried in <lb n="13"/> to the king with the request: “I
+                        want you <lb n="14"/> to give me right now the head of John the Baptist on a
+                        platter.” <lb n="15"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The king was greatly distressed, but because of his oaths and <lb n="16"/>
+                        his dinner guests, he did not want to refuse <lb n="17"/> her.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>So he immediately sent an executioner with orders to bring John's <lb n="18"
+                        /> head. The man went, beheaded John in the prison,</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>and brought back his <lb n="19"/> head on a platter. He presented <lb n="20"/>
+                        <pb n="83v"/> it to the girl, and she gave it to her mother. <lb n="1"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>On hearing of this, John's disciples came and took <lb n="2"/> his body and
+                        laid it in a tomb. <lb n="3"/></p>
+                </div>
+                <div n="30" type="verse">
+                    <p>The apostles gathered around Jesus <lb n="4"/> and reported to him all they
+                        had done and taught. <lb n="5"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Then, because so many people were coming and <lb n="6"/> going that they did
+                        not even have a chance to eat, he said to them <lb n="7"/>, “Come with me by
+                        yourselves to a quiet place and get <lb n="8"/> some rest.”</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>So they went away by themselves in a boat <lb n="9"/> to a solitary
+                        place.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>But many who saw <lb n="10"/> them leaving recognized them and ran on foot
+                            <lb n="11"/> from all the towns and got there ahead of <lb n="12"/>
+                        them.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>When Jesus landed and saw a large crowd, he <lb n="13"/> had compassion on
+                        them, because they were like sheep without a <lb n="14"/> shepherd. So he
+                        began teaching them many things.</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>By this <lb n="15"/> time it was late in the day, so his disciples came to
+                        him. <lb n="16"/> “This is a remote place,” they said, “and it's already
+                        very <lb n="17"/> late.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Send the people away so that they can go to the surrounding <lb n="18"/>
+                        countryside and villages and buy themselves something to eat.” <lb n="19"
+                        /></p>
+                </div>
+                <div n="37" type="verse">
+                    <p>But he answered, “You give them something <lb n="20"/>
+                        <pb n="84r"/> to eat.” <lb n="1"/></p>
+                </div>
+                <div n="38" type="verse">
+                    <p>“How many <lb n="2"/> loaves do you have?” <lb n="3"/> he asked. “Go and
+                        see.” When they found out, they said, <lb n="4"/> “Five-and two fish.”</p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Then Jesus directed them <lb n="5"/> to have all the people sit down in
+                        groups <lb n="6"/> on the green grass.</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>So they sat down <lb n="7"/> in groups of hundreds and <lb n="8"/>
+                        fifties.</p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Taking the five loaves and the <lb n="9"/> two fish and looking up to heaven,
+                        he gave thanks <lb n="10"/> and broke the loaves. Then he gave them to his
+                        disciples to distribute to <lb n="11"/> the people. He also divided the two
+                        fish among them all.</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>They all ate <lb n="12"/> and were satisfied,</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>and the disciples <lb n="13"/> picked up twelve basketfuls of broken pieces
+                        of <lb n="14"/> bread and fish.</p>
+                </div>
+                <div n="44" type="verse">
+                    <p>The number <lb n="15"/> of the men who had eaten was five thousand. <lb
+                            n="16"/></p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Immediately Jesus made his disciples get into the boat <lb n="17"/> and go on
+                        ahead of him to Bethsaida, <lb n="18"/> while he dismissed the crowd. <lb
+                            n="19"/></p>
+                </div>
+                <div n="46" type="verse">
+                    <p>After leaving them, he went up on a mountainside to pray. <lb n="20"/>
+                        <pb n="84r"/></p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Later that night, the boat was in the middle of the lake, <lb n="1"/> and he
+                        was alone on land.</p>
+                </div>
+                <div n="48" type="verse">
+                    <p>He saw the disciples straining <lb n="2"/> at the oars, because the wind was
+                        against <lb n="3"/> them. Shortly before dawn he went <lb n="4"/> out to
+                        them, walking on the lake. He was about to pass by <lb n="5"/> them,</p>
+                </div>
+                <div n="49" type="verse">
+                    <p>but when they saw him walking <lb n="6"/> on the lake, they thought he was a
+                        ghost. They cried out, <lb n="7"/></p>
+                </div>
+                <div n="50" type="verse">
+                    <p>because they all saw him and were terrified. <lb n="8"/> Immediately he spoke
+                        to them and <lb n="9"/> said, “Take courage! It is I. Don't be afraid.” <lb
+                            n="10"/></p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Then he climbed into the boat with them, and the wind <lb n="11"/> died down.
+                        They were completely amazed,</p>
+                </div>
+                <div n="52" type="verse">
+                    <p>for they had not understood <lb n="12"/> about the loaves; their hearts were
+                            <lb n="13"/> hardened.</p>
+                </div>
+                <div n="53" type="verse">
+                    <p>When they had crossed over, they <lb n="14"/> landed at Gennesaret and
+                        anchored there.</p>
+                </div>
+                <div n="54" type="verse">
+                    <p>As soon as <lb n="15"/> they got out of the boat, people recognized Jesus.
+                            <lb n="16"/></p>
+                </div>
+                <div n="55" type="verse">
+                    <p>They ran throughout that whole region <lb n="17"/> and carried the sick on
+                        mats <lb n="18"/> to wherever they heard he was. <lb n="19"/></p>
+                </div>
+                <div n="56" type="verse">
+                    <p>And wherever he went-into villages, towns <lb n="20"/>
+                        <pb n="85r"/> or countryside-they placed the sick <lb n="1"/> in the
+                        marketplaces. They begged him to let them touch <lb n="2"/> even the edge of
+                        his cloak, and all who touched <lb n="3"/> it were healed.</p>
+                </div>
+            </div>
+            <div n="7" type="chapter">
+                <div n="1" type="verse">
+                    <p>The Pharisees and some of <lb n="4"/> the teachers of the law who had come
+                        from Jerusalem gathered around Jesus <lb n="5"/></p>
+                </div>
+                <div n="2" type="verse">
+                    <p>and saw some of his disciples <lb n="6"/> eating food with hands that were
+                            <lb n="7"/> defiled, that is, unwashed.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>(The Pharisees <lb n="8"/> and all the Jews do not eat unless they give their
+                        hands <lb n="9"/> a ceremonial washing, holding to the tradition of the <lb
+                            n="10"/> elders.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>When they come from the marketplace they do not eat <lb n="11"/> unless they
+                        wash. And they observe many other traditions <lb n="12"/>, such as the
+                        washing of cups <lb n="13"/>, pitchers and kettles.</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>So the Pharisees <lb n="14"/> and teachers of the law asked Jesus, “Why don't
+                        your disciples <lb n="15"/> live according to the tradition of the elders
+                            <lb n="16"/> instead of eating their food with defiled <lb n="17"/>
+                        hands?”</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>He replied, <lb n="18"/> “Isaiah was right when he prophesied about you
+                            hypocrites;<lb n="19"/> as it is written: “'These people honor me with
+                        their lips, but their hearts <lb n="20"/>
+                        <pb n="85v"/> are far from me.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>They worship me in vain; <lb n="1"/> their teachings are merely human rules.'
+                            <lb n="2"/></p>
+                </div>
+                <div n="8" type="verse">
+                    <p>You have let go of the commands of God <lb n="3"/> and are holding on to
+                        human traditions.” <lb n="4"/><note place="margin" type="gloss"> A portion
+                            of this verse is found in the Latin Vulgate but not in the NIV
+                            translation. </note>
+                        <lb n="5"/></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>And he continued, “You have a fine way of setting aside the commands <lb
+                            n="6"/> of God in order to observe your own traditions!</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>For Moses <lb n="7"/> said, 'Honor your father <lb n="8"/> and mother,' and,
+                        'Anyone who curses their father or mother is to be put to death.' <lb n="9"
+                        /></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>But you say that if anyone declares that what might have been used to help
+                        their father <lb n="10"/> or mother is Corban that is, <lb n="11"/> devoted
+                        to God</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>then you no longer let <lb n="12"/> them do anything for their father or
+                        mother.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Thus you nullify <lb n="13"/> the word of God by your tradition <lb n="14"/>
+                        that you have handed down. And you do <lb n="15"/> many things like
+                        that.”</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Again Jesus called the crowd to him and said, <lb n="16"/> “Listen to me,
+                        everyone, and understand this.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Nothing <lb n="17"/> outside a person can defile <lb n="18"/> them by going
+                        into them. Rather, it is what comes out of <lb n="19"/> a person that <lb
+                            n="20"/>
+                        <pb n="86r"/> defiles them.”</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>
+                        <lb n="1"/><note place="margin" type="gloss"> This verse is found in the
+                            Latin Vulgate but not in the NIV translation. </note></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>After he had left the crowd and entered the house, his disciples asked <lb
+                            n="2"/> him about this parable.</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>“Are <lb n="3"/> you so dull?” he asked. “Don't you see that <lb n="4"/>
+                        nothing that enters a person <lb n="5"/> from the outside can defile <lb
+                            n="6"/> them?</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>For it doesn't go into their heart but into their stomach, <lb n="7"/> and
+                        then out of the body.” In saying this, Jesus declared all foods clean.</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>He went on <lb n="8"/>: “What comes out of a person is what defiles <lb n="9"
+                        /> them.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>For it is from within, out of a person's heart, <lb n="10"/> that evil
+                        thoughts come-sexual immorality, <lb n="11"/> theft, murder,</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>adultery, <lb n="12"/> greed, malice, deceit, lewdness, envy, slander, <lb
+                            n="13"/> arrogance and folly</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>All these evils come <lb n="14"/> from inside and defile a person.”</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Jesus left <lb n="15"/> that place and went to the vicinity of Tyre. He
+                        entered <lb n="16"/> a house and did not want anyone to know it; yet he
+                        could not keep his presence <lb n="17"/> secret.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>In fact, as soon as she heard about him, a woman whose <lb n="18"/> little
+                        daughter was possessed by an impure spirit came and fell <lb n="19"/> at his
+                        feet.</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The woman was a <lb n="20"/>
+                        <pb n="86v"/> Greek, born in Syrian Phoenicia. She begged Jesus to drive the
+                        demon <lb n="1"/> out of her daughter.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>“<lb n="2"/> First let the children eat all they want,” he told her, “for it
+                        is not right <lb n="3"/> to take the children's bread and toss it to the
+                        dogs.” <lb n="4"/></p>
+                </div>
+                <div n="28" type="verse">
+                    <p>“Lord,” she replied, <lb n="5"/> “even the dogs under the table eat the
+                        children's crumbs.” <lb n="6"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Then he told her, “For such a reply, you may go; <lb n="7"/> the demon has
+                        left your daughter.”</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>She went <lb n="8"/> home and found her child lying on <lb n="9"/> the bed,
+                        and the demon gone.</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Then <lb n="10"/> Jesus left the vicinity of Tyre and went through Sidon,
+                        down <lb n="11"/> to the Sea of Galilee and into the region of the
+                        Decapolis. <lb n="12"/></p>
+                </div>
+                <div n="32" type="verse">
+                    <p>There some people brought to him a man who was deaf and could hardly talk,<lb
+                            n="13"/> and they begged Jesus to place his hand on him.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>After he took <lb n="14"/> him aside, away from the crowd, Jesus put his
+                        fingers <lb n="15"/> into the man's ears. Then he spit and touched <lb
+                            n="16"/> the man's tongue.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>He looked up to heaven and with a deep sigh <lb n="17"/> said to him,
+                        “Ephphatha!” which means “Be opened!”. <lb n="18"/></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>At this, the man's ears were opened, his tongue <lb n="19"/> was loosened and
+                        he began to speak <lb n="20"/>
+                        <pb n="87r"/> plainly.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Jesus commanded them not to tell anyone. But <lb n="1"/> the more he did so,
+                        the more they kept <lb n="2"/> talking about it.</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>People were overwhelmed with amazement. <lb n="3"/> “He has done everything
+                        well,” they said. “He even makes the deaf hear <lb n="4"/> and the mute
+                        speak.”</p>
+                </div>
+            </div>
+            <div n="8" type="chapter">
+                <div n="1" type="verse">
+                    <p>During those days another <lb n="5"/> large crowd gathered. Since they had
+                        nothing to eat, Jesus <lb n="6"/> called his disciples to him and said,</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>“I have compassion <lb n="7"/> for these people; they have already been with
+                        me three days <lb n="8"/> and have nothing to eat.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>If I send <lb n="9"/> them home hungry, they will collapse <lb n="10"/> on
+                        the way, because some of them have come a long distance.” <lb n="11"/></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>His disciples answered, “But where in this <lb n="12"/> remote place can
+                        anyone get enough bread to feed them?” <lb n="13"/></p>
+                </div>
+                <div n="5" type="verse">
+                    <p>“How many loaves do you have?” Jesus asked. <lb n="14"/></p>
+                </div>
+                <div n="6" type="verse">
+                    <p>He told the crowd to sit down <lb n="15"/> on the ground. When he had taken
+                        the seven <lb n="16"/> loaves and given thanks, he broke them and gave them
+                        to his disciples <lb n="17"/> to distribute to the people, and they did <lb
+                            n="18"/> so.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>They had a few small fish as well; <lb n="19"/> he gave thanks for them also
+                        and told the disciples to distribute them.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>The people ate <lb n="20"/>
+                        <pb n="87v"/> and were satisfied. Afterward the <lb n="1"/> disciples picked
+                        up seven basketfuls of broken pieces <lb n="2"/> that were left over.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>About <lb n="3"/> four thousand were present. After he had <lb n="4"/> sent
+                        them away,</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>he got into the boat with <lb n="5"/> his disciples and went to the region of
+                        Dalmanutha. <lb n="6"/></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>The Pharisees came and began <lb n="7"/> to question Jesus. To test him, they
+                        asked him for <lb n="8"/> a sign from heaven.</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>He sighed deeply and said, <lb n="9"/> “Why does this generation ask for a
+                        sign? Truly I tell <lb n="10"/> you, no sign will be given to it.”</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Then <lb n="11"/> he left them, got back into the boat and crossed to the <lb
+                            n="12"/> other side.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>The disciples had forgotten to bring <lb n="13"/> bread, except for one loaf
+                        they had with <lb n="14"/> them in the boat.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>“Be careful,” Jesus warned them. <lb n="15"/> “Watch out for the yeast of the
+                        Pharisees and that of Herod.” <lb n="16"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>They discussed this with one another and said <lb n="17"/>, “It is because we
+                        have no bread.”</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Aware <lb n="18"/> of their discussion, Jesus asked them: <lb n="19"/> “Why
+                        are you talking about having no bread? <lb n="20"/>
+                        <pb n="88r"/> Do you still not see or understand? Are your <lb n="1"/>
+                        hearts hardened?</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Do you have eyes but fail to see <lb n="2"/>, and ears but fail to hear? And
+                        don't you <lb n="3"/> remember?</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>When I broke the five loaves for <lb n="4"/> the five thousand, how many <lb
+                            n="5"/> basketfuls of pieces did you pick up?”</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>“And <lb n="6"/>when I broke the seven loaves for the four thousand, <lb
+                            n="7"/> how many basketfuls of pieces did you pick up?” <lb n="8"/> They
+                        answered, “Seven.”</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>He said to them, <lb n="9"/> “Do you still not understand?” <lb n="10"/></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>They came to Bethsaida, and some people brought a blind man and <lb n="11"/>
+                        begged Jesus to touch him.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>He took the blind man by the hand <lb n="12"/> and led him outside the
+                        village. When he had spit on the man's <lb n="13"/> eyes and put his hands
+                        on him, Jesus asked, <lb n="14"/> “Do you see anything?”</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>He looked up and said, <lb n="15"/> “I see people; they look like trees
+                        walking around.”</p>
+                </div>
+                <div n="25" type="verse">
+                    <p><lb n="16"/> Once more Jesus put his hands on the man's eyes. Then his eyes
+                            <lb n="17"/> were opened, his sight was restored, and he saw <lb n="18"
+                        /> everything clearly.</p>
+                </div>
+                <div n="26" type="verse">
+                    <p><lb n="19"/> Jesus sent him home, saying <lb n="20"/>
+                        <pb n="88v"/> “Don't even go into the village.”<lb n="1"/></p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Jesus and his disciples went on to the villages <lb n="2"/> around Caesarea
+                        Philippi. On the way he asked them, <lb n="3"/> “Who do people say I
+                        am?”</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>They replied, <lb n="4"/> “Some say John the Baptist; others say <lb n="5"/>
+                        Elijah; and still others, one of the prophets.”</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>“But <lb n="6"/> what about you?” he asked. “Who do you say I am?” <lb n="7"
+                        /> Peter answered, “You are the Messiah.”</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Jesus warned <lb n="8"/> them not to tell anyone about him.</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>He then began to teach <lb n="9"/> them that the Son of Man must suffer many
+                        things <lb n="10"/> and be rejected by the elders, <lb n="11"/> the chief
+                        priests and the teachers of the law, and that he must be killed and after
+                        three <lb n="12"/> days rise again.</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>He spoke plainly about this <lb n="13"/>, and Peter took him aside and began
+                        to rebuke <lb n="14"/> him.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>But when Jesus turned and looked at his disciples <lb n="15"/>, he rebuked
+                        Peter. “Get behind <lb n="16"/> me, Satan!” he said. “You do not have in
+                        mind the concerns of God, <lb n="17"/> but merely human concerns.” <lb
+                            n="18"/></p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Then he called the crowd to him along with his disciples and said: <lb n="19"
+                        /> “Whoever wants to be my disciple must deny themselves and take up <lb
+                            n="20"/>
+                        <pb n="89r"/> their cross and follow me.</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>For whoever <lb n="1"/> wants to save their life will lose it, <lb n="2"/>
+                        but whoever loses their life for <lb n="3"/> me and for the gospel will save
+                        it. <lb n="4"/></p>
+                </div>
+                <div n="36" type="verse">
+                    <p>What good is it for someone to gain <lb n="5"/> the whole world, yet forfeit
+                        their soul? <lb n="6"/></p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Or what can anyone give in exchange for <lb n="7"/> their soul?</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>If anyone is ashamed of me <lb n="8"/> and my words in this adulterous and
+                            <lb n="9"/> sinful generation, the Son of Man will be ashamed of them
+                        when <lb n="10"/> he comes in his Father's glory with the holy angels.” <lb
+                            n="11"/></p>
+                </div>
+                <div n="39" type="verse">
+                    <p><note place="margin" type="gloss"> This verse is found in the Latin Vulgate
+                            but not in the NIV translation. </note><lb n="12"/>
+                        <lb n="13"/>
+                        <lb n="14"/></p>
+                </div>
+            </div>
+            <div n="9" type="chapter">
+                <div n="1" type="verse">
+                    <p><hi rend="italic"> And he said to them, “Truly I tell you, some who are
+                            standing here will not taste death before they see that the kingdom of
+                            God has come with power.”</hi>
+                        <note place="margin" type="gloss"> Italicized text not in Latin Vulgate.
+                        </note></p>
+                </div>
+                <div n="2" type="verse">
+                    <p>After six days Jesus took Peter <lb n="15"/>, James and John with him and led
+                        them up a high <lb n="16"/> mountain, where they were all alone. There he
+                        was transfigured <lb n="17"/> before them.<note place="margin" type="gloss">
+                            Mark 9:2 is Mark 9:1 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="3" type="verse">
+                    <p>His clothes <lb n="18"/> became dazzling white, whiter <lb n="19"/> than
+                        anyone in the world could bleach them. <lb n="20"/>
+                        <pb n="89v"/><note place="margin" type="gloss"> Mark 9:3 is Mark 9:2 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>And there appeared before them Elijah and Moses <lb n="1"/>, who were talking
+                        with Jesus.<note place="margin" type="gloss"> Mark 9:4 is Mark 9:3 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Peter said to Jesus, “Rabbi, <lb n="2"/> it is good for us to be here. Let us
+                        put up three shelters <lb n="3"/> -one for you, one for Moses and one for
+                        Elijah.” <lb n="4"/><note place="margin" type="gloss"> Mark 9:5 is Mark 9:4
+                            in the Latin Vulgate. </note></p>
+                </div>
+                <div n="6" type="verse">
+                    <p>He did not know <lb n="5"/> what to say, they were so frightened.<note
+                            place="margin" type="gloss"> Mark 9:6 is Mark 9:5 in the Latin Vulgate.
+                        </note></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Then a cloud appeared <lb n="6"/> and covered them, and a voice came from the
+                        cloud: “This <lb n="7"/> is my Son, whom I love. Listen to him!”<note
+                            place="margin" type="gloss"> Mark 9:7 is Mark 9:6 in the Latin Vulgate.
+                        </note></p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Suddenly, when they looked around <lb n="8"/>, they no longer saw <lb n="9"/>
+                        anyone with them except Jesus.<note place="margin" type="gloss"> Mark 9:8 is
+                            Mark 9:7 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>As they were coming down <lb n="10"/> the mountain, Jesus gave them orders
+                        not to tell anyone <lb n="11"/> what they had seen until the Son of Man <lb
+                            n="12"/> had risen from the dead. <lb n="13"/><note place="margin"
+                            type="gloss"> Mark 9:9 is Mark 9:8 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>They kept the matter to themselves, discussing what <lb n="14"/> “rising from
+                        the dead” meant. <lb n="15"/><note place="margin" type="gloss"> Mark 9:10 is
+                            Mark 9:9 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>And they asked him, “Why do the teachers of the law <lb n="16"/> say that
+                        Elijah must come first?”<note place="margin" type="gloss"> Mark 9:11 is Mark
+                            9:10 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Jesus replied, <lb n="17"/> “To be sure, Elijah does come first, <lb n="18"/>
+                        and restores all things. Why then is it written that <lb n="19"/> the Son of
+                        Man must suffer much and be rejected? <lb n="20"/>
+                        <pb n="90r"/><note place="margin" type="gloss"> Mark 9:12 is Mark 9:11 in
+                            the Latin Vulgate. </note></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>But I tell you, Elijah has come, and they have done <lb n="1"/> to him
+                        everything they wished, just as it is written <lb n="2"/> about him.” <lb
+                            n="3"/><note place="margin" type="gloss"> Mark 9:13 is Mark 9:12 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>When they came to the other disciples, they saw a large crowd <lb n="4"/>
+                        around them and the teachers of the law arguing with them.<note
+                            place="margin" type="gloss"> Mark 9:14 is Mark 9:13 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>As soon as all the people <lb n="5"/> saw Jesus, they were overwhelmed with
+                        wonder <lb n="6"/> and ran to greet him.<note place="margin" type="gloss">
+                            Mark 9:15 is Mark 9:14 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>“What <lb n="7"/> are you arguing with them about?” he asked. <lb n="8"
+                            /><note place="margin" type="gloss"> Mark 9:16 is Mark 9:15 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>A man in the crowd answered, “Teacher, I brought you <lb n="9"/> my son, who
+                        is possessed by a spirit that has robbed him of speech. <lb n="10"/><note
+                            place="margin" type="gloss"> Mark 9:17 is Mark 9:16 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Whenever it seizes him, it throws him <lb n="11"/> to the ground. He foams at
+                        the mouth, gnashes his teeth and becomes rigid. I asked <lb n="12"/> your
+                        disciples to drive out the spirit, but they could not.” <lb n="13"/><note
+                            place="margin" type="gloss"> Mark 9:18 is Mark 9:17 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>“You unbelieving generation,” Jesus replied, <lb n="14"/> “how long shall I
+                        stay with you? <lb n="15"/> How long shall I put up with you? Bring the boy
+                        to me.”<note place="margin" type="gloss"> Mark 9:19 is Mark 9:18 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>So they brought him. <lb n="16"/> When the spirit saw Jesus, it immediately
+                            <lb n="17"/> threw the boy into a convulsion. He fell to the ground and
+                        rolled around, foaming at the <lb n="18"/> mouth.<note place="margin"
+                            type="gloss"> Mark 9:20 is Mark 9:19 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Jesus asked the boy's father, “How <lb n="19"/> long has he been like this?”
+                        “From childhood,” <lb n="20"/>
+                        <pb n="90v"/> he answered.<note place="margin" type="gloss"> Mark 9:21 is
+                            Mark 9:20 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>“It has often thrown him into fire or water <lb n="1"/> to kill him. But if
+                        you can do anything, <lb n="2"/> take pity on us and help us.”<note
+                            place="margin" type="gloss"> Mark 9:22 is Mark 9:21 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="23" type="verse">
+                    <p>“'If you can'?” said Jesus. <lb n="3"/> “Everything is possible for one who
+                        believes.” <lb n="4"/><note place="margin" type="gloss"> Mark 9:23 is Mark
+                            9:22 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Immediately the boy's father exclaimed <lb n="5"/>, “I do believe; help me
+                        overcome my unbelief!” <lb n="6"/><note place="margin" type="gloss"> Mark
+                            9:24 is Mark 9:23 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="25" type="verse">
+                    <p>When Jesus saw that a crowd <lb n="7"/> was running to the scene, he rebuked
+                        the impure spirit. <lb n="8"/> “You deaf and mute spirit,” he said, “I
+                        command you, come out of him <lb n="9"/> and never enter him again.”<note
+                            place="margin" type="gloss"> Mark 9:25 is Mark 9:24 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The spirit shrieked <lb n="10"/>, convulsed him violently and came out. The
+                        boy looked <lb n="11"/> so much like a corpse that many said, <lb n="12"/>
+                        “He's dead.”<note place="margin" type="gloss"> Mark 9:26 is Mark 9:25 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="27" type="verse">
+                    <p>But Jesus took him by the hand <lb n="13"/> and lifted him to his feet, and
+                        he stood up.<note place="margin" type="gloss"> Mark 9:27 is Mark 9:26 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="28" type="verse">
+                    <p>After Jesus had gone <lb n="14"/> indoors, his disciples asked him privately
+                            <lb n="15"/>, “Why couldn't we drive it out?” <lb n="16"/><note
+                            place="margin" type="gloss"> Mark 9:28 is Mark 9:27 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>He replied, “This kind can come out <lb n="17"/> only by prayer.” <lb n="18"
+                            /><note place="margin" type="gloss"> Mark 9:29 is Mark 9:28 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="30" type="verse">
+                    <p>They left that place and passed through Galilee. <lb n="19"/> Jesus did not
+                        want anyone to know where they were,<note place="margin" type="gloss"> Mark
+                            9:30 is Mark 9:29 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>because he was teaching his disciples. <lb n="20"/>
+                        <pb n="91r"/> He said to them, “The Son of Man <lb n="1"/> is going to be
+                        delivered into the hands of men. They will kill him, <lb n="2"/> and after
+                        three days he will rise.”<note place="margin" type="gloss"> Mark 9:31 is
+                            Mark 9:30 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="32" type="verse">
+                    <p>But they did not understand what he meant and were afraid <lb n="3"/> to ask
+                        him about it. <lb n="4"/><note place="margin" type="gloss"> Mark 9:32 is
+                            Mark 9:31 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="33" type="verse">
+                    <p>They came to Capernaum. When he was in the house, <lb n="5"/> he asked them,
+                        “What were you arguing about on the road?” <lb n="6"/><note place="margin"
+                            type="gloss"> Mark 9:33 is Mark 9:32 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="34" type="verse">
+                    <p>But they kept quiet because on the way they had argued <lb n="7"/> about who
+                        was the greatest.<note place="margin" type="gloss"> Mark 9:34 is Mark 9:33
+                            in the Latin Vulgate. </note></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Sitting down <lb n="8"/>, Jesus called the Twelve and said, “Anyone who wants
+                        to be first <lb n="9"/> must be the very last, and the servant of all.” <lb
+                            n="10"/><note place="margin" type="gloss"> Mark 9:35 is Mark 9:34 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="36" type="verse">
+                    <p>He took a little child whom he placed among them <lb n="11"/>. Taking the
+                        child in his arms, he said to them, <lb n="12"/><note place="margin"
+                            type="gloss"> Mark 9:36 is Mark 9:35 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="37" type="verse">
+                    <p>“Whoever welcomes one of these little children <lb n="13"/> in my name
+                        welcomes me; and whoever welcomes <lb n="14"/> me does not welcome me but
+                            <lb n="15"/> the one who sent me.”<note place="margin" type="gloss">
+                            Mark 9:37 is Mark 9:36 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="38" type="verse">
+                    <p>“Teacher,” said John, <lb n="16"/> “we saw someone driving out demons in your
+                        name <lb n="17"/> and we told him to stop, because he was not <lb n="18"/>
+                        one of us.”<note place="margin" type="gloss"> Mark 9:38 is Mark 9:37 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="39" type="verse">
+                    <p>“Do not stop him,” Jesus said. <lb n="19"/> “For no one who does a miracle in
+                        my name can in the next moment <lb n="20"/>
+                        <pb n="91v"/> say anything bad about me,<note place="margin" type="gloss">
+                            Mark 9:39 is Mark 9:38 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="40" type="verse">
+                    <p>for whoever <lb n="1"/> is not against us is for us.<note place="margin"
+                            type="gloss"> Mark 9:40 is Mark 9:39 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Truly <lb n="2"/> I tell you, anyone who gives you a cup of water in <lb
+                            n="3"/> my name because you belong to <lb n="4"/> the Messiah will
+                        certainly not lose their reward. <lb n="5"/><note place="margin"
+                            type="gloss"> Mark 9:41 is Mark 9:40 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="42" type="verse">
+                    <p>“If anyone causes one of these <lb n="6"/> little ones-those who believe in
+                        me-to stumble, <lb n="7"/> it would be better for them if a large millstone
+                        were hung around their neck <lb n="8"/> and they were thrown into the
+                            sea.<note place="margin" type="gloss"> Mark 9:42 is Mark 9:41 in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="43" type="verse">
+                    <p>If your hand causes <lb n="9"/> you to stumble, cut it off. It is better for
+                        you <lb n="10"/> to enter life maimed than with two hands to go into hell,
+                            <lb n="11"/> where the fire never goes out.<note place="margin"
+                            type="gloss"> Mark 9:43 is Mark 9:42 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="44" type="verse">
+                    <p><lb n="12"/><note place="margin" type="gloss"> This verse is found in the
+                            Latin Vulgate but not in the NIV translation. </note></p>
+                </div>
+                <div n="45" type="verse">
+                    <p><lb n="13"/> And if your foot causes you to stumble, cut it off. <lb n="14"/>
+                        It is better for you to enter life crippled <lb n="15"/> than to have two
+                        feet and be thrown into hell. <lb n="16"/><note place="margin" type="gloss">
+                            Mark 9:45 is Mark 9:44 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="46" type="verse">
+                    <p><lb n="17"/><note place="margin" type="gloss"> This verse is found in the
+                            Latin Vulgate but not in the NIV translation. </note></p>
+                </div>
+                <div n="47" type="verse">
+                    <p>And if your eye causes you to stumble <lb n="18"/>, pluck it out. It is
+                        better for you to enter <lb n="19"/> the kingdom of God with one eye than to
+                        have two eyes <lb n="20"/>
+                        <pb n="91r"/> and be thrown into hell,<note place="margin" type="gloss">
+                            Mark 9:47 is Mark 9:46 in the Latin Vulgate. </note></p>
+                </div>
+                <div n="48" type="verse">
+                    <p>where “'the worms that eat them do not <lb n="1"/> die, and the fire is not
+                            quenched.'<note place="margin" type="gloss"> Mark 9:48 is Mark 9: in the
+                            Latin Vulgate. </note></p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Everyone <lb n="2"/> will be salted with fire. <lb n="3"/><note
+                            place="margin" type="gloss"> Mark 9:49 is Mark 9:48 in the Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="50" type="verse">
+                    <p>“Salt is good, but if it loses its saltiness, <lb n="4"/> how can you make it
+                        salty again? Have salt among yourselves, <lb n="5"/> and be at peace with
+                        each other.” <lb n="6"/><note place="margin" type="gloss"> Mark 9:50 is Mark
+                            9:49 in the Latin Vulgate. </note></p>
+                </div>
+            </div>
+            <div n="10" type="chapter">
+                <div n="1" type="verse">
+                    <p>Jesus then left that place and went into the region of Judea <lb n="7"/> and
+                        across the Jordan. Again crowds of people came to him, and as was <lb n="8"
+                        /> his custom, he taught them.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Some Pharisees came <lb n="9"/> and tested him by asking, “Is it lawful for a
+                        man <lb n="10"/> to divorce his wife?”</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>“What did <lb n="11"/> Moses command you?” he replied.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>They said, “Moses permitted <lb n="12"/> a man to write a certificate of
+                        divorce and send her away.”</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>“It was <lb n="13"/> because your hearts were hard <lb n="14"/> that Moses
+                        wrote you this law,” Jesus replied.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>“But at the beginning <lb n="15"/> of creation God 'made them male and
+                        female.' <lb n="16"/></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>'For this reason a man will leave his father and mother <lb n="17"/> and be
+                        united to his wife,</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>and the two <lb n="18"/> will become one flesh.' So they are no longer two,
+                        but one <lb n="19"/> flesh.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Therefore what God has joined together, let no one separate.” <lb n="20"/>
+                        <pb n="92v"/></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>When they were in the house again, the disciples <lb n="1"/> asked Jesus
+                        about this. <lb n="2"/></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>He answered, “Anyone who divorces his wife <lb n="3"/> and marries another
+                        woman commits adultery against her.</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>And if she divorces <lb n="4"/> her husband and marries another man, she
+                        commits adultery.” <lb n="5"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>People were bringing little children to Jesus for him to place his hands on
+                        them <lb n="6"/>, but the disciples rebuked them. <lb n="7"/></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>When Jesus saw this, he was indignant. He said to <lb n="8"/> them, “Let the
+                        little children come to me, and do not hinder them, <lb n="9"/> for the
+                        kingdom of God belongs to such as these. <lb n="10"/></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Truly I tell you, anyone who will not receive <lb n="11"/> the kingdom of God
+                        like a little child will never <lb n="12"/> enter it.”</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>And he took the children in his arms, placed his hands <lb n="13"/> on them
+                        and blessed them. <lb n="14"/></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>As Jesus started on his way, a man ran <lb n="15"/> up to him and fell on his
+                        knees before him. <lb n="16"/> “Good teacher,” he asked, “what must I do to
+                        inherit <lb n="17"/> eternal life?”</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>“Why do you call me good?” Jesus answered. <lb n="18"/> “No one is
+                        good-except God alone.</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>You know <lb n="19"/> the commandments: 'You shall not murder, <lb n="20"/>
+                        <pb n="93r"/> you shall not commit adultery, you shall not steal, you shall
+                        not give false testimony, you shall not defraud, honor your father and
+                        mother. <lb n="1"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>“Teacher,” he declared, “all these <lb n="2"/> I have kept since I was a
+                        boy.”</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Jesus looked at him <lb n="3"/> and loved him. “One thing you lack,” he said.
+                        “Go, sell <lb n="4"/> everything you have and give to the poor <lb n="5"/>,
+                        and you will have treasure in heaven. Then come, follow me.” <lb n="6"/></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>At this the man's face fell. He went away sad, <lb n="7"/> because he had
+                        great wealth.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Jesus looked around <lb n="8"/> and said to his disciples, “How hard <lb
+                            n="9"/> it is for the rich to enter the kingdom of God!” <lb n="10"
+                        /></p>
+                </div>
+                <div n="24" type="verse">
+                    <p><hi rend="italic"> The disciples were amazed at his words. But Jesus said
+                            again, “Children, how hard it is to enter the kingdom of God!</hi>
+                        <note place="margin" type="gloss"> Italicized text not found in Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="25" type="verse">
+                    <p>It is easier for a camel to go through the eye of a needle <lb n="11"/> than
+                        for someone who is rich to enter the kingdom of God.”</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The disciples were even more amazed <lb n="12"/>, and said to each other,
+                        “Who then can be <lb n="13"/> saved?”</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Jesus looked at them and said, “With man <lb n="14"/> this is impossible, but
+                        not with God; <lb n="15"/> all things are possible with God.”</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Then Peter spoke up <lb n="16"/>, “We have left everything to follow <lb
+                            n="17"/> you!”</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>“Truly I tell you,” Jesus replied, <lb n="18"/> “no one who has left home or
+                        brothers <lb n="19"/> or sisters or mother or father or <lb n="20"/>
+                        <pb n="93v"/> children or fields for me and the gospel <lb n="1"/></p>
+                </div>
+                <div n="30" type="verse">
+                    <p>will fail to receive a hundred times as much <lb n="2"/> in this present age:
+                        homes, brothers, sisters, <lb n="3"/> mothers, children and fields-along
+                        with persecutions- <lb n="4"/> and in the age to come eternal life. <lb
+                            n="5"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>But many who are first will be last, and the last <lb n="6"/> first.”</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>They were on their way up to Jerusalem, <lb n="7"/> with Jesus leading the
+                        way, and the disciples were astonished, while those who followed were
+                        afraid. <lb n="8"/> Again he took the Twelve aside and told them <lb n="9"/>
+                        what was going to happen to him.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>“We are going up to Jerusalem,” <lb n="10"/> he said, “and the Son of Man
+                        will be delivered over to the chief <lb n="11"/> priests and the teachers of
+                        the law. They will condemn him to death and <lb n="12"/> will hand him over
+                        to the Gentiles,</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>who will mock <lb n="13"/> him and spit on him, flog him <lb n="14"/> and
+                        kill him. Three days later he will rise.” <lb n="15"/></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Then James and John, the sons of Zebedee, <lb n="16"/> came to him.
+                        “Teacher,” they said, “we want you to do for us whatever <lb n="17"/> we
+                        ask.”</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>“What do you want me to do for you?”<lb n="18"/> he asked.</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>They replied, “Let one of us sit at your right <lb n="19"/> and the other at
+                        your left <lb n="20"/>
+                        <pb n="94r"/> in your glory.”</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>“You don't know what you are asking,” Jesus said. <lb n="1"/> “Can you drink
+                        the cup I drink or be baptized with the baptism <lb n="2"/> I am baptized
+                        with?”</p>
+                </div>
+                <div n="39" type="verse">
+                    <p>“We can,” they answered. <lb n="3"/> Jesus said to them, “You will drink the
+                        cup <lb n="4"/> I drink and be baptized with the baptism <lb n="5"/> I am
+                        baptized with,</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>but to sit at my right <lb n="6"/> or left is not for me to grant <lb n="7"
+                        />. These places belong to those for whom they have been prepared.” <lb
+                            n="8"/></p>
+                </div>
+                <div n="41" type="verse">
+                    <p>When the ten heard about this, they became indignant with <lb n="9"/> James
+                        and John.</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Jesus called them together and said, “You know that <lb n="10"/> those who
+                        are regarded as rulers of the Gentiles lord it over <lb n="11"/> them, and
+                        their high officials exercise authority over <lb n="12"/> them.</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Not so with you. Instead, <lb n="13"/> whoever wants to become great among
+                        you must be your servant, <lb n="14"/></p>
+                </div>
+                <div n="44" type="verse">
+                    <p>and whoever wants to be first <lb n="15"/> must be slave of all. <lb n="16"
+                        /></p>
+                </div>
+                <div n="45" type="verse">
+                    <p>For even the Son of Man did not come <lb n="17"/> to be served, but to serve,
+                        and to give his <lb n="18"/> life as a ransom for many.” <lb n="19"/></p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Then they came to Jericho. <lb n="20"/>
+                        <pb n="94v"/> As Jesus and his disciples, together with a large crowd, were
+                        leaving the city, a blind man, <lb n="1"/> Bartimaeus (which means “son of
+                        Timaeus”), was sitting by the roadside begging. <lb n="2"/></p>
+                </div>
+                <div n="47" type="verse">
+                    <p>When he heard that it was Jesus of Nazareth, <lb n="3"/> he began to shout,
+                        “Jesus, Son of David, have mercy <lb n="4"/> on me!”</p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Many rebuked him and told him to be quiet, <lb n="5"/> but he shouted all the
+                        more, “Son of David, <lb n="6"/> have mercy on me!”</p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Jesus stopped and said, “Call him.” <lb n="7"/> So they called to the blind
+                        man, “Cheer up! <lb n="8"/> On your feet! He's calling you.”</p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Throwing his cloak aside, <lb n="9"/> he jumped to his feet and came to
+                        Jesus.</p>
+                </div>
+                <div n="51" type="verse">
+                    <p>“What do you want me to do for you?” <lb n="10"/> Jesus asked him. The blind
+                        man said, “Rabbi, <lb n="11"/> I want to see.”</p>
+                </div>
+                <div n="52" type="verse">
+                    <p>“Go,” said Jesus, “your faith has healed you.” <lb n="12"/> Immediately he
+                        received his sight and <lb n="13"/> followed Jesus along the road. <lb
+                            n="14"/></p>
+                </div>
+            </div>
+            <div n="11" type="chapter">
+                <div n="1" type="verse">
+                    <p>As they approached Jerusalem and came to Bethphage and Bethany <lb n="15"/>
+                        at the Mount of Olives, Jesus sent two of his disciples,</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>saying to them, <lb n="16"/> “Go to the village ahead of you, and just as you
+                        enter it, <lb n="17"/> you will find a colt tied there, <lb n="18"/> which
+                        no one has ever ridden. Untie it and <lb n="19"/> bring it here.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>If anyone asks you, <lb n="20"/>
+                        <pb n="95r"/> 'Why are you doing this?' say, 'The Lord needs it <lb n="1"/>
+                        and will send it back here shortly.'”</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>They <lb n="2"/> went and found a colt outside in the street, tied <lb n="3"
+                        /> at a doorway. As they untied it,</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>some people standing there asked, <lb n="4"/> “What are you doing, untying
+                        that colt?” <lb n="5"/></p>
+                </div>
+                <div n="6" type="verse">
+                    <p>They answered as Jesus had told them to, and the people let <lb n="6"/> them
+                        go.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>When they brought the colt to Jesus and threw <lb n="7"/> their cloaks over
+                        it, he sat on it.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Many <lb n="8"/> people spread their cloaks on the road, while <lb n="9"/>
+                        others spread branches they had cut in the fields. <lb n="10"/>
+                        <note place="margin" type="gloss"> A portion of this verse is found in the
+                            Latin Vulgate but not in the NIV translation. </note>
+                        <lb n="11"/></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Those who went ahead and those who followed shouted, <lb n="12"/> “Hosanna!”
+                        “Blessed is he who comes in the name of the Lord!”</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>“Blessed is the coming <lb n="13"/> kingdom of our father David!” “Hosanna in
+                        the highest heaven!” <lb n="14"/></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Jesus entered Jerusalem and went into the temple courts. He looked around <lb
+                            n="15"/> at everything, but since it was already <lb n="16"/> late, he
+                        went out to Bethany with the Twelve. <lb n="17"/></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>The next day as they were leaving Bethany, Jesus was hungry.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p><lb n="18"/> Seeing in the distance a fig tree in leaf, he went <lb n="19"/>
+                        to find out if it had any fruit. <lb n="20"/>
+                        <pb n="95v"/> When he reached it, he found nothing but leaves, <lb n="1"/>
+                        because it was not the season for figs.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Then he said <lb n="2"/> to the tree, “May no one ever eat fruit <lb n="3"/>
+                        from you again.” And his disciples heard him say <lb n="4"/> it.</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>On reaching Jerusalem, Jesus entered the <lb n="5"/> temple courts and began
+                        driving out those who were buying and selling <lb n="6"/> there. He
+                        overturned the tables of the money changers and the benches <lb n="7"/> of
+                        those selling doves,</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>and would not <lb n="8"/> allow anyone to carry merchandise through <lb n="9"
+                        /> the temple courts.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>And as he taught them, he said, “Is it not written: <lb n="10"/> 'My house
+                        will be called <lb n="11"/> a house of prayer for all nations'? But you have
+                        made it <lb n="12"/> 'a den of robbers.'” <lb n="13"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>The chief priests and the teachers of the law <lb n="14"/> heard this and
+                        began looking for a way to kill him, <lb n="15"/> for they feared him,
+                        because <lb n="16"/> the whole crowd was amazed at his teaching. <lb n="17"
+                        /></p>
+                </div>
+                <div n="19" type="verse">
+                    <p><hi rend="italic"> When evening came, Jesus and his disciples went out of the
+                            city.</hi>
+                        <note place="margin" type="gloss"> Italicized text not found in Latin
+                            Vulgate. </note></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>In the morning, as they went along, they saw the fig tree withered from the
+                        roots. <lb n="18"/></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Peter remembered and said to Jesus, “Rabbi, look! The fig tree <lb n="19"/>
+                        you cursed has withered!”</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>“Have faith in God,” <lb n="20"/>
+                        <pb n="96r"/> Jesus answered.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>“Truly I tell you, if anyone <lb n="1"/> says to this mountain, 'Go, throw
+                        yourself into the sea,' <lb n="2"/> and does not doubt in their heart but
+                        believes <lb n="3"/> that what they say will happen, it will be done for
+                        them. <lb n="4"/></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Therefore I tell you, whatever <lb n="5"/> you ask for in prayer, believe
+                        that you have received it, and it will be <lb n="6"/> yours.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>And when you stand praying, <lb n="7"/> if you hold anything against anyone
+                            <lb n="8"/>, forgive them, so that your Father in heaven <lb n="9"/> may
+                        forgive you your sins.” <lb n="10"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p/>
+                </div>
+                <div n="27" type="verse">
+                    <p>They arrived again in Jerusalem, and while Jesus was walking <lb n="11"/> in
+                        the temple courts, the chief priests, the teachers of the law <lb n="12"/>
+                        and the elders came to him.</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>“By what authority are you doing <lb n="13"/> these things?” they asked. “And
+                        who gave you authority <lb n="14"/> to do this?”</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Jesus replied, “I will ask you <lb n="15"/> one question. Answer me, and I
+                        will <lb n="16"/> tell you by what authority I am doing <lb n="17"/> these
+                        things.</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>John's baptism-was it from heaven <lb n="18"/>, or of human origin? Tell me!”
+                            <lb n="19"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>They discussed it among themselves and said, “If we say, <lb n="20"/>
+                        <pb n="96v"/> 'From heaven,' he will ask, 'Then why didn't you believe <lb
+                            n="1"/> him?'</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>But if we say, 'Of human origin' “” They feared the people, <lb n="2"/> for
+                        everyone held that John really <lb n="3"/> was a prophet.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>So they answered Jesus <lb n="4"/>, “We don't know.” Jesus said, “Neither
+                        will I <lb n="5"/> tell you by what authority I am doing these things.” <lb
+                            n="6"/></p>
+                </div>
+            </div>
+            <div n="12" type="chapter">
+                <div n="1" type="verse">
+                    <p>Jesus then began to speak to them in parables: “A man planted a vineyard. <lb
+                            n="7"/> He put a wall around it, dug a pit for the winepress <lb n="8"/>
+                        and built a watchtower. Then he rented the vineyard to some farmers <lb
+                            n="9"/> and moved to another place.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>At harvest <lb n="10"/> time he sent a servant to the tenants to collect from
+                        them some of the fruit of <lb n="11"/> the vineyard.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>But they seized him, beat him <lb n="12"/> and sent him away
+                        empty-handed.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Then he sent another <lb n="13"/> servant to them; they struck this man on
+                        the head and treated him shamefully. <lb n="14"/></p>
+                </div>
+                <div n="5" type="verse">
+                    <p>He sent still another, and that one they killed. He sent many others; <lb
+                            n="15"/> some of them they beat, others they killed.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>“He had one <lb n="16"/> left to send, a son, whom he loved. He sent <lb
+                            n="17"/> him last of all, saying, 'They will respect <lb n="18"/> my
+                        son.'</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>“But the tenants said to one another, <lb n="19"/> 'This is the heir. Come,
+                        let's kill him, and the <lb n="20"/>
+                        <pb n="97r"/> inheritance will be ours.'</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>So they took him and killed him, <lb n="1"/> and threw him out of the
+                        vineyard.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>“What then will <lb n="2"/> the owner of the vineyard do? He will come and
+                        kill those tenants and give the vineyard <lb n="3"/> to others.</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Haven't you read this passage of Scripture: “'The stone <lb n="4"/> the
+                        builders rejected has become the <lb n="5"/> cornerstone; </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>the Lord has done this,<lb n="6"/> and it is marvelous in our eyes'?” <lb
+                            n="7"/></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Then the chief priests, the teachers of the law and the elders looked <lb
+                            n="8"/> for a way to arrest him because they knew he had spoken the
+                        parable against them. But they were afraid of the crowd; <lb n="9"/> so they
+                        left him and went away.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Later they sent some <lb n="10"/> of the Pharisees and Herodians to Jesus to
+                        catch him <lb n="11"/> in his words.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>They came to him and said, “Teacher, <lb n="12"/> we know that you are a man
+                        of integrity. You aren't swayed by others, <lb n="13"/> because you pay no
+                        attention to who they are; but <lb n="14"/> you teach the way of God in
+                        accordance with the truth. Is it right to pay <lb n="15"/> the imperial tax
+                        to Caesar or not?</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Should we pay or shouldn't we?” But Jesus knew <lb n="16"/> their hypocrisy.
+                        “Why are you trying to trap me?” he asked. <lb n="17"/> “Bring me a denarius
+                        and let me look at it.”</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>They brought the coin <lb n="18"/>, and he asked them, “Whose image is this?
+                        And whose inscription?” <lb n="19"/> “Caesar's,” they replied.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Then Jesus said <lb n="20"/>
+                        <pb n="97v"/> to them, “Give back to Caesar what is <lb n="1"/> Caesar's and
+                        to God what is God's.” And they were amazed at him. <lb n="2"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Then the Sadducees, who say there is no resurrection <lb n="3"/>, came to him
+                        with a question. <lb n="4"/></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>“Teacher,” they said, “Moses wrote for us that if <lb n="5"/> a man's brother
+                        dies and leaves a wife <lb n="6"/> but no children, the man must marry the
+                        widow <lb n="7"/> and raise up offspring for his brother.</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Now <lb n="8"/> there were seven brothers. The first <lb n="9"/> one married
+                        and died without leaving any children. <lb n="10"/></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>The second one married the widow, but he also died, <lb n="11"/> leaving no
+                        child. It was the same with the third. <lb n="12"/></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>In fact, none of the seven left any <lb n="13"/> children. Last of all, the
+                        woman died too <lb n="14"/>.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>At the resurrection whose wife will <lb n="15"/> she be, since the seven were
+                            <lb n="16"/> married to her?”</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Jesus replied, <lb n="17"/> “Are you not in error because you do not know the
+                        Scriptures <lb n="18"/> or the power of God?</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>When the dead rise <lb n="19"/>, they will neither marry nor be given in
+                        marriage; <lb n="20"/>
+                        <pb n="98r"/> they will be like the angels in heaven. <lb n="1"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Now about the dead rising-have you not read <lb n="2"/> in the Book of Moses,
+                        in the account of the burning bush, <lb n="3"/> how God said to him, 'I am
+                        the God of Abraham, <lb n="4"/> the God of Isaac, and the God of Jacob'?</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>He is not the God of the dead, but of the living. <lb n="5"/> You are badly
+                        mistaken!” </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>One of the teachers of <lb n="6"/> the law came and heard them debating.
+                        Noticing that Jesus had given <lb n="7"/> them a good answer, he asked <lb
+                            n="8"/> him, “Of all the commandments, which is the most important?” <lb
+                            n="9"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>“The most important <lb n="10"/> one,” answered Jesus, “is this: 'Hear, O
+                        Israel: The Lord <lb n="11"/> our God, the Lord is one.</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Love the Lord your God with all <lb n="12"/> your heart and with all your
+                        soul and with all <lb n="13"/> your mind and with all your <lb n="14"/>
+                        strength.'</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>The second is this: <lb n="15"/> 'Love your neighbor as yourself.' There is
+                        no commandment <lb n="16"/> greater than these.”<lb n="17"/>
+                    </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>“Well said, teacher,” the man replied. “You are right in saying <lb n="18"/>
+                        that God is one and there is no other but him. <lb n="19"/></p>
+                </div>
+                <div n="33" type="verse">
+                    <p>To love him with all your heart, with all your understanding <pb n="20v"/>
+                        <pb n="98v"/> and with all your strength, and to love <lb n="1"/> your
+                        neighbor as yourself is more important than <lb n="2"/> all burnt offerings
+                        and sacrifices.”</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>When Jesus <lb n="3"/> saw that he had answered wisely, <lb n="4"/> he said
+                        to him, “You are not far from the kingdom of God.” <lb n="5"/> And from then
+                        on no one dared ask him any more questions.</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>While Jesus <lb n="6"/> was teaching in the temple courts, he asked, “Why do
+                        the teachers of the law say that the <lb n="7"/> Messiah is the son of
+                        David?</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>David himself, speaking <lb n="8"/> by the Holy Spirit, declared: “'The Lord
+                        said to my Lord: “Sit at my right hand until <lb n="9"/> I put your enemies
+                        under <lb n="10"/> your feet.”'</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>David himself calls him 'Lord.' How then can he be his <lb n="11"/> son?” The
+                        large crowd listened to him with delight. <lb n="12"/></p>
+                </div>
+                <div n="38" type="verse">
+                    <p>As he taught, Jesus said, “Watch out for the teachers of the law. <lb n="13"
+                        /> They like to walk around in flowing robes and be greeted with respect in
+                        the marketplaces, <lb n="14"/></p>
+                </div>
+                <div n="39" type="verse">
+                    <p>and have the most important seats in the synagogues <lb n="15"/> and the
+                        places of honor at banquets. <lb n="16"/></p>
+                </div>
+                <div n="40" type="verse">
+                    <p>They devour widows' houses and for a show make lengthy prayers. <lb n="17"/>
+                        These men will be punished most severely.”</p>
+                </div>
+                <div n="41" type="verse">
+                    <p>41 Jesus sat down <lb n="18"/> opposite the place where the offerings were
+                        put <lb n="19"/> and watched the crowd putting their money into the temple
+                        treasury. <lb n="20"/>
+                        <pb n="99r"/> Many rich people threw in large amounts.</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>But a <lb n="1"/> poor widow came and put in <lb n="2"/> two very small
+                        copper coins, worth only a few cents.</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Calling <lb n="3"/> his disciples to him, Jesus said, “Truly <lb n="4"/> I
+                        tell you, this poor widow has put <lb n="5"/> more into the treasury than
+                        all the others. <lb n="6"/></p>
+                </div>
+                <div n="44" type="verse">
+                    <p>They all gave out of their <lb n="7"/> wealth; but she, out of her poverty,
+                        put in everything <lb n="8"/> -all she had to live on.” <lb n="9"/></p>
+                </div>
+            </div>
+            <div n="13" type="chapter">
+                <div n="1" type="verse">
+                    <p>As Jesus was leaving the temple, one of <lb n="10"/> his disciples said to
+                        him, “Look, Teacher! What massive stones! <lb n="11"/> What magnificent
+                        buildings!”</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>“Do you see <lb n="12"/> all these great buildings?” replied Jesus. “Not one
+                            <lb n="13"/> stone here will be left on another; every one will be
+                        thrown down.” <lb n="14"/></p>
+                </div>
+                <div n="3" type="verse">
+                    <p>As Jesus was sitting on the Mount of Olives opposite <lb n="15"/> the temple,
+                        Peter, James, John and <lb n="16"/> Andrew asked him privately,</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>“Tell us, <lb n="17"/> when will these things happen? And what will be the
+                        sign <lb n="18"/> that they are all about to be fulfilled?”</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Jesus said to them <lb n="19"/>: “Watch out that <lb n="20"/>
+                        <lb n="99v"/> no one deceives you.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Many will come in my name <lb n="1"/>, claiming, 'I am he,' and will deceive
+                        many. <lb n="2"/></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>When you hear of wars and rumors <lb n="3"/> of wars, do not be alarmed. Such
+                        things must happen, <lb n="4"/> but the end is still to come.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Nation will rise against <lb n="5"/> nation, and kingdom against kingdom.
+                        There will be <lb n="6"/> earthquakes in various places, and famines. <lb
+                            n="7"/> These are the beginning of birth pains. <lb n="8"/></p>
+                </div>
+                <div n="9" type="verse">
+                    <p>“You must be on your guard. You will be handed over <lb n="9"/> to the local
+                        councils and flogged in the synagogues. <lb n="10"/> On account of me you
+                        will stand before governors and kings as witnesses to them. <lb n="11"/></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>And <lb n="12"/> the gospel must first be preached to all nations. <lb n="13"
+                        /></p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Whenever you are arrested and brought to trial, do not worry beforehand <lb
+                            n="14"/> about what to say. Just say whatever is given you at the time,
+                            <lb n="15"/> for it is not you speaking, but the Holy Spirit. <lb n="16"
+                        /></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>“Brother will betray brother to death, and a father <lb n="17"/> his child.
+                        Children will rebel against their <lb n="18"/> parents and have them put to
+                        death.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Everyone will <lb n="19"/> hate you because of me, but the one <lb n="20"/>
+                        <pb n="100r"/> who stands firm to the end will be saved. <lb n="1"/></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>“When you see 'the abomination that causes desolation' <lb n="2"/> standing
+                        where it does not belong-let the reader understand-<lb n="3"/> then let
+                        those who are in Judea flee to the mountains. <lb n="4"/></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Let no one on the housetop go down <lb n="5"/> or enter the house to take
+                        anything out.</p>
+                </div>
+                <div n="16" type="verse">
+                    <p><lb n="6"/> Let no one in the field go back to get <lb n="7"/> their
+                        cloak.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>How dreadful it will be in those days for pregnant <lb n="8"/> women and
+                        nursing mothers! <lb n="9"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Pray that this will not take place in winter, <lb n="10"/></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>because those will be days of distress <lb n="11"/> unequaled from the
+                        beginning, when God created the world, <lb n="12"/> until now-and never to
+                        be equaled again. <lb n="13"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>“If the Lord had not cut short those days, no one would survive. But for the
+                        sake of the elect, <lb n="14"/> whom he has chosen, he has shortened them.
+                            <lb n="15"/></p>
+                </div>
+                <div n="21" type="verse">
+                    <p>At that time if anyone says to you, 'Look, here is the Messiah!' or, 'Look,
+                        there he is!' <lb n="16"/> do not believe it.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>For false messiahs and false prophets <lb n="17"/> will appear and perform
+                        signs and wonders <lb n="18"/> to deceive, if possible, even the elect.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>So <lb n="19"/> be on your guard; I have told you everything ahead of
+                        time.</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>“But <lb n="20"/>
+                        <lb n="100v"/> in those days, following that distress, “'the sun <lb n="1"/>
+                        will be darkened, and the moon will not give its <lb n="2"/> light;</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>the stars will fall from the sky, <lb n="3"/> and the heavenly bodies will be
+                        shaken.' <lb n="4"/></p>
+                </div>
+                <div n="26" type="verse">
+                    <p>“At that time people will see the Son of Man coming <lb n="5"/> in clouds
+                        with great power and glory. <lb n="6"/></p>
+                </div>
+                <div n="27" type="verse">
+                    <p>And he will send his angels and gather his elect <lb n="7"/> from the four
+                        winds, from the ends of the earth to the <lb n="8"/> ends of the
+                        heavens.</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>“Now learn this lesson from the fig tree: 9 As soon as its twigs get tender
+                        and its leaves 10 come out, you know that summer 11 is near.</p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Even so, when you see these <lb n="12"/> things happening, you know that it
+                        is near, right at the door. <lb n="13"/></p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Truly I tell you, this generation will certainly not pass away until all <lb
+                            n="14"/> these things have happened.</p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Heaven <lb n="15"/> and earth will pass away, but my <lb n="16"/> words will
+                        never pass away. <lb n="17"/></p>
+                </div>
+                <div n="32" type="verse">
+                    <p>“But about that day or hour no one knows, not even the angels in heaven, nor
+                        the Son, but only the <lb n="18"/> Father.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Be on guard! Be alert! You do not know when that <lb n="19"/> time will
+                        come.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p>It's like a man going away: <lb n="20"/>
+                        <seg n="101r" type="b"/> He leaves his house and puts his servants <lb n="1"
+                        /> in charge, each with their assigned task, <lb n="2"/> and tells the one
+                        at the door to keep watch. <lb n="3"/></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>“Therefore keep watch because you do not know when the owner of the house
+                        will come back-<lb n="4"/> whether in the evening, or at midnight, or when
+                        the rooster crows, or at dawn.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>If he comes suddenly, <lb n="5"/> do not let him find you sleeping.</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>What I say <lb n="6"/> to you, I say to everyone: 'Watch!'”</p>
+                </div>
+            </div>
+            <div n="14" type="chapter">
+                <div n="1" type="verse">
+                    <p>Now the Passover and <lb n="7"/> the Festival of Unleavened Bread were only
+                        two days away, <lb n="8"/> and the chief priests and the teachers of the law
+                        were scheming <lb n="9"/> to arrest Jesus secretly and kill him.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>“But not during <lb n="10"/> the festival,” they said, “or the people may
+                        riot.” <lb n="11"/></p>
+                </div>
+                <div n="3" type="verse">
+                    <p>While he was in Bethany, reclining at the table in the home of Simon the
+                        Leper, <lb n="12"/> a woman came with an alabaster jar <lb n="13"/> of very
+                        expensive perfume, made of pure nard. She broke the jar and poured the
+                        perfume <lb n="14"/> on his head.</p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Some of those <lb n="15"/> present were saying indignantly to <lb n="16"/>
+                        one another, “Why this waste of <lb n="17"/> perfume?</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>It could have been sold <lb n="18"/> for more than a year's wages and the
+                        money given to the poor.” <lb n="19"/> And they rebuked her harshly.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>“Leave her alone,” said Jesus. <lb n="20"/>
+                        <pb n="101v"/> “Why are you bothering her? She has done a beautiful <lb
+                            n="1"/> thing to me.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>The poor you will always have <lb n="2"/> with you, and you can help them any
+                        time you want. <lb n="3"/> But you will not always have me. <lb n="4"/></p>
+                </div>
+                <div n="8" type="verse">
+                    <p>She did what she could. She poured perfume <lb n="5"/> on my body beforehand
+                        to prepare for my burial.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Truly I tell you <lb n="6"/>, wherever the gospel is preached <lb n="7"/>
+                        throughout the world, what she has done <lb n="8"/> will also be told, in
+                        memory of her.” <lb n="9"/></p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Then Judas Iscariot, one of the Twelve, went <lb n="10"/> to the chief
+                        priests to betray Jesus to them.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>They <lb n="11"/> were delighted to hear this and promised to give him money.
+                            <lb n="12"/> So he watched for an <lb n="13"/> opportunity to hand him
+                        over.</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>On the first day of the Festival of Unleavened Bread, <lb n="14"/> when it
+                        was customary to sacrifice the Passover lamb, Jesus' disciples asked <lb
+                            n="15"/> him, “Where do you want us to go and make preparations for you
+                        to eat the Passover?” <lb n="16"/></p>
+                </div>
+                <div n="13" type="verse">
+                    <p>So he sent two of his disciples, telling them, <lb n="17"/> “Go into the
+                        city, and a man carrying a jar of <lb n="18"/> water will meet you. Follow
+                        him.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Say to the owner <lb n="19"/> of the house he enters, 'The Teacher asks: <lb
+                            n="20"/>
+                        <pb n="102r"/> Where is my guest room, where I may eat the Passover with <lb
+                            n="1"/> my disciples?'</p>
+                </div>
+                <div n="15" type="verse">
+                    <p>He will show <lb n="2"/> you a large room upstairs, furnished and ready. Make
+                        preparations for us there.” <lb n="3"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>The disciples left, went into the city <lb n="4"/> and found things just as
+                        Jesus had told them. <lb n="5"/> So they prepared the Passover. <lb n="6"
+                        /></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>When evening came, Jesus arrived with the Twelve. <lb n="7"/></p>
+                </div>
+                <div n="18" type="verse">
+                    <p>While they were reclining at the table eating, he said, “Truly I tell you,
+                            <lb n="8"/> one of you will betray me-one who is eating with me.” <lb
+                            n="9"/></p>
+                </div>
+                <div n="19" type="verse">
+                    <p>They were saddened, and one by one <lb n="10"/> they said to him, “Surely you
+                        don't mean me?”<lb n="11"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>“It is one of the Twelve,” he replied, “one who dips bread into the bowl with
+                        me.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p><lb n="12"/> The Son of Man will go just as it is written about him. <lb
+                            n="13"/> But woe to that man who betrays the Son of Man! <lb n="14"/> It
+                        would be better for him if he had not been born.” <lb n="15"/></p>
+                </div>
+                <div n="22" type="verse">
+                    <p>While they were eating, Jesus took bread, and when he had given thanks, <lb
+                            n="16"/> he broke it and gave it to his disciples, saying, “Take it;
+                        this is <lb n="17"/> my body.”</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Then he took a cup, and when he had given thanks <lb n="18"/>, he gave it to
+                        them, and they all drank from it.</p>
+                </div>
+                <div n="24" type="verse">
+                    <p>“This is <lb n="19"/> my blood of the covenant, which is <lb n="20"/>
+                        <pb n="102v"/> poured out for many,” he said to them.</p>
+                </div>
+                <div n="25" type="verse">
+                    <p>“Truly I tell you, <lb n="1"/> I will not drink again from the fruit of the
+                        vine until that day <lb n="2"/> when I drink it new in the kingdom <lb n="3"
+                        /> of God.”</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>When they had sung a hymn, they went out to the Mount of Olives.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>“You 4 will all fall away,” Jesus told them, “for it is written: <lb n="5"/>
+                        “'I will strike the shepherd, and <lb n="6"/> the sheep will be
+                        scattered.'</p>
+                </div>
+                <div n="28" type="verse">
+                    <p>But after I have <lb n="7"/> risen, I will go ahead of you into Galilee.” <lb
+                            n="8"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Peter declared, “Even if all fall away, <lb n="9"/> I will not.”</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>“Truly I tell you,” Jesus answered, <lb n="10"/> “today-yes, tonight-before
+                        the rooster crows twice you yourself <lb n="11"/> will disown me three
+                        times.” <lb n="12"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>But Peter insisted emphatically, “Even if I have to die with you, <lb n="13"
+                        /> I will never disown you.” And all the others said the same. <lb n="14"
+                        /></p>
+                </div>
+                <div n="32" type="verse">
+                    <p>They went to a place called Gethsemane, <lb n="15"/> and Jesus said to his
+                        disciples, “Sit here while I pray.”</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>He took <lb n="16"/> Peter, James and John along with him, <lb n="17"/> and
+                        he began to be deeply distressed and troubled. <lb n="18"/></p>
+                </div>
+                <div n="34" type="verse">
+                    <p>“My soul is overwhelmed with sorrow to the point of death,” he said to them.
+                        “Stay here and keep watch.” <lb n="19"/></p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Going a little farther, he fell to the ground <lb n="20"/>
+                        <pb n="103r"/> and prayed that if possible the hour might <lb n="1"/> pass
+                        from him.</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>“Abba, Father,” he said, <lb n="2"/> “everything is possible for you. Take
+                        this <lb n="3"/> cup from me. Yet not what I will, but what <lb n="4"/> you
+                        will.” </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Then he returned to his disciples and found them sleeping. <lb n="5"/>
+                        “Simon,” he said to Peter, “are you asleep? Couldn't <lb n="6"/> you keep
+                        watch for one hour?</p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Watch and pray so that you will not fall into temptation. <lb n="7"/> The
+                        spirit is willing, but the flesh <lb n="8"/> is weak.”</p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Once more he went away and prayed the <lb n="9"/> same thing.</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>When he came back, he again found <lb n="10"/> them sleeping, because their
+                        eyes were heavy. <lb n="11"/> They did not know what to say to him. <lb
+                            n="12"/></p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Returning the third time, he said to them, “Are you still sleeping and
+                        resting? <lb n="13"/> Enough! The hour has come. Look, the Son of <lb n="14"
+                        /> Man is delivered into the hands of sinners.</p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Rise! Let us <lb n="15"/> go! Here comes my betrayer!”</p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Just as he <lb n="16"/> was speaking, Judas, one of the Twelve, appeared.
+                        With <lb n="17"/> him was a crowd armed with swords and clubs, sent from the
+                        chief priests <lb n="18"/>, the teachers of the law, and the elders. <lb
+                            n="19"/></p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Now the betrayer had arranged a signal with them: <lb n="20"/>
+                        <pb n="103v"/> “The one I kiss is the man; arrest <lb n="1"/> him and lead
+                        him away under guard.”</p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Going at once to <lb n="2"/> Jesus, Judas said, “Rabbi!” and kissed <lb n="3"
+                        /> him.</p>
+                </div>
+                <div n="46" type="verse">
+                    <p>The men seized Jesus <lb n="4"/> and arrested him.</p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Then one <lb n="5"/> of those standing near drew his sword <lb n="6"/> and
+                        struck the servant of the high priest, cutting off his ear. <lb n="7"/></p>
+                </div>
+                <div n="48" type="verse">
+                    <p>“Am I leading a rebellion,” said Jesus, “that you <lb n="8"/> have come out
+                        with swords and clubs to capture <lb n="9"/> me?</p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Every day I was with you, teaching in the temple courts <lb n="10"/>, and you
+                        did not arrest me. But the <lb n="11"/> Scriptures must be fulfilled.”</p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Then everyone deserted <lb n="12"/> him and fled.</p>
+                </div>
+                <div n="51" type="verse">
+                    <p>A young man, wearing <lb n="13"/> nothing but a linen garment, was following
+                        Jesus. <lb n="14"/> When they seized him,</p>
+                </div>
+                <div n="52" type="verse">
+                    <p>he fled naked, <lb n="15"/> leaving his garment behind.</p>
+                </div>
+                <div n="53" type="verse">
+                    <p>They took Jesus to the high priest <lb n="16"/> , and all the chief priests,
+                        the elders and the teachers <lb n="17"/> of the law came together. <lb
+                            n="18"/></p>
+                </div>
+                <div n="54" type="verse">
+                    <p>Peter followed him at a distance, right into the courtyard of <lb n="19"/>
+                        the high priest. There he sat with the guards and warmed himself <lb n="20"/>
+                        <pb n="104v"/> at the fire.</p>
+                </div>
+                <div n="55" type="verse">
+                    <p>The chief priests and the whole <lb n="1"/> Sanhedrin were looking for
+                        evidence against Jesus so that they could put him to death, but they did not
+                        find any. <lb n="2"/></p>
+                </div>
+                <div n="56" type="verse">
+                    <p>Many testified falsely against him, but their <lb n="3"/> statements did not
+                        agree.</p>
+                </div>
+                <div n="57" type="verse">
+                    <p>Then some <lb n="4"/> stood up and gave this false testimony <lb n="5"/>
+                        against him:</p>
+                </div>
+                <div n="58" type="verse">
+                    <p>“We heard him say, <lb n="6"/> 'I will destroy this temple made with human
+                        hands <lb n="7"/> and in three days will build another, not made <lb n="8"/>
+                        with hands.'”</p>
+                </div>
+                <div n="59" type="verse">
+                    <p>Yet even then their testimony did not <lb n="9"/> agree.</p>
+                </div>
+                <div n="60" type="verse">
+                    <p>Then the high priest stood up before them <lb n="10"/> and asked Jesus, “Are
+                        you not going to answer? <lb n="11"/> What is this testimony that these men
+                        are bringing against you?” <lb n="12"/></p>
+                </div>
+                <div n="61" type="verse">
+                    <p>But Jesus remained silent and <lb n="13"/> gave no answer. Again the high
+                        priest asked him, <lb n="14"/> “Are you the Messiah, the Son of the Blessed
+                        One?” <lb n="15"/></p>
+                </div>
+                <div n="62" type="verse">
+                    <p>“I am,” said Jesus. “And you will see the Son of Man sitting <lb n="16"/> at
+                        the right hand of the Mighty One and coming on the clouds of heaven.” <lb
+                            n="17"/></p>
+                </div>
+                <div n="63" type="verse">
+                    <p>The high priest tore his clothes. <lb n="18"/> “Why do we need any more
+                        witnesses?” he asked.</p>
+                </div>
+                <div n="64" type="verse">
+                    <p>“You have heard <lb n="19"/> the blasphemy. What do you think?” <lb n="20"/>
+                        <pb n="104r"/> They all condemned him as worthy of death. <lb n="1"/></p>
+                </div>
+                <div n="65" type="verse">
+                    <p>Then some began to spit at <lb n="2"/> him; they blindfolded him, struck him
+                            <lb n="3"/> with their fists, and said, “Prophesy!” And the guards took
+                            <lb n="4"/> him and beat him.</p>
+                </div>
+                <div n="66" type="verse">
+                    <p>While Peter was below in the courtyard, <lb n="5"/> one of the servant girls
+                        of the high priest came by. <lb n="6"/></p>
+                </div>
+                <div n="67" type="verse">
+                    <p>When she saw Peter warming himself, she looked closely <lb n="7"/> at him.
+                        “You also were with that Nazarene, Jesus,” <lb n="8"/> she said.</p>
+                </div>
+                <div n="68" type="verse">
+                    <p>But he denied it. “I don't know <lb n="9"/> or understand what you're talking
+                        about,” he said, <lb n="10"/> and went out into the entryway.</p>
+                </div>
+                <div n="69" type="verse">
+                    <p>When the servant girl saw <lb n="11"/> him there, she said again to those
+                        standing around, <lb n="12"/> “This fellow is one of them.”</p>
+                </div>
+                <div n="70" type="verse">
+                    <p>Again he denied it. <lb n="13"/> After a little while, those standing near
+                        said to <lb n="14"/> Peter, “Surely you are one of them, for you are a
+                        Galilean.” <lb n="15"/></p>
+                </div>
+                <div n="71" type="verse">
+                    <p>He began to call down curses, and he swore to them, <lb n="16"/> “I don't
+                        know this man you're talking about.”</p>
+                </div>
+                <div n="72" type="verse">
+                    <p>Immediately <lb n="17"/> the rooster crowed the second time. Then Peter <lb
+                            n="18"/> remembered the word Jesus had spoken to him: “Before the
+                        rooster <lb n="19"/> crows twice you will disown me three times.” And he
+                        broke down and wept. <lb n="20"/>
+                        <lb n="105v"/></p>
+                </div>
+            </div>
+            <div n="15" type="chapter">
+                <div n="1" type="verse">
+                    <p>Very early in the morning, <lb n="1"/> the chief priests, with the elders,
+                        the teachers of the law and <lb n="2"/> the whole Sanhedrin, made their
+                        plans. So they bound Jesus, led him away <lb n="3"/> and handed him over to
+                        Pilate.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>“Are you the king of the Jews?” <lb n="4"/> asked Pilate. “You have said so,”
+                            <lb n="5"/> Jesus replied.</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>The chief priests accused <lb n="6"/> him of many things. <lb n="7"/></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>So again Pilate asked him, <lb n="8"/> “Aren't you going to answer? See how
+                        many things they are <lb n="9"/> accusing you of.”</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>But Jesus still made no <lb n="10"/> reply, and Pilate was amazed. <lb n="11"
+                        /></p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Now it was the custom at the festival to release <lb n="12"/> a prisoner whom
+                        the people requested. <lb n="13"/></p>
+                </div>
+                <div n="7" type="verse">
+                    <p>A man called Barabbas was in prison <lb n="14"/> with the insurrectionists
+                        who had committed murder in <lb n="15"/> the uprising.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>The crowd <lb n="16"/> came up and asked Pilate to do for them what he
+                        usually did.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>“Do you <lb n="17"/> want me to release to you <lb n="18"/> the king of the
+                        Jews?” <lb n="19"/> asked Pilate,</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>knowing it <lb n="20"/>
+                        <pb n="105v"/> was out of self-interest that the <lb n="1"/> chief priests
+                        had handed Jesus over to him.</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>But the chief priests <lb n="2"/> stirred up the crowd to have Pilate release
+                        Barabbas instead. <lb n="3"/></p>
+                </div>
+                <div n="12" type="verse">
+                    <p>“What shall I do, then, with the one <lb n="4"/> you call the king of the
+                        Jews?” Pilate <lb n="5"/> asked them.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>“Crucify him!” <lb n="6"/> they shouted.</p>
+                </div>
+                <div n="14" type="verse">
+                    <p><hi rend="italic"> “Why? What crime has he committed?” asked Pilate. But they
+                            shouted all the louder, ”Crucify him!”</hi>
+                        <note place="margin" type="gloss"> Italicized text not found in Latin
+                            Vulgate.</note></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Wanting to satisfy the crowd, <lb n="7"/> Pilate released Barabbas to them.
+                            <lb n="8"/> He had Jesus flogged, and handed him over to be crucified.
+                            <lb n="9"/></p>
+                </div>
+                <div n="16" type="verse">
+                    <p>The soldiers led Jesus away into the palace <lb n="10"/> (that is, the
+                        Praetorium) and called together the whole company of soldiers.</p>
+                </div>
+                <div n="17" type="verse">
+                    <p>They put <lb n="11"/> a purple robe on him, then twisted together a crown of
+                        thorns and <lb n="12"/> set it on him.</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>And they began to call out <lb n="13"/> to him, “Hail, king of the Jews!”</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Again and again they struck him on the head <lb n="14"/> with a staff and
+                        spit on him. <lb n="15"/> Falling on their knees, they paid homage to him.
+                            <lb n="16"/></p>
+                </div>
+                <div n="20" type="verse">
+                    <p>And when they had mocked him, they took off <lb n="17"/> the purple robe and
+                        put his own clothes on him. <lb n="18"/> Then they led him out to crucify
+                        him.</p>
+                </div>
+                <div n="21" type="verse">
+                    <p>A certain man from <lb n="19"/> Cyrene, Simon, <lb n="20"/>
+                        <pb n="106r"/> the father of Alexander and Rufus, <lb n="1"/> was passing by
+                        on his way in from the country, and they forced him to carry the cross.</p>
+                </div>
+                <div n="22" type="verse">
+                    <p>They brought Jesus <lb n="2"/> to the place called Golgotha which means <lb
+                            n="3"/> “the place of the skull”.</p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Then they offered him wine <lb n="4"/> mixed with myrrh, but he did not take
+                        it. <lb n="5"/></p>
+                </div>
+                <div n="24" type="verse">
+                    <p>And they crucified him. Dividing up his clothes <lb n="6"/>, they cast lots
+                        to see what each would get. <lb n="7"/></p>
+                </div>
+                <div n="25" type="verse">
+                    <p>It was nine in the morning when they crucified him.</p>
+                </div>
+                <div n="26" type="verse">
+                    <p>The written notice of the charge against him read: THE KING <lb n="9"/> OF
+                        THE JEWS.</p>
+                </div>
+                <div n="27" type="verse">
+                    <p>They crucified two rebels <lb n="10"/> with him, one on his right and one on
+                        his left. <lb n="11"/></p>
+                </div>
+                <div n="28" type="verse">
+                    <p><note place="margin" type="gloss"> This verse is found in the Latin Vulgate
+                            but not in the NIV translation. </note><lb n="12"/></p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Those who passed by hurled <lb n="13"/> insults at him, shaking their heads
+                            <lb n="14"/> and saying, “So! You who are going to destroy the temple
+                            <lb n="15"/> and build it in three days,</p>
+                </div>
+                <div n="30" type="verse">
+                    <p>come down <lb n="16"/> from the cross and save yourself!” <lb n="17"/></p>
+                </div>
+                <div n="31" type="verse">
+                    <p>In the same way the chief priests and <lb n="18"/> the teachers of the law
+                        mocked him among themselves. “He saved others,” they said, <lb n="19"/> “but
+                        he can't save himself!</p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Let this Messiah, this king <lb n="20"/>
+                        <pb n="106v"/> of Israel, come down now from the cross, that we may see <lb
+                            n="1"/> and believe.” Those crucified with him also heaped insults on
+                            <lb n="2"/> him.</p>
+                </div>
+                <div n="33" type="verse">
+                    <p>At noon, darkness <lb n="3"/> came over the whole land until three in the <lb
+                            n="4"/> afternoon.</p>
+                </div>
+                <div n="34" type="verse">
+                    <p> And at three in the afternoon <lb n="5"/> Jesus cried out in a loud voice,
+                        “Eloi, Eloi, lema sabachthani?” (which means <lb n="6"/> “My God, my God,
+                        why have you forsaken <lb n="7"/> me?”).</p>
+                </div>
+                <div n="35" type="verse">
+                    <p>When some of those standing near heard this, they said, <lb n="8"/> “Listen,
+                        he's calling Elijah.”</p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Someone ran, <lb n="9"/> filled a sponge with wine vinegar, <lb n="10"/> put
+                        it on a staff, and offered it to Jesus to drink. <lb n="11"/> “Now leave him
+                        alone. Let's see if Elijah comes to take <lb n="12"/> him down,” he
+                        said.</p>
+                </div>
+                <div n="37" type="verse">
+                    <p>With a loud cry, Jesus breathed his last. <lb n="13"/></p>
+                </div>
+                <div n="38" type="verse">
+                    <p>The curtain of the temple was torn in two <lb n="14"/> from top to bottom.
+                    </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>And when <lb n="15"/> the centurion, who stood there in front of Jesus, saw
+                        how he died <lb n="16"/>, he said, “Surely this man was the Son <lb n="17"/>
+                        of God!”</p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Some women were watching from a distance. <lb n="18"/> Among them were Mary
+                        Magdalene, <lb n="19"/> Mary the mother of James the younger and of Joseph,
+                            <lb n="20"/>
+                        <pb n="107r"/> and Salome.</p>
+                </div>
+                <div n="41" type="verse">
+                    <p>In Galilee these women had followed <lb n="1"/> him and cared for his needs.
+                        Many <lb n="2"/> other women who had come up with him to Jerusalem were also
+                        there. <lb n="3"/></p>
+                </div>
+                <div n="42" type="verse">
+                    <p>It was Preparation Day (that is, <lb n="4"/> the day before the Sabbath). So
+                        as evening approached, <lb n="5"/></p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Joseph of Arimathea, a prominent <lb n="6"/> member of the Council, who was
+                        himself waiting for the kingdom <lb n="7"/> of God, went boldly to Pilate
+                        and asked for <lb n="8"/> Jesus' body.</p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Pilate was surprised to hear that he was already <lb n="9"/> dead. Summoning
+                        the centurion, he asked <lb n="10"/> him if Jesus had already died.</p>
+                </div>
+                <div n="45" type="verse">
+                    <p>When he learned <lb n="11"/> from the centurion that it was so, he gave the
+                        body to Joseph. <lb n="12"/></p>
+                </div>
+                <div n="46" type="verse">
+                    <p>So Joseph bought some linen cloth, took down the body, <lb n="13"/> wrapped
+                        it in the linen, and placed it in a tomb <lb n="14"/> cut out of rock. Then
+                        he rolled <lb n="15"/> a stone against the entrance of the tomb. <lb n="16"
+                        /></p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Mary Magdalene and Mary the mother <lb n="17"/> of Joseph saw where he was
+                        laid.</p>
+                </div>
+            </div>
+            <div n="16" type="chapter">
+                <div n="1" type="verse">
+                    <p>When the <lb n="18"/> Sabbath was over, Mary Magdalene, Mary the mother <lb
+                            n="19"/> of James, and Salome bought spices so that they might go to <lb
+                            n="20"/>
+                        <pb n="107v"/> anoint Jesus' body.</p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Very early on the first day <lb n="1"/> of the week, just after sunrise, they
+                        were on their <lb n="2"/> way to the tomb</p>
+                </div>
+                <div n="3" type="verse">
+                    <p>and they asked each other, “Who will roll the stone away <lb n="3"/> from the
+                        entrance of the tomb?” <lb n="4"/></p>
+                </div>
+                <div n="4" type="verse">
+                    <p>But when they looked up, they saw that the stone <lb n="5"/>, which was very
+                        large, had been rolled <lb n="6"/> away.</p>
+                </div>
+                <div n="5" type="verse">
+                    <p>As they entered the tomb, they saw <lb n="7"/> a young man dressed in a white
+                        robe sitting on the right side, <lb n="8"/> and they were alarmed.</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>“Don't be alarmed,” he said. <lb n="9"/> “You are looking for Jesus the
+                        Nazarene, who was crucified. <lb n="10"/> He has risen! He is not here. See
+                        the place where they laid <lb n="11"/> him.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>But go, tell his disciples and <lb n="12"/> Peter, 'He is going ahead of you
+                        into Galilee. There <lb n="13"/> you will see him, just as he told
+                        you.'”</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Trembling and bewildered <lb n="14"/>, the women went out and fled from the
+                        tomb. <lb n="15"/> They said nothing to anyone, <lb n="16"/> because they
+                        were afraid.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>When Jesus rose early on the first day of the week <lb n="17"/>, he appeared
+                        first to Mary Magdalene, <lb n="18"/> out of whom he had driven seven
+                        demons.</p>
+                </div>
+                <div n="10" type="verse">
+                    <p>She went <lb n="19"/> and told those who had been with him and who were
+                        mourning <lb n="20"/>
+                        <pb n="108r"/> and weeping</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>When they heard that <lb n="1"/> Jesus was alive and that she had seen him,
+                            <lb n="2"/> they did not believe it.</p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Afterward Jesus appeared in a different form to two of them while they were
+                        walking <lb n="3"/> in the country.</p>
+                </div>
+                <div n="13" type="verse">
+                    <p>These returned <lb n="4"/> and reported it to the rest; but they did not
+                        believe them either. <lb n="5"/></p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Later Jesus appeared to the Eleven <lb n="6"/> as they were eating; he
+                        rebuked them for their lack of faith <lb n="7"/> and their stubborn refusal
+                            <lb n="8"/> to believe those who had seen him after he had risen. <lb
+                            n="9"/></p>
+                </div>
+                <div n="15" type="verse">
+                    <p>He said to them, “Go into all <lb n="10"/> the world and preach the gospel to
+                        all <lb n="11"/> creation.</p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Whoever believes and is baptized will be <lb n="12"/> saved, but whoever does
+                        not believe will be condemned. <lb n="13"/></p>
+                </div>
+                <div n="17" type="verse">
+                    <p>And these signs will accompany those who believe: <lb n="14"/> In my name
+                        they will drive out demons; they will <lb n="15"/> speak in new tongues;</p>
+                </div>
+                <div n="18" type="verse">
+                    <p>they will pick up snakes with their hands; <lb n="16"/> and when they drink
+                        deadly poison, it will not hurt them at all; they will place their <lb
+                            n="17"/> hands on sick people, and they will <lb n="18"/> get well.”</p>
+                </div>
+                <div n="19" type="verse">
+                    <p>After the Lord Jesus had spoken to them, <lb n="19"/> he was taken up into
+                        heaven and he sat <lb n="20"/>
+                        <pb n="108v"/> at the right hand of God.</p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Then the disciples went out and preached <lb n="1"/> everywhere, and the Lord
+                        worked with them and confirmed his word by <lb n="2"/> the signs that
+                        accompanied it.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Les Troyens</title>
+                <author>Hector Berlioz</author>
+            </titleStmt>
+            <publicationStmt>
+                <p part="N">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector
+                    Berlioz, based on Virgil's Aeneid. Plain-text transcription provided by
+                    http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
+                    public domain.</p>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <p part="N">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector
+                    Berlioz, based on Virgil's Aeneid. Plain-text transcription provided by
+                    http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
+                    public domain.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="1" type="part" part="N" org="uniform" sample="complete">
+                <head n="title">PREMIERE PARTIE: LA PRISE DE TROYE.</head>
+                <div n="1" type="act" part="N" org="uniform" sample="complete">
+                    <head n="title">ACTE PREMIER </head>
+                    <stage n="stage1">L’emplacement du camp abandonné des Grecs dans la plaine de Troie. A
+                        gauche du spectateur et à quelque distance dans l’intérieur de Troie, la
+                        Citadelle. A droite, le Simoïs, et sur l’un des bords un tumulus, le tombeau
+                        d’Achille. Au loin les sommets du mont Ida. Un autel champêtre sur
+                        l’avant-scène et près de l’autel un trône élevé.</stage>
+                    <div n="1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 1 - Choeur De La Populace Troyenne</head>
+                        <stage n="stage2">Le peuple troyen se répandant joyeusement dans la plaine. Soldats,
+                            citoyens, femmes, et enfants. Danses, jeux divers. Trois bergers jouent
+                            de la double flûte au sommet du tombeau d’Achille.</stage>
+                        <sp n="1">
+                            <speaker>CHOEUR </speaker>
+                            <l n="1">Ha! ha!</l>
+                            <l n="2">Après dix ans passés dans nos murailles. </l>
+                            <l n="3">Ah! quel bonheur de respirer</l>
+                            <l n="4">l’air pur des champs, que le cri des batailles ne va plus
+                                déchirer.</l>
+                            <stage n="stage3">Jeunes garçons et enfants accourant avec des débris d’armes à la
+                                main.</stage>
+                            <l n="5">Que de débris! - Un fer de lance!</l>
+                            <l n="6">Je trouve un casque! - Et moi, deux javelots!</l>
+                            <l n="7">Voyez, ce bouclier immense!</l>
+                            <l n="8">Il porterait un homme sur les flots!</l>
+                            <l n="9">Quels poltrons que ces Grecs!</l>
+                        </sp>
+                        <sp n="2">
+                            <speaker>UN SOLDAT</speaker>
+                            <l n="10">Savez-vous quelle tente </l>
+                            <l n="11">En ce lieu même s’élevait?</l>
+                        </sp>
+                        <sp n="3">
+                            <speaker>CHOEUR</speaker>
+                            <l n="12">Non! Dites-le… C’était?</l>
+                        </sp>
+                        <sp n="4">
+                            <speaker>LE SOLDAT</speaker>
+                            <l n="13">Celle d’Achille.</l>
+                        </sp>
+                        <sp n="5">
+                            <speaker>CHOEUR</speaker>
+                            <stage n="stage4">Se reculant avec terreur</stage>
+                            <l n="14">Dieux!</l>
+                        </sp>
+                        <sp n="6">
+                            <speaker>LE SOLDAT</speaker>
+                            <l n="15">Restez, troupe vaillante!</l>
+                            <l n="16">Achille est mort, vous pouvez voir ici</l>
+                            <l n="17">Sa tombe, la voici.</l>
+                        </sp>
+                        <sp n="7">
+                            <speaker>CHOEUR</speaker>
+                            <l n="18">C’est vrai; de ce monstre homicide</l>
+                            <l n="19">Pâris nous délivra. - Connais-tu le cheval</l>
+                            <l n="20">De bois, qu’avant de partir pour l’Aulide</l>
+                            <l n="21">Construisirent les Grecs? - Ce cheval colossal, </l>
+                            <l n="22">Leur offrande à Pallas, dans ses vastes entrailles </l>
+                            <l n="23">Tiendrait un bataillon. On abat les murailles. </l>
+                            <l n="24">Dans la ville, ce soir, nous allons le traîner; </l>
+                            <l n="25">On dit que le Roi vient tantôt l’examiner!</l>
+                            <l n="26">Où donc est-il? - Sur le bord du Scamandre!</l>
+                            <l n="27">Il faut le voir sans plus attendre!</l>
+                            <l n="28">Courons! courons! Le cheval! le cheval!</l>
+                        </sp>
+                        <stage n="stage5">Ils surent en tumulte.</stage>
+                    </div>
+                    <div n="2" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº. 2 - Recitatif et Air </head>
+                        <stage n="stage6">Pendant la fin de la scène précédente, Cassandre a paru au milieu des
+                            groupes, parcourant la plaine avec agitation. Son regard est inquiet et
+                            égaré.</stage>
+                        <sp n="8">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="29">Les Grecs ont disparu!… mais quel dessein fatal</l>
+                            <l n="30">Cache de ce départ l’étrange promptitude?</l>
+                            <l n="31">Tout vient justifier ma sombre inquiétude!</l>
+                            <l n="32">J’ai vu l’ombre d’Hector parcourir nos remparts </l>
+                            <l n="33">Comme un veilleur de nuit, j’ai vu ses noirs regards </l>
+                            <l n="34">Interroger au loin le détroit de Sigée… </l>
+                            <l n="35">Malheur! dans la folie et l’ivresse plongée</l>
+                            <l n="36">La foule sort des murs, et Priam la conduit!</l>
+                            <l n="37">Malheureux Roi! dans l’éternelle nuit,</l>
+                            <l n="38">C’en est donc fait, tu vas descendre!</l>
+                            <l n="39">Tu ne m’écoutes pas, tu ne veux rien comprendre, </l>
+                            <l n="40">Malheureux peuple, à l’horreur qui me suit! </l>
+                            <l n="41">Chorèbe, hélas, oui, Chorèbe lui-même</l>
+                            <l n="42">Croit ma raison perdue!… A ce nom mon effroi </l>
+                            <l n="43">Redouble! O Dieux! Chorèbe! il m’aime! </l>
+                            <l n="44">Il est aimé! mais plus d’hymen pour moi.</l>
+                            <l n="45">Plus d’amour, de chants d’allégresse,</l>
+                            <l n="46">Plus de doux rêves de tendresse!</l>
+                            <l n="47">De l’affreux destin qui m’oppresse</l>
+                            <l n="48">Il faut subir l’inexorable loi!</l>
+                            <stage n="stage7">Elle tombe dans une tendre rêverie.</stage>
+                            <l n="49">Chorèbe!… il faut qu’il parte et quitte la Troiade.</l>
+                        </sp>
+                    </div>
+                    <div n="3" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº. 3 - Duo </head>
+                        <stage n="stage8">Chorèbe s’avance vivement.</stage>
+                        <sp n="9">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="50">C’est lui!</l>
+                        </sp>
+                        <sp n="10">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="51">Quand Troie éclate en transports jusqu’aux cieux</l>
+                            <l n="52">Vous fuyez les palais joyeux</l>
+                            <l n="53">Pour les bois et les champs, pensive hamadryade!</l>
+                            <l n="54">De vous on s’inquiète…</l>
+                        </sp>
+                        <sp n="11">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="55">Ah! je cache à vos yeux</l>
+                            <l n="56">Le trouble affreux dont mon âme est remplie!</l>
+                        </sp>
+                        <sp n="12">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="57">Cassandre!</l>
+                        </sp>
+                        <sp n="13">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="58">Quitte-moi!</l>
+                        </sp>
+                        <sp n="14">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="59">Viens!</l>
+                        </sp>
+                        <sp n="15">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="60">Pars, je t’en supplie!</l>
+                        </sp>
+                        <sp n="16">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="61">Moi, partir!</l>
+                            <l n="62">Te quitter quand le plus saint des noeuds…</l>
+                        </sp>
+                        <sp n="17">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="63">C’est le temps de mourir et non pas d’être heureux. </l>
+                        </sp>
+                        <sp n="18">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="64">Reviens à toi, vierge adorée!</l>
+                            <l n="65">Cesse de craindre en cessant de prévoir;</l>
+                            <l n="66">Lève vers la voûte azurée</l>
+                            <l n="67">L’oeil de ton âme rassurée.</l>
+                            <l n="68">Laisse entrer en ton coeur un doux rayon d’espoir.</l>
+                        </sp>
+                        <sp n="19">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="69">Tout est menace au ciel! Crois en ma voix qu’inspire</l>
+                            <l n="70">Le barbare dieu même à nous perdre acharné.</l>
+                            <l n="71">Au livre du destin mon regard a su lire,</l>
+                            <l n="72">Je vois l’essaim de maux sur nous tous déchaîné!</l>
+                            <l n="73">Il va tomber sur Troie!</l>
+                            <l n="74">A sa fureur en proie,</l>
+                            <l n="75">Le peuple va rugir</l>
+                            <l n="76">Et de son sang rougir</l>
+                            <l n="77">Le pavé de nos rues;</l>
+                            <l n="78">Les vierges demi-nues,</l>
+                            <l n="79">Aux bras des ravisseurs,</l>
+                            <l n="80">Vont pousser des clameurs</l>
+                            <l n="81">A déchirer les nues!</l>
+                            <l n="82">Déjà le noir vautour,</l>
+                            <l n="83">Sur la plus haute tour</l>
+                            <l n="84">A chanté le carnage!</l>
+                            <l n="85">Tout s’écroule! tout nage</l>
+                            <l n="86">Sur un fleuve de sang,</l>
+                            <l n="87">Et dans ton flanc</l>
+                            <l n="88">Le fer d’un Grec!… Ah!</l>
+                            <stage n="stage9">Chorèbe soutient un instant dans ses bras Cassandre à demi
+                                évanouie.</stage>
+                        </sp>
+                        <sp n="20">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="89">Pauvre âme égarée!</l>
+                            <l n="90">Reviens à toi, vierge adorée, etc.</l>
+                        </sp>
+                        <sp n="21">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="91">La mort déjà plane dans l’air…</l>
+                            <l n="92">Et j’ai vu le sinistre éclair</l>
+                            <l n="93">De son froid regard homicide!</l>
+                            <l n="94">Si tu m’aimes, va-t’en -</l>
+                            <l n="95">Pars!… va rendre à ton père</l>
+                            <l n="96">Un appui nécessaire</l>
+                            <l n="97">A ses vieux ans,</l>
+                            <l n="98">Inutile pour nous.</l>
+                        </sp>
+                        <sp n="22">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="99">Eh, de quel oeil, si de tels maux sur nous</l>
+                            <l n="100">Devaient tomber, chère insensée,</l>
+                            <l n="101">Mon père me reverrait-il</l>
+                            <l n="102">Fuyant ma fiancée</l>
+                            <l n="103">Au moment du péril?</l>
+                            <l n="104">Mais le ciel et la terre,</l>
+                            <l n="105">Oublieux de la guerre,</l>
+                            <l n="106">Proclament ton erreur.</l>
+                            <l n="107">Cette tiède douceur</l>
+                            <l n="108">Du souffle de la brise</l>
+                            <l n="109">Et cette mer qui brise</l>
+                            <l n="110">Si mollement ses flots</l>
+                            <l n="111">Aux caps de Ténédos;</l>
+                            <l n="112">Sur la plaine ondoyante</l>
+                            <l n="113">Ces tranquilles troupeaux,</l>
+                            <l n="114">Ce pâtre heureux qui chante</l>
+                            <l n="115">Et ces joyeux oiseaux</l>
+                            <l n="116">Semblent ne faire entendre,</l>
+                            <l n="117">Sous le céleste dais,</l>
+                            <l n="118">Et partout ne répandre</l>
+                            <l n="119">Que l’hymne de la paix.</l>
+                        </sp>
+                        <sp n="23">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="120">Signes trompeurs! calme perfide!</l>
+                            <l n="121">La mort déjà plane dans l’air,</l>
+                            <l n="122">Et j’ai vu le sinistre éclair</l>
+                            <l n="123">De son froid regard homicide!</l>
+                            <l n="124">Quitte-nous dès ce soir,</l>
+                            <l n="125">Entends-moi, je t’implore,</l>
+                            <l n="126">Dans nos murs que l’aurore</l>
+                            <l n="127">Ne puisse te revoir!</l>
+                            <l n="128">D’épouvante j’expire</l>
+                            <l n="129">Et mon coeur se déchire!</l>
+                            <l n="130">Pars ce soir, pars ce soir!</l>
+                        </sp>
+                        <sp n="24">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="131">Te quitter, dès ce soir!</l>
+                            <l n="132">Cassandre! et je t’adore!</l>
+                            <l n="133">Sauve-moi, je t’implore,</l>
+                            <l n="134">D’un affreux désespoir.</l>
+                            <l n="135">Tu veux donc que j’expire?</l>
+                            <l n="136">Sans pitié peux-tu dire:</l>
+                            <l n="137">Pars ce soir, pars ce soir!</l>
+                        </sp>
+                        <sp n="25">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="138">Si de ton noble amour, Chorèbe,</l>
+                            <l n="139">Tu me crus digne un jour, tu partiras!</l>
+                        </sp>
+                        <sp n="26">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="140">Au nom des dieux du ciel et de l’Erèbe,</l>
+                            <l n="141">Cassandre, tu m’écouteras!</l>
+                            <l n="142">A tes genoux, je tombe,</l>
+                            <l n="143">Cassandre!</l>
+                        </sp>
+                        <sp n="27">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="144">A tant de douleurs je succombe!</l>
+                            <l n="145">Ô dieux cruels!</l>
+                        </sp>
+                        <sp n="28">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="146">Te quitter, dès ce soir, etc.</l>
+                        </sp>
+                        <sp n="29">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="147">Entends-moi, je t’implore, etc.</l>
+                            <l n="148">Aveugle et sourd comme eux! Tu persévères</l>
+                            <l n="149">A t’immoler à ton funeste amour?</l>
+                        </sp>
+                        <sp n="30">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="150">Je ne te quitte pas!</l>
+                        </sp>
+                        <sp n="31">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="151">L’épouvantable jour</l>
+                            <l n="152">Te verra donc combattre avec mes frères?</l>
+                        </sp>
+                        <sp n="32">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="153">Je ne te quitte pas!</l>
+                        </sp>
+                        <sp n="33">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="154">Eh bien! voilà ma main</l>
+                            <l n="155">Et mon chaste baiser d’épouse!</l>
+                            <l n="156">Reste! La mort jalouse</l>
+                            <l n="157">Prépare notre lit nuptial pour demain.</l>
+                        </sp>
+                        <sp n="34">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="158">Viens! Viens!</l>
+                        </sp>
+                        <stage n="stage10">Il l’entraîne éperdue.</stage>
+                    </div>
+                    <div n="4" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº. 4 - Marche et Hymne </head>
+                        <stage n="stage11">Entrent Ascagne a la tête des enfants, Hécube et les Princesses, Énée
+                            à la tête des guerriers troyens, Priam et les Prêtres.</stage>
+                        <sp n="35">
+                            <speaker>CHOEUR</speaker>
+                            <l n="159">Dieux protecteurs de la ville éternelle,</l>
+                            <l n="160">Recevez notre encens;</l>
+                            <l n="161">Et du bonheur de son peuple fidèle</l>
+                            <l n="162">Entendez les accents!</l>
+                            <l n="163">Ô vous! divins auteurs de notre délivrance.</l>
+                            <l n="164">Dieu de l’Olympe! Dieu des mers!</l>
+                            <l n="165">Régulateurs de l’univers,</l>
+                            <l n="166">Acceptez les présents de la reconnaissance.</l>
+                        </sp>
+                    </div>
+                    <div n="5" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 5 - Combat de Ceste</head>
+                        <l n="167">Pas de Lutteurs </l>
+                        <stage n="stage12">Danses et jeux populaires</stage>
+                    </div>
+                    <div n="6" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 6 - Pantomime </head>
+                        <stage n="stage13">Andromaque entre à pas lents, tenant par la main Astyanax. Ils sont
+                            en deuil - vêtus de blanc - tous les deux.</stage>
+                        <sp n="36">
+                            <speaker>CHOEUR</speaker>
+                            <l n="168">Andromaque et son fils!</l>
+                            <l n="169">Ô destin!</l>
+                            <l n="170">Ces clameurs de la publique allégresse…</l>
+                            <stage n="stage14">Astyanax dépose une corbeille de fleurs au pied de l’autel.
+                                Andromaque s’agenouille a côté de lui et prie pendant quelques
+                                instants.</stage>
+                            <l n="171">Et cette immense tristesse,</l>
+                            <l n="172">Ce deuil profond,</l>
+                            <stage n="stage15">Andromaque se lève et conduit son fils devant le trône de
+                                Priam.</stage>
+                            <l n="173">Ces muettes douleurs!</l>
+                            <stage n="stage16">Elle présente l’enfant au Roi et à la Reine. Elle attire Astyanax
+                                contre son sein et l’embrasse avec une tendresse convulsive.</stage>
+                            <l n="174">Les épouses, les mères pleurent à leur aspect…</l>
+                            <stage n="stage17">Priam se lève et bénit l’enfant. Hécube le bénit à son tour. Lle
+                                Roi et la Reine reprennent place sur leurs trônes. Astyanax intimidé
+                                revient se réfugier auprès de sa mère. L’émotion douloureuse
+                                d’Andromaque augmente.</stage>
+                        </sp>
+                        <sp n="37">
+                            <speaker>CASSANDRE</speaker>
+                            <stage n="stage18">passant au fond du théâtre</stage>
+                            <l n="175">Hélas! garde tes pleurs,</l>
+                            <l n="176">Veuve d’Hector…</l>
+                            <stage n="stage19">Andromaque abaisse son voile.</stage>
+                            <l n="177">A de prochains malheurs</l>
+                            <l n="178">Tu dois bien des larmes amères…</l>
+                            <stage n="stage20">Les larmes la gagnant, Andromaque reprend la main d’Astyanax et
+                                passe devant les divers groupes du peuple pour se retirer. La foule
+                                s’écarte devant les deux personnages. Plusieurs femmes troyennes
+                                pleurant, cachent leur visage sur l’épaule des hommes qui sont
+                                auprès d’elles. Les deux personnages s’éloignent à pas
+                                lents.</stage>
+                        </sp>
+                        <sp n="38">
+                            <speaker>CHOEUR</speaker>
+                            <l n="179">Ah!</l>
+                        </sp>
+                    </div>
+                    <div n="7" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 7 - Narration </head>
+                        <sp n="39">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage21">accourant</stage>
+                            <l n="180">Du peuple et des soldats, ô roi! la foule</l>
+                            <l n="181">S’enfuit et roule</l>
+                            <l n="182">Comme un torrent; on ne peut l’arrêter!</l>
+                            <l n="183">Un prodige inouï vient de l’épouvanter:</l>
+                            <l n="184">Laocoon, voyant quelque trame perfide</l>
+                            <l n="185">Dans l’ouvrage des Grecs, a d’un bras intrépide</l>
+                            <l n="186">Lancé son javelot sur ce bois, excitant</l>
+                            <l n="187">Le peuple indécis et flottant</l>
+                            <l n="188">A le brûler. Alors, gonflés de rage,</l>
+                            <l n="189">Deux serpents monstrueux s’avancent vers la plage,</l>
+                            <l n="190">S’élancent sur le prêtre, en leurs terribles noeuds</l>
+                            <l n="191">L’enlacent, le brûlant de leur haleine ardente,</l>
+                            <l n="192">Et le couvrant d’une bave sanglante,</l>
+                            <l n="193">Le dévorent à nos yeux.</l>
+                        </sp>
+                    </div>
+                    <div n="8" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 8 - Double Choeur </head>
+                        <sp n="40">
+                            <speaker>PRIAM, PANTHÉE, CHORÈBE, ÉNÉE, HELÉNUS, CASSANDRE, ASCACNE,
+                                HECUBE, LE PEUPLE</speaker>
+                            <l n="194">Châtiment effroyable!</l>
+                            <l n="195">Mystérieuse horreur!</l>
+                            <l n="196">A ce récit épouvantable</l>
+                            <l n="197">Le sang s’est glacé dans mon coeur.</l>
+                            <l n="198">Un frisson de terreur</l>
+                            <l n="199">Ebranle tout mon être!</l>
+                            <l n="200">Laocoon! un prêtre!</l>
+                            <l n="201">Objet de la fureur des dieux,</l>
+                            <l n="202">Dévoré palpitant par ces monstres hideux!</l>
+                            <l n="203">Horreur!</l>
+                        </sp>
+                        <sp n="41">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="204">Ô peuple déplorable!</l>
+                            <l n="205">Mystérieuse horreur, etc.</l>
+                        </sp>
+                    </div>
+                    <div n="9" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 9 - Récitatif et Choeur </head>
+                        <sp n="42">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="206">Que la déesse nous protége,</l>
+                            <l n="207">Conjurons ce nouveau danger!</l>
+                            <l n="208">Il est trop vrai, Pallas vient de venger</l>
+                            <l n="209">Un affreux sacrilège.</l>
+                        </sp>
+                        <sp n="43">
+                            <speaker>PRIAM</speaker>
+                            <l n="210">Pour l’apaiser, suivez mes ordres sans retard.</l>
+                        </sp>
+                        <sp n="44">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="211">Déjà sur des rouleaux disposés avec art,</l>
+                            <l n="212">Le cheval est placé, que chacun le conduise,</l>
+                            <l n="213">Vers le Palladium en pompe l’introduise!</l>
+                            <l n="214">A cet objet sacré formez cortège, enfants,</l>
+                            <l n="215">Femmes, guerriers, couvrez de fleurs la voie,</l>
+                            <l n="216">Et que jusques dans Troie</l>
+                            <l n="217">La trompette et la lyre accompagnent vos chants!</l>
+                        </sp>
+                        <sp n="45">
+                            <speaker>ENSEMBLE</speaker>
+                            <l n="218">A cet objet sacré formez cortège, enfants, etc.</l>
+                        </sp>
+                        <sp n="46">
+                            <speaker>CASSANDRE</speaker>
+                            <stage n="stage22">parcourant la scène avec égarement.</stage>
+                            <l n="219">Malheur!</l>
+                        </sp>
+                        <sp n="47">
+                            <speaker>PRIAM, HECUBE, ÉNÉE, PANTHÉE, CHORÈBE, HELÉNUS</speaker>
+                            <l n="220">Pallas, pardonne à Troie!</l>
+                            <stage n="stage23">Ils sortent. Cassandre reste seule sur l’avant-scène. Après avoir
+                                fait quelques pas pour suivre la foule, elle rentre
+                                brusquement.</stage>
+                        </sp>
+                    </div>
+                    <div n="10" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 10 - Air </head>
+                        <sp n="48">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="221">Non, je ne verrai pas la déplorable fête</l>
+                            <l n="222">Où s’enivre, en espoir d’un brillant avenir,</l>
+                            <l n="223">Ce peuple condamné, que rien, hélas! n’arrête</l>
+                            <l n="224">Sur la pente du gouffre. Ô cruel souvenir!</l>
+                            <l n="225">Gloire de la Patrie!… Et voir s’évanouir</l>
+                            <l n="226">Du bonheur le plus pur la séduisante image!</l>
+                            <l n="227">Ô Chorèbe! O Priam!… Vains efforts de courage,</l>
+                            <l n="228">Des pleurs d’angoisse inondent mon visage!</l>
+                        </sp>
+                    </div>
+                    <div n="11" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 11- Final: Marche Troyenne </head>
+                        <stage n="stage24">On entend le cortège dans un grand éloignement.</stage>
+                        <sp n="49">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="229">De mes sens éperdus… est-ce une illusion?</l>
+                            <l n="230">Les choeurs sacrés d’Ilion!</l>
+                        </sp>
+                        <sp n="50">
+                            <speaker>CHOEUR</speaker>
+                            <l n="231">Du roi des dieux, ô fille aimée, </l>
+                            <l n="232">Du casque et de la lance armée,</l>
+                            <l n="233">Sage guerrière aux regards doux,</l>
+                            <l n="234">A nos destins sois favorable,</l>
+                            <l n="235">Rends Ilion inébranlable,</l>
+                            <l n="236">Belle Pallas, protége-nous.</l>
+                        </sp>
+                        <sp n="51">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="237">Quoi, déjà le cortège!… Au loin je l’aperçois!</l>
+                            <l n="238">L’ennemi vient et la ville est ouverte!…</l>
+                            <l n="239">Ce peuple fou qui se rue à sa perte</l>
+                            <l n="240">Semble avoir devancé les ordres de son Roi!</l>
+                            <stage n="stage25">On entend le cortège plus près.</stage>
+                        </sp>
+                        <sp n="52">
+                            <speaker>CHOEUR</speaker>
+                            <l n="241">Du roi des dieux, etc.</l>
+                            <l n="242">Entends nos voix, vierge sublime, </l>
+                            <l n="243">Aux sons des flûtes de Dindyme</l>
+                            <l n="244">Se mêler au plus haut des airs. </l>
+                            <l n="245">Que la trompette phrygienne</l>
+                            <l n="246">Unie à la lyre troyenne</l>
+                            <l n="247">Te porte nos pieux concerts!</l>
+                        </sp>
+                        <sp n="53">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="248">L’éclat des chants augmente!</l>
+                            <l n="249">L’énorme machine roulante</l>
+                            <l n="250">S’avance!… la voici!</l>
+                        </sp>
+                        <sp n="54">
+                            <speaker>CHOEUR</speaker>
+                            <stage n="stage26">entrant en scène</stage>
+                            <l n="251">Du roi des dieux, etc.</l>
+                            <l n="252">Souriante guirlande,</l>
+                            <l n="253">A l’entour de l’offrande</l>
+                            <l n="254">Dansez, heureux enfants!</l>
+                            <l n="255">Semez sur la ramée</l>
+                            <l n="256">La neige parfumée</l>
+                            <l n="257">Des muguets du printemps. </l>
+                            <l n="258">Pallas! protège-nous!</l>
+                            <stage n="stage27">Les chants cessent brusquement. Le choeur s’agite en divers sens;
+                                quelques femmes sortent comme pour aller voir ce qui se pose hors de
+                                la scène et reviennent presque aussitôt.</stage>
+                        </sp>
+                        <sp n="55">
+                            <speaker>QUELQUES HOMMES DU PEUPLE</speaker>
+                            <l n="259">Qu’est-ce donc? et pourquoi ce mouvement d’alarmes?</l>
+                        </sp>
+                        <sp n="56">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="260">Jupiter! on hésite!</l>
+                            <l n="261">Et la foule s’agite!</l>
+                        </sp>
+                        <sp n="57">
+                            <speaker>LES FEMMES</speaker>
+                            <l n="262">Dans les flancs du colosse on entend un bruit d’armes…</l>
+                        </sp>
+                        <sp n="58">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="263">On s’arrête… O dieux! Si…</l>
+                        </sp>
+                        <sp n="59">
+                            <speaker>LES HOMMES</speaker>
+                            <l n="264">Présage heureux! chantez, enfants!</l>
+                            <stage n="stage28">Les chants reprennent avec plus d’éclat qu’auparavant.</stage>
+                        </sp>
+                        <sp n="60">
+                            <speaker>TOUT LE CHOEUR</speaker>
+                            <l n="265">Fiers sommets de Pergame,</l>
+                            <l n="266">D’une joyeuse flamme</l>
+                            <l n="267">Rayonnez triomphants!</l>
+                            <stage n="stage29">Le choeur reprend la suite du cortège et sort.</stage>
+                        </sp>
+                        <sp n="61">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="268">Arrêtez! arrêtez! Oui, la flamme, la hache!</l>
+                            <l n="269">Fouillez le flanc du monstrueux cheval!</l>
+                            <l n="270">Laocoon!… les Grecs!… il cache</l>
+                            <l n="271">Un piège infernal…</l>
+                            <l n="272">Ma voix se perd!… plus d’espérance!</l>
+                            <l n="273">Vous êtes sans pitié, grands dieux,</l>
+                            <l n="274">Pour ce peuple en démence!</l>
+                            <l n="275">Ô digne emploi de la toute-puissance,</l>
+                            <l n="276">Le conduire à l’abîme en lui fermant les yeux!</l>
+                            <stage n="stage30">Elle écoute les derniers sons de la marche triomphale qu’on
+                                distingue encore et qui s’éteignent tout d’un coup.</stage>
+                            <l n="277">Ils entrent, c’en est fait, le destin tient sa proie!</l>
+                            <l n="278">Soeur d’Hector, </l>
+                            <l n="279">va mourir sous les débris de Troie!</l>
+                        </sp>
+                        <stage n="stage31">Elle sort.</stage>
+                    </div>
+                </div>
+                <div n="2" type="act" part="N" org="uniform" sample="complete">
+                    <head n="title">ACTE DEUXIÈME </head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Premier Tableau</head>
+                    </div>
+                    <div n="12" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 12 - Scène et Récitatif </head>
+                        <stage n="stage32">Un appartement du palais d’Énée, qu’éclaire à peine une lampe.
+                            Rumeurs de combats éloignés. Énée à demi-armé dort sur son lit. Ascagne
+                            sort tout effrayé d’un appartement voisin. Il écoute; il s’approche du
+                            lit de son père. Les bruits de la ville cessant de se faire entendre, il
+                            n’ose pas le réveiller et s’en retourne. D’un coin obscur s’avance vers
+                            Énée le spectre sanglant d’Hector d’un pas lent le solennel. Sa barbe et
+                            sa chevelure sont souillées et en désordre. Parvenu auprès d’Énée, il
+                            reste un instant immobile à le contempler et soupire profondément. Un
+                            bruit d’écroulement au loin, plus fort que les précédents, éveille Énée
+                            en sursaut. Il voit Hector debout devant lui et après un instant
+                            d’indécision il lui adresse la parole, à demi levé sur son lit.</stage>
+                        <sp n="62">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="280">Ô lumière de Troie!… Ô gloire des Troyens!</l>
+                            <l n="281">Après tant de labeurs de tes concitoyens,</l>
+                            <l n="282">De quels bords inconnus reviens-tu? Quel nuage</l>
+                            <l n="283">Semble voiler tes yeux sereins?</l>
+                            <l n="284">Hector, quelles douleurs ont flétri ton visage?</l>
+                        </sp>
+                        <sp n="63">
+                            <speaker>L’OMBRE D’HECTOR</speaker>
+                            <l n="285">Ah!… fuis, fils de Vénus!</l>
+                            <l n="286">l’ennemi tient nos murs!</l>
+                            <l n="287">De son faîte élevé Troie entière s’écroule!</l>
+                            <l n="288">Un ouragan de flammes roule</l>
+                            <l n="289">Des temples aux palais ses tourbillons impurs…</l>
+                            <l n="290">Nous eussions fait assez pour sauver la patrie</l>
+                            <l n="291">Sans l’arrêt du destin. Pergame te confie</l>
+                            <l n="292">Ses enfants et ses dieux. Va, cherche l’Italie…</l>
+                            <l n="293">Où pour ton peuple renaissant,</l>
+                            <l n="294">Après avoir longtemps erré sur l’onde</l>
+                            <l n="295">Tu dois fonder un empire puissant,</l>
+                            <l n="296">Dans l’avenir, dominateur du monde,</l>
+                            <l n="297">Où la mort des héros t’attend.</l>
+                        </sp>
+                        <stage n="stage33">Hector s’éloigne avec solennité et sa forme devient de plus en plus
+                            indistincte pendant qu’Énée le suit d’un regard effaré.</stage>
+                    </div>
+                    <div n="13" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 13 - Recitatif et Choeur </head>
+                        <stage n="stage34">Entre Panthée blessé au visage et portant les dieux de Troie.</stage>
+                        <sp n="64">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="298">Quelle espérance encore est permise, Panthée?</l>
+                            <l n="299">Où combattre, où courir?</l>
+                        </sp>
+                        <sp n="65">
+                            <speaker>PANTHÉE</speaker>
+                            <l n="300">La ville ensanglantée</l>
+                            <l n="301">Brûle! c’est notre jour fatal!</l>
+                            <l n="302">Priam n’est plus! Sortis du monstrueux cheval,</l>
+                            <l n="303">Les Grecs ont massacré les gardes de nos portes.</l>
+                            <l n="304">Déjà d’innombrables cohortes,</l>
+                            <l n="305">Affluant du dehors, courent de toutes parts</l>
+                            <l n="306">Attiser l’incendie</l>
+                            <l n="307">Qu’alluma de leurs chefs l’infâme perfidie;</l>
+                            <l n="308">D’autres occupent les remparts.</l>
+                            <stage n="stage35">Entre Ascagne.</stage>
+                        </sp>
+                        <sp n="66">
+                            <speaker>ASCAGNE</speaker>
+                            <l n="309">Ô père! le palais d’Ucalégon s’écroule!</l>
+                            <l n="310">Son toit fondant en pluie ardente coule!</l>
+                        </sp>
+                        <sp n="67">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage36">l’interrompant</stage>
+                            <l n="311">Suis-nous, Ascagne!</l>
+                            <stage n="stage37">Entre Chobère, à la tête d’une troupe armée.</stage>
+                        </sp>
+                        <sp n="68">
+                            <speaker>CHORÈBE</speaker>
+                            <l n="312">Aux armes, grand Énée!</l>
+                            <l n="313">Viens, la Citadelle cernée</l>
+                            <l n="314">Tient encor!</l>
+                        </sp>
+                        <sp n="69">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="315">A tout prix il faut y parvenir.</l>
+                            <l n="316">Prêts à mourir</l>
+                            <l n="317">Tentons de nous défendre.</l>
+                            <l n="318">Le salut des vaincus est de n’en plus attendre.</l>
+                            <stage n="stage38">Grands bruits et cris lointains.</stage>
+                        </sp>
+                        <sp n="70">
+                            <speaker>CHOEUR</speaker>
+                            <l n="319">Le salut des vaincus est de n’en plus attendre.</l>
+                            <l n="320">Entendez-vous </l>
+                            <l n="321">L’écroulement des tours?… la flamme dévorante?</l>
+                            <l n="322">Les hurlements des Grecs? </l>
+                            <l n="323">Toujours leur foule augmente.</l>
+                            <l n="324">Marchons! le désespoir dirigera nos coups.</l>
+                        </sp>
+                        <sp n="71">
+                            <speaker>TOUS</speaker>
+                            <l n="325">Prêts à mourir, tentons de nous défendre,</l>
+                            <l n="326">Le salut des vaincus est de n’en plus attendre.</l>
+                            <stage n="stage39">Énée prend la main d’Ascagne et le place au milieu d’un groupe
+                                armé.</stage>
+                            <l n="327">Mars! Erinnys! conduisez-nous!</l>
+                        </sp>
+                        <stage n="stage40">Ils sortent.</stage>
+                    </div>
+                    <div n="tableau2" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Deuxième Tableau</head>
+                    </div>
+
+                    <div n="14" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 14 - Choeur - Priere </head>
+                        <stage n="stage41">Un intérieur du palais de Priam. Dans le fond, une galerie à
+                            colonnade dont le parapet peu élevé donne sur une place située à une
+                            assez grande profondeur. Entre les colonnades on aperçoit ou loin le
+                            mont Ida. L’autel de Vesta-Cybèle allumé. Polyxène, femmes troyennes,
+                            groupées autour de l’autel. Quelques-unes sont agenouillées, d’autres
+                            assises à terre plusieurs sont couchées sur les gradins de l’autel, la
+                            face contre terre. Toutes dans l’attitude du plus profond
+                            accablement</stage>
+                        <sp n="72">
+                            <speaker>CHOEUR DES TROYENNES</speaker>
+                            <l n="328">Ah!</l>
+                            <l n="329">Puissante Cybèle,</l>
+                            <l n="330">Déesse immortelle,</l>
+                            <l n="331">Mère des malheureux,</l>
+                            <l n="332">A les Troyens sois secourable,</l>
+                            <l n="333">A leurs efforts sois favorable</l>
+                            <l n="334">En ces moments affreux!</l>
+                            <l n="335">Sauve de l’outrage</l>
+                            <l n="336">Et de l’esclavage</l>
+                            <l n="337">Leurs mères, leurs soeurs.</l>
+                            <l n="338">Brise l’arme impie</l>
+                            <l n="339">De la perfidie</l>
+                            <l n="340">Aux mains des vainqueurs,</l>
+                            <l n="341">Puissante Cybèle, etc. </l>
+                        </sp>
+                    </div>
+                    <div n="15" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 15 - Recitatif et Choeur </head>
+                        <stage n="stage42">Entre Cassandre, les cheveux épars.</stage>
+                        <sp n="73">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="342">Tous ne périront pas. Le valeureux Énée</l>
+                            <l n="343">Et sa troupe, trois fois au combat ramenée,</l>
+                            <l n="344">Ont délivré nos braves citoyens</l>
+                            <l n="345">Enfermés dans la Citadelle.</l>
+                            <l n="346">Le trésor de Priam est aux mains des Troyens.</l>
+                            <l n="347">Bientôt en Italie, où le sort les appelle,</l>
+                            <l n="348">Ils verront s’élever, plus puissante et plus belle,</l>
+                            <l n="349">Une nouvelle Troie. Ils marchent vers l’Ida.</l>
+                        </sp>
+                        <sp n="74">
+                            <speaker>CHOEUR</speaker>
+                            <l n="350">Et Chorèbe?</l>
+                        </sp>
+                        <sp n="75">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="351">Il est mort.</l>
+                        </sp>
+                        <sp n="76">
+                            <speaker>CHOEUR</speaker>
+                            <l n="352">Dieux cruels!</l>
+                        </sp>
+                        <sp n="77">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="353">De Vesta,</l>
+                            <l n="354">Pour ta dernière fois, à l’autel, je m’incline.</l>
+                            <l n="355">Je suis mon jeune époux. Oui, cet instant termine</l>
+                            <l n="356">Mon inutile vie.</l>
+                        </sp>
+                        <sp n="78">
+                            <speaker>CHOEUR</speaker>
+                            <l n="357">O digne sœur d’Hector!</l>
+                            <l n="358">Prophétesse que Troie accusait de démence!</l>
+                            <l n="359">De nous sauver, hier, il était temps encor,</l>
+                            <l n="360">Quand elle prédisait cette ruine immense!</l>
+                        </sp>
+                        <sp n="79">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="361">Bientôt elle ne sera plus.</l>
+                        </sp>
+                        <sp n="80">
+                            <speaker>CHOEUR</speaker>
+                            <l n="362">Ô désespoir! Ô regrets superflus!</l>
+                        </sp>
+                        <sp n="81">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="363">Mais vous, colombes effarées,</l>
+                            <l n="364">Pouvez-vous consentir</l>
+                            <l n="365">A l’horrible esclavage? et voudrez-vous subir,</l>
+                            <l n="366">Vierges, femmes déshonorées</l>
+                            <l n="367">La loi brutale des vainqueurs?</l>
+                        </sp>
+                        <sp n="82">
+                            <speaker>CHOEUR</speaker>
+                            <l n="368">Faut-il bannir tout espoir de nos cœurs?</l>
+                        </sp>
+                        <sp n="83">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="369">L’espoir! Ô malheureuses!</l>
+                            <l n="370">Dans ces ténèbres lumineuses</l>
+                            <l n="371">Ne voyez-vous, n’entendez-vous donc pas</l>
+                            <l n="372">Les cruels Myrmidons qui remplissent nos rues</l>
+                            <l n="373">Et ceux qui du palais gardent les avenues?</l>
+                        </sp>
+                        <sp n="84">
+                            <speaker>CHOEUR</speaker>
+                            <l n="374">C’en est fait, rien ne peut nous sauver de leurs bras.</l>
+                        </sp>
+                        <sp n="85">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="375">Rien, dites-vous? Si l’honneur vous anime,</l>
+                            <stage n="stage43">montrant la galerie</stage>
+                            <l n="376">Pour qui donc cet abîme</l>
+                            <l n="377">Est-il ouvert devant vos pas?</l>
+                            <stage n="stage44">montrant son poignard et les ceintures des femmes</stage>
+                            <l n="378">Pour qui ce fer et ces cordons de soie,</l>
+                            <l n="379">Sinon pour vous, femmes de Troie?</l>
+                            <stage n="stage45">Un petit groupe se tait et manifeste une terreur
+                                profonde.</stage>
+                        </sp>
+                        <sp n="86">
+                            <speaker>UNE PARTIE DU CHOEUR</speaker>
+                            <l n="380">Héroïne d’amour</l>
+                            <l n="381">Et d’honneur, tu dis vrai! nous te suivrons!</l>
+                        </sp>
+                        <sp n="87">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="382">Le jour</l>
+                            <l n="383">Ne vous trouvera pas par les Grecs profanées!</l>
+                        </sp>
+                        <sp n="88">
+                            <speaker>LE GRAND CHOEUR</speaker>
+                            <l n="384">Non, Cassandre, nous le jurons!</l>
+                        </sp>
+                        <sp n="89">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="385">Vous ne paraîtrez pas en triomphe traînées?</l>
+                        </sp>
+                        <sp n="90">
+                            <speaker>LE GRAND CHOEUR</speaker>
+                            <l n="386">Jamais! jamais! avec toi nous mourrons.</l>
+                        </sp>
+                    </div>
+                    <div n="16" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 16 - Final </head>
+                        <stage n="stage46">Les femmes se parlent entre elles. Quelques-unes prennent de lyres et
+                            en jouent en chantant.</stage>
+                        <sp n="91">
+                            <speaker>LE GRAND CHOEUR</speaker>
+                            <l n="387">Complices de sa gloire,</l>
+                            <l n="388">En partageant son sort,</l>
+                            <l n="389">Des Grecs par notre mort</l>
+                            <l n="390">Flétrissons la victoire!</l>
+                            <l n="391">Pures et libres nous vivions. </l>
+                            <l n="392">En cette nuit fatale</l>
+                            <l n="393">Pures et libres descendons</l>
+                            <l n="394">A la rive infernale!</l>
+                        </sp>
+                        <sp n="92">
+                            <speaker>CASSANDRE</speaker>
+                            <stage n="stage47">interpellant le petit groupe</stage>
+                            <l n="395">Vous qui tremblez et gardez le silence,</l>
+                            <l n="396">Vous hésitez?</l>
+                        </sp>
+                        <sp n="93">
+                            <speaker>LE PETIT GROUPE</speaker>
+                            <l n="397">Ah! je me sens frémir!</l>
+                        </sp>
+                        <sp n="94">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="398">Eh quoi! vous subiriez une vile existence</l>
+                            <l n="399">indigne des grands cœurs?</l>
+                        </sp>
+                        <sp n="95">
+                            <speaker>LE PETIT GROUPE</speaker>
+                            <l n="400">Hélas!… déjà mourir!</l>
+                        </sp>
+                        <sp n="96">
+                            <speaker>CASSANDRE</speaker>
+                            <stage n="stage48">avec explosion</stage>
+                            <l n="401">Allez dresser la table et le lit de vos maîtres!</l>
+                            <l n="402">Esclaves, loin de nous!</l>
+                        </sp>
+                        <sp n="97">
+                            <speaker>LE PETIT GROUPE</speaker>
+                            <l n="403">Pitié…</l>
+                        </sp>
+                        <sp n="98">
+                            <speaker>CASSANDRE ET LE GRAND CHOEUR</speaker>
+                            <l n="404">Honte sur vous!</l>
+                            <l n="405">Descendez vers ces traîtres,</l>
+                            <l n="406">Jetez-vous à leurs pieds, embrassez leurs genoux!</l>
+                            <stage n="stage49">avec une violente expression de mépris</stage>
+                            <l n="407">Allez vivre! Thessaliennes!</l>
+                            <l n="408">Honte sur vous! sortez! vous n’êtes pas Troyennes!</l>
+                            <stage n="stage50">Elles les chassent. Le petit groupe recule en silence devant les
+                                autres femmes jusqu’à la coulisse il sort enfin de la scène. Toutes
+                                les autres redescendent la scène avec une exaltation toujours
+                                croissante.</stage>
+                        </sp>
+                        <sp n="99">
+                            <speaker>LE GRAND CHOEUR</speaker>
+                            <l n="409">Cassandre, avec toi nous mourrons!</l>
+                            <l n="410">On ne nous verra pas par les Grecs profanées,</l>
+                            <l n="411">Nous ne paraîtrons pas en triomphe traînées,</l>
+                            <l n="412">Non, non, jamais, nous le jurons. </l>
+                            <stage n="stage51">Reprenant leurs lyres.</stage>
+                            <l n="413">Complices de sa gloire, etc.</l>
+                            <l n="414">Ouvre-nous, noir Pluton,</l>
+                            <l n="415">Les portes du Ténare!</l>
+                            <l n="416">Fais retentir, Caron,</l>
+                            <l n="417">Ta funèbre fanfare!</l>
+                        </sp>
+                        <sp n="100">
+                            <speaker>CASSANDRE</speaker>
+                            <stage n="stage52">avec la plus grande exaltation</stage>
+                            <l n="418">Chorèbe! Hector! Priam! </l>
+                            <l n="419">Roi! père! frère! Amant!</l>
+                            <l n="420">Je vous rejoins! entendez leur serment.</l>
+                            <l n="421">Dieux des enfers!</l>
+                            <stage n="stage53">Elle saisit la lyre d’une Troyenne.</stage>
+                            <l n="422">Mourez dignes de gloire,</l>
+                            <l n="423">Et partageant mon sort</l>
+                            <l n="424">Des Grecs par votre mort, etc.</l>
+                            <stage n="stage54">Un chef grec entre pendant la fin de cette scène; il s’avance
+                                rapidement l’épée haute, et s’arrête étonné à l’aspect des
+                                Troyennes.</stage>
+                        </sp>
+                        <sp n="101">
+                            <speaker>UN CHEF GREC</speaker>
+                            <stage n="stage55">pendant la fin du choeur</stage>
+                            <l n="425">Quoi! la lyre à la main!… de ce noble transport.</l>
+                            <l n="426">J’admire malgré moi la sublime ironie!</l>
+                            <l n="427">Cassandre!… qu’elle est belle ainsi chantant la mort,</l>
+                            <l n="428">Bacchante à l’oeil d’azur s’enivrant d’harmonie!</l>
+                            <stage n="stage56">Entre une partie des Grecs.</stage>
+                        </sp>
+                        <sp n="102">
+                            <speaker>LES SOLDATS</speaker>
+                            <l n="429">Le trésor! le trésor! livrez-nous le trésor!</l>
+                            <stage n="stage57">Ils lèvent leurs épées sur les femmes.</stage>
+                        </sp>
+                        <sp n="103">
+                            <speaker>CASSANDRE</speaker>
+                            <l n="430">Nous méprisons votre lâche menace,</l>
+                            <l n="431">Monstres ivres de sang, troupe immonde et rapace!</l>
+                            <l n="432">Vous n’étancherez pas, brigands, votre soif d’or!</l>
+                            <stage n="stage58">Elle se frappe et tends le poignard à Polyxène.</stage>
+                            <l n="433">Tiens! la douleur n’est rien!</l>
+                            <stage n="stage59">Polyxène se frappe à son tour. Cassandre se soutient
+                                toujours.</stage>
+                        </sp>
+                        <sp n="104">
+                            <speaker>AUTRE TROUPE DE GRECS</speaker>
+                            <stage n="stage60">entrant</stage>
+                            <l n="434">Dieux ennemis! Ô rage!</l>
+                            <l n="435">Couverts de sang, du milieu du carnage,</l>
+                            <l n="436">Énée et ses Troyens échappent à nos coups.</l>
+                            <l n="437">Et, maîtres du trésor, ils sortent!… </l>
+                        </sp>
+                        <sp n="105">
+                            <speaker>CASSANDRE, LES FEMMES</speaker>
+                            <stage n="stage61">Quelques-unes dénouent leur ceinture et tirant leur
+                                poignard.</stage>
+                            <l n="438">Malgré vous,</l>
+                            <l n="439">Aux chemins de l’Ida déjà les voilà tous,</l>
+                            <l n="440">Et nous bravons votre furie.</l>
+                            <stage n="stage62">Toutes agitant leurs voiles et leurs écharpes du côté de
+                                l’Ida.</stage>
+                            <l n="441">Sauve nos fils, Énée! </l>
+                            <l n="442">Italie! Italie!</l>
+                        </sp>
+                        <stage n="stage63">Quelques-unes se précipitent, d’autres s’étranglent et se
+                            poignardent. Cri d’horreur des Grecs s’élançant vers la galerie. Pendant
+                            cette dernière scène, Cassandre, après s’être frappée, et voyant les
+                            Troyennes monter sur le parapet pour se précipiter, s’avance en
+                            chancelant vers le fond du théâtre; mais les forces lui manquent avant
+                            de parvenir à la galerie. Elle s’affaisse aux genoux, puis se relevant
+                            pour un suprême effort et rendant les bras vers l’Ida, elle s’écrie:
+                            Italie! et tombe morte.</stage>
+                    </div>
+                </div>
+            </div>
+            <div n="2" type="part" part="N" org="uniform" sample="complete">
+                <head n="title">DEUXIÈME PARTIE: LES TROYENS À CARTAGE. </head>
+
+                <div n="3" type="act" part="N" org="uniform" sample="complete">
+                    <head n="title">ACTE TROISIÈME </head>
+                    <stage n="stage64">Une vaste salle de verdure du palais de Didon à Carthage. Sur l’un des
+                        côtés s’élève un trône entouré des trophées de l’agriculture, du commerce,
+                        et des arts; sur l’autre côté et au fond un amphithéâtre en gradins, sur
+                        lequel une innombrable multitude est assise, au lever du rideau.</stage>
+
+                    <div n="17" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 17 - Choeur </head>
+                        <sp n="106">
+                            <speaker>CHOEUR</speaker>
+                            <stage n="stage65">d’une partie du peuple carthaginois</stage>
+                            <l n="443">De Carthage les cieux semblent bénir la fête!</l>
+                            <l n="444">Vit-on jamais un jour pareil</l>
+                            <l n="445">Après si terrible tempête?</l>
+                            <l n="446">Quel doux zéphyr! notre brûlant soleil</l>
+                            <l n="447">De ses rayons calme la violence;</l>
+                            <l n="448">A son aspect la plaine immense</l>
+                            <l n="449">Tressaille de joie; il s’avance</l>
+                            <l n="450">Illuminant le sourire vermeil </l>
+                            <l n="451">De la nature à son réveil.</l>
+                        </sp>
+                    </div>
+                    <div n="18" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 18 - Chant National </head>
+                        <stage n="stage66">Entre Didon avec sa suite. A son entrée tout le peuple assis sur les
+                            gradins de l’amphithéâtre se lève en agitant des voiles de diverses
+                            couleurs, des palmes, des fleurs. Didon va s’asseoir sur son trône ayant
+                            sa soeur à sa droite et Narbal à sa gauche; quelques soldats les
+                            entourent.</stage>
+                        <sp n="107">
+                            <speaker>CHOEUR GENERAL</speaker>
+                            <l n="452">Gloire à Didon, notre reine chérie!</l>
+                            <l n="453">Reine par la beauté, la grâce, le génie,</l>
+                            <l n="454">Reine par la faveur des dieux,</l>
+                            <l n="455">Et reine par l’amour de ses sujets heureux!</l>
+                        </sp>
+                        <stage n="stage67">Le peuple agite des palmes et jette des fleurs.</stage>
+                    </div>
+                    <div n="19" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 19 - Récitatif et Air </head>
+                        <sp n="108">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage68">debout, du haut de son trône</stage>
+                            <l n="456">Nous avons vu finir sept ans à peine,</l>
+                            <l n="457">Depuis le jour où, pour tromper la haine</l>
+                            <l n="458">Du tyran meurtrier de mon auguste époux,</l>
+                            <l n="459">J’ai dû fuir avec vous,</l>
+                            <l n="460">De Tyr à la rive africaine.</l>
+                            <l n="461">Et déjà nous voyons Carthage s’élever,</l>
+                            <l n="462">Ses campagnes fleurir, sa flotte s’achever!</l>
+                            <l n="463">Déjà des bords lointains où s’éveille l’aurore</l>
+                            <l n="464">Vous rapportez, laboureurs de la mer,</l>
+                            <l n="465">Le blé, le vin et la laine et le fer,</l>
+                            <l n="466">Et les produits des arts qui nous manquent encore.</l>
+                            <l n="467">Chers Tyriens, tant de nobles travaux</l>
+                            <l n="468">Ont enivré mon coeur d’un orgueil légitime!</l>
+                            <l n="469">Mais ne vous lassez pas, suivez la voix sublime</l>
+                            <l n="470">Du Dieu qui vous appelle à des efforts nouveaux!</l>
+                            <l n="471">Donnez encore un exemple à la terre;</l>
+                            <l n="472">Grands dans la paix, devenez dans la guerre</l>
+                            <l n="473">Un peuple de héros.</l>
+                        </sp>
+                        <sp n="109">
+                            <speaker>LE PEUPLE</speaker>
+                            <l n="474">Grands dans la paix, etc.</l>
+                        </sp>
+                        <sp n="110">
+                            <speaker>DIDON</speaker>
+                            <l n="475">Le farouche Iarbas veut m’imposer la chaîne</l>
+                            <l n="476">D’un hymen odieux;</l>
+                            <l n="477">Son insolence est vaine.</l>
+                        </sp>
+                        <sp n="111">
+                            <speaker>LE PEUPLE</speaker>
+                            <l n="478">Son insolence est vaine.</l>
+                        </sp>
+                        <sp n="112">
+                            <speaker>DIDON</speaker>
+                            <l n="479">Le soin de ma défense est à vous </l>
+                            <l n="480">comme aux dieux.</l>
+                        </sp>
+                        <sp n="113">
+                            <speaker>LE PEUPLE</speaker>
+                            <l n="481">Gloire à Didon, notre reine chérie!</l>
+                            <l n="482">Chacun de nous est prêt à lui donner sa vie!</l>
+                            <l n="483">Tous nous la défendrons.</l>
+                            <l n="484">Nous bravons d’Iarbas l’insolence et la rage,</l>
+                            <l n="485">Et nous repousserons</l>
+                            <l n="486">Jusqu’au fond des déserts ce Numide sauvage!</l>
+                        </sp>
+                        <sp n="114">
+                            <speaker>DIDON, PEUPLE</speaker>
+                            <l n="487">Chers Tyriens! oui, vos nobles travaux, etc.</l>
+                        </sp>
+                        <sp n="115">
+                            <speaker>DIDON</speaker>
+                            <l n="488">Cette belle journée,</l>
+                            <l n="489">Qui dans vos souvenirs doit rester à jamais,</l>
+                            <l n="490">A couronner les oeuvres de la paix</l>
+                            <l n="491">Fut par moi destinée.</l>
+                            <l n="492">Approchez, constructeurs,</l>
+                            <l n="493">Matelots, laboureurs;</l>
+                            <l n="494">Recevez de ma main la juste récompense</l>
+                            <l n="495">Due au travail qui donne la puissance</l>
+                            <l n="496">Et la vie aux Etats.</l>
+                        </sp>
+                    </div>
+                    <div n="20" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 20 - Entree des Constructeurs </head>
+                        <stage n="stage69">Les constructeurs en cortège s’avancent vers le trône. Didon donne à
+                            leur chef une équerre d’argent et une hache. Le cortège retourne au fond
+                            du théâtre.</stage>
+                    </div>
+                    <div n="21" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 21 - Entrée des Matelots </head>
+                        <stage n="stage70">Les matelots en cortège s’avancent vers le trône. Didon donne à leur
+                            chef un gouvernail et un aviron. Le cortège retourne au fond du
+                            théâtre.</stage>
+                    </div>
+                    <div n="22" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 22 - Entrée des Laboureurs </head>
+                        <stage n="stage71">Le cortège des laboureurs, plus nombreux que les deux précédents,
+                            s’avance lentement vers le trône; un vieillard robuste le
+                            conduit.</stage>
+                    </div>
+                    <div n="23" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 23 - Recitatif et Choeur </head>
+                        <stage n="stage72">Didon donne au vieillard chef du laboureurs une faucille d’or, puis,
+                            tenant à la main une couronne de fleurs et d’épis, elle s’écrie: </stage>
+                        <sp n="116">
+                            <speaker>DIDON </speaker>
+                            <l n="497">Peuple! tous les honneurs</l>
+                            <l n="498">Pour le plus grand des arts, </l>
+                            <l n="499">L’art qui nourrit les hommes!</l>
+                        </sp>
+                        <sp n="117">
+                            <speaker>LE PEUPLE</speaker>
+                            <l n="500">Vivent les laboureurs! nous sommes</l>
+                            <l n="501">Leurs fils reconnaissants; ils nous donnent le pain!</l>
+                        </sp>
+                        <sp n="118">
+                            <speaker>DlDON</speaker>
+                            <stage n="stage73">à part</stage>
+                            <l n="502">Ô Cérès! l’avenir de Carthage est certain!</l>
+                        </sp>
+                        <sp n="119">
+                            <speaker>CHOEUR GENERAL</speaker>
+                            <l n="503">Gloire à Didon, notre reine chérie!</l>
+                            <l n="504">Chacun de nous est prêt à lui donner sa vie.</l>
+                            <l n="505">Prouvons-lui notre amour par des gages nouveaux.</l>
+                            <l n="506">Colons, marins, formons un peuple de héros!</l>
+                            <l n="507">Gloire à Didon, notre reine chérie!</l>
+                            <l n="508">Reine par la beauté, etc.</l>
+                        </sp>
+                        <stage n="stage74">Le peuple, conduit par Narbal, défile en cortège devant le trône de
+                            Didon et sort.</stage>
+                    </div>
+                    <div n="24" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 24 - Recitatif et Duo </head>
+                        <sp n="120">
+                            <speaker>DIDON</speaker>
+                            <l n="509">Les chants joyeux, l’aspect de cette noble fête,</l>
+                            <l n="510">Ont fait rentrer la paix en mon coeur agité.</l>
+                            <l n="511">Je respire, ma soeur, oui, ma joie est parfaite,</l>
+                            <l n="512">Je retrouve le calme et la sérénité.</l>
+                        </sp>
+                        <sp n="121">
+                            <speaker>ANNA</speaker>
+                            <l n="513">Reine d’un jeune empire</l>
+                            <l n="514">Qui chaque jour s’élève florissant,</l>
+                            <l n="515">Reine adorée et que le monde admire,</l>
+                            <l n="516">Quelle crainte avait pu vous troubler un instant?</l>
+                        </sp>
+                        <sp n="122">
+                            <speaker>DIDON</speaker>
+                            <l n="517">Une étrange tristesse,</l>
+                            <l n="518">Sans causes, tu le sais, vient parfois m’accabler.</l>
+                            <l n="519">Mes efforts restent vains contre cette faiblesse,</l>
+                            <l n="520">Je sens transir mon sein qu’un ennui vague oppresse,</l>
+                            <l n="521">Et mon visage en feu sous mes larmes brûler…</l>
+                        </sp>
+                        <sp n="123">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage75">souriant</stage>
+                            <l n="522">Vous aimerez, ma soeur…</l>
+                        </sp>
+                        <sp n="124">
+                            <speaker>DIDON</speaker>
+                            <l n="523">Non, toute ardeur nouvelle</l>
+                            <l n="524">Est interdite à mon coeur sans retour.</l>
+                        </sp>
+                        <sp n="125">
+                            <speaker>ANNA</speaker>
+                            <l n="525">Vous aimerez, ma soeur…</l>
+                        </sp>
+                        <sp n="126">
+                            <speaker>DIDON</speaker>
+                            <l n="526">Non, la veuve fidèle</l>
+                            <l n="527">Doit éteindre son âme et détester l’amour.</l>
+                        </sp>
+                        <sp n="127">
+                            <speaker>ANNA</speaker>
+                            <l n="528">Didon, vous êtes reine, et trop jeune, et trop belle,</l>
+                            <l n="529">Pour ne plus obéir à cette douce loi;</l>
+                            <l n="530">Carthage veut un roi.</l>
+                        </sp>
+                        <sp n="128">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage76">montrant à son doigt l’anneau de Sichée</stage>
+                            <l n="531">Puissent mon peuple et les dieux me maudire,</l>
+                            <l n="532">Si je quittais jamais cet anneau consacré!</l>
+                        </sp>
+                        <sp n="129">
+                            <speaker>ANNA</speaker>
+                            <l n="533">Un tel serment fait naître le sourire</l>
+                            <l n="534">De la belle Vénus; sur livre sacré</l>
+                            <l n="535">Les dieux refusent de l’inscrire.</l>
+                        </sp>
+                        <sp n="130">
+                            <speaker>DIDON</speaker>
+                            <l n="536">Sa voix fait naître dans mon sein</l>
+                            <l n="537">La dangereuse ivresse;</l>
+                            <l n="538">Déjà dans ma faiblesse</l>
+                            <l n="539">Contre un espoir confus je me débats en vain.</l>
+                        </sp>
+                        <sp n="131">
+                            <speaker>ANNA</speaker>
+                            <l n="540">Ma voix fait naître dans son sein</l>
+                            <l n="541">Des rêves de tendresse;</l>
+                            <l n="542">Déjà dans sa faiblesse,</l>
+                            <l n="543">Au doux espoir d’aimer elle résiste en vain.</l>
+                        </sp>
+                        <sp n="132">
+                            <speaker>DIDON</speaker>
+                            <l n="544">Sichée! Ô mon époux, pardonne</l>
+                            <l n="545">A cet instant d’involontaire erreur,</l>
+                            <l n="546">Et que ton souvenir chasse loin de mon coeur</l>
+                            <l n="547">Ce trouble qui l’étonne.</l>
+                        </sp>
+                        <sp n="133">
+                            <speaker>ANNA</speaker>
+                            <l n="548">Didon, ma tendre soeur, pardonne,</l>
+                            <l n="549">Si je dissipe une trop chère erreur,</l>
+                            <l n="550">Pardonne si ma voix excite dans ton coeur</l>
+                            <l n="551">Ce trouble qui l’étonne. </l>
+                        </sp>
+                    </div>
+                    <div n="25" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 25 - Récitatif et Air </head>
+                        <sp n="134">
+                            <speaker>IOPAS</speaker>
+                            <l n="552">Echappés à grand peine, à la mer en fureur,</l>
+                            <l n="553">Reine, les députés d’une flotte inconnue</l>
+                            <l n="554">D’être admis devant vous implorent la faveur.</l>
+                        </sp>
+                        <sp n="135">
+                            <speaker>DIDON</speaker>
+                            <l n="555">La porte du palais n’est jamais défendue</l>
+                            <l n="556">A de tels suppliants.</l>
+                            <stage n="stage77">Sur un signe de la reine, Iopas sort.</stage>
+                            <l n="557">Errante sur les mers,</l>
+                            <l n="558">Ne fus-je pas aussi, de rivage en rivage, </l>
+                            <l n="559">Emportée au sein de l’orage</l>
+                            <l n="560">Jouet des flots amers!</l>
+                            <l n="561">Hélas, des coups du sort je sais la violence</l>
+                            <l n="562">Sur ceux qu’il frappe. Au malheur compatir</l>
+                            <l n="563">Est facile pour nous. Qui connut la souffrance</l>
+                            <l n="564">Ne pourrait voir en vain souffrir.</l>
+                        </sp>
+                    </div>
+                    <div n="26" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 26 - Marche Troyenne</head>
+                        <stage n="stage78">dans le mode triste.</stage>
+                        <sp n="136">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage79">à part</stage>
+                            <l n="565">J’éprouve une soudaine et vive impatience</l>
+                            <l n="566">De les voir, et je crains en secret leur présence.</l>
+                        </sp>
+                        <stage n="stage80">Elle monte sur son trône. Entrent Énée sous un déguisement de
+                            matelot, Panthée, Ascagne, et les chefs Troyens portant des
+                            présents.</stage>
+                    </div>
+                    <div n="27" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 27 - Recitatif </head>
+                        <sp n="137">
+                            <speaker>ASCAGNE</speaker>
+                            <stage n="stage81">s’inclinant devant la reine</stage>
+                            <l n="567">Auguste reine, un peuple errant et malheureux</l>
+                            <l n="568">Pour quelques jours vous demande un asile.</l>
+                            <l n="569">Je dépose à vos pieds les présents précieux, </l>
+                            <l n="570">Débris de sa grandeur, que, par ma main débile</l>
+                            <l n="571">Au nom de Jupiter, vous offre un chef pieux.</l>
+                        </sp>
+                        <sp n="138">
+                            <speaker>DIDON</speaker>
+                            <l n="572">De ce chef, bel enfant, dis-moi le nom, la race.</l>
+                        </sp>
+                        <sp n="139">
+                            <speaker>ASCAGNE</speaker>
+                            <l n="573">Ô reine, sur nos pas une sanglante trace</l>
+                            <l n="574">Des monts de la Phrygie a marqué les chemins</l>
+                            <l n="575">Jusqu’à la mer. Ce sceptre d’Ilion,</l>
+                            <stage n="stage82">Il offre un à un les présents.</stage>
+                            <l n="576">Fille du roi Priam, d’Hécube la couronne,</l>
+                            <l n="577">Et ce voile léger d’Hélène où l’or rayonne,</l>
+                            <l n="578">Doivent vous dire assez que nous sommes Troyens.</l>
+                        </sp>
+                        <sp n="140">
+                            <speaker>DIDON</speaker>
+                            <l n="579">Troyens!</l>
+                        </sp>
+                        <sp n="141">
+                            <speaker>ASCAGNE</speaker>
+                            <l n="580">Notre chef est Énée,</l>
+                            <l n="581">Je suis son fils.</l>
+                        </sp>
+                        <sp n="142">
+                            <speaker>DIDON</speaker>
+                            <l n="582">Etrange destinée!</l>
+                        </sp>
+                        <sp n="143">
+                            <speaker>PANTHÉE</speaker>
+                            <stage n="stage83">s’avançant</stage>
+                            <l n="583">Obéissant au souverain des dieux</l>
+                            <l n="584">Ce héros cherche l’Italie,</l>
+                            <l n="585">Où le sort lui promet un trépas glorieux </l>
+                            <l n="586">Et le bonheur de rendre aux siens une patrie.</l>
+                        </sp>
+                        <sp n="144">
+                            <speaker>DIDON</speaker>
+                            <l n="587">Qui n’admire ce prince, ami du grand Hector?</l>
+                            <l n="588">Qui de son nom fameux n’est ignorant encor?</l>
+                            <l n="589">Carthage en est remplie.</l>
+                            <l n="590">Dites-lui que mon port ouvert à ses vaisseaux</l>
+                            <l n="591">L’attend. Qu’il vienne, qu’il oublie</l>
+                            <l n="592">Avec vous à ma cour ses pénibles travaux.</l>
+                        </sp>
+                    </div>
+                    <div n="28" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 28 - Final </head>
+                        <sp n="145">
+                            <speaker>NARBAL</speaker>
+                            <stage n="stage84">entrant avec agitation</stage>
+                            <l n="593">J’ose à peine annoncer la terrible nouvelle!</l>
+                        </sp>
+                        <sp n="146">
+                            <speaker>DIDON</speaker>
+                            <l n="594">Qu’arrive-t-il?</l>
+                        </sp>
+                        <sp n="147">
+                            <speaker>NARBAL</speaker>
+                            <l n="595">Le Numide rebelle,</l>
+                            <l n="596">Le féroce Iarbas</l>
+                            <l n="597">Avec d’innombrables soldats</l>
+                            <l n="598">S’avance vers Carthage.</l>
+                        </sp>
+                        <sp n="148">
+                            <speaker>CARTHAGINOIS</speaker>
+                            <stage n="stage85">au loin</stage>
+                            <l n="599">Des armes! des armes!</l>
+                        </sp>
+                        <sp n="149">
+                            <speaker>NARBAL</speaker>
+                            <l n="600">Et la troupe sauvage</l>
+                            <l n="601">Egorge nos troupeaux</l>
+                            <l n="602">Et dévaste nos champs. </l>
+                            <l n="603">Mais des malheurs nouveaux</l>
+                            <l n="604">Menacent la ville elle-même:</l>
+                            <l n="605">A nos jeunes guerriers dont</l>
+                            <l n="606">l’ardeur est extrême</l>
+                            <l n="607">Les armes vont manquer.</l>
+                        </sp>
+                        <sp n="150">
+                            <speaker>DIDON</speaker>
+                            <l n="608">Que dites-vous, Narbal?</l>
+                        </sp>
+                        <sp n="151">
+                            <speaker>NARBAL</speaker>
+                            <l n="609">Que nous allons tenter un combat inégal.</l>
+                        </sp>
+                        <sp n="152">
+                            <speaker>CARTHAGINOIS</speaker>
+                            <l n="610">Des armes! des armes!</l>
+                        </sp>
+                        <sp n="153">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage86">s’avançant après avoir laissé tomber son déguisement de matelot.
+                                Il porte un brillant costume et la cuirasse, mais sans casque ni
+                                bouclier.</stage>
+                            <l n="611">Reine, je suis Énée!</l>
+                            <l n="612">Ma flotte sur vos bords par les vents entraînée</l>
+                            <l n="613">A de rudes travaux fut par moi destinée;</l>
+                            <l n="614">Permettez aux Troyens de combattre avec vous!</l>
+                        </sp>
+                        <sp n="154">
+                            <speaker>DIDON</speaker>
+                            <l n="615">J’accepte avec orgueil une telle alliance!</l>
+                            <l n="616">Énée armé pour ma défense!</l>
+                            <l n="617">Les dieux se déclarent pour nous.</l>
+                            <stage n="stage87">à part, à Anna</stage>
+                            <l n="618">Ô ma soeur, qu’il est fier, ce fils de la déesse,</l>
+                            <l n="619">Et qu’on voit sur son front de grâce et de noblesse!</l>
+                        </sp>
+                        <sp n="155">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="620">Sur cette horde immonde d’Africains,</l>
+                            <l n="621">Marchons Troyens et Tyriens,</l>
+                            <l n="622">Volons à la victoire ensemble!</l>
+                            <l n="623">Comme le sable emporté par les vents</l>
+                            <l n="624">Chassons dans ses déserts brûlants</l>
+                            <l n="625">Le Numide éperdu; qu’il tremble.</l>
+                        </sp>
+                        <sp n="156">
+                            <speaker>ÉNÉE, PANTHÉE, NARBAL, IOPAS, ASCAGNE, DIDON, ANNA,
+                                TROYENS</speaker>
+                            <l n="626">C’est le dieu Mars qui vous/nous rassemble,</l>
+                            <l n="627">C’est le fils de Vénus qui vous/nous guide aux combats!</l>
+                            <l n="628">Exterminez/exterminons la noire armée,</l>
+                            <l n="629">Et que demain la renommée</l>
+                            <l n="630">Proclame au loin la honte et la mort d’Iarbas!</l>
+                            <stage n="stage88">Pendant la fin de ce morceau, on apporte ses armes d’Énée. Il met
+                                rapidement son casque, passe à son bras son vaste bouclier et saisit
+                                ses javelots.</stage>
+                        </sp>
+                        <sp n="157">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage89">à Panthée</stage>
+                            <l n="631">Annonce à nos Troyens l’entreprise nouvelle</l>
+                            <l n="632">Où la gloire les appelle. </l>
+                            <stage n="stage90">Panthée sort.</stage>
+                            <l n="633">Reine, bientôt du barbare odieux</l>
+                            <l n="634">Vous serez délivrée. A vos soins généreux</l>
+                            <l n="635">J’abandonne mon fils.</l>
+                        </sp>
+                        <sp n="158">
+                            <speaker>DIDON</speaker>
+                            <l n="636">De mon amour de mère</l>
+                            <l n="637">Pour lui ne doutez pas.</l>
+                        </sp>
+                        <sp n="159">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage91">à Ascagne</stage>
+                            <l n="638">Viens embrasser ton père.</l>
+                            <stage n="stage92">Il l’embrasse en le couvrant tout entier de ses armes. Ascagne
+                                pleure sans répondre.</stage>
+                            <l n="639">D’autres t’enseigneront, enfant, l’art d’être heureux;</l>
+                            <l n="640">Je ne t’apprendrai, moi, que la vertu guerrière</l>
+                            <l n="641">Et le respect des dieux; </l>
+                            <l n="642">Mais révère en ton coeur et garde en ta mémoire</l>
+                            <l n="643">Et d’Énée et d’Hector les exemples de gloire.</l>
+                            <stage n="stage93">Le peuple de Carthage accourt de toutes parts demandant des
+                                armes. Quelques hommes seulement sont armés régulièrement, les
+                                autres portent des faux, des haches, des frondes. Panthée rentre en
+                                scène. Ascagne essuyé tout à coup ses larmes et s’élance à côté des
+                                chefs troyens.</stage>
+                        </sp>
+                        <sp n="160">
+                            <speaker>ENSEMBLE</speaker>
+                            <l n="644">Des armes! des armes!</l>
+                            <l n="645">Sur cette horde immonde d’Africains,</l>
+                            <l n="646">Marchez/ marchons Troyens et Tyriens, etc.</l>
+                        </sp>
+                    </div>
+                </div>
+                <div n="4" type="act" part="N" org="uniform" sample="complete">
+                    <head n="title">ACTE QUATRIÈME </head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Premier Tableau</head>
+                    </div>
+
+                    <div n="29" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 29 - Chasse Royale et Orage</head>
+                        <l n="647">Pantomime </l>
+                        <stage n="stage94">Une forêt d’Afrique au matin. Au fond, un rocher très élevé. Au bas
+                            et à gauche du rocher, l’ouverture d’une grotte. Un petit ruisseau coule
+                            le long du rocher et va se perdre dans un bassin naturel bordé de joncs
+                            et de roseaux. Deux naïades se laissent entrevoir un instant et
+                            disparaissent; puis on les voit nager dans le bassin. Chasse royale. Des
+                            fanfares de trompe retentissent au loin dans la forêt. Les naïades
+                            effrayées se cachent dans les roseaux. On voit passer des chasseurs
+                            tyriens, conduisant des chiens en laisse. Le jeune Ascagne, à cheval,
+                            traverse le théâtre au galop. Le ciel s’obscurcit, la pluie tombe. Orage
+                            grandissant… Bientôt la tempête devient terrible, torrents de pluie,
+                            grêle, éclaires et tonnerre. Appels réitérés des trompes de chasse au
+                            milieu du tumulte des éléments. Les chasseurs se dispersent dans toutes
+                            les directions; en dernier lieu on voit paraître Didon vêtue en Diane
+                            chasseresse, l’arc à la main, le carquois sur l’épaule, et Énée en
+                            costume demi-guerrier. Ils sont à pied l’un et l’autre. Ils entrent dans
+                            la grotte. Aussitôt les nymphes des bois paraissent, les cheveux épars,
+                            au sommet du rocher, et vont et viennent en courant, en poussant des
+                            cris et faisant des gestes désordonnés. Au milieu de leurs clameurs, on
+                            distingue de temps en temps le mot: Italie! Le ruisseau grossit et
+                            devient une bruyante cascade. Plusieurs autres chutes d’eau se forment
+                            sur divers points du rocher et mêlent leur bruit au fracas de la
+                            tempête. Les Satyres et les Sylvains exécutent avec les Faunes des
+                            danses grotesques dans l’obscurité. La foudre frappe un arbre, le brise
+                            et l’enflamme. Les débris de l’arbre tombent sur la scène. Les Satyres,
+                            Faunes et Sylvains ramassent les branches enflammées, dansent en les
+                            tenant à la main, puis disparaissent avec les nymphes dans les
+                            profondeurs de la forêt. La tempête se calme. Les nuages
+                            s’élèvent.</stage>
+                        <l n="648">Deuxième Tableau </l>
+                        <stage n="stage95">Les jardins de Didon sur le bord de la mer. Le soleil se
+                            couche.</stage>
+                    </div>
+                    <div n="30" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 30 - Recitatif </head>
+                        <sp n="161">
+                            <speaker>ANNA</speaker>
+                            <l n="649">Dites, Narbal, qui cause vos alarmes?</l>
+                            <l n="650">Le jour qui termina la guerre et ses malheurs</l>
+                            <l n="651">N’a-t-il pas vu briller la gloire de nos armes?</l>
+                            <l n="652">Les Tyriens ne sont-ils pas vainqueurs?</l>
+                        </sp>
+                        <sp n="162">
+                            <speaker>NARBAL</speaker>
+                            <l n="653">Pour nous de ce côté plus rien n’est redoutable;</l>
+                            <l n="654">Les Numides chassés dans leurs déserts de sable,</l>
+                            <l n="655">Pris de nos murs ne reparaîtront pas;</l>
+                            <l n="656">Et le glaive terrible</l>
+                            <l n="657">Du héros invincible</l>
+                            <l n="658">Nous a délivrés d’Iarbas.</l>
+                            <l n="659">Mais Didon maintenant oublie</l>
+                            <l n="660">Les soins naguère encore à son esprit si chers;</l>
+                            <l n="661">En chasses, en festins, elle passe sa vie;</l>
+                            <l n="662">Les travaux suspendus, les ateliers déserts,</l>
+                            <l n="663">Le séjour prolongé du Troyen à Carthage</l>
+                            <l n="664">Me causent des soucis que le peuple partage.</l>
+                        </sp>
+                        <sp n="163">
+                            <speaker>ANNA</speaker>
+                            <l n="665">Eh! ne voyez-vous pas, Narbal, qu’elle l’aime,</l>
+                            <l n="666">Ce fier guerrier, et qu’il ressent lui-même</l>
+                            <l n="667">Pour ma sœur un amour égal?</l>
+                        </sp>
+                        <sp n="164">
+                            <speaker>NARBAL</speaker>
+                            <l n="668">Quoi!</l>
+                        </sp>
+                        <sp n="165">
+                            <speaker>ANNA</speaker>
+                            <l n="669">De l’ardeur qui les anime</l>
+                            <l n="670">Quel malheur craignez-vous?</l>
+                            <l n="671">Didon peut-elle avoir un plus vaillant époux,</l>
+                            <l n="672">Carthage, un roi plus magnanime?</l>
+                        </sp>
+                        <sp n="166">
+                            <speaker>NARBAL</speaker>
+                            <l n="673">Mais le destin impérieux</l>
+                            <l n="674">Appelle Énée en Italie!</l>
+                        </sp>
+                        <sp n="167">
+                            <speaker>ANNA</speaker>
+                            <l n="675">Une voix lui dit: Pars! </l>
+                            <l n="676">Une autre voix lui crie: Reste!</l>
+                            <l n="677">L’amour est le plus grand des dieux.</l>
+                        </sp>
+                    </div>
+                    <div n="31" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 31 - Air et Duo </head>
+                        <sp n="168">
+                            <speaker>NARBAL</speaker>
+                            <l n="678">De quels revers menaces-tu Carthage,</l>
+                            <l n="679">Sombre avenir?</l>
+                            <l n="680">Je vois sortir</l>
+                            <l n="681">De sinistres éclairs du sein de ton nuage!</l>
+                            <l n="682">Jupiter! dieu de l’hospitalité,</l>
+                            <l n="683">En exerçant la vertu qui t’est chère,</l>
+                            <l n="684">Avons-nous donc, avons-nous mérité</l>
+                            <l n="685">Les coups de ta colère?</l>
+                        </sp>
+                        <sp n="169">
+                            <speaker>ANNA</speaker>
+                            <l n="686">Vaine terreur!</l>
+                            <l n="687">Carthage est triomphante!</l>
+                            <l n="688">Notre reine charmante</l>
+                            <l n="689">Aime un héros vainqueur,</l>
+                            <l n="690">Une chaîne de fleurs les enlace;</l>
+                            <l n="691">Bientôt ils vont s’unir.</l>
+                            <l n="692">Telle est la menace</l>
+                            <l n="693">Du sombre avenir.</l>
+                        </sp>
+                    </div>
+                    <div n="32" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 32 - Marche pour l’entrée de la Reine</head>
+                        <stage n="stage96">sur le thème du Chant National</stage>
+                        <stage n="stage97">Entrent Didon, Énée, Panthée, Iopas, Ascagne. Didon va s’asseoir avec
+                            Anna sur une estrade, ayant Énée et Narbal auprès d’elle.</stage>
+                    </div>
+                    <div n="33" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 33 - Ballets </head>
+                        <stage n="stage98">a) Pas des Almées </stage>
+                        <stage n="stage99">b) Danse des Esclaves </stage>
+                        <stage n="stage100">c) Pas d’Esclaves nubiennes </stage>
+                        <sp n="170">
+                            <speaker>ESCLAVES NUBIENNES</speaker>
+                            <l n="694">Ha! Ha!</l>
+                            <l n="695">Amaloué</l>
+                            <l n="696">Midonaé</l>
+                            <l n="697">Faï caraïmé</l>
+                            <l n="698">Deï beraïmbé</l>
+                            <l n="699">Ha! Ha!</l>
+                        </sp>
+                        <stage n="stage101">La reine descend de l’estrade et va s’étendre à l’avant-scène sur un
+                            lit de repos, de manière à présenter son profil gauche au spectateur.
+                            Énée debout d’abord.</stage>
+                    </div>
+                    <div n="34" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 34 - Scène et chant d’Iopas </head>
+                        <sp n="171">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage102">languissamment</stage>
+                            <l n="700">Assez, ma sœur, je ne souffre qu’à peine</l>
+                            <l n="701">Cette fête importune…</l>
+                            <stage n="stage103">Sur un signe d’Anna les danseurs se retirent.</stage>
+                            <l n="702">Iopas, chante-nous,</l>
+                            <l n="703">Sur un mode simple et doux,</l>
+                            <l n="704">Ton poème des champs.</l>
+                        </sp>
+                        <sp n="172">
+                            <speaker>IOPAS</speaker>
+                            <l n="705">A l’ordre de la reine</l>
+                            <l n="706">l’obéis.</l>
+                            <stage n="stage104">Un harpiste thébain vient se placer auprès d’Iopas et accompagne
+                                son chant. Le costume du harpiste est le costume religieux
+                                égyptien.</stage>
+                            <l n="707">O blonde Cérès,</l>
+                            <l n="708">Quand à nos guérets</l>
+                            <l n="709">Tu rends leur parure</l>
+                            <l n="710">De fraîche verdure,</l>
+                            <l n="711">Que d’heureux tu fais!</l>
+                            <l n="712">Du vieux laboureur</l>
+                            <l n="713">Du jeune pasteur,</l>
+                            <l n="714">La reconnaissance</l>
+                            <l n="715">Bénit l’abondance</l>
+                            <l n="716">Que tu leur promets.</l>
+                            <l n="717">O blonde Cérès, etc. </l>
+                            <l n="718">Le timide oiseau,</l>
+                            <l n="719">Le folâtre agneau,</l>
+                            <l n="720">Des vents de la plaine</l>
+                            <l n="721">La suave haleine,</l>
+                            <l n="722">Chantent tes bienfaits.</l>
+                            <l n="723">Féconde Cérès, etc.</l>
+                        </sp>
+                    </div>
+                    <div n="35" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 35 - Recitatif et quintette </head>
+                        <sp n="173">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage105">l’interrompant</stage>
+                            <l n="724">Pardonne, Iopas, ta voix même,</l>
+                            <l n="725">En mon inquiétude extrême,</l>
+                            <l n="726">Ne peut ce soir me captiver…</l>
+                        </sp>
+                        <sp n="174">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage106">allant s’asseoir aux pieds de Didon</stage>
+                            <l n="727">Chère Didon!</l>
+                        </sp>
+                        <sp n="175">
+                            <speaker>DIDON</speaker>
+                            <l n="728">Énée,</l>
+                            <l n="729">Ah! daignez achever</l>
+                            <l n="730">Le récit commencé</l>
+                            <l n="731">De votre long voyage</l>
+                            <l n="732">Et des malheurs de Troie.</l>
+                            <l n="733">Apprenez-moi le sort</l>
+                            <l n="734">De la belle Andromaque…</l>
+                        </sp>
+                        <sp n="176">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="735">Hélas! en esclavage</l>
+                            <l n="736">Réduite par Pyrrhus,</l>
+                            <l n="737">Elle implorait la mort;</l>
+                            <l n="738">Mais l’amour obstiné</l>
+                            <l n="739">De ce prince pour elle</l>
+                            <l n="740">Su enfin la rendre infidèle</l>
+                            <l n="741">Aux plus chers souvenirs…</l>
+                            <l n="742">Après de longs refus,</l>
+                            <l n="743">Elle épousa Pyrrhus.</l>
+                        </sp>
+                        <sp n="177">
+                            <speaker>DIDON</speaker>
+                            <l n="744">Quoi! la veuve d’Hector!</l>
+                        </sp>
+                        <sp n="178">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="745">Sur le trône d’Epire</l>
+                            <l n="746">Elle est ainsi montée.</l>
+                        </sp>
+                        <sp n="179">
+                            <speaker>DIDON</speaker>
+                            <l n="747">Ô pudeur!</l>
+                            <stage n="stage107">à part</stage>
+                            <l n="748">Tout conspire</l>
+                            <l n="749">A vaincre mes remords et mon cœur est absous.</l>
+                            <stage n="stage108">Ascagne appuyé sur son arc et semblable à une statue de l’Amour,
+                                se tient debout au côté gauche de la reine, Anna inclinée appuie son
+                                coude sur le dossier du lit de Didon. Auprès d’Anna, Narbal et Iopas
+                                debout.</stage>
+                            <l n="750">Andromaque épouser l’assassin de son père,</l>
+                            <l n="751">Le fils du meurtrier de son illustre époux!</l>
+                        </sp>
+                        <sp n="180">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="752">Elle aime son vainqueur, </l>
+                            <l n="753">L’assassin de son père,</l>
+                            <l n="754">Le fils du meurtrier de son illustre époux.</l>
+                        </sp>
+                        <sp n="181">
+                            <speaker>DIDON</speaker>
+                            <l n="755">Tout conspire, etc.</l>
+                            <stage n="stage109">Didon ayant le bras gauche posé sur l’épaule d’Ascagne, de façon
+                                que sa main pend devant la poitrine de l’enfant, celui-ci retire en
+                                souriant du doigt de la reine l’anneau de Sichée, que Didon lui
+                                reprend ensuite d’un air distrait et qu’elle oublie sur le lit de
+                                repos en se levant.</stage>
+                        </sp>
+                        <sp n="182">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage110">montrant Ascagne</stage>
+                            <l n="756">Voyez, Narbal, la main légère</l>
+                            <l n="757">De cet enfant, semblable à Cupidon,</l>
+                            <l n="758">Ravir doucement à Didon</l>
+                            <l n="759">L’anneau qu’elle révère.</l>
+                        </sp>
+                        <sp n="183">
+                            <speaker>IOPAS ET NARBAL</speaker>
+                            <l n="760">Voyez, Narbal/Je vois la main légère, etc.</l>
+                        </sp>
+                        <sp n="184">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage111">rêvant</stage>
+                            <l n="761">Le fils du meurtrier de son illustre époux!… </l>
+                            <l n="762">Tout conspire, etc.</l>
+                        </sp>
+                        <sp n="185">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="763">Didon soupire…</l>
+                            <l n="764">Mais le remords s’enfuit, </l>
+                            <l n="765">Et son cœur est absous!…</l>
+                            <l n="766">Didon soupire…</l>
+                            <l n="767">Mais son cœur, oui, son cœur est absous.</l>
+                        </sp>
+                        <sp n="186">
+                            <speaker>ANNA, IOPAS ET NARBAL </speaker>
+                            <l n="768">Tout conspire, etc.</l>
+                        </sp>
+                    </div>
+                    <div n="36" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 36 - Recitatif et Septuor </head>
+                        <sp n="187">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="769">Mais bannissons ces tristes souvenirs.</l>
+                            <stage n="stage112">Il se lève.</stage>
+                            <l n="770">Nuit splendide et charmante!</l>
+                            <l n="771">Venez, chère Didon, respirer les soupirs</l>
+                            <l n="772">De cette brise caressante.</l>
+                        </sp>
+                        <stage n="stage113">Didon se lève a son tour.</stage>
+                        <sp n="188">
+                            <speaker>DIDON, ÉNÉE, ASCAGNE, ANNA, IOPAS, NARBAL, PANTHÉE ET LE
+                                CHOEUR</speaker>
+                            <l n="773">Tout n’est que paix et charme autour de nous!</l>
+                            <l n="774">La nuit étend son voile et la mer endormie</l>
+                            <l n="775">Murmure en sommeillant les accords les plus doux.</l>
+                        </sp>
+                        <stage n="stage114">Tous les personnages, excepté Énée et Didon, se retirent peu o peu
+                            vers le fond du théâtre et finissent par disparaître tout à
+                            fait.</stage>
+                    </div>
+                    <div n="37" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 37 - Duo </head>
+                        <stage n="stage115">Clair de lune</stage>
+                        <sp n="189">
+                            <speaker>DIDON, ÉNÉE</speaker>
+                            <l n="776">Nuit d’ivresse et d’extase infinie!</l>
+                            <l n="777">Blonde Phoebé, grands astres de sa cour,</l>
+                            <l n="778">Versez sur nous votre lueur bénie;</l>
+                            <l n="779">Fleurs des cieux, souriez à l’immortel amour!</l>
+                        </sp>
+                        <sp n="190">
+                            <speaker>DIDON</speaker>
+                            <l n="780">Par une telle nuit, le front ceint de cytise,</l>
+                            <l n="781">Votre mère Vénus suivit le bel Anchise</l>
+                            <l n="782">Aux bosquets de l’Ida.</l>
+                        </sp>
+                        <sp n="191">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="783">Par une telle nuit, fou d’amour et de joie,</l>
+                            <l n="784">Troïlus vint attendre aux pieds des murs de Troie</l>
+                            <l n="785">La belle Cressida.</l>
+                        </sp>
+                        <sp n="192">
+                            <speaker>DIDON, ÉNÉE</speaker>
+                            <l n="786">Nuit d’ivresse et d’extase infinie!</l>
+                            <l n="787">Blonde Phoebé, etc.</l>
+                        </sp>
+                        <sp n="193">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="788">Par une telle nuit la pudique Diane</l>
+                            <l n="789">Laissa tomber enfin son voile diaphane</l>
+                            <l n="790">Aux yeux d’Endymion.</l>
+                        </sp>
+                        <sp n="194">
+                            <speaker>DIDON</speaker>
+                            <l n="791">Par une telle nuit le fils de Cythérée</l>
+                            <l n="792">Accueillit froidement la tendresse enivrée</l>
+                            <l n="793">De la reine Didon!</l>
+                        </sp>
+                        <sp n="195">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="794">Et dans la même nuit hélas! l’injuste reine,</l>
+                            <l n="795">Accusant son amant, obtint de lui sans peine</l>
+                            <l n="796">Le plus tendre pardon.</l>
+                        </sp>
+                        <sp n="196">
+                            <speaker>DIDON, ÉNÉE</speaker>
+                            <l n="797">Ô nuit d’ivresse et d’extase infinie, etc.</l>
+                            <stage n="stage116">Ils marchent lentement vers le fond du théâtre en se tenant
+                                embrassés, puis ils disparaissent en chantant. Au moment où les deux
+                                amants qu’on ne voit plus finissent leur duo dans la coulisse,
+                                Mercure paraît subitement dans un rayon de la lune non loin d’une
+                                colonne tronquée où sont appendues les armes d’Énée. S’approchant de
+                                la colonne il frappe de son caducée deux coups sur le bouclier qui
+                                rend un son lugubre et prolongé.</stage>
+                        </sp>
+                        <sp n="197">
+                            <speaker>MERCURE</speaker>
+                            <stage n="stage117">d’une voix grave, et étendant le bras du côté de la mer</stage>
+                            <l n="798">Italie! Italie! Italie!</l>
+                        </sp>
+                        <stage n="stage118">Il disparaît.</stage>
+                    </div>
+                </div>
+                <div n="5" type="act" part="N" org="uniform" sample="complete">
+                    <head n="title">ACTE CINQUIÈME </head>
+                    <div n="tableau1" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Premier Tableau</head>
+                        <stage n="stage119">Le bord de la mer couvert de tentes troyennes. On voit les vaisseaux
+                            troyens dans le port. Il fait nuit. Un jeune matelot phrygien chante en
+                            se balançant au haut du mât d’un navire. Deux sentinelles montent la
+                            garde devant les tentes au fond de la scène.</stage>
+                    </div>
+                    <div n="38" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 38 - Chanson d’Hylas </head>
+                        <sp n="198">
+                            <speaker>HYLAS</speaker>
+                            <l n="799">Vallon sonore,</l>
+                            <l n="800">Où dès l’aurore</l>
+                            <l n="801">Je m’en allais chantant, hélas!</l>
+                            <l n="802">Sous tes grands bois chantera-t-il encore,</l>
+                            <l n="803">Le pauvre Hylas?…</l>
+                            <l n="804">Berce mollement sur ton sein sublime,</l>
+                            <l n="805">Ô puissante mer, l’enfant de Dindyme!</l>
+                            <l n="806">Fraîche ramée,</l>
+                            <l n="807">Retraite aimée</l>
+                            <l n="808">Contre les feux du jour, hélas!</l>
+                            <l n="809">Quand rendras-tu ton ombre parfumée</l>
+                            <l n="810">Au pauvre Hylas?…</l>
+                            <l n="811">Berce mollement sur ton sein sublime,</l>
+                            <l n="812">Ô puissante mer, l’enfant de Dindyme!</l>
+                            <l n="813">Humble chaumière,</l>
+                            <l n="814">Où de ma mère</l>
+                            <l n="815">Je reçus les adieux.</l>
+                        </sp>
+                        <sp n="199">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="816">Il rêve à son pays…</l>
+                        </sp>
+                        <sp n="200">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="817">Qu’il ne reverra pas.</l>
+                        </sp>
+                        <sp n="201">
+                            <speaker>HYLAS</speaker>
+                            <l n="818">Hélas!</l>
+                            <l n="819">Reverra-t-il ton heureuse misère,</l>
+                            <l n="820">Le pauvre Hylas?…</l>
+                            <l n="821">Berce mollement sur ton sein sublime, sublime,</l>
+                            <l n="822">Ô puissante mer, l’enfant…</l>
+                        </sp>
+                        <stage n="stage120">Il s’endort.</stage>
+                    </div>
+                    <div n="39" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 39 - Récitatif et Chœur </head>
+                        <stage n="stage121">Entrent Panthée et les Chefs troyens.</stage>
+                        <sp n="202">
+                            <speaker>PANTHÉE</speaker>
+                            <l n="823">Préparez tout, il faut partir enfin.</l>
+                            <l n="824">Énée en vain</l>
+                            <l n="825">Voit avec désespoir l’angoisse de la reine,</l>
+                            <l n="826">La gloire et le devoir sauront briser sa chaîne </l>
+                            <l n="827">Et son cœur sera fort au moment des adieux.</l>
+                        </sp>
+                        <sp n="203">
+                            <speaker>PANTHÉE, LES CHEFS</speaker>
+                            <l n="828">Chaque jour voit grandir la colère des dieux.</l>
+                            <l n="829">Des signes effrayants déjà nous avertissent;</l>
+                            <l n="830">La mer, les monts, les bois profonds gémissent;</l>
+                            <l n="831">Sous d’invisibles coups nos armes retentissent;</l>
+                            <l n="832">Comme dans Troie en la fatale nuit,</l>
+                            <l n="833">Hector, dont l’œil courroucé luit,</l>
+                            <l n="834">En armes apparaît; un chœur d’ombres le suit;</l>
+                            <l n="835">Et ces morts irrités</l>
+                            <l n="836">La nuit dernière encore ont crié trois fois…</l>
+                        </sp>
+                        <sp n="204">
+                            <speaker>LES OMBRES</speaker>
+                            <l n="837">Italie! Italie! Italie!</l>
+                        </sp>
+                        <sp n="205">
+                            <speaker>PANTHÉE, LES CHEFS</speaker>
+                            <l n="838">Dieux vengeurs! c’est leur voix!…</l>
+                            <l n="839">Nous avons trop longtemps bravé l’ordre céleste;</l>
+                            <l n="840">Quittons sans plus tarder ce rivage funeste!</l>
+                            <l n="841">A demain! à demain!</l>
+                            <l n="842">Préparons tout, il faut partir enfin.</l>
+                        </sp>
+                        <stage n="stage122">Ils entrent dans les tentes.</stage>
+                    </div>
+                    <div n="40" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 40 - Duo </head>
+                        <stage n="stage123">Les deux soldats en sentinelle marchent, l’un de droite à gauche,
+                            l’autre de gauche o droite. Ils s’arrêtent de temps en temps l’un près
+                            de l’autre vers le milieu du théâtre.</stage>
+                        <sp n="206">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="843">Par Bacchus! ils sont fous avec leur Italie!…</l>
+                            <l n="844">Je n’ai rien entendu.</l>
+                        </sp>
+                        <sp n="207">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="845">Ni moi.</l>
+                        </sp>
+                        <sp n="208">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="846">La belle vie,</l>
+                            <l n="847">Pourtant, qu’on mène ici!</l>
+                        </sp>
+                        <sp n="209">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="848">Dans plus d’une maison</l>
+                            <l n="849">Nous trouvons et bon vin et grasse venaison.</l>
+                        </sp>
+                        <sp n="210">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="850">A ma belle Carthaginoise,</l>
+                            <l n="851">Je puis déjà parler phénicien.</l>
+                        </sp>
+                        <sp n="211">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="852">La mienne comprend le Troyen,</l>
+                            <l n="853">M’obéit sans me chercher noise.</l>
+                        </sp>
+                        <sp n="212">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="854">La tienne comprend le Troyen?</l>
+                        </sp>
+                        <sp n="213">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="855">M’obéit sans me chercher noise.</l>
+                            <l n="856">La femme n’est point rude ici pour l’étranger.</l>
+                        </sp>
+                        <sp n="214">
+                            <speaker>ENSEMBLE</speaker>
+                            <l n="857">Non! la femme n’est point rude ici pour l’étranger.</l>
+                        </sp>
+                        <sp n="215">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="858">Et l’on nous veut faire changer</l>
+                            <l n="859">Ces douceurs contre un long voyage!</l>
+                        </sp>
+                        <sp n="216">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="860">Les caresses de l’orage!</l>
+                        </sp>
+                        <sp n="217">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="861">La faim.</l>
+                        </sp>
+                        <sp n="218">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="862">La soif.</l>
+                        </sp>
+                        <sp n="219">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="863">Vingt maux d’enfer!</l>
+                        </sp>
+                        <sp n="220">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="864">Et tous les ennuis de la mer!</l>
+                        </sp>
+                        <sp n="221">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="865">Maudite folie!</l>
+                        </sp>
+                        <sp n="222">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="866">Pour cette Italie…</l>
+                        </sp>
+                        <sp n="223">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="867">Où nous devons jouir du fruit de nos travaux…</l>
+                        </sp>
+                        <sp n="224">
+                            <speaker>ENSEMBLE</speaker>
+                            <l n="868">En nous faisant rompre les os!</l>
+                        </sp>
+                        <sp n="225">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="869">Encor pâtir!</l>
+                        </sp>
+                        <sp n="226">
+                            <speaker>1e SENTINELLE</speaker>
+                            <l n="870">Encor pâtir!</l>
+                            <l n="871">Notre lot est l’obéissance.</l>
+                        </sp>
+                        <sp n="227">
+                            <speaker>2e SENTINELLE</speaker>
+                            <l n="872">Silence!</l>
+                            <l n="873">Je vois Énée à grands pas accourir.</l>
+                        </sp>
+                        <stage n="stage124">Les deux sentinelles s’éloignent et disparaissent.</stage>
+                    </div>
+                    <div n="41" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 41 - Récitatif Mesure et Air </head>
+                        <sp n="228">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage125">s’avançant dans une grande agitation</stage>
+                            <l n="874">Inutiles regrets!… je dois quitter Carthage!</l>
+                            <l n="875">Didon le sait… son effroi, sa stupeur,</l>
+                            <l n="876">En l’apprenant, ont brisé mon courage…</l>
+                            <l n="877">Mais je le dois… il le faut!…</l>
+                            <l n="878">Non, je ne puis oublier la pâleur</l>
+                            <l n="879">Frappant de mort son beau visage,</l>
+                            <l n="880">Son silence obstiné, ses yeux</l>
+                            <l n="881">Fixes et pleins d’un feu sombre…</l>
+                            <l n="882">En vain ai-je parlé des prodiges sans nombre</l>
+                            <l n="883">Me rappelant l’ordre des dieux,</l>
+                            <l n="884">Invoqué la grandeur de ma sainte entreprise,</l>
+                            <l n="885">L’avenir de mon fils et le sort des Troyens,</l>
+                            <l n="886">La triomphale mort par les destins promise,</l>
+                            <l n="887">Pour couronner ma gloire aux champs ausoniens;</l>
+                            <l n="888">Rien n’a pu la toucher; sans vaincre son silence</l>
+                            <l n="889">J’ai fui de son regard la terrible éloquence.</l>
+                            <l n="890">Ah! quand viendra l’instant des suprêmes adieux,</l>
+                            <l n="891">Heure d’angoisse et de larmes baignée,</l>
+                            <l n="892">Comment subir l’aspect affreux</l>
+                            <l n="893">De cette douleur indignée?…</l>
+                            <l n="894">Lutter contre moi-même et contre toi, Didon!</l>
+                            <l n="895">En déchirant ton cœur implorer mon pardon!</l>
+                            <l n="896">En serai-je capable?… En un dernier naufrage,</l>
+                            <l n="897">Ah! puissé-je périr, si je quittais Carthage</l>
+                            <l n="898">Sans te revoir pourtant!…</l>
+                            <l n="899">Sans la voir? lâcheté!</l>
+                            <l n="900">Mépris des droits sacrés de l’hospitalité!</l>
+                            <l n="901">Non, non, reine adorée,</l>
+                            <l n="902">Ame sublime et par moi déchirée,</l>
+                            <l n="903">O reine adorée! Non, je veux te revoir,</l>
+                            <l n="904">Une dernière fois presser tes mains tremblantes,</l>
+                            <l n="905">Arroser tes genoux de mes larmes brûlantes,</l>
+                            <l n="906">Dussé-je être brisé par un tel désespoir.</l>
+                        </sp>
+                    </div>
+                    <div n="42" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 42 - Scène </head>
+                        <sp n="229">
+                            <speaker>CHOEUR D’OMBRES</speaker>
+                            <l n="907">Énée!…</l>
+                        </sp>
+                        <sp n="230">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="908">Encor ces voix!</l>
+                            <stage n="stage126">Les quatre spectres voilés paraissent successivement, l’un à
+                                l’entrée des coulisses à gauche du spectateur l’autre à l’entrée des
+                                coulisses à droite, les deux autres au fond du théâtre. Au-dessus de
+                                la tête de chacun d’eux brille une couronne de petites flammes
+                                pâles.</stage>
+                        </sp>
+                        <sp n="231">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="909">De la sombre demeure,</l>
+                            <l n="910">Messager menaçant, qui donc t’a fait sortir?…</l>
+                        </sp>
+                        <sp n="232">
+                            <speaker>SPECTRE DE PRIAM</speaker>
+                            <stage n="stage127">visible</stage>
+                            <l n="911">Ta faiblesse et ta gloire… </l>
+                        </sp>
+                        <sp n="233">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="912">Ah! je voudrais mourir!</l>
+                        </sp>
+                        <sp n="234">
+                            <speaker>SPECTRE DE PRIAM</speaker>
+                            <l n="913">Plus de retards!</l>
+                        </sp>
+                        <sp n="235">
+                            <speaker>SPECTRE DE CHORÈBE </speaker>
+                            <stage n="stage128">invisible</stage>
+                            <l n="914">Pas un jour!</l>
+                        </sp>
+                        <sp n="236">
+                            <speaker>SPECTRE D’HECTOR ET CASSANDRE</speaker>
+                            <stage n="stage129">invisibles</stage>
+                            <l n="915">Pas une heure!</l>
+                        </sp>
+                        <sp n="237">
+                            <speaker>SPECTRE DE PRIAM</speaker>
+                            <stage n="stage130">levant son voile devant les yeux d’Énée</stage>
+                            <l n="916">Je suis Priam!… il faut vivre et partir!</l>
+                            <stage n="stage131">Sa couronne s’éteint, il disparaît. Énée, s’élançant éperdu vers
+                                le côté droit de la scène y rencontre le spectre de Chorèbe.</stage>
+                        </sp>
+                        <sp n="238">
+                            <speaker>LE SPECTRE DE CHORÈBE</speaker>
+                            <stage n="stage132">levant son voile</stage>
+                            <l n="917">Je suis Chorèbe!</l>
+                            <l n="918">Il faut partir et vaincre!</l>
+                            <stage n="stage133">Sa couronne s’éteint, il disparaît. Énée, reculant vers le fond
+                                du théâtre y rencontre les deux autres spectres. Cassandre a le bras
+                                gauche appuyé sur l’épaule d’Hector. Hector est armé de pied en
+                                cap.</stage>
+                        </sp>
+                        <sp n="239">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage134">les reconnaissant au moment où ils se dévoilent</stage>
+                            <l n="919">Hector! dieux de l’Erébe!…</l>
+                            <l n="920">Cassandre!…</l>
+                        </sp>
+                        <sp n="240">
+                            <speaker>SPECTRES DE CASSANDRE ET HECTOR</speaker>
+                            <l n="921">Il faut vaincre et fonder!…</l>
+                            <stage n="stage135">Leurs couronnes s’éteignent, ils disparaissent.</stage>
+                        </sp>
+                        <sp n="241">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="922">Je dois céder</l>
+                            <l n="923">A vos ordres impitoyables!</l>
+                            <l n="924">J’obéis, j’obéis, spectres inexorables!</l>
+                            <l n="925">Je suis barbare, ingrat; vous l’ordonnez, grands dieux!</l>
+                            <l n="926">Et j’immole Didon, en détournant les yeux!</l>
+                        </sp>
+                    </div>
+                    <div n="43" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 43 - Scène et Chœur </head>
+                        <sp n="242">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage136">passant devant les tentes</stage>
+                            <l n="927">Debout, Troyens, éveillez-vous, alerte!</l>
+                            <l n="928">Le vent est bon, la mer nous est ouverte!</l>
+                            <l n="929">Eveillez-vous!</l>
+                            <l n="930">Il faut partir avant le lever du soleil!</l>
+                        </sp>
+                        <sp n="243">
+                            <speaker>LES TROYENS</speaker>
+                            <stage n="stage137">dans les tentes</stage>
+                            <l n="931">Alerte!… entendez-vous, amis, la voix d’Énée?…</l>
+                            <stage n="stage138">Ils sortent des tentes.</stage>
+                            <l n="932">Donnez partout le signal du réveil…</l>
+                        </sp>
+                        <sp n="244">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage139">à un chef</stage>
+                            <l n="933">Va, cours, porte cet ordre à l’oreille étonnée</l>
+                            <l n="934">D’Ascagne: Qu’il se lève et qu’il se rende à bord!</l>
+                            <l n="935">Avant le jour il faut quitter le port.</l>
+                            <l n="936">Ma tâche, jusqu’au bout, grands dieux, sera remplie.</l>
+                            <l n="937">Alerte, amis! profitons des instants!</l>
+                            <l n="938">Coupez les câbles, il est temps!</l>
+                            <l n="939">En mer! en mer! Italie! Italie!</l>
+                        </sp>
+                        <sp n="245">
+                            <speaker>CHOEUR</speaker>
+                            <l n="940">Voici le jour, profitons des instants!</l>
+                            <l n="941">Coupons les câbles, il est temps!</l>
+                            <l n="942">En mer! en mer! Italie! Italie!</l>
+                        </sp>
+                        <sp n="246">
+                            <speaker>ÉNÉE</speaker>
+                            <stage n="stage140">se tournant du côté du palois de Didon</stage>
+                            <l n="943">A toi mon âme! Adieu! digne de ton pardon,</l>
+                            <l n="944">Je pars, noble Didon!</l>
+                            <l n="945">L’impatient destin m’appelle;</l>
+                            <l n="946">Pour la mort des héros, je te suis infidèle.</l>
+                        </sp>
+                        <stage n="stage141">Tous se précipitent hors de la scène dans diverses directions, comme
+                            pour faire des préparatifs de départ. On voit les vaisseaux commencer à
+                            se mettre en mouvement. Eclairs et tonnerre lointain.</stage>
+                    </div>
+                    <div n="44" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 44 - Duo et Chœur </head>
+                        <sp n="247">
+                            <speaker>DIDON</speaker>
+                            <l n="947">Errante sur tes pas,</l>
+                            <l n="948">Sous la foudre qui gronde,</l>
+                            <l n="949">J’ai voulu voir, je vois et ne crois pas…</l>
+                            <l n="950">Tu prépares ta fuite?</l>
+                        </sp>
+                        <sp n="248">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="951">En ma douleur profonde,</l>
+                            <l n="952">Chère Didon, épargnez-moi!</l>
+                        </sp>
+                        <sp n="249">
+                            <speaker>DIDON</speaker>
+                            <l n="953">Tu pars? tu pars?</l>
+                            <l n="954">Sans remords! Quoi!</l>
+                            <l n="955">Dédaigneux du sceptre de Lybie,</l>
+                            <l n="956">En m’arrachant le cœur tu cours en Italie!</l>
+                        </sp>
+                        <sp n="250">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="957">J’ai trop tardé… </l>
+                            <l n="958">Des dieux les ordres souverains…</l>
+                        </sp>
+                        <sp n="251">
+                            <speaker>DIDON</speaker>
+                            <l n="959">Il part!… il suit la voix d’implacables destins,</l>
+                            <l n="960">Sans écouter la mienne! à ses lâches dédains</l>
+                            <l n="961">Il me voit exposer ma douleur surhumaine.</l>
+                            <stage n="stage142">Elle voit un groupe de Troyens sourire en la regardant.</stage>
+                            <l n="962">Et ma beauté de reine</l>
+                            <l n="963">Aux rires insolents de ces ingrats Troyens!…</l>
+                        </sp>
+                        <sp n="252">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="964">Didon!</l>
+                        </sp>
+                        <sp n="253">
+                            <speaker>DIDON </speaker>
+                            <l n="965">Sans qu’à l’aspect d’une telle misère</l>
+                            <l n="966">La pitié d’une larme humecte sa paupière!</l>
+                            <l n="967">Tu pars? Non! ce n’est pas Vénus qui t’enfanta,</l>
+                            <l n="968">Quelque louve hideuse aux forêts t’allaita!</l>
+                        </sp>
+                        <sp n="254">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="969">O Reine, quand à vous se dévoua mon âme,</l>
+                            <l n="970">Elle subit la loi d’un immortel amour,</l>
+                            <l n="971">Et jusqu’au dernier jour</l>
+                            <l n="972">Mon cœur vivra de cette flamme…</l>
+                        </sp>
+                        <sp n="255">
+                            <speaker>DIDON</speaker>
+                            <l n="973">Tais-toi! rien ne t’arrête;</l>
+                            <l n="974">La mort qui plane sur ma tête,</l>
+                            <l n="975">Ma honte, mon amour, notre hymen commencé,</l>
+                            <l n="976">Mon nom du livre d’or dès ce jour efface!</l>
+                            <l n="977">Encor, si de ta foi, j’avais un tendre gage,</l>
+                            <l n="978">Oui, si d’un fils d’Énée</l>
+                            <l n="979">Le fier et doux visage</l>
+                            <l n="980">Me rappelant tes traits, souriait sur mon sein,</l>
+                            <l n="981">je serais moins abandonnée… </l>
+                        </sp>
+                        <sp n="256">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="982">Je vous aime, Didon; grâce! l’ordre divin</l>
+                            <l n="983">Pouvait seul emporter la cruelle victoire. </l>
+                            <stage n="stage143">On entend la fanfare de la marche troyenne.</stage>
+                        </sp>
+                        <sp n="257">
+                            <speaker>DIDON</speaker>
+                            <l n="984">A ce chant de triomphe où rayonne ta gloire,</l>
+                            <l n="985">Je te vois tressaillir!</l>
+                            <l n="986">Tu pars?</l>
+                        </sp>
+                        <sp n="258">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="987">Je dois partir… </l>
+                        </sp>
+                        <sp n="259">
+                            <speaker>DIDON</speaker>
+                            <l n="988">Tu pars?</l>
+                        </sp>
+                        <sp n="260">
+                            <speaker>ÉNÉE</speaker>
+                            <l n="989">Mais pour mourir,</l>
+                            <l n="990">Obéissant aux dieux,</l>
+                            <l n="991">Je pars et je vous aime!</l>
+                        </sp>
+                        <sp n="261">
+                            <speaker>DIDON</speaker>
+                            <l n="992">Ne sois pas plus longtemps par mes cris arrêté,</l>
+                            <l n="993">Monstre de piété!</l>
+                            <l n="994">Va donc, va! je maudis et tes dieux et toi-même!</l>
+                            <stage n="stage144">Elle sort.</stage>
+                            <stage n="stage145">Des groupes de soldats troyens occupés des préparatifs du départ,
+                                passent et se dirigent vers les vaisseaux.</stage>
+                        </sp>
+                        <sp n="262">
+                            <speaker>ÉNÉE, LES TROYENS</speaker>
+                            <l n="995">Italie!</l>
+                        </sp>
+                        <stage n="stage146">Ascagne arrive conduit par un chef troyen. Énée monte sur un
+                            vaisseau.</stage>
+                    </div>
+                    <div n="tableau2" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Deuxième Tableau</head>
+                        <stage n="stage147">Un appartement de Didon. Le jour se lève.</stage>
+                    </div>
+                    <div n="45" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 45 - Scène </head>
+                        <sp n="263">
+                            <speaker>DIDON</speaker>
+                            <l n="996">Va, ma sœur, l’implorer,</l>
+                            <l n="997">De mon âme abattue</l>
+                            <l n="998">L’orgueil a fui. Va! ce départ me tue</l>
+                            <l n="999">Et je le vois se préparer.</l>
+                        </sp>
+                        <sp n="264">
+                            <speaker>ANNA</speaker>
+                            <l n="1000">Hélas! moi seule fus coupable,</l>
+                            <l n="1001">En vous encourageant à former d’autres nœuds.</l>
+                            <l n="1002">Peut-on lutter contre les dieux?…</l>
+                            <l n="1003">Son départ est inévitable,</l>
+                            <l n="1004">Et pourtant il vous aime.</l>
+                        </sp>
+                        <sp n="265">
+                            <speaker>DIDON</speaker>
+                            <l n="1005">Il m’aime! non! non! son cœur est glacé!</l>
+                            <l n="1006">Ah! je connais l’amour, et si Jupiter même</l>
+                            <l n="1007">M’eût défendu d’aimer, mon amour insensé</l>
+                            <l n="1008">De Jupiter braverait l’anathème.</l>
+                            <l n="1009">Mais va, ma sœur, allez, Narbal, le supplier</l>
+                            <l n="1010">Pour qu’il m’accorde encore</l>
+                            <l n="1011">Quelques jours seulement. Humblement je l’implore:</l>
+                            <l n="1012">Ce que j’ai fait pour lui, pourra-t-il l’oublier,</l>
+                            <l n="1013">Et repoussera-t-il cette instance suprême</l>
+                            <l n="1014">De vous, sage Narbal, de toi, ma sœur, qu’il aime?…</l>
+                        </sp>
+                    </div>
+                    <div n="46" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 46 - Scène </head>
+                        <sp n="266">
+                            <speaker>CHOEUR</speaker>
+                            <stage n="stage148">au loin derrière la scène</stage>
+                            <l n="1015">En mer, voyez! six vaisseaux! sept! neuf! dix!</l>
+                        </sp>
+                        <sp n="267">
+                            <speaker>IOPAS</speaker>
+                            <stage n="stage149">entrant</stage>
+                            <l n="1016">Les Troyens sont partis!</l>
+                        </sp>
+                        <sp n="268">
+                            <speaker>DIDON</speaker>
+                            <l n="1017">Qu’entends-je?</l>
+                        </sp>
+                        <sp n="269">
+                            <speaker>IOPAS</speaker>
+                            <l n="1018">Avant l’aurore</l>
+                            <l n="1019">Leur flotte était en mer, on l’aperçoit encore!</l>
+                        </sp>
+                        <sp n="270">
+                            <speaker>DIDON</speaker>
+                            <l n="1020">Dieux immortels! il part! Armez-vous, Tyriens!</l>
+                            <l n="1021">Carthaginois, courez, poursuivez les Troyens!</l>
+                            <l n="1022">Courbez-vous sur les rames,</l>
+                            <l n="1023">Volez sur les eaux,</l>
+                            <l n="1024">Lancez des flammes,</l>
+                            <l n="1025">Brûlez leurs vaisseaux!</l>
+                            <l n="1026">Que la ville entière…</l>
+                            <l n="1027">Que dis-je?… impuissante fureur!</l>
+                            <l n="1028">Subis ton sort et désespère,</l>
+                            <l n="1029">Dévore ta douleur,</l>
+                            <l n="1030">Ô malheureuse!</l>
+                            <l n="1031">Et voilà donc la foi de cette âme pieuse!</l>
+                            <l n="1032">J’offrais un trône!… Ah! je devais alors</l>
+                            <l n="1033">Exterminer la race vagabonde</l>
+                            <l n="1034">De ces maudits, et disperser sur l’onde</l>
+                            <l n="1035">Les débris de leurs corps!</l>
+                            <l n="1036">C’est alors qu’il fallait prévoir leur perfidie,</l>
+                            <l n="1037">Livrer leur flotte à l’incendie,</l>
+                            <l n="1038">Et me venger d’Énée et lui servir enfin</l>
+                            <l n="1039">Les membres de son fils en un hideux festin!</l>
+                            <l n="1040">A moi, dieux des enfers! l’Olympe est inflexible!…</l>
+                            <l n="1041">Aidez-moi ! que par vous mon cœur soit enflammé</l>
+                            <l n="1042">D’une haine terrible</l>
+                            <l n="1043">Pour ce fugitif que j’aimai!</l>
+                            <l n="1044">Du prêtre de Pluton, qu’on réclame l’office!</l>
+                            <l n="1045">Pour apaiser mes douloureux transports,</l>
+                            <l n="1046">A l’instant même offrons un sacrifice</l>
+                            <l n="1047">Aux sombres déités de l’empire des morts!</l>
+                            <l n="1048">Qu’on élève un bûcher!</l>
+                            <l n="1049">Que les dons du perfide</l>
+                            <l n="1050">Et ceux que je lui fis,</l>
+                            <l n="1051">Dans la flamme livide,</l>
+                            <l n="1052">Souvenirs détestés, disparaissent!… Sortez!</l>
+                        </sp>
+                        <sp n="271">
+                            <speaker>NARBAL</speaker>
+                            <stage n="stage150">à Anna</stage>
+                            <l n="1053">Son regard m’épouvante, ô princesse, restez!</l>
+                        </sp>
+                        <sp n="272">
+                            <speaker>DIDON </speaker>
+                            <l n="1054">Anna, suivez Narbal. </l>
+                        </sp>
+                        <sp n="273">
+                            <speaker>ANNA</speaker>
+                            <l n="1055">Que ma sœur me pardonne!</l>
+                        </sp>
+                        <sp n="274">
+                            <speaker>DIDON </speaker>
+                            <l n="1056">Je suis reine et j’ordonne;</l>
+                            <l n="1057">Laissez-moi seule, Anna.</l>
+                        </sp>
+                        <stage n="stage151">Anna, Narbal et Iopas sortent.</stage>
+                    </div>
+                    <div n="47" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 47 - Monologue </head>
+                        <stage n="stage152">Didon parcourt la scène en s’arrachant les cheveux, se frappant la
+                            poitrine et poussant des cris inarticulés.</stage>
+                        <sp n="275">
+                            <speaker>DIDON</speaker>
+                            <l n="1058">Ah! Ah!</l>
+                            <stage n="stage153">Elle s’arrête brusquement.</stage>
+                            <l n="1059">Je vais mourir…</l>
+                            <l n="1060">Dans ma douleur immense submergée</l>
+                            <l n="1061">Et mourir non vengée!…</l>
+                            <l n="1062">Mourons pourtant! Oui, puise-t-il frémir</l>
+                            <l n="1063">A la lueur lointaine de la flamme de mon bûcher!</l>
+                            <l n="1064">S’il reste dans son âme quelque chose d’humain,</l>
+                            <l n="1065">Peut-être il pleurera sur mon affreux destin.</l>
+                            <l n="1066">Lui, me pleurer!…</l>
+                            <l n="1067">Énée!… Énée!…</l>
+                            <l n="1068">Oh,! mon âme te suit,</l>
+                            <l n="1069">A son amour enchaînée,</l>
+                            <l n="1070">Esclave, elle l’emporte en l’éternelle nuit…</l>
+                            <l n="1071">Vénus! rends-moi ton fils!… Inutile prière</l>
+                            <l n="1072">D’un cœur qui se déchire!… A la mort tout entière</l>
+                            <l n="1073">Didon n’attend plus rien que de la mort.</l>
+                        </sp>
+                    </div>
+                    <div n="48" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 48 - Air </head>
+                        <sp n="276">
+                            <speaker>DIDON</speaker>
+                            <l n="1074">Adieu, fière cité, qu’un généreux effort</l>
+                            <l n="1075">Si promptement éleva florissante;</l>
+                            <l n="1076">Ma tendre sœur qui me suivis errante,</l>
+                            <l n="1077">Adieu, mon peuple, adieu; adieu, rivage vénéré,</l>
+                            <l n="1078">Toi qui jadis m’accueillis suppliante;</l>
+                            <l n="1079">Adieu, beau ciel d’Afrique, astres que j’admirai</l>
+                            <l n="1080">Aux nuits d’ivresse et d’extase infinie;</l>
+                            <l n="1081">Je ne vous verrai plus, ma carrière est finie!…</l>
+                            <stage n="stage154">Elle sort à pas lents.</stage>
+
+                        </sp>
+                    </div>
+                    <div n="tableau3" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Troisième Tableau</head>
+
+                    </div>
+                    <div n="49" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 49 - Ceremonie Funèbre </head>
+                        <stage n="stage155">Une partie des jardins de Didon, sur le bord de la mer. Un vaste
+                            bûcher est élevé; on y monte par des gradins latéraux. Sur la
+                            plate-forme du bûcher sont placés un lit, une toge, un casque, une épée
+                            avec son baudrier, et un buste d’Énée.</stage>
+                        <stage n="stage156">Entrent les Prêtres de Pluton, revêtus de costumes funèbres; ils
+                            viennent processionnellement se grouper auprès de deux autels où
+                            brillent des flammes verdâtres, puis Anna, Narbal, et enfin Didon voilée
+                            et couronnée de feuillage. Pendant la première partie du choeur des
+                            prêtres, Anna, s’approchant de sa sœur, lui dénoue sa chevelure et lui
+                            ôte le cothurne de son pied gauche.</stage>
+                        <sp n="277">
+                            <speaker>CHOEUR DE PRÊTRES DE PLUTON</speaker>
+                            <l n="1082">Dieux de l’oubli, dieux du Ténare, </l>
+                            <l n="1083">Au cœur blessé rendez la force et le repos!</l>
+                            <l n="1084">Des profondeurs du noir Tartare</l>
+                            <l n="1085">Entendez-nous, Hécate, Erèbe, et toi Chaos!</l>
+                        </sp>
+                        <sp n="278">
+                            <speaker>ANNA, NARBAL</speaker>
+                            <stage n="stage157">étendant le bras droit du côté de la mer</stage>
+                            <l n="1086">S’il faut enfin qu’Énée aborde en Italie,</l>
+                            <l n="1087">Qu’il y trouve un obscur trépas!</l>
+                            <l n="1088">Que le peuple latin à l’ombrien s’allie</l>
+                            <l n="1089">Pour arrêter ses pas!</l>
+                            <l n="1090">Percé d’un trait vulgaire en la mêlée ardente,</l>
+                            <l n="1091">Qu’il reste abandonné sur l’arène sanglante,</l>
+                            <l n="1092">Pour servir de pâture aux dévorants oiseaux!</l>
+                            <l n="1093">Entendez-nous, Hécate, Erèbe, et toi Chaos!</l>
+                        </sp>
+                        <sp n="279">
+                            <speaker>LES PRÊTRES, ANNA, NARBAL</speaker>
+                            <l n="1094">Dieux de l’oubli, dieux du Ténare, etc.</l>
+                        </sp>
+                    </div>
+                    <div n="50" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 50 - Scene </head>
+                        <sp n="280">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage158">parlant comme en songe</stage>
+                            <l n="1095">Pluton… semble m’être propice…</l>
+                            <l n="1096">En ce cruel instant… Narbal… ma soeur…</l>
+                            <l n="1097">C’en est fait… achevons le pieux sacrifice…</l>
+                            <l n="1098">Je sens rentrer le calme… dans mon coeur.</l>
+                            <stage n="stage159">Deux prêtres portant le premier autel s’avancent de gauche à
+                                droite, deux autres portant le second s’avancent de droite à gauche
+                                et font en se croisant ainsi le tour du bûcher. Didon, le pied
+                                gauche nu, les cheveux épars, après avoir déposé sur l’un des autels
+                                sa couronne de feuillage, le suit d’un pas saccadé. Pendant ce
+                                mouvement processionnel, Anna est à genoux à droite de la scène et
+                                Narbal à gauche. Entre eux le grand prêtre de Pluton, debout, étend,
+                                en la tenant des deux mains, la fourche plutonique vers le bûcher.
+                                Enfin, saisie d’une énergie convulsive, Didon monte d’un pas rapide
+                                les degrés du bûcher. Parvenue au sommet, elle saisit la toge
+                                d’Énée, détache le voile brodé d’or qui couvre sa tête, et les
+                                jetant l’une et l’autre sur le bûcher, elle dit: </stage>
+                            <l n="1099">D’un malheureux amour, funestes gages,</l>
+                            <l n="1100">Dans la flamme emportez avec vous mes chagrins!</l>
+                            <stage n="stage160">Elle considère les armes d’Énée.</stage>
+                            <l n="1101">Ah!</l>
+                            <stage n="stage161">Elle se prosterne sur le lit, qu’elle embrasse avec des sanglots
+                                convulsifs. Elle se relève et prenant l’épée elle dit d’un ton
+                                prophétique: </stage>
+                            <l n="1102">Mon souvenir vivra parmi les âges.</l>
+                            <l n="1103">Mon peuple accomplira d’héroïques destins.</l>
+                            <l n="1104">Un jour sur la terre africaine,</l>
+                            <l n="1105">Il naîtra de ma cendre un glorieux vengeur…</l>
+                            <l n="1106">J’entends déjà sonner son nom vainqueur.</l>
+                            <l n="1107">Annibal! Annibal! d’orgueil mon âme est pleine!</l>
+                            <l n="1108">Plus de souvenirs amers!</l>
+                            <l n="1109">C’est ainsi qu’il convient de descendre aux enfers!</l>
+                        </sp>
+                        <stage n="stage162">Elle tire l’épée du fourreau, se frappe et tombe sur le lit.</stage>
+                    </div>
+                    <div n="51" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 51 - Choeur </head>
+                        <sp n="281">
+                            <speaker>TOUS </speaker>
+                            <l n="1110">Ah! au secours! au secours! la reine s’est frappée!</l>
+                            <stage n="stage163">Narbal sort comme pour aller chercher du secours.</stage>
+                        </sp>
+                        <sp n="282">
+                            <speaker>CHOEUR</speaker>
+                            <stage n="stage164">derrière la scène et accourant</stage>
+                            <l n="1111">Quels cris! ah! dans son sang trempée</l>
+                            <l n="1112">La reine meurt!</l>
+                            <stage n="stage165">Narbal rentre, le grand choeur entre en scène.</stage>
+                            <l n="1113">Est-il vrai? jour d’horreur!</l>
+                        </sp>
+                        <sp n="283">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage166">se relevant appuyée sur son coude</stage>
+                            <l n="1114">Ah!</l>
+                            <stage n="stage167">Elle retombe.</stage>
+                        </sp>
+                        <sp n="284">
+                            <speaker>ANNA</speaker>
+                            <stage n="stage168">sur le bûcher</stage>
+                            <l n="1115">Ma sœur!</l>
+                            <stage n="stage169">Didon se relève.</stage>
+                        </sp>
+                        <sp n="285">
+                            <speaker>DIDON</speaker>
+                            <l n="1116">Ah!…</l>
+                            <stage n="stage170">Elle lève les yeux au ciel et retombe gémissant.</stage>
+                        </sp>
+                        <sp n="286">
+                            <speaker>ANNA</speaker>
+                            <l n="1117">C’est moi,</l>
+                            <l n="1118">C’est ta sœur qui t’appelle…</l>
+                        </sp>
+                        <sp n="287">
+                            <speaker>DIDON</speaker>
+                            <stage n="stage171">se relevant à demi</stage>
+                            <l n="1119">Ah! Des destins ennemis… implacable fureur…</l>
+                            <l n="1120">Carthage périra!</l>
+                        </sp>
+                    </div>
+                    <div n="52" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">Nº 52 - Imprécation </head>
+                        <stage n="stage172">On voit dans une gloire lointaine le Capitole Romain au fronton
+                            duquel brille ce mot, Rome. Devant le Capitole défilent des légions et
+                            un empereur entouré d’une cour de poètes et d’artistes. Pendant cette
+                            apothéose, invisible aux Carthaginois, on entend au loin la marche
+                            troyenne transmise aux Romains par la tradition et devenue leur chant de
+                            triomphe.</stage>
+                        <sp n="288">
+                            <speaker>DIDON</speaker>
+                            <l n="1121">Rome… Rome… immortelle!</l>
+                            <stage n="stage173">Elle retombe, et meurt. Anna tombe évanouie à côté d’elle. Le
+                                peuple de Carthage, s’avançant vers l’avant-scène et tournant le dos
+                                au bûcher, lance son imprécation, premier cri de guerre punique,
+                                contrastant par sa fureur avec la solennité triomphale.</stage>
+                        </sp>
+                        <sp n="289">
+                            <speaker>CHOEUR</speaker>
+                            <l n="1122">Haine éternelle à la race d’Énée!</l>
+                            <l n="1123">Qu’une guerre acharnée</l>
+                            <l n="1124">Précipite à jamais nos fils contre ses fils!</l>
+                            <l n="1125">Que par nos vaisseaux assaillis</l>
+                            <l n="1126">Leurs vaisseaux dans la mer profonde</l>
+                            <l n="1127">Périssent abîmés! que sur la terre et l’onde</l>
+                            <l n="1128">Nos derniers descendants, contre eux toujours armés,</l>
+                            <l n="1129">De leur massacre, un jour, épouvantent le monde!</l>
+                        </sp>
+                    </div>
+                    <div n="52b" type="song" part="N" org="uniform" sample="complete">
+                        <head n="title">N° 52 bis – Final primitif [remplacé par le texte définitif
+                            à partir de la dernière réplique de Didon avant le N° 52]</head>
+                        <stage n="stage174">L’arc-en-ciel se déploie au-dessus du bûcher, et un rayon solaire
+                            décomposé présentant les sept couleurs primitives tombe sur le corps de
+                            Didon.</stage>
+                        <sp n="290">
+                            <speaker>LE GRAND-PRÊTRE</speaker>
+                            <l n="1130">La mourante bénie</l>
+                            <l n="1131">Excite la pitié des dieux;</l>
+                            <stage n="stage175">Iris paraît dans l’air et passe au-dessus du bûcher en répandant
+                                des pavots sur la reine mourante. Tous se prosternent à l’apparition
+                                divine d’Iris.</stage>
+                            <l n="1132">Iris descend des cieux</l>
+                            <l n="1133">Pour finir son agonie.</l>
+                            <stage n="stage176">L’arc-en-ciel disparaît avec Iris. Le rayon décomposé
+                                persiste.</stage>
+                            <l n="1134">Répétez avec moi</l>
+                            <l n="1135">La formule sacrée:</l>
+                            <l n="1136">Âme souffrante exhale-toi…</l>
+                        </sp>
+                        <sp n="291">
+                            <speaker>NARBAL ET LE CHŒUR</speaker>
+                            <l n="1137">Âme souffrante exhale-toi…</l>
+                        </sp>
+                        <sp n="292">
+                            <speaker>LE GRAND-PRÊTRE</speaker>
+                            <l n="1138">Au nom des dieux de ton corps délivrée.</l>
+                        </sp>
+                        <sp n="293">
+                            <speaker>NARBAL ET LE CHŒUR</speaker>
+                            <l n="1139">Au nom des dieux de ton corps délivrée.</l>
+                            <stage n="stage177">Le rayon disparaît. Didon meurt. Anna tombe évanouie à côté
+                                d’elle.</stage>
+                        </sp>
+                        <sp n="294">
+                            <speaker>LE GRAND-PRÊTRE</speaker>
+                            <l n="1140">Elle n’est plus, la reine est expirée!</l>
+                        </sp>
+                        <sp n="295">
+                            <speaker>NARBAL, LE GRAND-PRÊTRE ET LE CHŒUR</speaker>
+                            <l n="1141">Sur son bûcher et par son sang royal</l>
+                            <l n="1142">Consacrons aujourd’hui l’étendard de Carthage!</l>
+                            <l n="1143">Que le même serment tous ici nous engage</l>
+                            <l n="1144">Dans un destin fatal!</l>
+                            <l n="1145">Haine à la race d’Énée!</l>
+                            <l n="1146">Qu’une guerre acharnée</l>
+                            <l n="1147">Précipite à jamais nos fils contre ses fils!</l>
+                            <l n="1148">Que par nos vaisseaux assaillis</l>
+                            <l n="1149">Leurs vaisseaux dans la mer profonde</l>
+                            <l n="1150">Périssent abîmés! Que sur la terre et l’onde</l>
+                            <l n="1151">Nos derniers descendants, contre eux toujours armés,</l>
+                            <l n="1152">De leur massacre, un jour, épouvantent le monde!</l>
+                        </sp>
+                        <sp n="296">
+                            <speaker>ÉPILOGUE</speaker>
+                            <stage n="stage178">Une toile d’avant-scène s’abaisse, représentant le Temps suivi du
+                                cortège des heures, dont douze sont vêtues de tuniques blanches et
+                                roses et douze de tuniques noires étoilées d’or. On entend un
+                                murmure mystérieux d’orchestre entrecoupé de bruits pompeux.</stage>
+                            <stage n="stage179">La toile d’avant-scène se lève et l’on voit dans une gloire le
+                                Capitole romain. La scène est vide; sur l’une des côtés seulement la
+                                muse de l’histoire, Clio, ayant auprès d’elle une Renommée. On
+                                entend retentir dans le mode triomphal la Marche troyenne, transmise
+                                par la tradition et devenue le chant de triomphe des
+                                Romains.</stage>
+                            <stage n="stage180">On voit passer devant le Capitole un guerrier couvert d’une
+                                armure éclatante conduisant des légions romaines.</stage>
+                        </sp>
+                        <sp n="297">
+                            <speaker>CLIO</speaker>
+                            <l n="1153">Scipioni Africano! Gloria!</l>
+                            <stage n="stage181">On voit passer un autre guerrier couronné de lauriers marchant à
+                                la tête d’autres légions.</stage>
+                        </sp>
+                        <sp n="298">
+                            <speaker>CLIO</speaker>
+                            <l n="1154">Julio Caesari! Gloria!</l>
+                            <stage n="stage182">On voit passer un empereur entouré d’une cour de poètes et
+                                d’artistes.</stage>
+                        </sp>
+                        <sp n="299">
+                            <speaker>CLIO</speaker>
+                            <l n="1155">Imperatori Augusto et divo Virgilio! Gloria! Gloria!</l>
+                            <l n="1156">Fuit Troja,</l>
+                            <l n="1157">Stat Roma!</l>
+                        </sp>
+                        <sp n="300">
+                            <speaker>SOPRANO</speaker>
+                            <stage n="stage183">au fond du théâtre</stage>
+                            <l n="1158">Stat Roma!</l>
+                        </sp>
+                        <sp n="301">
+                            <speaker>TÉNOR</speaker>
+                            <stage n="stage184">encore plus loin</stage>
+                            <l n="1159">Stat Roma!</l>
+                        </sp>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

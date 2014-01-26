@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:CiteIndexInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<indexInventory xmlns="http://chs.harvard.edu/xmlns/cite">
+      <rdfNamespace abbr="hmt" fullValue="http://www.homermultitext.org/hmt/rdf/"></rdfNamespace>
+      <rdfNamespace abbr="cite" fullValue="http://www.homermultitext.org/cite/rdf/"></rdfNamespace>
+    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+        <source type="file" value="image-features.csv"></source>
+    </index>
+    <index verb="cite:illustrates" inverse="cite:illustratedBy">
+        <source type="file" value="image-citation.csv"></source>
+    </index>
+    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+        <source type="file" value="image-char.csv"></source>
+    </index>
+    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+        <source type="file" value="RI_CitationImage_Matthew.tsv"></source>
+    </index>
+    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+        <source type="file" value="RI_FolioImage.tsv"></source>
+    </index>
+    <index verb="hmt:hasDefaultImage" inverse="hmt:isDefaultImage">
+        <source type="file" value="RI_DefaultImage.tsv"></source>
+    </index>
+    <index verb="cite:hasOnIt" inverse="cite:appearsOn">
+        <source type="file" value="RI_FolioCitation_Matthew.tsv"></source>
+    </index>
+</indexInventory>

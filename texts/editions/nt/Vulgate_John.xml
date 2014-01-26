@@ -1,0 +1,3474 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biblia Sacra, Vulgata Editionis, Joannem</title>
+                <editor xml:id="cwb">Christopher Blackwell</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>An XML Edition based on the public domain text</edition>
+                <respStmt>
+                    <name>Christopher Blackwell</name>
+                    <resp>ed.</resp>
+                </respStmt>
+            </editionStmt>
+            <extent>under 1Mb</extent>
+            <publicationStmt>
+                <publisher> The Center for Hellenic Studies of Harvard University </publisher>
+                <authority>
+                    <name>Casey Dué and Mary Ebbott, edd.</name>
+                </authority>
+                <availability>
+                    <p>©2010, The Center for Hellenic Studies. This work is made available under the
+                        Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States
+                        License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/ </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+                <language ident="deu">German</language>
+                <language ident="fra">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="lat">
+        <body>
+            <head>Evangelium Secundum Joannem</head>
+            <div n="1" type="chapter">
+                <div n="1" type="verse">
+                    <p>In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Hoc erat in principio apud Deum. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Omnia per ipsum facta sunt: et sine ipso factum est nihil, quod factum est,
+                    </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>in ipso vita erat, et vita erat lux hominum: </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>et lux in tenebris lucet, et tenebrae eam non comprehenderunt. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Fuit homo missus a Deo, cui nomen erat Ioannes. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Hic venit in testimonium ut testimonium perhiberet de lumine, ut omnes
+                        crederent per illum. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Non erat ille lux, sed ut testimonium perhiberet de lumine. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Erat lux vera, quae illuminat omnem hominem venientem in hunc mundum. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>In mundo erat, et mundus per ipsum factus est, et mundus eum non cognovit.
+                    </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>In propria venit, et sui eum non receperunt. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui
+                        credunt in nomine eius: </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri,
+                        sed ex Deo nati sunt. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Et verbum caro factum est, et habitavit in nobis: et vidimus gloriam eius,
+                        gloriam quasi unigeniti a Patre plenum gratiae et veritatis. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Ioannes testimonium perhibet de ipso, et clamat dicens: Hic erat, quem dixi:
+                        Qui post me venturus est, ante me factus est: quia prior me erat. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Et de plenitudine eius nos omnes accepimus, et gratiam pro gratia. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>quia lex per Moysen data est; gratia, et veritas per Iesum Christum facta
+                        est. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Deum nemo vidit umquam: unigenitus Filius, qui est in sinu Patris, ipse
+                        enarravit. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Et hoc est testimonium Ioannis, quando miserunt Iudaei ab Ierosolymis
+                        sacerdotes et Levitas ad eum ut interrogarent eum: Tu quis es? </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Et confessus est, et non negavit: et confessus est: Quia non sum ego
+                        Christus. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Et interrogaverunt eum: Quid ergo? Elias es tu? Et dixit: Non sum. Propheta
+                        es tu? Et respondit: Non. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Dixerunt ergo ei: Quis es ut responsum demus his, qui miserunt nos? Quid
+                        dicis de teipso? </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Ait: Ego vox clamantis in deserto: Dirigite viam Domini, sicut dixit Isaias
+                        propheta. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Et qui missi fuerant, erant ex Pharisaeis. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Et interrogaverunt eum, et dixerunt ei: Quid ergo baptizas, si tu non es
+                        Christus, neque Elias, neque Propheta? </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Respondit eis Ioannes, dicens: Ego baptizo in aqua: medius autem vestrum
+                        stetit, quem vos nescitis. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Ipse est, qui post me venturus est, qui ante me factus est: cuius ego non sum
+                        dignus ut solvam eius corrigiam calceamenti. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Haec in Bethania facta sunt trans Iordanem, ubi erat Ioannes baptizans. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Altera die vidit Ioannes Iesum venientem ad se, et ait: Ecce agnus Dei. Ecce
+                        qui tollit peccatum mundi. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Hic est, de quo dixi: Post me venit vir, qui ante me factus est: quia prior
+                        me erat. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>et ego nesciebam eum, sed ut manifestetur in Israel, propterea veni ego in
+                        aqua baptizans. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Et testimonium perhibuit Ioannes, dicens: Quia vidi Spiritum descendentem
+                        quasi columbam de caelo, et mansit super eum. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Et ego nesciebam eum: sed qui misit me baptizare in aqua, ille mihi dixit:
+                        Super quem videris Spiritum descendentem, et manentem super eum, hic est,
+                        qui baptizat in Spiritu Sancto. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Et ego vidi: et testimonium perhibui quia hic est Filius Dei. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Altera die iterum stabat Ioannes, et ex discipulis eius duo. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Et respiciens Iesum ambulantem, dicit: Ecce agnus Dei. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Et audierunt eum duo discipuli loquentem, et secuti sunt Iesum. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Conversus autem Iesus, et videns eos sequentes se, dicit eis: Quid quaeritis?
+                        Qui dixerunt ei: Rabbi, (quod dicitur interpretatum Magister) ubi habitas?
+                    </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Dicit eis: Venite, et videte. Venerunt, et viderunt ubi maneret, et apud eum
+                        manserunt die illo: hora autem erat quasi decima. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Erat autem Andreas frater Simonis Petri unus ex duobus, qui audierant a
+                        Ioanne, et secuti fuerant eum. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Invenit hic primum fratrem suum Simonem, et dicit ei: Invenimus Messiam (quod
+                        est interpretatum Christus). </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Et adduxit eum ad Iesum. Intuitus autem eum Iesus, dixit: Tu es Simon filius
+                        Iona: tu vocaberis Cephas, (quod interpretatur Petrus). </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>In crastinum voluit exire in Galilaeam, et invenit Philippum. Et dicit ei
+                        Iesus: Sequere me. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Erat autem Philippus a Bethsaida, civitate Andreae, et Petri. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Invenit Philippus Nathanael, et dicit ei: Quem scripsit Moyses in Lege, et
+                        Prophetae, invenimus Iesum filium Ioseph a Nazareth. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Et dixit ei Nathanael: A Nazareth potest aliquid boni esse? Dicit ei
+                        Philippus: Veni, et vide. </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Vidit Iesus Nathanael venientem ad se, et dicit de eo: Ecce vere Israelita,
+                        in quo dolus non est. </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Dicit ei Nathanael: Unde me nosti? Respondit Iesus, et dixit ei: Priusquam te
+                        Philippus vocavit, cum esses sub ficu, vidi te. </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Respondit ei Nathanael, et ait: Rabbi, tu es Filius Dei, tu es Rex Israel.
+                    </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Quia dixi tibi: Vidi te sub ficu, credis: maius
+                        his videbis. </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Et dicit ei: Amen, amen dico vobis, videbitis caelum apertum, et Angelos Dei
+                        ascendentes, et descendentes supra Filium hominis. </p>
+                </div>
+            </div>
+            <div n="2" type="chapter">
+                <div n="1" type="verse">
+                    <p>Et die tertia nuptiae factae sunt in Cana Galilaeae, et erat mater Iesu ibi.
+                    </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Vocatus est autem et Iesus, et discipuli eius ad nuptias. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Et deficiente vino, dicit mater Iesu ad eum: Vinum non habent. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Et dicit ei Iesus: Quid mihi, et tibi est, mulier? Nondum venit hora mea.
+                    </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Dicit mater eius ministris: Quodcumque dixerit vobis, facite. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Erant autem ibi lapideae hydriae sex positae secundum purificationem
+                        Iudaeorum, capientes singulae metretas binas vel ternas. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Dicit eis Iesus: Implete hydrias aqua. Et impleverunt eas usque ad summum.
+                    </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Et dicit eis Iesus: Haurite nunc, et ferte architriclinio. Et tulerunt. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Ut autem gustavit architriclinius aquam vinum factam, et non sciebat unde
+                        esset, ministri autem sciebant, qui hauserant aquam: vocat sponsum
+                        architriclinius, </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriati fuerint,
+                        tunc id, quod deterius est. Tu autem servasti bonum vinum usque adhuc. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Hoc fecit initium signorum Iesus in Cana Galilaeae: et manifestavit gloriam
+                        suam, et crediderunt in eum discipuli eius. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Post hoc descendit Capharnaum ipse, et mater eius, et fratres eius, et
+                        discipuli eius: et ibi manserunt non multis diebus. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Et prope erat Pascha Iudaeorum, et ascendit Iesus Ierosolymam: </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>et invenit in templo vendentes boves, et oves, et columbas, et numularios
+                        sedentes. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Et cum fecisset quasi flagellum de funiculis, omnes eiecit de templo, oves
+                        quoque, et boves, et numulariorum effudit aes, et mensas subvertit. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Et his, qui columbas vendebant, dixit: Auferte ista hinc, et nolite facere
+                        domum Patris mei, domum negotiationis. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Recordati sunt vero discipuli eius quia scriptum est: Zelus domus tuae
+                        comedit me. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Responderunt ergo Iudaei, et dixerunt ei: Quod signum ostendis nobis quia
+                        haec facis? </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Respondit Iesus, et dixit eis: Solvite templum hoc, et in tribus diebus
+                        excitabo illud. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Dixerunt ergo Iudaei: Quadraginta et sex annis aedificatum est templum hoc,
+                        et tu in tribus diebus excitabis illud? </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Ille autem dicebat de Templo corporis sui. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Cum ergo resurrexisset a mortuis, recordati sunt discipuli eius, quia hoc
+                        dicebat, et crediderunt Scripturae, et sermoni, quem dixit Iesus. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Cum autem esset Ierosolymis in Pascha in die festo, multi crediderunt in
+                        nomine eius, videntes signa eius, quae faciebat. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Ipse autem Iesus non credebat semetipsum eis, eo quod ipse nosset omnes, </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>et quia opus ei non erat ut quis testimonium perhiberet de homine: ipse enim
+                        sciebat quid esset in homine. </p>
+                </div>
+            </div>
+            <div n="3" type="chapter">
+                <div n="1" type="verse">
+                    <p>Erat autem homo ex Pharisaeis, Nicodemus nomine, princeps Iudaeorum. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Hic venit ad Iesum nocte, et dixit ei: Rabbi, scimus quia a Deo venisti
+                        magister, nemo enim potest haec signa facere, quae tu facis, nisi fuerit
+                        Deus cum eo. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Amen, amen dico tibi, nisi quis renatus fuerit
+                        denuo, non potest videre regnum Dei. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Dicit ad eum Nicodemus: Quomodo potest homo nasci, cum sit senex? Numquid
+                        potest in ventrem matris suae iterato introire, et renasci? </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Respondit Iesus: Amen, amen dico tibi, nisi quis renatus fuerit ex aqua, et
+                        Spiritu Sancto, non potest introire in regnum Dei. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Quod natum est ex carne, caro est: et quod natum est ex Spiritu, spiritus
+                        est. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Non mireris quia dixi tibi: oportet vos nasci denuo. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Spiritus ubi vult spirat: et vocem eius audis, sed nescis unde veniat, aut
+                        quo vadat: sic est omnis, qui natus est ex spiritu. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Respondit Nicodemus, et dixit ei: Quomodo possunt haec fieri? </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Tu es magister in Israel, et haec ignoras? </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Amen, amen dico tibi, quia quod scimus loquimur, et quod vidimus testamur, et
+                        testimonium nostrum non accipitis. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Si terrena dixi vobis, et non creditis: quomodo, si dixero vobis caelestia,
+                        credetis? </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Et nemo ascendit in caelum, nisi qui descendit de caelo, Filius hominis, qui
+                        est in caelo. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Et sicut Moyses exaltavit serpentem in deserto; ita exaltari oportet Filium
+                        hominis: </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>ut omnis, qui credit in ipsum, non pereat, sed habeat vitam aeternam. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Sic enim Deus dilexit mundum, ut Filium suum unigenitum daret: ut omnis, qui
+                        credit in eum, non pereat, sed habeat vitam aeternam. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Non enim misit Deus Filium suum in mundum, ut iudicet mundum, sed ut salvetur
+                        mundus per ipsum. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Qui credit in eum, non iudicatur: qui autem non credit, iam iudicatus est:
+                        quia non credit in nomine unigeniti Filii Dei. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Hoc est autem iudicium: quia lux venit in mundum, et dilexerunt homines magis
+                        tenebras, quam lucem: erant enim eorum mala opera. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Omnis enim, qui male agit, odit lucem, et non venit ad lucem, ut non
+                        arguantur opera eius: </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>qui autem facit veritatem, venit ad lucem, ut manifestentur opera eius, quia
+                        in Deo sunt facta. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Post haec venit Iesus, et discipuli eius in terram Iudaeam: et illic
+                        demorabatur cum eis, et baptizabat. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Erat autem et Ioannes baptizans in aennon, iuxta Salim: quia aquae multae
+                        erant illic, et veniebant, et baptizabantur. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Nondum enim missus fuerat Ioannes in carcerem. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Facta est autem quaestio ex discipulis Ioannis cum Iudaeis de Purificatione.
+                    </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Et venerunt ad Ioannem, et dixerunt ei: Rabbi, qui erat tecum trans Iordanem,
+                        cui tu testimonium perhibuisti, ecce hic baptizat, et omnes veniunt ad eum.
+                    </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Respondit Ioannes, et dixit: Non potest homo accipere quidquam, nisi fuerit
+                        ei datum de caelo. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Ipsi vos mihi testimonium perhibetis, quod dixerim: Non sum ego Christus: sed
+                        quia missus sum ante illum. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Qui habet sponsam, sponsus est: amicus autem sponsi, qui stat, et audit eum,
+                        gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Illum oportet crescere, me autem minui. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Qui desursum venit, super omnes est. Qui est de terra, de terra est, et de
+                        terra loquitur. Qui de caelo venit, super omnes est. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Et quod vidit, et audivit, hoc testatur: et testimonium eius nemo accipit.
+                    </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Qui accepit eius testimonium, signavit quia Deus verax est. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Quem enim misit Deus, verba Dei loquitur: non enim ad mensuram dat Deus
+                        Spiritum. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Pater diligit Filium: et omnia dedit in manu eius. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Qui credit in Filium, habet vitam aeternam: qui autem incredulus est Filio,
+                        non videbit vitam, sed ira Dei manet super eum. </p>
+                </div>
+            </div>
+            <div n="4" type="chapter">
+                <div n="1" type="verse">
+                    <p>Ut ergo cognovit Iesus quia audierunt Pharisaei quod Iesus plures discipulos
+                        facit, et baptizat, quam Ioannes, </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>(quamquam Iesus non baptizaret, sed discipuli eius) </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>reliquit Iudaeam, et abiit iterum in Galilaeam. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Oportebat autem eum transire per Samariam. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Venit ergo in civitatem Samariae, quae dicitur Sichar: iuxta praedium, quod
+                        dedit Iacob Ioseph filio suo. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Erat autem ibi fons Iacob. Iesus ergo fatigatus ex itinere, sedebat sic supra
+                        fontem. Hora erat quasi sexta. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Venit mulier de Samaria haurire aquam. Dicit ei Iesus: Da mihi bibere. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>(Discipuli enim eius abierant in civitatem ut cibos emerent.) </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Dicit ergo ei mulier illa Samaritana: Quomodo tu Iudaeus cum sis, bibere a me
+                        poscis, quae sum mulier Samaritana? Non enim coutuntur Iudaei Samaritanis.
+                    </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Si scires donum Dei, et quis est, qui dicit
+                        tibi: Da mihi bibere: tu forsitan petisses ab eo, et dedisset tibi aquam
+                        vivam. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Dicit ei mulier: Domine, neque in quo haurias habes, et puteus altus est:
+                        unde ergo habes aquam vivam? </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Numquid tu maior es patre nostro Iacob, qui dedit nobis puteum, et ipse ex eo
+                        bibit, et filii eius, et pecora eius? </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Omnis, qui bibit ex aqua hac, sitiet iterum:
+                        qui autem biberit ex aqua, quam ego dabo ei, non sitiet in aeternum: </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>sed aqua, quam ego dabo ei, fiet in eo fons aquae salientis in vitam
+                        aeternam. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Dicit ad eum mulier: Domine, da mihi hanc aquam, ut non sitiam: neque veniam
+                        huc haurire. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Dicit ei Iesus: Vade, voca virum tuum, et veni huc. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Respondit mulier, et dixit: Non habeo virum. Dicit ei Iesus: Bene dixisti,
+                        quia non habeo virum: </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>quinque enim viros habuisti, et nunc, quem habes, non est tuus vir: hoc vere
+                        dixisti. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Dicit ei mulier: Domine, video quia Propheta es tu. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Patres nostri in monte hoc adoraverunt, et vos dicitis, quia Ierosolymis est
+                        locus, ubi adorare oportet. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Dicit ei Iesus: Mulier crede mihi, quia venit hora, quando neque in monte
+                        hoc, neque in Ierosolymis adorabitis Patrem. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Vos adoratis quod nescitis: nos adoramus quod scimus, quia salus ex Iudaeis
+                        est. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Sed venit hora, et nunc est, quando veri adoratores adorabunt Patrem in
+                        spiritu et veritate. Nam et Pater tales quaerit, qui adorent eum. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Spiritus est Deus: et eos qui adorant eum, in spiritu et veritate oportet
+                        adorare. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dicit ei mulier: Scio quia Messias venit, (qui dicitur Christus.) cum ergo
+                        venerit ille, nobis annunciabit omnia. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Dicit ei Iesus: Ego sum, qui loquor tecum. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Et continuo venerunt discipuli eius: et mirabantur quia cum muliere
+                        loquebatur. Nemo tamen dixit: Quid quaeris, aut Quid loqueris cum ea? </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Reliquit ergo hydriam suam mulier, et abiit in civitatem, et dicit illis
+                        hominibus: </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Venite, et videte hominem, qui dixit mihi omnia quaecumque feci: Numquid ipse
+                        est Christus? </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Exierunt ergo de civitate, et veniebant ad eum. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Interea rogabant eum discipuli, dicentes: Rabbi, manduca. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Ille autem dicit eis: Ego cibum habeo manducare, quem vos nescitis. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Dicebant ergo discipuli ad invicem: Numquid aliquis attulit ei manducare?
+                    </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Dicit eis Iesus: Meus cibus est ut faciam voluntatem eius, qui misit me, ut
+                        perficiam opus eius. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Nonne vos dicitis, Quod adhuc quattuor menses sunt, et messis venit? Ecce,
+                        dico vobis: Levate oculos vestros, et videte regiones, quia albae sunt iam
+                        ad messem. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Et qui metit, mercedem accipit, et congregat fructum in vitam aeternam: ut,
+                        et qui seminat, simul gaudeat, et qui metit. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>In hoc enim est verbum verum: quia alius est qui seminat, et alius est qui
+                        metit. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Ego misi vos metere quod vos non laborastis: alii laboraverunt, et vos in
+                        labores eorum introistis. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Ex civitate autem illa multi crediderunt in eum Samaritanorum, propter verbum
+                        mulieris testimonium perhibentis: Quia dixit mihi omnia quaecumque feci.
+                    </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Cum venissent ergo ad illum Samaritani, rogaverunt eum ut ibi maneret. Et
+                        mansit ibi duos dies. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Et multo plures crediderunt in eum propter sermonem eius. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Et mulieri dicebant: Quia iam non propter tuam loquelam credimus: ipsi enim
+                        audivimus, et scimus quia hic est vere Salvator mundi. </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Post duos autem dies exiit inde: et abiit in Galilaeam. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Ipse enim Iesus testimonium perhibuit quia Propheta in sua patria honorem non
+                        habet. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Cum ergo venisset in Galilaeam, exceperunt eum Galilaei, cum omnia vidissent
+                        quae fecerat Ierosolymis in die festo: et ipsi enim venerant ad diem festum.
+                    </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Venit ergo iterum in Cana Galilaeae, ubi fecit aquam vinum. Et erat quidam
+                        regulus, cuius filius infirmabatur Capharnaum. </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Hic cum audisset quia Iesus adveniret a Iudaea in Galilaeam, abiit ad eum, et
+                        rogabat eum ut descenderet, et sanaret filium eius: incipiebat enim mori.
+                    </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Dixit ergo Iesus ad eum: Nisi signa, et prodigia videritis, non creditis.
+                    </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Dicit ad eum regulus: Domine, descende prius quam moriatur filius meus. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Dicit ei Iesus: Vade, filius tuus vivit. Credidit homo sermoni, quem dixit ei
+                        Iesus, et ibat. </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Iam autem eo descendente, servi occurrerunt ei, et nunciaverunt dicentes,
+                        quia filius eius viveret. </p>
+                </div>
+                <div n="52" type="verse">
+                    <p>Interrogabat ergo horam ab eis, in qua melius habuerit. Et dixerunt ei: Quia
+                        heri hora septima reliquit eum febris. </p>
+                </div>
+                <div n="53" type="verse">
+                    <p>Cognovit ergo pater, quia illa hora erat, in qua dixit ei Iesus: Filius tuus
+                        vivit: et credidit ipse, et domus eius tota. </p>
+                </div>
+                <div n="54" type="verse">
+                    <p>Hoc iterum secundum signum fecit Iesus, cum venisset a Iudaea in Galilaeam.
+                    </p>
+                </div>
+            </div>
+            <div n="5" type="chapter">
+                <div n="1" type="verse">
+                    <p>Post haec erat dies festus Iudaeorum, et ascendit Iesus Ierosolymam. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Est autem Ierosolymis Probatica piscina, quae cognominatur Hebraice Bethesda,
+                        quinque porticus habens. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>In his iacebat multitudo magna languentium, caecorum, claudorum, aridorum
+                        expectantium aquae motum. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Angelus autem Domini descendebat secundum tempus in piscinam: et movebatur
+                        aqua. Et qui prior descendisset in piscinam post motionem aquae, sanus
+                        fiebat a quacumque detinebatur infirmitate. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua.
+                    </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Hunc autem cum vidisset Iesus iacentem, et cognovisset quia iam multum tempus
+                        haberet, dicit ei: Vis sanus fieri? </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Respondit ei languidus: Domine, hominem non habeo, ut cum turbata fuerit
+                        aqua, mittat me in piscinam: dum venio enim ego, alius ante me descendit.
+                    </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Dicit ei Iesus: Surge, tolle grabatum tuum, et ambula: </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Et statim sanus factus est homo ille: et sustulit grabatum suum, et
+                        ambulabat. Erat autem Sabbatum in die illo. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dicebant ergo Iudaei illi, qui sanatus fuerat: Sabbatum est, non licet tibi
+                        tollere grabatum tuum. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Respondit eis: Qui me sanum fecit, ille mihi dixit: Tolle grabatum tuum, et
+                        ambula. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Interrogaverunt ergo eum: Quis est ille homo, qui dixit tibi: Tolle grabatum
+                        tuum, et ambula? </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Is autem, qui sanus fuerat effectus, nesciebat quis esset. Iesus enim
+                        declinavit a turba constituta in loco. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Postea invenit eum Iesus in templo, et dixit illi: Ecce sanus factus es: iam
+                        noli peccare, ne deterius tibi aliquid contingat. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Abiit ille homo, et nunciavit Iudaeis quia Iesus esset, qui fecit eum sanum.
+                    </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Propterea persequebantur Iudaei Iesum, quia haec faciebat in sabbato. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Iesus autem respondit eis: Pater meus usque modo operatur, et ego operor.
+                    </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Propterea ergo magis quaerebant eum Iudaei interficere: quia non solum
+                        solvebat Sabbatum, sed et Patrem suum dicebat Deum, aequalem se faciens Deo.
+                    </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Respondit itaque Iesus, et dixit eis: Amen, amen dico vobis: non potest
+                        Filius a se facere quidquam, nisi quod viderit Patrem facientem: quaecumque
+                        enim ille fecerit, haec et Filius similiter facit. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Pater enim diligit Filium, et omnia demonstrat ei, quae ipse facit: et maiora
+                        his demonstrabit ei opera, ut vos miremini. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Sicut enim Pater suscitat mortuos, et vivificat: sic et Filius, quos vult,
+                        vivificat. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Neque enim Pater iudicat quemquam: sed omne iudicium dedit Filio, </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>ut omnes honorificent Filium, sicut honorificant Patrem: qui non honorificat
+                        Filium, non honorificat Patrem, qui misit illum. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Amen, amen dico vobis, quia qui verbum meum audit, et credit ei, qui misit
+                        me, habet vitam aeternam, et in iudicium non venit, sed transiit a morte in
+                        vitam. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Amen, amen dico vobis, quia venit hora, et nunc est, quando mortui audient
+                        vocem Filii Dei: et qui audierint, vivent. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Sicut enim Pater habet vitam in semetipso: sic dedit et Filio habere vitam in
+                        semetipso: </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>et potestatem dedit ei iudicium facere, quia Filius hominis est. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Nolite mirari hoc, quia venit hora, in qua omnes, qui in monumentis sunt,
+                        audient vocem Filii Dei: </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>et procedent qui bona fecerunt, in resurrectionem vitae: qui vero mala
+                        egerunt, in resurrectionem iudicii. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Non possum ego a meipso facere quidquam. Sicut audio, iudico: et iudicium
+                        meum iustum est: quia non quaero voluntatem meam, sed voluntatem eius, qui
+                        misit me. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Si ego testimonium perhibeo de meipso, testimonium meum non est verum. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Alius est, qui testimonium perhibet de me: et scio quia verum est
+                        testimonium, quod perhibet de me. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Vos misistis ad Ioannem: et testimonium perhibuit veritati. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Ego autem non ab homine testimonium accipio: sed haec dico ut vos salvi
+                        sitis. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Ille erat lucerna ardens, et lucens. Vos autem voluistis ad horam exultare in
+                        luce eius. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Ego autem habeo testimonium maius Ioanne. Opera enim, quae dedit mihi Pater
+                        ut perficiam ea: ipsa opera, quae ego facio, testimonium perhibent de me,
+                        quia Pater misit me: </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>et qui misit me Pater, ipse testimonium perhibuit de me: neque vocem eius
+                        umquam audistis, neque speciem eius vidistis. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Et verbum eius non habetis in vobis manens: quia quem misit ille, huic vos
+                        non creditis. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Scrutamini Scripturas, quia vos putatis in ipsis vitam aeternam habere: et
+                        illae sunt, quae testimonium perhibent de me: </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>et non vultis venire ad me ut vitam habeatis. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Claritatem ab hominibus non accipio. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Sed cognovi vos, quia dilectionem Dei non habetis in vobis. </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Ego veni in nomine Patris mei, et non accipitis me: si alius venerit in
+                        nomine suo, illum accipietis. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Quomodo vos potestis credere, qui gloriam ab invicem accipitis: et gloriam,
+                        quae a solo Deo est, non quaeritis? </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Nolite putare quia ego accusaturus sim vos apud Patrem. Est qui accusat vos
+                        Moyses, in quo vos speratis. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Si enim crederetis Moysi, crederetis forsitan et mihi: de me enim ille
+                        scripsit. </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Si autem illius litteris non creditis: quomodo verbis meis credetis? </p>
+                </div>
+            </div>
+            <div n="6" type="chapter">
+                <div n="1" type="verse">
+                    <p>Post haec abiit Iesus trans mare Galilaeae, quod est Tiberiadis: </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>et sequebatur eum multitudo magna, quia videbant signa, quae faciebat super
+                        his, qui infirmabantur. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Subiit ergo in montem Iesus: et ibi sedebat cum discipulis suis. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Erat autem proximum Pascha dies festus Iudaeorum. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Cum sublevasset ergo oculos Iesus, et vidisset quia multitudo maxima venit ad
+                        eum, dixit ad Philippum: Unde ememus panes, ut manducent hi? </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Hoc autem dicebat tentans eum: ipse enim sciebat quid esset facturus. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Respondit ei Philippus: Ducentorum denariorum panes non sufficiunt eis, ut
+                        unusquisque modicum quid accipiat. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Dicit ei unus ex discipulis eius, Andreas frater Simonis Petri: </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Est puer unus hic, qui habet quinque panes hordeaceos, et duos pisces: sed
+                        haec quid sunt inter tantos? </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dixit ergo Iesus: Facite homines discumbere. Erat autem foenum multum in
+                        loco. Discumberunt ergo viri, numero quasi quinque millia. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Accepit ergo Iesus panes: et cum gratias egisset, distribuit discumbentibus:
+                        similiter et ex piscibus quantum volebant. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Ut autem impleti sunt, dixit discipulis suis: Colligite quae superaverunt
+                        fragmenta, ne pereant. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Collegerunt ergo, et impleverunt duodecim cophinos fragmentorum ex quinque
+                        panibus hordeaceis, quae superfuerunt his, qui manducaverant. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Illi ergo homines cum vidissent quod Iesus fecerat signum, dicebant: Quia hic
+                        est vere propheta, qui venturus est in mundum. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Iesus ergo cum cognovisset quia venturi essent ut raperent eum, et facerent
+                        eum regem, fugit iterum in montem ipse solus. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Ut autem sero factum est, descenderunt discipuli eius ad mare. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Et cum ascendissent navim, venerunt trans mare in Capharnaum: et tenebrae iam
+                        factae erant: et non venerat ad eos Iesus. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Mare autem, vento magno flante, exsurgebat. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Cum remigassent ergo quasi stadia viginti quinque aut triginta, vident Iesum
+                        ambulantem supra mare, et proximum navi fieri, et timuerunt. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Ille autem dicit eis: Ego sum, nolite timere. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Voluerunt ergo accipere eum in navim: et statim navis fuit ad terram, in quam
+                        ibant. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Altera die, turba, quae stabat trans mare, vidit quia navicula alia non erat
+                        ibi nisi una, et quia non introisset cum discipulis suis Iesus in navim, sed
+                        soli discipuli eius abiissent: </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>aliae vero supervenerunt naves a Tiberiade iuxta locum ubi manducaverunt
+                        panem, gratias agente Domino. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Cum ergo vidisset turba quia Iesus non esset ibi, neque discipuli eius,
+                        ascenderunt in naviculas, et venerunt Capharnaum quaerentes Iesum. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Et cum invenissent eum trans mare, dixerunt ei: Rabbi, quando huc venisti?
+                    </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Respondit eis Iesus, et dixit: Amen, amen dico vobis: quaeritis me non quia
+                        vidistis signa, sed quia manducastis ex panibus, et saturati estis. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Operamini non cibum, qui perit, sed qui permanet in vitam aeternam, quem
+                        Filius hominis dabit vobis. Hunc enim Pater signavit Deus. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Dixerunt ergo ad eum: Quid faciemus ut operemur opera Dei? </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Respondit Iesus, et dixit eis: Hoc est opus Dei, ut credatis in eum quem
+                        misit ille. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Dixerunt ergo ei: Quod ergo tu facis signum ut videamus, et credamus tibi?
+                        Quid operaris? </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Patres nostri manducaverunt manna in deserto, sicut scriptum est: Panem de
+                        caelo dedit eis manducare. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Dixit ergo eis Iesus: Amen, amen dico vobis: Non Moyses dedit vobis panem de
+                        caelo, sed Pater meus dat vobis panem de caelo verum. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Panis enim Dei est, qui de caelo descendit, et dat vitam mundo. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Dixerunt ergo ad eum: Domine, semper da nobis panem hunc. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Dixit autem eis Iesus: Ego sum panis vitae: qui venit ad me, non esuriet, et
+                        qui credit in me, non sitiet umquam. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Sed dixi vobis quia et vidistis me, et non creditis. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Omne quod dat mihi Pater, ad me veniet: et eum, qui venit ad me, non eiiciam
+                        foras: </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>quia descendi de caelo, non ut faciam voluntatem meam, sed voluntatem eius,
+                        qui misit me. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Haec est autem voluntas eius, qui misit me, Patris: ut omne, quod dedit mihi,
+                        non perdam ex eo, sed resuscitem illud in novissimo die. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Haec est autem voluntas Patris mei, qui misit me: ut omnis, qui videt Filium,
+                        et credit in eum, habeat vitam aeternam, et ego resuscitabo eum in novissimo
+                        die. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Murmurabant ergo Iudaei de illo, quia dixisset: Ego sum panis vivus, qui de
+                        caelo descendi, </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>et dicebant: Nonne hic est Iesus filius Ioseph, cuius nos novimus patrem, et
+                        matrem? Quomodo ergo dicit hic: Quia de caelo descendi? </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Respondit ergo Iesus, et dixit eis: Nolite murmurare in invicem: </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>nemo potest venire ad me, nisi Pater, qui misit me, traxerit eum: et ego
+                        resuscitabo eum in novissimo die. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Est scriptum in Prophetis: Et erunt omnes docibiles Dei. Omnis, qui audivit a
+                        Patre, et didicit, venit ad me. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem.
+                    </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Amen, amen dico vobis: Qui credit in me, habet vitam aeternam. </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Ego sum panis vitae. </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Patres vestri manducaverunt manna in deserto, et mortui sunt. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Hic est panis de caelo descendens: ut si quis ex ipso manducaverit, non
+                        moriatur. </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Ego sum panis vivus, qui de caelo descendi. </p>
+                </div>
+                <div n="52" type="verse">
+                    <p>Si quis manducaverit ex hoc pane, vivet in aeternum: et panis, quem ego dabo,
+                        caro mea est pro mundi vita. </p>
+                </div>
+                <div n="53" type="verse">
+                    <p>Litigabant ergo Iudaei ad invicem, dicentes: Quomodo potest hic nobis carnem
+                        suam dare ad manducandum? </p>
+                </div>
+                <div n="54" type="verse">
+                    <p>Dixit ergo eis Iesus: Amen, amen dico vobis: Nisi manducaveritis carnem Filii
+                        hominis, et biberitis eius sanguinem, non habebitis vitam in vobis. </p>
+                </div>
+                <div n="55" type="verse">
+                    <p>Qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam: et
+                        ego resuscitabo eum in novissimo die. </p>
+                </div>
+                <div n="56" type="verse">
+                    <p>Caro enim mea, vere est cibus: et sanguis meus, vere est potus. </p>
+                </div>
+                <div n="57" type="verse">
+                    <p>Qui manducat meam carnem, et bibit meum sanguinem, in me manet, et ego in
+                        illo. </p>
+                </div>
+                <div n="58" type="verse">
+                    <p>Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui manducat me,
+                        et ipse vivet propter me. </p>
+                </div>
+                <div n="59" type="verse">
+                    <p>Hic est panis, qui de caelo descendit. Non sicut manducaverunt patres vestri
+                        manna, et mortui sunt. Qui manducat hunc panem, vivet in aeternum. </p>
+                </div>
+                <div n="60" type="verse">
+                    <p>Haec dixit in synagoga docens in Capharnaum. </p>
+                </div>
+                <div n="61" type="verse">
+                    <p>Multi ergo audientes ex discipulis eius, dixerunt: Durus est hic sermo, et
+                        quis potest eum audire? </p>
+                </div>
+                <div n="62" type="verse">
+                    <p>Sciens autem Iesus apud semetipsum quia murmurarent de hoc discipuli eius,
+                        dixit eis: Hoc vos scandalizat? </p>
+                </div>
+                <div n="63" type="verse">
+                    <p>Si ergo videritis Filium hominis ascendentem ubi erat prius? </p>
+                </div>
+                <div n="64" type="verse">
+                    <p>Spiritus est, qui vivificat: caro non prodest quidquam. Verba, quae ego
+                        locutus sum vobis, spiritus et vita sunt. </p>
+                </div>
+                <div n="65" type="verse">
+                    <p>Sed sunt quidam ex vobis, qui non credunt. Sciebat enim ab initio Iesus qui
+                        essent non credentes, et quis traditurus esset eum. </p>
+                </div>
+                <div n="66" type="verse">
+                    <p>Et dicebat: Propterea dixi vobis, quia nemo potest venire ad me, nisi fuerit
+                        ei datum a Patre meo. </p>
+                </div>
+                <div n="67" type="verse">
+                    <p>Ex hoc multi discipulorum eius abierunt retro: et iam non cum illo
+                        ambulabant. </p>
+                </div>
+                <div n="68" type="verse">
+                    <p>Dixit ergo Iesus ad duodecim: Numquid et vos vultis abire? </p>
+                </div>
+                <div n="69" type="verse">
+                    <p>Respondit ergo ei Simon Petrus: Domine, ad quem ibimus? Verba vitae aeternae
+                        habes. </p>
+                </div>
+                <div n="70" type="verse">
+                    <p>Et nos credidimus, et cognovimus quia tu es Christus Filius Dei. </p>
+                </div>
+                <div n="71" type="verse">
+                    <p>Respondit eis Iesus: Nonne ego vos duodecim elegi: et ex vobis unus diabolus
+                        est? </p>
+                </div>
+                <div n="72" type="verse">
+                    <p>Dicebat autem Iudam Simonis Iscariotem: hic enim erat traditurus eum, cum
+                        esset unus ex duodecim. </p>
+                </div>
+            </div>
+            <div n="7" type="chapter">
+                <div n="1" type="verse">
+                    <p>Post haec autem ambulabat Iesus in Galilaeam, non enim volebat in Iudaeam
+                        ambulare: quia quaerebant eum Iudaei interficere. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Erat autem in proximo dies festus Iudaeorum, Scenopegia. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Dixerunt autem ad eum fratres eius: Transi hinc, et vade in Iudaeam, ut et
+                        discipuli tui videant opera tua, quae facis. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Nemo quippe in occulto quid facit, et quaerit ipse in palam esse: si haec
+                        facis, manifesta teipsum mundo. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Neque enim fratres eius credebant in eum. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Dicit ergo eis Iesus: Tempus meum nondum advenit: tempus autem vestrum semper
+                        est paratum. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Non potest mundus odisse vos: me autem odit: quia ego testimonium perhibeo de
+                        illo quod opera eius mala sunt. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Vos ascendite ad diem festum hunc, ego autem non ascendo ad diem festum
+                        istum: quia meum tempus nondum impletum est. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Haec cum dixisset, ipse mansit in Galilaea. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Ut autem ascenderunt fratres eius, tunc et ipse ascendit ad diem festum non
+                        manifeste, sed quasi in occulto. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Iudaei ergo quaerebant eum in die festo, et dicebant: Ubi est ille? </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Et murmur multum erat in turba de eo. Quidam enim dicebant: Quia bonus est.
+                        Alii autem dicebant: Non, sed seducit turbas. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Nemo tamen palam loquebatur de illo propter metum Iudaeorum. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Iam autem die festo mediante, ascendit Iesus in templum, et docebat. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Et mirabantur Iudaei, dicentes: Quomodo hic litteras scit, cum non didicerit?
+                    </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Respondit eis Iesus, et dixit: Mea doctrina non est mea, sed eius, qui misit
+                        me. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Si quis voluerit voluntatem eius facere: cognoscet de doctrina, utrum ex Deo
+                        sit, an ego a me ipso loquar. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Qui a semetipso loquitur, gloriam propriam quaerit. Qui autem quaerit gloriam
+                        eius, qui misit eum, hic verax est, et iniustitia in illo non est. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Nonne Moyses dedit vobis legem: et nemo ex vobis facit legem? </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Quid me quaeritis interficere? Respondit turba, et dixit: Daemonium habes:
+                        quis te quaeret interficere? </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Respondit Iesus, et dixit eis: Unum opus feci, et omnes miramini: </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Propterea Moyses dedit vobis circumcisionem: (non quia ex Moyse est, sed ex
+                        patribus) et in Sabbato circumciditis hominem. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Si circumcisionem accipit homo in Sabbato, ut non solvatur lex Moysi: mihi
+                        indignamini quia totum hominem sanum feci in Sabbato? </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Nolite iudicare secundum faciem, sed iustum iudicium iudicate. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dicebant ergo quidam ex Ierosolymis: Nonne hic est, quem quaerunt
+                        interficere? </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Et ecce palam loquitur, et nihil ei dicunt. Numquid vere cognoverunt
+                        principes quia hic est Christus? </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Sed hunc scimus unde sit: Christus autem cum venerit, nemo scit unde sit.
+                    </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Clamabat ergo Iesus in templo docens, et dicens: Et me scitis, et unde sim
+                        scitis: et a me ipso non veni, sed est verus, qui misit me, quem vos
+                        nescitis. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Ego scio eum: quia ab ipso sum, et ipse me misit. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Quaerebant ergo eum apprehendere: et nemo misit in illum manus, quia nondum
+                        venerat hora eius. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>De turba autem multi crediderunt in eum, et dicebant: Christus cum venerit,
+                        numquid plura signa faciet quam quae hic facit? </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Audierunt Pharisaei turbam murmurantem de illo haec: et miserunt principes,
+                        et Pharisaei ministros ut apprehenderent eum. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Dixit ergo eis Iesus: Adhuc modicum tempus vobiscum sum: et vado ad eum, qui
+                        me misit. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Quaeretis me, et non invenietis: et ubi ego sum, vos non potestis venire.
+                    </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Dixerunt ergo Iudaei ad semetipsos: Quo hic iturus est, quia non inveniemus
+                        eum? Numquid in dispersionem Gentium iturus est, et docturus Gentes? </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Quis est hic sermo, quem dixit: Quaeretis me, et non invenietis: et ubi sum
+                        ego, vos non potestis venire? </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>In novissimo autem die magno festivitatis stabat Iesus, et clamabat, dicens:
+                        Si quis sitit, veniat ad me, et bibat. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Qui credit in me, sicut dicit Scriptura, flumina de ventre eius fluent aquae
+                        vivae. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Hoc autem dixit de Spiritu, quem accepturi erant credentes in eum: nondum
+                        enim erat Spiritus datus, quia Iesus nondum erat glorificatus. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Ex illa ergo turba cum audissent hos sermones eius, dicebant: Hic est vere
+                        Propheta. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Alii dicebant: Hic est Christus. Quidam autem dicebant: Numquid a Galilaea
+                        venit Christus? </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Nonne Scriptura dicit: Quia ex semine David, et de Bethlehem castello, ubi
+                        erat David, venit Christus? </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Dissensio itaque facta est in turba propter eum. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Quidam autem ex ipsis volebant apprehendere eum: sed nemo misit super eum
+                        manus. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Venerunt ergo ministri ad Pontifices, et Pharisaeos. Et dixerunt eis illi:
+                        Quare non adduxistis illum? </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Responderunt ministri: Numquam sic locutus est homo, sicut hic homo. </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Responderunt ergo eis Pharisaei: Numquid et vos seducti estis? </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Numquid ex principibus aliquis credidit in eum, aut ex Pharisaeis? </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Sed turba haec, quae non novit legem, maledicti sunt. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Dixit Nicodemus ad eos, ille, qui venit ad eum nocte, qui unus erat ex ipsis:
+                    </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Numquid lex nostra iudicat hominem, nisi prius audierit ab ipso, et
+                        cognoverit quid faciat? </p>
+                </div>
+                <div n="52" type="verse">
+                    <p>Responderunt, et dixerunt ei: Numquid et tu Galilaeus es? Scrutare
+                        Scripturas, et vide quia a Galilaea propheta non surgit. </p>
+                </div>
+                <div n="53" type="verse">
+                    <p>Et reversi sunt unusquisque in domum suam. </p>
+                </div>
+            </div>
+            <div n="8" type="chapter">
+                <div n="1" type="verse">
+                    <p>Iesus autem perrexit in montem Oliveti: </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>et diluculo iterum venit in templum, et omnis populus venit ad eum, et sedens
+                        docebat eos. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Adducunt autem scribae, et Pharisaei mulierem in adulterio deprehensam: et
+                        statuerunt eam in medio, </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>et dixerunt ei: Magister, haec mulier modo deprehensa est in adulterio. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>In lege autem Moyses mandavit nobis huiusmodi lapidare. Tu ergo quid dicis?
+                    </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Hoc autem dicebant tentantes eum, ut possent accusare eum. Iesus autem
+                        inclinans se deorsum, digito scribebat in terra. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Cum ergo perseverarent interrogantes eum, erexit se, et dixit eis: Qui sine
+                        peccato est vestrum, primus in illam lapidem mittat. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Et iterum se inclinans, scribebat in terra. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Audientes autem unus post unum exibant, incipientes a senioribus: et remansit
+                        solus Iesus, et mulier in medio stans. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Erigens autem se Iesus, dixit ei: Mulier, ubi sunt, qui te accusabant? Nemo
+                        te condemnavit? </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Quae dixit: Nemo, Domine. Dixit autem Iesus: Nec ego te condemnabo: Vade, et
+                        iam amplius noli peccare. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Iterum ergo locutus est eis Iesus, dicens: Ego sum lux mundi: qui sequitur
+                        me, non ambulat in tenebris, sed habebit lumen vitae. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Dixerunt ergo ei Pharisaei: Tu de teipso testimonium perhibes: testimonium
+                        tuum non est verum. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Respondit Iesus, et dixit eis: Et si ego testimonium perhibeo de meipso,
+                        verum est testimonium meum: quia scio unde veni, et quo vado: vos autem
+                        nescitis unde venio, aut quo vado. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Vos secundum carnem iudicatis: ego non iudico quemquam: </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>et si iudico ego, iudicium meum verum est, quia solus non sum: sed ego, et
+                        qui misit me, Pater. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Et in lege vestra scriptum est, quia duorum hominum testimonium verum est.
+                    </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Ego sum, qui testimonium perhibeo de me ipso: et testimonium perhibet de me,
+                        qui misit me, Pater. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Dicebant ergo ei: Ubi est Pater tuus? Respondit Iesus: Neque me scitis, neque
+                        Patrem meum: si me sciretis, forsitan et Patrem meum sciretis. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Haec verba locutus est Iesus in gazophylacio, docens in templo: et nemo
+                        apprehendit eum, quia necdum venerat hora eius. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Dixit ergo iterum eis Iesus: Ego vado, et quaeretis me, et in peccato vestro
+                        moriemini. Quo ego vado, vos non potestis venire. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Dicebant ergo Iudaei: Numquid interficiet semetipsum, quia dixit: Quo ego
+                        vado, vos non potestis venire? </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Et dicebat eis: Vos de deorsum estis, ego de supernis sum. Vos de mundo hoc
+                        estis, ego non sum de hoc mundo. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Dixi ergo vobis quia moriemini in peccatis vestris: si enim non credideritis
+                        quia ego sum, moriemini in peccato vestro. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dicebant ergo ei: Tu quis es? Dixit eis Iesus: Principium, qui et loquor
+                        vobis. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Multa habeo de vobis loqui, et iudicare. Sed qui me misit, verax est: et ego
+                        quae audivi ab eo, haec loquor in mundo. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Et non cognoverunt quia Patrem eius dicebat Deum. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Dixit ergo eis Iesus: Cum exaltaveritis Filium hominis, tunc cognoscetis quia
+                        ego sum, et a meipso facio nihil, sed sicut docuit me Pater, haec loquor:
+                    </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>et qui me misit, mecum est, et non reliquit me solum: quia ego quae placita
+                        sunt ei, facio semper. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Haec illo loquente, multi crediderunt in eum. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Dicebat ergo Iesus ad eos, qui crediderunt ei, Iudaeos: Si vos manseritis in
+                        sermone meo, vere discipuli mei eritis: </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>et cognoscetis veritatem, et veritas liberabit vos. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Responderunt ei: Semen Abrahae sumus, et nemini servivimus umquam: quomodo tu
+                        dicis: Liberi eritis? </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Respondit eis Iesus: Amen, amen dico vobis: quia omnis, qui facit peccatum,
+                        servus est peccati. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Servus autem non manet in domo in aeternum: Filius autem manet in aeternum.
+                    </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Si ergo vos Filius liberaverit, vere liberi eritis. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Scio quia filii Abrahae estis: sed quaeritis me interficere, quia sermo meus
+                        non capit in vobis. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Ego quod vidi apud Patrem meum, loquor: et vos quae vidistis apud patrem
+                        vestrum, facitis. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Responderunt, et dixerunt ei: Pater noster Abraham est. Dicit eis Iesus: Si
+                        filii Abrahae estis, opera Abrahae facite. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Nunc autem quaeritis me interficere, hominem, qui veritatem vobis locutus
+                        sum, quam audivi a Deo: hoc Abraham non fecit. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Vos facitis opera patris vestri. Dixerunt itaque ei: Nos ex fornicatione non
+                        sumus nati: unum patrem habemus Deum. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Dixit ergo eis Iesus: Si Deus pater vester esset: diligeretis utique et me.
+                        Ego enim ex Deo processi, et veni: neque enim a me ipso veni, sed ille me
+                        misit. </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Quare loquelam meam non cognoscitis? Quia non potestis audire sermonem meum.
+                    </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Vos ex patre diabolo estis: et desideria patris vestri vultis facere. Ille
+                        homicida erat ab initio, et in veritate non stetit: quia non est veritas in
+                        eo: cum loquitur mendacium, ex propriis loquitur, quia mendax est, et pater
+                        eius. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Ego autem si veritatem dico, non creditis mihi. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Quis ex vobis arguet me de peccato? Si veritatem dico vobis, quare non
+                        creditis mihi? </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Qui ex Deo est, verba Dei audit. Propterea vos non auditis, quia ex Deo non
+                        estis. </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Responderunt ergo Iudaei, et dixerunt ei: Nonne bene dicimus nos quia
+                        Samaritanus es tu, et daemonium habes? </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Respondit Iesus: Ego daemonium non habeo: sed honorifico Patrem meum, et vos
+                        inhonorastis me. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Ego autem non quaero gloriam meam: est qui quaerat, et iudicet. </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Amen, amen dico vobis: si quis sermonem meum servaverit, mortem non videbit
+                        in aeternum. </p>
+                </div>
+                <div n="52" type="verse">
+                    <p>Dixerunt ergo Iudaei: Nunc cognovimus quia daemonium habes. Abraham mortuus
+                        est, et Prophetae: et tu dicis: Si quis sermonem meum servaverit, non
+                        gustabit mortem in aeternum. </p>
+                </div>
+                <div n="53" type="verse">
+                    <p>Numquid tu maior es patre nostro Abraham, qui mortuus est? et Prophetae
+                        mortui sunt. Quem te ipsum facis? </p>
+                </div>
+                <div n="54" type="verse">
+                    <p>Respondit Iesus: Si ego glorifico me ipsum, gloria mea nihil est: est Pater
+                        meus, qui glorificat me, quem vos dicitis quia Deus vester est. </p>
+                </div>
+                <div n="55" type="verse">
+                    <p>Et non cognovistis eum: ego autem novi eum: Et si dixero quia non scio eum,
+                        ero similis vobis, mendax. Sed scio eum, et sermonem eius servo. </p>
+                </div>
+                <div n="56" type="verse">
+                    <p>Abraham pater vester exultavit ut videret diem meum: vidit, et gavisus est.
+                    </p>
+                </div>
+                <div n="57" type="verse">
+                    <p>Dixerunt ergo Iudaei ad eum: Quinquaginta annos nondum habes, et Abraham
+                        vidisti? </p>
+                </div>
+                <div n="58" type="verse">
+                    <p>Dixit eis Iesus: Amen, amen dico vobis, antequam Abraham fieret, ego sum.
+                    </p>
+                </div>
+                <div n="59" type="verse">
+                    <p>Tulerunt ergo lapides, ut iacerent in eum: Iesus autem abscondit se, et
+                        exivit de templo. </p>
+                </div>
+            </div>
+            <div n="9" type="chapter">
+                <div n="1" type="verse">
+                    <p>Et praeteriens Iesus vidit hominem caecum a nativitate: </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>et interrogaverunt eum discipuli eius: Rabbi, quis peccavit, hic, aut
+                        parentes eius, ut caecus nasceretur? </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Respondit Iesus: Neque hic peccavit, neque parentes eius: sed ut
+                        manifestentur opera Dei in illo. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Me oportet operari opera eius, qui misit me, donec dies est: venit nox,
+                        quando nemo potest operari. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Quamdiu sum in mundo, lux sum mundi. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Haec cum dixisset, expuit in terram, et fecit lutum ex sputo, et linivit
+                        lutum super oculos eius, </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>et dixit ei: Vade, lava in natatoria Siloe (quod interpretatur Missus.) Abiit
+                        ergo, et lavit, et venit videns. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Itaque vicini, et qui viderant eum prius quia mendicus erat, dicebant: Nonne
+                        hic est, qui sedebat, et mendicabat? Alii dicebant: Quia hic est. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Alii autem: Nequaquam, sed similis est ei. Ille vero dicebat: Quia ego sum.
+                    </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dicebant ergo ei: Quomodo aperti sunt tibi oculi? </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Respondit: Ille homo, qui dicitur Iesus, lutum fecit: et unxit oculos meos,
+                        et dixit mihi: Vade ad natatoria Siloe, et lava. Et abii, et lavi, et video.
+                    </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Et dixerunt ei: Ubi est ille? Ait: Nescio. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Adducunt eum ad Pharisaeos, qui caecus fuerat. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Erat autem Sabbatum quando lutum fecit Iesus, et aperuit oculos eius. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Iterum ergo interrogabant eum Pharisaei quomodo vidisset. Ille autem dixit
+                        eis: Lutum mihi posuit super oculos, et lavi, et video. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Dicebant ergo ex Pharisaeis quidam: Non est hic homo a Deo, qui Sabbatum non
+                        custodit. Alii autem dicebant: Quomodo potest homo peccator haec signa
+                        facere? Et schisma erat inter eos. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Dicunt ergo caeco iterum: Tu quid dicis de illo, qui aperuit oculos tuos?
+                        Ille autem dixit: Quia Propheta est. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Non crediderunt ergo Iudaei de illo, quia caecus fuisset et vidisset, donec
+                        vocaverunt parentes eius, qui viderat: </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>et interrogaverunt eos, dicentes: Hic est filius vester, quem vos dicitis
+                        quia caecus natus est? Quomodo ergo nunc videt? </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Responderunt eis parentes eius, et dixerunt: Scimus quia hic est filius
+                        noster, et quia caecus natus est: </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>quomodo autem nunc videat, nescimus: aut quis eius aperuit oculos, nos
+                        nescimus: ipsum interrogate: aetatem habet, ipse de se loquatur. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Haec dixerunt parentes eius, quoniam timebant Iudaeos: iam enim
+                        conspiraverunt Iudaei, ut si quis eum confiteretur esse Christum, extra
+                        synagogam fieret. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Propterea parentes eius dixerunt: Quia aetatem habet, ipsum interrogate. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Vocaverunt ergo rursum hominem, qui fuerat caecus, et dixerunt ei: Da gloriam
+                        Deo. Nos scimus quia hic homo peccator est. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dixit ergo eis ille: Si peccator est, nescio: unum scio, quia caecus cum
+                        essem, modo video. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Dixerunt ergo illi: Quid fecit tibi? Quomodo aperuit tibi oculos? </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Respondit eis: Dixi vobis iam, et audistis: quod iterum vultis audire?
+                        Numquid et vos vultis discipuli eius fieri? </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Maledixerunt ergo ei, et dixerunt: Tu discipulus illius sis: nos autem Moysi
+                        discipuli sumus. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Nos scimus quia Moysi locutus est Deus: hunc autem nescimus unde sit. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Respondit ille homo, et dixit eis: In hoc enim mirabile est quia vos nescitis
+                        unde sit, et aperuit meos oculos: </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>scimus autem quia peccatores Deus non audit: sed si quis Dei cultor est, et
+                        voluntatem eius facit, hunc exaudit. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>A saeculo non est auditum quia quis aperuit oculos caeci nati. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Nisi esset hic a Deo, non poterat facere quidquam. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Responderunt, et dixerunt ei: In peccatis natus es totus, et tu doces nos? Et
+                        eiecerunt eum foras. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Audivit Iesus quia eiecerunt eum foras: et cum invenisset eum, dixit ei: Tu
+                        credis in Filium Dei? </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Respondit ille, et dixit: Quis est, Domine, ut credam in eum? </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Et dixit ei Iesus: Et vidisti eum, et qui loquitur tecum, ipse est. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>At ille ait: Credo Domine. Et procidens adoravit eum. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Et dixit Iesus: In iudicium ego in hunc mundum veni: ut qui non vident
+                        videant, et qui vident caeci fiant. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Et audierunt quidam ex Pharisaeis, qui cum ipso erant, et dixerunt ei:
+                        Numquid et nos caeci sumus? </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Dixit eis Iesus: Si caeci essetis, non haberetis peccatum. Nunc vero dicitis:
+                        Quia videmus. Peccatum vestrum manet. </p>
+                </div>
+            </div>
+            <div n="10" type="chapter">
+                <div n="1" type="verse">
+                    <p>Amen, amen dico vobis: qui non intrat per ostium in ovile ovium, sed ascendit
+                        aliunde: ille fur est, et latro. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Qui autem intrat per ostium, pastor est ovium. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Huic ostiarius aperit, et oves vocem eius audiunt, et proprias ovas vocat
+                        nominatim, et educit eas. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Et cum proprias oves emiserit, ante eas vadit: et oves illum sequuntur, quia
+                        sciunt vocem eius. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Alienum autem non sequuntur, sed fugiunt ab eo: quia non noverunt vocem
+                        alienorum. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Hoc proverbium dixit eis Iesus. Illi autem non cognoverunt quid loqueretur
+                        eis. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Dixit ergo eis iterum Iesus: Amen, amen dico vobis, quia ego sum ostium
+                        ovium. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Omnes quotquot venerunt, fures sunt, et latrones, et non audierunt eos oves.
+                    </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Ego sum ostium. Per me si quis introierit, salvabitur: et ingredietur, et
+                        egredietur, et pascua inveniet. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Fur non venit nisi ut furetur, et mactet, et perdat. Ego veni ut vitam
+                        habeant, et abundantius habeant. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus suis. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Mercenarius autem, et qui non est pastor, cuius non sunt oves propriae, videt
+                        lupum venientem, et dimittit oves, et fugit: et lupus rapit, et dispergit
+                        oves: </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>mercenarius autem fugit, quia mercenarius est, et non pertinet ad eum de
+                        ovibus. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Ego sum pastor bonus: et cognosco meas, et cognoscunt me meae. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Sicut novit me Pater, et ego agnosco Patrem: et animam meam pono pro ovibus
+                        meis. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Et alias oves habeo, quae non sunt ex hoc ovili: et illas oportet me
+                        adducere, et vocem meam audient, et fiet unum ovile, et unus pastor. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Propterea me diligit Pater: quia ego pono animam meam, ut iterum sumam eam.
+                    </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Nemo tollit eam a me: sed ego pono eam a meipso, et potestatem habeo ponendi
+                        eam: et potestatem habeo iterum sumendi eam: Hoc mandatum accepi a Patre
+                        meo. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Dissensio iterum facta est inter Iudaeos propter sermones hos. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Dicebant autem multi ex ipsis: Daemonium habet, et insanit: quid eum auditis?
+                    </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Alii dicebant: Haec verba non sunt daemonium habentis: numquid daemonium
+                        potest caecorum oculos aperire? </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Facta sunt autem Encaenia in Ierosolymis: et hiems erat. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Et ambulabat Iesus in templo, in porticu Salomonis. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Circumdederunt ergo eum Iudaei, et dicebant ei: Quousque animam nostram
+                        tollis? Si tu es Christus, dic nobis palam. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Respondit eis Iesus: Loquor vobis, et non creditis. Opera, quae ego facio in
+                        nomine Patris mei, haec testimonium perhibent de me: </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>sed vos non creditis, quia non estis ex ovibus meis. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Oves meae vocem meam audiunt: et ego cognosco eas, et sequuntur me: </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>et ego vitam aeternam do eis: et non peribunt in aeternum, et non rapiet eas
+                        quisquam de manu mea. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Pater meus quod dedit mihi, maius omnibus est: et nemo potest rapere de manu
+                        Patris mei. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Ego, et Pater unum sumus. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Sustulerunt ergo lapides Iudaei, ut lapidarent eum. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Respondit eis Iesus: Multa bona opera ostendi vobis ex Patre meo, propter
+                        quod eorum opus me lapidatis? </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Responderunt ei Iudaei: De bono opere non lapidamus te, sed de blasphemia: et
+                        quia tu homo cum sis, facis teipsum Deum. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Respondit eis Iesus: Nonne scriptum est in lege vestra: quia Ego dixi, dii
+                        estis? </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Si illos dixit deos, ad quos sermo Dei factus est, et non potest solvi
+                        scriptura: </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>quem Pater sanctificavit, et misit in mundum, vos dicitis: Quia blasphemas:
+                        quia dixi, Filius Dei sum? </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Si non facio opera Patris mei, nolite credere mihi. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Si autem facio: et si mihi non vultis credere, operibus credite, ut
+                        cognoscatis, et credatis quia Pater in me est, et ego in Patre. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Quaerebant ergo eum apprehendere: et exivit de manibus eorum. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Et abiit iterum trans Iordanem in eum locum, ubi erat Ioannes baptizans
+                        primum: et mansit illic: </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>et multi venerunt ad eum, et dicebant: Quia Ioannes quidem signum fecit
+                        nullum. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Omnia autem quaecumque dixit Ioannes de hoc, vera erant. Et multi crediderunt
+                        in eum. </p>
+                </div>
+            </div>
+            <div n="11" type="chapter">
+                <div n="1" type="verse">
+                    <p>Erat autem quidem languens Lazarus a Bethania, de castello Mariae, et Marthae
+                        sororis eius. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>(Maria autem erat, quae unxit Dominum unguento, et extersit pedes eius
+                        capillis suis: cuius frater Lazarus infirmabatur.) </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Miserunt ergo sorores eius ad eum dicentes: Domine, ecce quem amas
+                        infirmatur. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Audiens autem Iesus dixit eis: Infirmitas haec non est ad mortem, sed pro
+                        gloria Dei, ut glorificetur Filius Dei per eam. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Diligebat autem Iesus Martham, et sororem eius Mariam, et Lazarum. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Ut ergo audivit quia infirmabatur, tunc quidem mansit in eodem loco duobus
+                        diebus. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Deinde post haec dixit discipulis suis: Eamus in Iudaeam iterum. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Dicunt ei discipuli: Rabbi, nunc quaerebant te Iudaei lapidare, et iterum
+                        vadis illuc? </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Respondit Iesus: Nonne duodecim sunt horae diei? Si quis ambulaverit in die,
+                        non offendit, quia lucem huius mundi videt: </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>si autem ambulaverit in nocte, offendit, quia lux non est in eo. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Haec ait, et post haec dixit eis: Lazarus amicus noster dormit: sed vado ut a
+                        somno excitem eum. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Dixerunt ergo discipuli eius: Domine, si dormit, salvus erit. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Dixerat autem Iesus de morte eius: illi autem putaverunt quia de dormitione
+                        somni diceret. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Tunc ergo Iesus dixit eis manifeste: Lazarus mortuus est: </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>et gaudeo propter vos, ut credatis, quoniam non eram ibi. Sed eamus ad eum.
+                    </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Dixit ergo Thomas, qui dicitur Didymus, ad condiscipulos: Eamus et nos, ut
+                        moriamur cum eo. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Venit itaque Iesus: et invenit eum quattuor dies iam in monumento habentem.
+                    </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>(Erat autem Bethania iuxta Ierosolymam quasi stadiis quindecim.) </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Multi autem ex Iudaeis venerant ad Martham, et Mariam, ut consolarentur eas
+                        de fratre suo. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Martha ergo ut audivit quia Iesus venit, occurrit illi: Maria autem domi
+                        sedebat. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Dixit ergo Martha ad Iesum: Domine, si fuisses hic, frater meus non fuisset
+                        mortuus: </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Sed et nunc scio quia quaecumque poposceris a Deo, dabit tibi Deus. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Dicit illi Iesus: Resurget frater tuus. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Dicit ei Martha: Scio quia resurget in resurrectione in novissimo die. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dixit ei Iesus: Ego sum resurrectio, et vita: qui credit in me, etiam si
+                        mortuus fuerit, vivet: </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>et omnis, qui vivit, et credit in me, non morietur in aeternum. Credis hoc?
+                    </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Ait illi: Utique Domine, ego credidi, quia tu es Christus Filius Dei vivi,
+                        qui in hunc mundum venisti. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Et cum haec dixisset, abiit, et vocavit Mariam sororem suam silentio, dicens:
+                        Magister adest, et vocat te. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Illa ut audivit, surgit cito, et venit ad eum: </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>nondum enim venerat Iesus in castellum: sed erat adhuc in illo loco, ubi
+                        occurrerat ei Martha. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Iudaei ergo, qui erant cum ea in domo, et consolabantur eam, cum vidissent
+                        Mariam quia cito surrexit, et exiit, secuti sunt eam dicentes: Quia vadit ad
+                        monumentum, ut ploret ibi. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Maria ergo, cum venisset ubi erat Iesus, videns eum, cecidit ad pedes eius,
+                        et dicit ei: Domine, si fuisses hic, non esset mortuus frater meus. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Iesus ergo, ut vidit eam plorantem, et Iudaeos, qui venerant cum ea,
+                        plorantes, infremuit spiritu, et turbavit seipsum, </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>et dixit: Ubi posuistis eum? Dicunt ei: Domine, veni, et vide. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Et lacrymatus est Iesus. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Dixerunt ergo Iudaei: Ecce quomodo amabat eum. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Quidam autem ex ipsis dixerunt: Non poterat hic, qui aperuit oculos caeci
+                        nati, facere ut hic non moreretur? </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Iesus ergo rursum fremens in semetipso, venit ad monumentum. Erat autem
+                        spelunca: et lapis superpositus erat ei. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Ait Iesus: Tollite lapidem. Dicit ei Martha soror eius, qui mortuus fuerat:
+                        Domine, iam foetet, quatriduanus est enim. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Dicit ei Iesus: Nonne dixi tibi quoniam si credideris, videbis gloriam Dei?
+                    </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Tulerunt ergo lapidem: Iesus autem elevatis sursum oculis, dixit: Pater
+                        gratias ago tibi quoniam audisti me. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Ego autem sciebam quia semper me audis, sed propter populum, qui circumstat,
+                        dixi: ut credant quia tu me misisti. </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Haec cum dixisset, voce magna clamavit: Lazare veni foras. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Et statim prodiit qui fuerat mortuus, ligatus pedes, et manus institis, et
+                        facies illius sudario erat ligata. Dixit eis Iesus: Solvite eum, et sinite
+                        abire. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Multi ergo ex Iudaeis, qui venerant ad Mariam, et Martham, et viderant quae
+                        fecit Iesus, crediderunt in eum. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Quidam autem ex ipsis abierunt ad Pharisaeos, et dixerunt eis quae fecit
+                        Iesus. </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Collegerunt ergo Pontifices et Pharisaei concilium, et dicebant: Quid
+                        faciamus, quia hic homo multa signa facit? </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Si dimittimus eum sic, omnes credent in eum: et venient Romani, et tollent
+                        nostrum locum, et gentem. </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Unus autem ex ipsis Caiphas nomine, cum esset Pontifex anni illius, dixit
+                        eis: Vos nescitis quidquam, </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non
+                        tota gens pereat. </p>
+                </div>
+                <div n="51" type="verse">
+                    <p>Hoc autem a semetipso non dixit: sed cum esset Pontifex anni illius,
+                        prophetavit, quod Iesus moriturus erat pro gente, </p>
+                </div>
+                <div n="52" type="verse">
+                    <p>et non tantum pro gente, sed ut filios Dei, qui erant dispersi, congregaret
+                        in unum. </p>
+                </div>
+                <div n="53" type="verse">
+                    <p>Ab illo ergo die cogitaverunt ut interficerent eum. </p>
+                </div>
+                <div n="54" type="verse">
+                    <p>Iesus ergo iam non in palam ambulabat apud Iudaeos, sed abiit in regionem
+                        iuxta desertum, in civitatem, quae dicitur Ephrem, et ibi morabatur cum
+                        discipulis suis. </p>
+                </div>
+                <div n="55" type="verse">
+                    <p>Proximum autem erat Pascha Iudaeorum: et ascenderunt multi Ierosolymam de
+                        regione ante Pascha, ut sanctificarent se ipsos. </p>
+                </div>
+                <div n="56" type="verse">
+                    <p>Quaerebant ergo Iesum: et colloquebantur ad invicem, in templo stantes: Quid
+                        putatis, quia non venit ad diem festum? </p>
+                </div>
+                <div n="57" type="verse">
+                    <p>Dederant autem Pontifices, et Pharisaei mandatum, ut si quis cognoverit ubi
+                        sit, indicet, ut apprehendant eum. </p>
+                </div>
+            </div>
+            <div n="12" type="chapter">
+                <div n="1" type="verse">
+                    <p>Iesus ergo ante sex dies Paschae venit Bethaniam, ubi Lazarus fuerat mortuus,
+                        quem suscitavit Iesus. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Fecerunt autem ei coenam ibi: et Martha ministrabat, Lazarus vero unus erat
+                        ex discumbentibus cum eo. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Maria ergo accepit libram unguenti nardi pistici, pretiosi, et unxit pedes
+                        Iesu, et extersit pedes eius capillis suis: et domus impleta est ex odore
+                        unguenti. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Dixit ergo unus ex discipulis eius, Iudas Iscariotes, qui erat eum
+                        traditurus: </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Quare hoc unguentum non vaeniit trecentis denariis, et datum est egenis? </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Dixit autem hoc, non quia de egenis pertinebat ad eum, sed quia fur erat, et
+                        loculos habens, ea, quae mittebantur, portabat. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Dixit ergo Iesus: Sinite illam ut in diem sepulturae meae servet illud. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Pauperes enim semper habetis vobiscum: me autem non semper habetis. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Cognovit ergo turba multa ex Iudaeis quia illic est: et venerunt, non propter
+                        Iesum tantum, sed ut Lazarum viderent, quem suscitavit a mortuis. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Cogitaverunt autem principes sacerdotum ut et Lazarum interficerent: </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>quia multi propter illum abibant ex Iudaeis, et credebant in Iesum. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>In crastinum autem turba multa, quae venerat ad diem festum, cum audissent
+                        quia venit Iesus Ierosolymam: </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>acceperunt ramos palmarum, et processerunt obviam ei, et clamabant: Hosanna!
+                        Benedictus, qui venit in nomine Domini, Rex Israel! </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Et invenit Iesus asellum, et sedit super eum, sicut scriptum est: </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Noli timere filia Sion: ecce Rex tuus venit sedens super pullum asinae. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Haec non cognoverunt discipuli eius primum: sed quando glorificatus est
+                        Iesus, tunc recordati sunt quia haec erant scripta de eo: et haec fecerunt
+                        ei. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Testimonium ergo perhibebat turba, quae erat cum eo quando Lazarum vocavit de
+                        monumento, et suscitavit eum a mortuis. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Propterea et obviam venit ei turba: quia audierunt fecisse hoc signum. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Pharisaei ergo dixerunt ad semetipsos: Videtis quia nihil proficimus? Ecce
+                        mundus totus post eum abiit. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Erant autem quidam Gentiles ex his, qui ascenderant ut adorarent in die
+                        festo. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Hi ergo accesserunt ad Philippum, qui erat a Bethsaida Galilaeae, et rogabant
+                        eum, dicentes: Domine, volumus Iesum videre. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Venit Philippus, et dicit Andreae: Andreas rursum, et Philippus dixerunt
+                        Iesu. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Iesus autem respondit eis, dicens: Venit hora, ut clarificetur Filius
+                        hominis. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Amen, amen dico vobis, nisi granum frumenti cadens in terram, mortuum fuerit;
+                    </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>ipsum solum manet. Si autem mortuum fuerit, multum fructum affert. Qui amat
+                        animam suam, perdet eam: et qui odit animam suam in hoc mundo, in vitam
+                        aeternam custodit eam. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Si quis mihi ministrat, me sequatur: et ubi sum ego, illic et minister meus
+                        erit. Si quis mihi ministraverit, honorificabit eum Pater meus. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Nunc anima mea turbata est. Et quid dicam? Pater, salvifica me ex hac hora?
+                        Sed propterea veni in horam hanc. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Pater, clarifica nomen tuum. Venit ergo vox de caelo: Et clarificavi, et
+                        iterum clarificabo. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Turba ergo, quae stabat, et audierat, dicebat tonitruum esse factum. Alii
+                        dicebant: Angelus ei locutus est. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Respondit Iesus, et dixit: Non propter me haec vox venit, sed propter vos.
+                    </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Nunc iudicium est mundi: nunc princeps huius mundi eiicietur foras. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Et ego si exaltatus fuero a terra, omnia traham ad me ipsum. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>(hoc autem dicebat, significans qua morte esset moriturus.) </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Respondit ei turba: Nos audivimus ex lege, quia Christus manet in aeternum:
+                        et quomodo tu dicis, Oportet exaltari Filium hominis? Quis est iste Filius
+                        hominis? </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Dixit ergo eis Iesus: Adhuc modicum, lumen in vobis est. Ambulate dum lucem
+                        habetis, ut non vos tenebrae comprehendant: et qui ambulant in tenebris,
+                        nescit quo vadat. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Dum lucem habetis, credite in lucem, ut filii lucis sitis. Haec locutus est
+                        Iesus: et abiit, et abscondit se ab eis. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Cum autem tanta signa fecisset coram eis, non credebant in eum: </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>ut sermo Isaiae prophetae impleretur, quem dixit: Domine, quis credidit
+                        auditui nostro? Et brachium Domini cui revelatum est? </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Propterea non poterant credere, quia iterum dixit Isaias: </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Excaecavit oculos eorum, et induravit cor eorum: ut non videant oculis, et
+                        non intelligant corde, et convertantur, et sanem eos. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Haec dixit Isaias, quando vidit gloriam eius, et locutus est de eo. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Verumtamen et ex principibus multi crediderunt in eum: sed propter Pharisaeos
+                        non confitebantur, ut e synagoga non eiicerentur. </p>
+                </div>
+                <div n="43" type="verse">
+                    <p>Dilexerunt enim gloriam hominum magis, quam gloriam Dei. </p>
+                </div>
+                <div n="44" type="verse">
+                    <p>Iesus autem clamavit, et dixit: Qui credit in me, non credit in me, sed in
+                        eum, qui misit me. </p>
+                </div>
+                <div n="45" type="verse">
+                    <p>Et qui videt me, videt eum, qui misit me. </p>
+                </div>
+                <div n="46" type="verse">
+                    <p>Ego lux in mundum veni: ut omnis, qui credit in me, in tenebris non maneat.
+                    </p>
+                </div>
+                <div n="47" type="verse">
+                    <p>Et si quis audierit verba mea, et non custodierit: ego non iudico eum. Non
+                        enim veni ut iudicem mundum, sed ut salvificem mundum. </p>
+                </div>
+                <div n="48" type="verse">
+                    <p>Qui spernit me, et non accipit verba mea: habet qui iudicet eum. Sermo, quem
+                        locutus sum, ille iudicabit eum in novissimo die. </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>Quia ego ex me ipso non sum locutus, sed qui misit me Pater, ipse mihi
+                        mandatum dedit quid dicam, et quid loquar. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>Et scio quia mandatum eius vita aeterna est. Quae ergo ego loquor, sicut
+                        dixit mihi Pater, sic loquor. </p>
+                </div>
+            </div>
+            <div n="13" type="chapter">
+                <div n="1" type="verse">
+                    <p>Ante diem festum Paschae, sciens Iesus quia venit hora eius ut transeat ex
+                        hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem
+                        dilexit eos. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Et coena facta, cum diabolus iam misisset in cor ut traderet eum Iudas
+                        Simonis Iscariotae: </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum
+                        vadit: </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>surgit a coena, et ponit vestimenta sua: et cum accepisset linteum,
+                        praecinxit se. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Deinde mittit aquam in pelvim, et coepit lavare pedes discipulorum, et
+                        extergere linteo, quo erat praecinctus. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas
+                        pedes? </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem
+                        postea. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Dicit ei Petrus: Non lavabis mihi pedes in aeternum. Respondit ei Iesus: Si
+                        non lavero te, non habebis partem mecum. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.
+                    </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dicit ei Iesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est
+                        mundus totus. Et vos mundi estis, sed non omnes. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi
+                        omnes. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Postquam ergo lavit pedes eorum, et accepit vestimenta sua: cum recubuisset
+                        iterum dixit eis: Scitis quid fecerim vobis? </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Vos vocatis me Magister, et Domine, et bene dicitis: sum etenim. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Si ergo ego lavi pedes vestros, Dominus, et Magister: et vos debetis alter
+                        alterius lavare pedes. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.
+                    </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Amen, amen dico vobis: non est servus maior Domino suo: neque apostolus maior
+                        est eo, qui misit illum. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Si haec scitis, beati eritis si feceritis ea. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Non de omnibus vobis dico: ego scio quos elegerim: sed ut adimpleatur
+                        Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis, quia ego
+                        sum. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Amen, amen dico vobis: Qui accipit si quem misero, me accipit: qui autem me
+                        accipit, accipit eum, qui me misit. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Cum haec dixisset Iesus, turbatus est spiritu: et protestatus est, et dixit:
+                        Amen, amen dico vobis: Quia unus ex vobis tradet me. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Aspiciebant ergo ad invicem discipuli, haesitantes de quo diceret. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Erat ergo recumbens unus ex discipulis eius in sinu Iesu, quem diligebat
+                        Iesus. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Innuit ergo huic Simon Petrus: et dixit ei: Quis est, de quo dicit? </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Itaque cum recubuisset ille supra pectus Iesu, dicit ei: Domine quis est?
+                    </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Respondit Iesus: Ille est, cui ego intinctum panem porrexero. Et cum
+                        intinxisset panem, dedit Iudae Simonis Iscariotae. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Et post buccellam, introivit in eum Satanas. Et dixit ei Iesus: Quod facis,
+                        fac citius. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Hoc autem nemo scivit discumbentium ad quid dixerit ei. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Quidam enim putabant, quia loculos habebat Iudas, quod dixisset ei Iesus: Eme
+                        ea, quae opus sunt nobis ad diem festum: aut egenis ut aliquid daret. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Cum ergo exisset, dixit Iesus: Nunc clarificatus est Filius hominis: et Deus
+                        clarificatus est in eo. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et
+                        continuo clarificabit eum. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Filioli, adhuc modicum vobiscum sum. Quaeretis me: et sicut dixi Iudaeis: Quo
+                        ego vado, vos non potestis venire: et vobis dico modo. </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Mandatum novum do vobis: Ut diligatis invicem, sicut dilexi vos, ut et vos
+                        diligatis invicem. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis
+                        ad invicem. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Dicit ei Simon Petrus: Domine, quo vadis? Respondit Iesus: Quo ego vado, non
+                        potes me modo sequi: sequeris autem postea. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Dicit ei Petrus: Quare non possum te sequi modo? Animam meam pro te ponam.
+                    </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non
+                        cantabit gallus, donec ter me neges. </p>
+                </div>
+            </div>
+            <div n="14" type="chapter">
+                <div n="1" type="verse">
+                    <p>Non turbetur cor vestrum. Creditis in Deum, et in me credite. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>In domo Patris mei mansiones multae sunt. Si quo minus dixissem vobis: Quia
+                        vado parare vobis locum. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Et si abiero, et praeparavero vobis locum: iterum venio, et accipiam vos ad
+                        meipsum, ut ubi sum ego, et vos sitis. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Et quo ego vado scitis, et viam scitis. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Dicit ei Thomas: Domine, nescimus quo vadis: et quo modo possumus viam scire?
+                    </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Dicit ei Iesus: Ego sum via, et veritas, et vita. Nemo venit ad Patrem, nisi
+                        per me. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Si cognovissetis me, et Patrem meum utique cognovissetis: et amodo
+                        cognoscetis eum, et vidistis eum. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Dicit ei Philippus: Domine, ostende nobis Patrem, et sufficit nobis. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Dicit ei Iesus: Tanto tempore vobiscum sum: et non cognovistis me? Philippe,
+                        qui videt me, videt et Patrem. Quomodo tu dicis: Ostende nobis Patrem? </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Non creditis quia ego in Patre, et Pater in me est? Verba, quae ego loquor
+                        vobis, a me ipso non loquor. Pater autem in me manens, ipse fecit opera.
+                    </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Non creditis quia ego in Patre, et Pater in me est? </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Alioquin propter opera ipsa credite. Amen, amen dico vobis, qui credit in me,
+                        opera, quae ego facio, et ipse faciet, et maiora horum faciet: quia ego ad
+                        Patrem vado. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Et quodcumque petieritis Patrem in nomine meo, hoc faciam: ut glorificetur
+                        Pater in Filio. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Si quid petieritis me in nomine meo, hoc faciam. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Si diligitis me: mandata mea servate. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Et ego rogabo Patrem, et alium Paraclitum dabit vobis, ut maneat vobiscum in
+                        aeternum, </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Spiritum veritatis, quem mundus non potest accipere, quia non videt eum, nec
+                        scit eum. Vos autem cognoscetis eum: quia apud vos manebit, et in vobis
+                        erit. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Non relinquam vos orphanos: veniam ad vos. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Adhuc modicum: et mundus me iam non videt. Vos autem videtis me: quia ego
+                        vivo, et vos vivetis. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>In illo die vos cognoscetis quia ego sum in Patre meo, et vos in me, et ego
+                        in vobis. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Qui habet mandata mea, et servat ea: ille est, qui diligit me. Qui autem
+                        diligit me, diligetur a Patre meo: et ego diligam eum, et manifestabo ei
+                        meipsum. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Dicit ei Iudas, non ille Iscariotes: Domine, quid factum est, quia
+                        manifestaturus es nobis tepisum, et non mundo? </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Respondit Iesus, et dixit ei: Si quis diligit me, sermonem meum servabit, et
+                        Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus:
+                    </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>qui non diligit me, sermones meos non servat. Et sermonem, quem audistis, non
+                        est meus: sed eius, qui misit me, Patris. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Haec locutus sum vobis apud vos manens. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Paraclitus autem Spiritus Sanctus, quem mittet Pater in nomine meo, ille vos
+                        docebit omnia, et suggeret vobis omnia, quaecumque dixero vobis. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Pacem relinquo vobis, pacem meam do vobis: non quomodo mundus dat, ego do
+                        vobis. Non turbetur cor vestrum, neque formidet. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Audistis quia ego dixi vobis: Vado, et venio ad vos. Si diligeretis me,
+                        gauderetis utique, quia vado ad Patrem: quia Pater maior me est. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Et nunc dixi vobis priusquam fiat: ut cum factum fuerit, credatis. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Iam non multa loquar vobiscum. Venit enim princeps mundi huius, et in me non
+                        habet quidquam. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi
+                        Pater, sic facio. Surgite, eamus hinc. </p>
+                </div>
+            </div>
+            <div n="15" type="chapter">
+                <div n="1" type="verse">
+                    <p>Ego sum vitis vera: et Pater meus agricola est. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Omnem palmitem in me non ferentem fructum, tollet eum: et omnem, qui fert
+                        fructum, purgabit eum, ut fructum plus afferat. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Iam vos mundi estis propter sermonem, quem locutus sum vobis. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Manete in me: et ego in vobis. Sicut palmes non potest fere fructum a
+                        semetipso, nisi manserit in vite: sic nec vos, nisi in me manseritis. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Ego sum vitis, vos palmites: qui manet in me, et ego in eo, hic fert fructum
+                        multum: quia sine me nihil potestis facere. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Si quis in me non manserit: mittetur foras sicut palmes, et arescet, et
+                        colligent eum, et in ignem mittent, et ardet. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Si manseritis in me, et verba mea in vobis manserint: quodcumque volueritis
+                        petetis, et fiet vobis. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>In hoc clarificatus est Pater meus, ut fructum plurimum afferatis, et
+                        efficiamini mei discipuli. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego
+                        Patris mei praecepta servavi, et maneo in eius dilectione. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Haec locutus sum vobis: ut gaudium meum in vobis sit, et gaudium vestrum
+                        impleatur. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Hoc est praeceptum meum ut diligatis invicem, sicut dilexi vos. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Maiorem hac dilectionem nemo habet, ut animam suam ponat qui pro amicis suis.
+                    </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Vos amici mei estis, si feceritis quae ego praecipio vobis. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Iam non dicam vos servos: quia servus nescit quid faciat dominus eius. Vos
+                        autem dixi amicos: quia omnia quaecumque audivi a Patre meo, nota feci
+                        vobis. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Non vos me elegistis: sed ego elegi vos, et posui vos ut eatis, et fructum
+                        afferatis: et fructus vester maneat: ut quodcumque petieritis Patrem in
+                        nomine meo, det vobis. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Haec mando vobis, ut diligatis invicem. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Si mundus vos odit: scitote quia me priorem vobis odio habuit. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Si de mundo fuissetis: mundus quod suum erat diligeret: quia vero de mundo
+                        non estis, sed ego elegi vos de mundo, propterea odit vos mundus. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Mementote sermonis mei, quem ego dixi vobis: non est servus maior domino suo.
+                        Si me persecuti sunt, et vos persequentur: si sermonem meum servaverunt, et
+                        vestrum servabunt. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Sed haec omnia facient vobis propter nomen meum: quia nesciunt eum, qui misit
+                        me. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Si non venissem, et locutus fuissem eis, peccatum non haberent: nunc autem
+                        excusationem non habent de peccato suo. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Qui me odit: et Patrem meum odit. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Si opera non fecissem in eis, quae nemo alius fecit, peccatum non haberent:
+                        nunc autem et viderunt, et oderunt et me, et Patrem meum. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Sed ut adimpleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt
+                        me gratis. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Cum autem venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum
+                        veritatis, qui a Patre procedit, ille testimonium perhibebit de me: </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>et vos testimonium perhibebitis, quia ab initio mecum estis. </p>
+                </div>
+            </div>
+            <div n="16" type="chapter">
+                <div n="1" type="verse">
+                    <p>Haec locutus sum vobis, ut non scandalizemini. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Absque synagogis facient vos: sed venit hora, ut omnis, qui interficit vos,
+                        arbitretur obsequium se praestare Deo. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Et haec facient vobis, quia non noverunt Patrem, neque me. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Sed haec locutus sum vobis: ut cum venerit hora eorum reminiscamini, quia ego
+                        dixi vobis. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Haec autem vobis ab initio non dixi, quia vobiscum eram: Et nunc vado ad eum,
+                        qui misit me; et nemo ex vobis interrogat me, Quo vadis? </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Sed quia haec locutus sum vobis, tristitia implevit cor vestrum. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Sed ego veritatem dico vobis: expedit vobis ut ego vadam: si enim non abiero,
+                        Paraclitus non veniet ad vos: si autem abiero, mittam eum ad vos. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Et cum venerit ille, arguet mundum de peccato, et de iustitia, et de iudicio.
+                    </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>De peccato quidem: quia non crediderunt in me. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>De iustitia vero: quia ad Patrem vado: et iam non videbitis me: </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>De iudicio autem: quia princeps huius mundi iam iudicatus est. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Adhuc multa habeo vobis dicere: sed non potestis portare modo. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Cum autem venerit ille Spiritus veritatis, docebit vos omnem veritatem. Non
+                        enim loquetur a semetipso: sed quaecumque audiet loquetur, et quae ventura
+                        sunt annunciabit vobis. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Ille me clarificabit: quia de meo accipiet, et annunciabit vobis. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Omnia quaecumque habet Pater, mea sunt. Propterea dixi: quia de meo accipiet,
+                        et annunciabit vobis. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Modicum, et iam non videbitis me: et iterum modicum, et videbitis me: quia
+                        vado ad Patrem. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Dixerunt ergo ex discipulis eius ad invicem: Quid est hoc, quod dicit nobis:
+                        Modicum, et non videbitis me: et iterum modicum, et videbitis me, et quia
+                        vado ad Patrem? </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Dicebant ergo: Quid est hoc, quod dicit, Modicum? nescimus quid loquitur.
+                    </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Cognovit autem Iesus, quia volebant eum interrogare, et dixit eis: De hoc
+                        quaeritis inter vos quia dixi, Modicum, et non videbitis me: et iterum
+                        modicum, et videbitis me. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Amen, amen dico vobis: quia plorabitis, et flebitis vos, mundus autem
+                        gaudebit: vos autem contristabimini, sed tristitia vestra vertetur in
+                        gaudium. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Mulier cum parit, tristitiam habet, quia venit hora eius: cum autem pepererit
+                        puerum, iam non meminit pressurae propter gaudium: quia natus est homo in
+                        mundum. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Et vos igitur nunc quidem tristitiam habetis, iterum autem videbo vos, et
+                        gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Et in illo die me non rogabitis quidquam. Amen, amen dico vobis: siquid
+                        petieritis Patrem in nomine meo, dabit vobis. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Usque modo non petistis quidquam in nomine meo: Petite, et accipietis, ut
+                        gaudium vestrum sit plenum. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Haec in proverbiis locutus sum vobis. Venit hora cum iam non in proverbiis
+                        loquar vobis, sed palam de Patre annunciabo vobis. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>In illo die in nomine meo petetis: et non dico vobis quia ego rogabo Patrem
+                        de vobis: </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Ipse enim Pater amat vos, quia vos me amastis, et credidistis, quia ego a Deo
+                        exivi. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Exivi a Patre, et veni in mundum: iterum relinquo mundum, et vado ad Patrem.
+                    </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Dicunt ei discipuli eius: Ecce nunc palam loqueris, et proverbium nullum
+                        dicis. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Nunc scimus quia scis omnia, et non opus est tibi ut quis te interroget: in
+                        hoc credimus quia a Deo existi. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Respondit eis Iesus: Modo creditis? </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Ecce venit hora, et iam venit, ut dispergamini unusquisque in propria, et me
+                        solum relinquatis: et non sum solus, quia Pater mecum est. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Haec locutus sum vobis, ut in me pacem habeatis. In mundo pressuram
+                        habebitis: sed confidite, ego vici mundum. </p>
+                </div>
+            </div>
+            <div n="17" type="chapter">
+                <div n="1" type="verse">
+                    <p>Haec locutus est Iesus: et sublevatis oculis in caelum, dixit: Pater venit
+                        hora, clarifica Filium tuum, ut Filius tuus clarificet te: </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis
+                        vitam aeternam. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Haec est autem vita aeterna: Ut cognoscant te, solum Deum verum, et quem
+                        misisti Iesum Christum. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Ego te clarificavi super terram: opus consummavi, quod dedisti mihi ut
+                        faciam: </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>et nunc clarifica me tu Pater apud temetipsum, claritate, quam habui prius,
+                        quam mundus esset, apud te. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Manifestavi nomen tuum hominibus, quos dedisti mihi de mundo: Tui erant, et
+                        mihi eos dedisti: et sermonem tuum servaverunt. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Nunc cognoverunt quia omnia, quae dedisti mihi, abs te sunt: </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>quia verba, quae dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt
+                        vere quia a te exivi, et crediderunt quia tu me misisti. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Ego pro eis rogo: Non pro mundo rogo, sed pro his, quos dedisti mihi: quia
+                        tui sunt: </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>et mea omnia tua sunt, et tua mea sunt: et clarificatus sum in eis: </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Et iam non sum in mundo, et hi in mundo sunt, et ego ad te venio. Pater
+                        sancte, serva eos in nomine tuo, quos dedisti mihi: ut sint unum, sicut et
+                        nos. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti mihi,
+                        custodivi: et nemo ex eis periit, nisi filius perditionis, ut Scriptura
+                        impleatur. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Nunc autem ad te venio: et haec loquor in mundo, ut habeant gaudium meum
+                        impletum in semetipsis. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de
+                        mundo, sicut et ego non sum de mundo. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Non rogo ut tollas eos de mundo, sed ut serves eos a malo. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>De mundo non sunt, sicut et ego non sum de mundo. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Sanctifica eos in veritate. Sermo tuus veritas est. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Sicut tu me misisti in mundum, et ego misi eos in mundum. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Et pro eis ego sanctifico meipsum: ut sint et ipsi sanctificati in veritate.
+                    </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Non pro eis autem rogo tantum, sed et pro eis, qui credituri sunt per verbum
+                        eorum in me: </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis
+                        unum sint: ut credat mundus, quia tu me misisti. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Et ego claritatem, quam dedisti mihi, dedi eis: ut sint unum, sicut et nos
+                        unum sumus. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Ego in eis, et tu in me: ut sint consummati in unum: et cognoscat mundus quia
+                        tu me misisti, et dilexisti eos, sicut et me dilexisti. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Pater, quos dedisti mihi, volo ut ubi sum ego, et illi sint mecum: ut videant
+                        claritatem meam, quam dedisti mihi: quia dilexisti me ante constitutionem
+                        mundi. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Pater iuste, mundus te non cognovit. Ego autem te cognovi: et hi cognoverunt,
+                        quia tu me misisti. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me,
+                        in ipsis sit, et ego in ipsis. </p>
+                </div>
+            </div>
+            <div n="18" type="chapter">
+                <div n="1" type="verse">
+                    <p>Haec cum dixisset Iesus, egressus est cum discipulis suis trans Torrentem
+                        Cedron, ubi erat hortus, in quem introivit ipse, et discipuli eius. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Sciebat autem et Iudas, qui tradebat eum, locum: quia frequenter Iesus
+                        convenerat illuc cum discipulis suis. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Iudas ergo cum accepisset cohortem, et a Pontificibus, et Pharisaeis
+                        ministros, venit illuc cum laternis, et facibus, et armis. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Iesus itaque sciens omnia, quae ventura erant super eum, processit, et dixit
+                        eis: Quem quaeritis? </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Responderunt ei: Iesum Nazarenum. Dicit eis Iesus: Ego sum. Stabat autem et
+                        Iudas, qui tradebat eum, cum ipsis. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Ut ergo dixit eis: Ego sum: abierunt retrorsum, et ceciderunt in terram. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Iterum ergo interrogavit eos: Quem quaeritis? Illi autem dixerunt: Iesum
+                        Nazarenum. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Respondit Iesus: Dixi vobis, quia ego sum: si ergo me quaeritis, sinite hos
+                        abire. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Ut impleretur sermo, quem dixit: Quia quos dedisti mihi, non perdidi ex eis
+                        quemquam. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Simon ergo Petrus habens gladium eduxit eum: et percussit pontificis servum:
+                        et abscidit auriculam eius dexteram. Erat autem nomen servo Malchus. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Dixit ergo Iesus Petro: Mitte gladium tuum in vaginam. Calicem, quem dedit
+                        mihi Pater, non bibam illum? </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Cohors ergo, et tribunus, et ministri Iudaeorum comprehenderunt Iesum, et
+                        ligaverunt eum: </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Et adduxerunt eum ad Annam primum, erat enim socer Caiphae, qui erat pontifex
+                        anni illius. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Erat autem Caiphas, qui consilium dederat Iudaeis: Quia expedit, unum hominem
+                        mori pro populo. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Sequebatur autem Iesum Simon Petrus, et alius discipulus. Discipulus autem
+                        ille erat notus pontifici, et introivit cum Iesu in atrium pontificis. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Petrus autem stabat ad ostium foris. Exivit ergo discipulus alius, qui erat
+                        notus pontifici, et dixit ostiariae: et introduxit Petrum. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Dicit ergo Petro ancilla ostiaria: Numquid et tu ex discipulis es hominis
+                        istius? Dicit ille: Non sum. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Stabant autem servi, et ministri ad prunas: quia frigus erat, et
+                        calefaciebant se: erat autem cum eis et Petrus stans, et calefaciens se.
+                    </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Pontifex ergo interrogavit Iesum de discipulis suis, et de doctrina eius.
+                    </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Respondit ei Iesus: Ego palam locutus sum mundo: ego semper docui in
+                        synagoga, et in templo, quo omnes Iudaei conveniunt: et in occulto locutus
+                        sum nihil. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Quid me interrogas? Interroga eos, qui audierunt quid locutus sim ipsis: ecce
+                        hi sciunt quae dixerim ego. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Haec autem cum dixisset, unus assistens ministrorum dedit alapam Iesu,
+                        dicens: Sic respondes pontifici? </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Respondit ei Iesus: Si male locutus sum, testimonium perhibe de malo: si
+                        autem bene, quid me caedis? </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Et misit eum Annas ligatum ad Caipham pontificem. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei: Numquid
+                        et tu ex discipulis eius es? Negavit ille, et dixit: Non sum. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Dicit ei unus ex servis pontificis, cognatus eius, cuius abscidit Petrus
+                        auriculam: Nonne ego te vidi in horto cum illo? </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Iterum ergo negavit Petrus: et statim gallus cantavit. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Adducunt ergo Iesum a Caipha in praetorium. Erat autem mane: et ipsi non
+                        introierunt in praetorium, ut non contaminarentur, sed ut manducarent
+                        Pascha. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Exivit ergo Pilatus ad eos foras, et dixit: Quam accusationem affertis
+                        adversus hominem hunc? </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Responderunt, et dixerunt ei: Si non esset hic malefactor, non tibi
+                        tradidissemus eum. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Dixit ergo eis Pilatus: Accipite eum vos, et secundum legem vestram iudicate
+                        eum. Dixerunt ergo ei Iudaei: Nobis non licet interficere quemquam. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Ut sermo Iesu impleretur, quem dixit, significans qua morte esset moriturus.
+                    </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Introivit ergo iterum in praetorium Pilatus, et vocavit Iesum, et dixit ei:
+                        Tu es rex Iudaeorum? </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>Respondit Iesus: A temetipso hoc dicis, an alii dixerunt tibi de me? </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Respondit Pilatus: Numquid ego Iudaeus sum? Gens tua, et pontifices
+                        tradiderunt te mihi: quid fecisti? </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Respondit Iesus: Regnum meum non est de hoc mundo. Si ex hoc mundo esset
+                        regnum meum, ministri mei utique decertarent ut non traderer Iudaeis: nunc
+                        autem regnum meum non est hinc. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Dixit itaque ei Pilatus: Ergo rex es tu? Respondit Iesus: Tu dicis quia rex
+                        sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium
+                        perhibeam veritati: omnis, qui est ex veritate, audit vocem meam. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Dicit ei Pilatus: Quid est veritas? Et cum hoc dixisset, iterum exivit ad
+                        Iudaeos, et dicit eis: Ego nullam invenio in eo causam. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Est autem consuetudo vobis ut unum dimittam vobis in Pascha: vultis ergo
+                        dimittam vobis regem Iudaeorum? </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Clamaverunt ergo rursum omnes, dicentes: Non hunc, sed Barabbam. Erat autem
+                        Barabbas latro. </p>
+                </div>
+            </div>
+            <div n="19" type="chapter">
+                <div n="1" type="verse">
+                    <p>Tunc ergo apprehendit Pilatus Iesum, et flagellavit. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Et milites plectentes coronam de spinis, imposuerunt capiti eius: et veste
+                        purpurea circumdederunt eum. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Et veniebant ad eum, et dicebant: Ave, rex Iudaeorum: et dabant ei alapas.
+                    </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Exivit ergo iterum Pilatus foras, et dicit eis: Ecce adduco vobis eum foras,
+                        ut cognoscatis quia nullam invenio in eo causam. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>(Exivit ergo Iesus portans coronam spineam, et purpureum vestimentum:) Et
+                        dicit eis: Ecce homo. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Cum ergo vidissent eum Pontifices, et ministri, clamabant, dicentes:
+                        Crucifige, crucifige eum. Dicit eis Pilatus: Accipite eum vos, et
+                        crucifigite: ego enim non invenio in eo causam. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Responderunt ei Iudaei: Nos legem habemus, et secundum legem debet mori, quia
+                        Filium Dei se fecit. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Cum ergo audisset Pilatus hunc sermonem, magis timuit. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Et ingressus est praetorium iterum: et dixit ad Iesum: Unde es tu? Iesus
+                        autem responsum non dedit ei. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dicit ergo ei Pilatus: Mihi non loqueris? Nescis quia potestatem habeo
+                        crucifigere te, et potestatem habeo dimittere te? </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Respondit Iesus: Non haberes potestatem adversum me ullam, nisi tibi datum
+                        esset desuper. Propterea qui me tradidit tibi, maius peccatum habet. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Et exinde quaerebat Pilatus dimittere eum. Iudaei autem clamabant dicentes:
+                        Si hunc dimittis, non es amicus Caesaris. Omnis enim, qui se regem facit,
+                        contradicit Caesari. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Pilatus autem cum audisset hos sermones, adduxit foras Iesum: et sedit pro
+                        tribunali, in loco, qui dicitur Lithostrotos, Hebraice autem Gabbatha. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Erat autem parasceve Paschae, hora quasi sexta, et dicit Iudaeis: Ecce rex
+                        vester. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Illi autem clamabant: Tolle, tolle, crucifige eum. Dicit eis Pilatus: Regem
+                        vestrum crucifigam? Responderunt Pontifices: Non habemus Regem, nisi
+                        Caesarem. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Iesum, et
+                        eduxerunt. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Et baiulans sibi crucem exivit in eum, qui dicitur Calvariae, locum, Hebraice
+                        autem Golgotha: </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>ubi crucifixerunt eum, et cum eo alios duos hinc, et hinc, medium autem
+                        Iesum. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Scripsit autem et titulum Pilatus: et posuit super crucem. Erat autem
+                        scriptum: Iesus Nazarenus, Rex Iudaeorum. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Hunc ergo titulum multi Iudaeorum legerunt: quia prope civitatem erat locus,
+                        ubi crucifixus est Iesus: Et erat scriptum Hebraice, Graece, et Latine. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Dicebant ergo Pilato Pontifices Iudaeorum: Noli scribere, Rex Iudaeorum: sed
+                        quia ipse dixit: Rex sum Iudaeorum. </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Respondit Pilatus: Quod scripsi, scripsi. </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Milites ergo cum crucifixissent eum, acceperunt vestimenta eius, (et fecerunt
+                        quattuor partes: unicuique militi partem) et tunicam. Erat autem tunica
+                        inconsutilis, desuper contexta per totum. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Dixerunt ergo ad invicem: Non scindamus eam, sed sortiamur de illa cuius sit.
+                        Ut Scriptura impleretur, dicens: Partiti sunt vestimenta mea sibi: et in
+                        vestem meam miserunt sortem. Et milites quidem haec fecerunt. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Stabant autem iuxta crucem Iesu mater eius, et soror matris eius, Maria
+                        Cleophae, et Maria Magdalene. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Cum vidisset ergo Iesus matrem, et discipulum stantem, quem diligebat, dicit
+                        matri suae: Mulier, ecce filius tuus. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit eam
+                        discipulus in sua. </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Postea sciens Iesus quia omnia consummata sunt, ut consummaretur Scriptura,
+                        dixit: Sitio. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Vas ergo erat positum aceto plenum. Illi autem spongiam plenam aceto, hyssopo
+                        circumponentes, obtulerunt ori eius. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Cum ergo accepisset Iesus acetum, dixit: Consummatum est. Et inclinato capite
+                        tradidit spiritum. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Iudaei ergo, (quoniam Parasceve erat) ut non remanerent in cruce corpora
+                        Sabbato, (erat enim magnus dies ille Sabbati) rogaverunt Pilatum ut
+                        frangerentur eorum crura, et tollerentur. </p>
+                </div>
+                <div n="32" type="verse">
+                    <p>Venerunt ergo milites: et primi quidem fregerunt crura, et alterius, qui
+                        crucifixus est cum eo. </p>
+                </div>
+                <div n="33" type="verse">
+                    <p>Ad Iesum autem cum venissent, ut viderunt eum iam mortuum, non fregerunt eius
+                        crura, </p>
+                </div>
+                <div n="34" type="verse">
+                    <p>sed unus militum lancea latus eius aperuit, et continuo exivit sanguis, et
+                        aqua. </p>
+                </div>
+                <div n="35" type="verse">
+                    <p>Et qui vidit, testimonium perhibuit: et verum est testimonium eius. Et ille
+                        scit quia vera dicit: ut et vos credatis. </p>
+                </div>
+                <div n="36" type="verse">
+                    <p>Facta sunt enim haec ut Scriptura impleretur: Os non comminuetis ex eo. </p>
+                </div>
+                <div n="37" type="verse">
+                    <p>Et iterum alia Scriptura dicit: Videbunt in quem transfixerunt. </p>
+                </div>
+                <div n="38" type="verse">
+                    <p>Post haec autem rogavit Pilatum Ioseph ab Arimathaea, (eo quod esset
+                        discipulus Iesu, occultus autem propter metum Iudaeorum) ut tolleret corpus
+                        Iesu. Et permisit Pilatus. Venit ergo, et tulit corpus Iesu. </p>
+                </div>
+                <div n="39" type="verse">
+                    <p>Venit autem et Nicodemus, qui venerat ad Iesum nocte primum, ferens mixturam
+                        myrrhae, et aloes, quasi libras centum. </p>
+                </div>
+                <div n="40" type="verse">
+                    <p>Acceperunt ergo corpus Iesu, et ligaverunt illud linteis cum aromatibus,
+                        sicut mos est Iudaeis sepelire. </p>
+                </div>
+                <div n="41" type="verse">
+                    <p>Erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum,
+                        in quo nondum quisquam positus erat. </p>
+                </div>
+                <div n="42" type="verse">
+                    <p>Ibi ergo propter Parasceven Iudaeorum, quia iuxta erat monumentum, posuerunt
+                        Iesum. </p>
+                </div>
+            </div>
+            <div n="20" type="chapter">
+                <div n="1" type="verse">
+                    <p>Una autem Sabbati, Maria Magdalene venit mane, cum adhuc tenebrae essent, ad
+                        monumentum: et vidit lapidem sublatum a monumento. </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem
+                        amabat Iesus, et dicit illis: Tulerunt Dominum de monumento, et nescimus ubi
+                        posuerunt eum. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Exiit ergo Petrus, et ille alius discipulus, et venerunt ad monumentum. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Currebant autem duo simul, et ille alius discipulus praecucurrit citius
+                        Petro, et venit primus ad monumentum. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Et cum se inclinasset, vidit posita linteamina, non tamen introivit. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Venit ergo Simon Petrus sequens eum, et introivit in monumentum, et vidit
+                        linteamina posita, </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>et sudarium, quod fuerat super caput eius, non cum linteaminibus positum, sed
+                        separatim involutum in unum locum. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Tunc ergo introivit et ille discipulus, qui venerat primus ad monumentum: et
+                        vidit, et credidit: </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>nondum enim sciebant Scripturam, quia oportebat eum a mortuis resurgere. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Abierunt ergo iterum discipuli ad semetipsos. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Maria autem stabat ad monumentum foris, plorans: Dum ergo fleret, inclinavit
+                        se, et prospexit in monumentum: </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>et vidit duos Angelos in albis, sedentes, unum ad caput, et unum ad pedes,
+                        ubi positum fuerat corpus Iesu. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Dicunt ei illi: Mulier, quid ploras? Dicit eis: Quia tulerunt Dominum meum:
+                        et nescio ubi posuerunt eum. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Haec cum dixisset, conversa est retrorsum, et vidit Iesum stantem: et non
+                        sciebat quia Iesus est. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Dicit ei Iesus: Mulier, quid ploras? Quem quaeris? Illa existimans quia
+                        hortulanus esset, dicit ei: Domine, si tu sustulisti eum, dicito mihi ubi
+                        posuisti eum: et ego eum tollam. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Dicit ei Iesus: Maria. Conversa illa, dicit ei: Rabboni (quod dicitur
+                        Magister.) </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Dicit ei Iesus: Noli me tangere, nondum enim ascendi ad Patrem meum: vade
+                        autem ad fratres meos, et dic eis: Ascendo ad Patrem meum, et Patrem
+                        vestrum, Deum meum, et Deum vestrum. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Venit Maria Magdalene annuncians discipulis: Quia vidi Dominum, et haec dixit
+                        mihi. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Cum ergo sero esset die illo, una Sabbatorum, et fores essent clausae, ubi
+                        erant discipuli congregati propter metum Iudaeorum: venit Iesus, et stetit
+                        in medio, et dixit eis: Pax vobis. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Et cum hoc dixisset, ostendit eis manus, et latus. Gavisi sunt ergo
+                        discipuli, viso Domino. </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Dixit ergo eis iterum: Pax vobis. Sicut misit me Pater, et ego mitto vos.
+                    </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Haec cum dixisset, insufflavit: et dixit eis: Accipite Spiritum Sanctum: </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, retenta
+                        sunt. </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis quando
+                        venit Iesus. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Dixerunt ergo ei alii discipuli: Vidimus Dominum. Ille autem dixit eis: Nisi
+                        videro in manibus eius fixuram clavorum, et mittam digitum meum in locum
+                        clavorum, et mittam manum meam in latus eius, non credam. </p>
+                </div>
+                <div n="26" type="verse">
+                    <p>Et post dies octo, iterum erant discipuli eius intus: et Thomas cum eis.
+                        Venit Iesus ianuis clausis, et stetit in medio, et dixit: Pax vobis. </p>
+                </div>
+                <div n="27" type="verse">
+                    <p>Deinde dicit Thomae: Infer digitum tuum huc, et vide manus meas, et affer
+                        manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.
+                    </p>
+                </div>
+                <div n="28" type="verse">
+                    <p>Respondit Thomas, et dixit ei: Dominus meus, et Deus meus. </p>
+                </div>
+                <div n="29" type="verse">
+                    <p>Dixit ei Iesus: Quia vidisti me Thoma, credidisti: beati qui non viderunt, et
+                        crediderunt. </p>
+                </div>
+                <div n="30" type="verse">
+                    <p>Multa quidem, et alia signa fecit Iesus in conspectu discipulorum suorum,
+                        quae non sunt scripta in libro hoc. </p>
+                </div>
+                <div n="31" type="verse">
+                    <p>Haec autem scripta sunt ut credatis, quia Iesus est Christus Filius Dei: et
+                        ut credentes, vitam habeatis in nomine eius. </p>
+                </div>
+            </div>
+            <div n="21" type="chapter">
+                <div n="1" type="verse">
+                    <p>Postea manifestavit se iterum Iesus discipulis ad mare Tiberiadis.
+                        Manifestavit autem sic: </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>Erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanael, qui
+                        erat a Cana Galilaeae, et filii Zebedaei, et alii ex discipulis eius duo.
+                    </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>Dicit eis Simon Petrus: Vado piscari. Dicunt ei: Venimus et nos tecum. Et
+                        exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>Mane autem facto stetit Iesus in littore: non tamen cognoverunt discipuli
+                        quia Iesus est. </p>
+                </div>
+                <div n="5" type="verse">
+                    <p>Dixit ergo eis Iesus: Pueri numquid pulmentarium habetis? Responderunt ei:
+                        Non. </p>
+                </div>
+                <div n="6" type="verse">
+                    <p>Dicit eis: Mittite in dexteram navigii rete: et invenietis. Miserunt ergo: et
+                        iam non valebant illud trahere prae multitudine piscium. </p>
+                </div>
+                <div n="7" type="verse">
+                    <p>Dixit ergo discipulus ille, quem diligebat Iesus, Petro: Dominus est. Simon
+                        Petrus cum audisset quia Dominus est, tunica succinxit se (erat enim nudus)
+                        et misit se in mare. </p>
+                </div>
+                <div n="8" type="verse">
+                    <p>Alii autem discipuli navigio venerunt: (non enim longe erant a terra, sed
+                        quasi cubitis ducentis) trahentes rete piscium. </p>
+                </div>
+                <div n="9" type="verse">
+                    <p>Ut ergo descenderunt in terram, viderunt prunas positas, et piscem
+                        superpositum, et panem. </p>
+                </div>
+                <div n="10" type="verse">
+                    <p>Dicit eis Iesus: Afferte de piscibus, quos prendidistis nunc. </p>
+                </div>
+                <div n="11" type="verse">
+                    <p>Ascendit Simon Petrus, et traxit rete in terram, plenum magnis piscibus
+                        centum quinquaginta tribus. Et cum tanti essent, non est scissum rete. </p>
+                </div>
+                <div n="12" type="verse">
+                    <p>Dicit eis Iesus: Venite, prandete. Et nemo audebat discumbentium interrogare
+                        eum: Tu quis es? scientes, quia Dominus est. </p>
+                </div>
+                <div n="13" type="verse">
+                    <p>Et venit Iesus, et accipit panem, et dat eis, et piscem similiter. </p>
+                </div>
+                <div n="14" type="verse">
+                    <p>Hoc iam tertio manifestatus est Iesus discipulis suis cum resurrexisset a
+                        mortuis. </p>
+                </div>
+                <div n="15" type="verse">
+                    <p>Cum ergo prandissent, dicit Simoni Petro Iesus: Simon Ioannis diligis me plus
+                        his? Dicit ei: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos
+                        meos. </p>
+                </div>
+                <div n="16" type="verse">
+                    <p>Dicit ei iterum: Simon Ioannis, diligis me? Ait illi: Etiam Domine, tu scis
+                        quia amo te. Dicit ei: Pasce agnos meos. </p>
+                </div>
+                <div n="17" type="verse">
+                    <p>Dicit ei tertio: Simon Ioannis, amas me? Contristatus est Petrus, quia dixit
+                        ei tertio, Amas me? et dixit ei: Domine tu omnia nosti: tu scis quia amo te.
+                        Dixit ei: Pasce oves meas. </p>
+                </div>
+                <div n="18" type="verse">
+                    <p>Amen, amen dico tibi: cum esses iunior cingebas te, et ambulabas ubi volebas:
+                        cum autem senueris, extendes manus tuas, et alius te cinget, et ducet quo tu
+                        non vis. </p>
+                </div>
+                <div n="19" type="verse">
+                    <p>Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc
+                        dixisset, dicit ei: Sequere me. </p>
+                </div>
+                <div n="20" type="verse">
+                    <p>Conversus Petrus vidit illum discipulum, quem diligebat Iesus, sequentem, qui
+                        et recubuit in coena super pectus eius, et dixit: Domine quis est qui tradet
+                        te? </p>
+                </div>
+                <div n="21" type="verse">
+                    <p>Hunc ergo cum vidisset Petrus, dixit Iesu: Domine hic autem quid? </p>
+                </div>
+                <div n="22" type="verse">
+                    <p>Dicit ei Iesus: Sic eum volo manere donec veniam, quid ad te? Tu me sequere.
+                    </p>
+                </div>
+                <div n="23" type="verse">
+                    <p>Exiit ergo sermo iste inter fratres quia discipulus ille non moritur. Et non
+                        dixit ei Iesus: Non moritur: sed: Sic eum volo manere donec veniam, quid ad
+                        te? </p>
+                </div>
+                <div n="24" type="verse">
+                    <p>Hic est discipulus ille, qui testimonium perhibet de his, et scripsit haec:
+                        et scimus, quia verum est testimonium eius. </p>
+                </div>
+                <div n="25" type="verse">
+                    <p>Sunt autem et alia multa, quae fecit Iesus: quae si scribantur per singula,
+                        nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros. </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oedipus Tyrannus</title>
+                <author>Sophocles</author>
+                <editor>Sir Richard Jebb</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Sophocles</author>
+                        <title>The Oedipus Tyrannus of Sophocles. Edited with introduction and notes by Sir Richard Jebb.</title>
+                        <imprint>
+                            <pubPlace>Cambridge</pubPlace>
+                            <publisher>Cambridge University Press</publisher>
+                            <date>1887</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body n="OT">
+            
+                <div>
+                    
+                    <l n="1"><w n="1">ὦ</w> <w n="2">τέκ</w> <w n="3">να</w> <w n="4">Κάδ</w> <w n="5">μου</w> <w n="6">τοῦ</w> <w n="7">πά</w> <w n="8">λαι</w> <w n="9">νέ</w> <w n="10">α</w> <w n="11">τρο</w> <w n="12">φή</w> </l>
+                    <l n="2"><w n="1">τί</w> <w n="2">νας</w> <w n="3">πο</w> <w n="4">θἕδ</w> <w n="5">ρας</w> <w n="6">τάσ</w> <w n="7">δε</w> <w n="8">μοι</w> <w n="9">θο</w> <w n="10">άδ</w> <w n="11">σε</w> <w n="12">τε</w> </l>
+                    <l n="3"><w n="1">ἱκ</w> <w n="2">τη</w> <w n="3">ρί</w> <w n="4">οις</w> <w n="5">κλά</w> <w n="6">δοι</w> <w n="7">σι</w> <w n="8">νἐκ</w> <w n="9">σεσ</w> <w n="10">τεμ</w> <w n="11">μέ</w> <w n="12">νοι</w> </l>
+                    <l n="4"><w n="1">πό</w> <w n="2">λις</w> <w n="3">δʼὁ</w> <w n="4">μοῦ</w> <w n="5">μὲν</w> <w n="6">θυ</w> <w n="7">μι</w> <w n="8">α</w> <w n="9">μά</w> <w n="10">των</w> <w n="11">γέ</w> <w n="12">μει</w> </l>
+                    <l n="5"><w n="1">ὁ</w> <w n="2">μοῦ</w> <w n="3">δὲ</w> <w n="4">παι</w> <w n="5">ά</w> <w n="6">νων</w> <w n="7">τε</w> <w n="8">καὶ</w> <w n="9">στε</w> <w n="10">ναγ</w> <w n="11">μά</w> <w n="12">των</w> </l>
+                    <l n="6"><w n="1">ἁ</w> <w n="2">γὼ</w> <w n="3">δι</w> <w n="4">και</w> <w n="5">ῶν</w> <w n="6">μὴ</w> <w n="7">παρʼ</w> <w n="8">ἀγ</w> <w n="9">γέ</w> <w n="10">λων</w> <w n="11">τέ</w> <w n="12">κνα</w> </l>
+                    <l n="7"><w n="1">ἄλ</w> <w n="2">λω</w> <w n="3">νἀ</w> <w n="4">κού</w> <w n="5">ειν</w> <w n="6">αὐ</w> <w n="7">τὸ</w> <w n="8">σὧ</w> <w n="9">δἐ</w> <w n="10">λή</w> <w n="11">λυ</w> <w n="12">θα</w> </l>
+                    <l n="8"><w n="1">ὁ</w> <w n="2">πᾶ</w> <w n="3">σι</w> <w n="4">κλει</w> <w n="5">νὸς</w> <w n="6">Οἰ</w> <w n="7">δί</w> <w n="8">πους</w> <w n="9">κα</w> <w n="10">λού</w> <w n="11">με</w> <w n="12">νος</w> </l>
+                    <l n="9"><w n="1">ἀλ</w> <w n="2">λὦ</w> <w n="3">γε</w> <w n="4">ραι</w> <w n="5">έ</w> <w n="6">φράδ</w> <w n="7">σἐ</w> <w n="8">πεὶ</w> <w n="9">πρέ</w> <w n="10">πω</w> <w n="11">νἔ</w> <w n="12">φυς</w> </l>
+                    <l n="10"><w n="1">πρὸ</w> <w n="2">τῶν</w> <w n="3">δε</w> <w n="4">φω</w> <w n="5">νεῖν</w> <w n="6">τί</w> <w n="7">νι</w> <w n="8">τρό</w> <w n="9">πῳ</w> <w n="10">κα</w> <w n="11">θέσ</w> <w n="12">τα</w> <w n="13">τε</w> </l>
+                    <l n="11"><w n="1">δεί</w> <w n="2">σαν</w> <w n="3">τε</w> <w n="4">σἢσ</w> <w n="5">τέρκ</w> <w n="6">σαν</w> <w n="7">τε</w> <w n="8">σὡς</w> <w n="9">θέ</w> <w n="10">λον</w> <w n="11">το</w> <w n="12">σἂν</w> </l>
+                    <l n="12"><w n="1">ἐ</w> <w n="2">μοῦ</w> <w n="3">προ</w> <w n="4">σαρ</w> <w n="5">κεῖν</w> <w n="6">πᾶν</w> <w n="7">δυ</w> <w n="8">σάλ</w> <w n="9">γη</w> <w n="10">τος</w> <w n="11">γὰρ</w> <w n="12">ἂν</w> </l>
+                    <l n="13"><w n="1">εἴ</w> <w n="2">ην</w> <w n="3">τοι</w> <w n="4">άν</w> <w n="5">δε</w> <w n="6">μὴοὐ</w> <w n="7">κα</w> <w n="8">τοικ</w> <w n="9">τί</w> <w n="10">ρω</w> <w n="11">νἕ</w> <w n="12">δραν</w> </l>
+                </div>
+                
+            
+        </body>
+    </text>
+</TEI>
