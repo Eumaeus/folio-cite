@@ -1,3 +1,3 @@
-# Leipzig CTS Test
+# Folio CITE    
 
-This is a repository of XML files and configuration files for testing a Canonical Text Services implementation. This is a collaboration between Leipzig University and Furman University.
+This is a repository of images, texs, and data served by the CITE service on [folio.furman.edu/citeservlet/]().
