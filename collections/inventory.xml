@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collectionService 
+    xmlns="http://chs.harvard.edu/xmlns/cite"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <citeCollection canonicalId="URN" 
+        label="name"
+        urn="urn:cite:botcar:catesbyLabels">
+        <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans/botcar"/>
+        
+        <dc:title>Botanica Caroliniana: Labels</dc:title>
+        <dc:description>BC: Labels on historical botanical specimens</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="botcar/botcarLabels.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgURN" type="citeimg"/>
+        <citeProperty label="Text" name="text" type="string"/>
+        <citeProperty label="Category" name="category" type="string">
+            <valueList>
+                <value>Typed Label</value>
+                <value>Pen on Label</value>
+                <value>Pen on Page</value>
+                <value>Pencil on Page</value>
+            </valueList>
+        </citeProperty>
+        <!--<citeProperty label="Authority" name="auth" type="string"/>
+        <citeProperty label="Century" name="century" type="number"/>-->
+        <citeProperty label="Contributer" name="Contributer" type="authuser"/>
+        <citeProperty label="Date" name="Date" type="string"/>
+        <citeProperty label="Name" name="name" type="string"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="specimenURN"
+        label="name" 
+        urn="urn:cite:botcar:sloane">
+        <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Catesby Specimens</dc:title>
+        <dc:description>BC: Specimens in Mark Catesbys H.S. volumes from the Sloane Herbarium</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="botcar/catesbySpecimens.csv"/>
+        
+        <citeProperty label="Specimen ID" name="specimenURN" type="citeurn"/>
+        <citeProperty label="Name" name="name" type="string"/>
+        <citeProperty label="Scientific Name" name="scientificName" type="string"/>
+        <citeProperty label="Species URN" name="speciesURN" type="citeurn"/>
+        <citeProperty label="Common Name" name="commonName" type="string"/>
+        <citeProperty label="Genus URN" name="genusURN" type="citeurn"/>
+        <citeProperty label="Family URN" name="familyURN" type="citeurn"/>
+        <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
+        <citeProperty label="Folio Image" name="folioImage" type="citeimg"/>
+        <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeimg"/>
+        <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"/>
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" 
+        label="name"
+        urn="urn:cite:fums:msfeatures">
+        <namespaceMapping
+            abbr="fums"
+            fullValue="http://folio.furman.edu/datans/fums"/>
+        
+        <dc:title>Furman University Manuscripts: Features</dc:title>
+        <dc:description>FU-MSS: Features on Manuscripts</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="mss/ManuscriptFeatures.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Folio URN" name="FolioURN" type="citeurn"/>
+        <citeProperty label="Image URN" name="ImageURN" type="citeimg"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Name" name="name" type="string"/>
+       
+    </citeCollection>
+    
+    <citeCollection canonicalId="folioURN" 
+        label="name"
+        urn="urn:cite:fufolio:msCodBod25">
+        <namespaceMapping
+            abbr="fufolio"
+            fullValue="http://folio.furman.edu/datans/fufolio"/>
+        
+        <dc:title>Furman University Manuscripts: Folio-sides, Codex Bodmer 25</dc:title>
+        <dc:description>FU-MSS: Folio-sides, Codex Bodmer 25</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="Sequence"/>
+        <source
+            type="file"
+            value="mss/folio-sides.csv"/>
+        
+        <citeProperty label="Sequence" name="Sequence" type="number"/>
+        <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
+        <citeProperty label="Siglum" name="Siglum" type="string"/>
+        <citeProperty label="Recto or Verso" name="RV" type="string"/>
+        <citeProperty label="Name" name="caption" type="string"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="folioURN" 
+        label="name"
+        urn="urn:cite:fufolio:msChad">
+        <namespaceMapping
+            abbr="fufolio"
+            fullValue="http://folio.furman.edu/datans/fufolio"/>
+        
+        <dc:title>Furman University Manuscripts: Folio-sides, St. Chad Gospel</dc:title>
+        <dc:description>FU-MSS: Folio-sides, St. Chad Gospels</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="Sequence"/>
+        <source
+            type="file"
+            value="folio/chad-sides.csv"/>
+        
+        <citeProperty label="Sequence" name="Sequence" type="number"/>
+        <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
+        <citeProperty label="Siglum" name="Siglum" type="string"/>
+        <citeProperty label="Recto or Verso" name="RV" type="string"/>
+        <citeProperty label="Name" name="Description" type="string"/>
+        
+    </citeCollection>
+    <citeCollection canonicalId="folioURN" 
+        label="name"
+        urn="urn:cite:fufolio:msWycliffe">
+        <namespaceMapping
+            abbr="fufolio"
+            fullValue="http://folio.furman.edu/datans/fufolio"/>
+        
+        <dc:title>Furman University Manuscripts: Folio-sides, The Wycliffe New Testament</dc:title>
+        <dc:description>FU-MSS: Folio-sides, The Wycliffe New Testament</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="Sequence"/>
+        <source
+            type="file"
+            value="folio/wycliffe-sides.csv"/>
+        
+        <citeProperty label="Sequence" name="Sequence" type="number"/>
+        <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
+        <citeProperty label="Siglum" name="Siglum" type="string"/>
+        <citeProperty label="Recto or Verso" name="RV" type="string"/>
+        <citeProperty label="Name" name="Description" type="string"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" 
+        label="name"
+        urn="urn:cite:fums:CharacterInv">
+        <namespaceMapping
+            abbr="fums"
+            fullValue="http://folio.furman.edu/datans/fums"/>
+        
+        <dc:title>Furman University Manuscripts: Character Inventory</dc:title>
+        <dc:description>FU-MSS: Inventory of Character Forms, Ligatures, &amp;c.</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="mss/char_inv.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Description" name="description" type="string"/>
+        <citeProperty label="Type" name="type" type="string">
+            <valueList>
+                <value>ligature</value>
+                <value>abbreviation</value>
+                <value>character</value>
+            </valueList>
+        </citeProperty>
+        <citeProperty label="Name" name="name" type="string"/>
+        
+        
+    </citeCollection>
+    
+</collectionService>
