@@ -13,6 +13,10 @@
 - Version bumped for citeservlet.
 - On [folio.furman.edu]().
 
+## CiteServlet
+
+- See why object-text alignment is off by one.
+
 ## CiteUri & Apache Config
 
 - Clean up rewrites and redirects
