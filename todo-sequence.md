@@ -5,6 +5,7 @@
 - All extant BotCar collections in service.
 - All extent BotCar indices in service.
 - BotCar scripts in git.
+- Website in GitHub
 
 ## CiteKit
 
@@ -26,5 +27,6 @@
 
 ## General Documentation
 
+- Fix Unicode characters in gradle build of .ttl?
 - Note how many RDF statements are currently being hosted on [folio.furman.edu]()
 - Move TextInventory into place on citeservlet

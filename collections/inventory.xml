@@ -4,9 +4,12 @@
     xmlns="http://chs.harvard.edu/xmlns/cite"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
-    <citeCollection canonicalId="URN" 
-        label="name"
-        urn="urn:cite:botcar:catesbyLabels">
+    <!-- Botanica Caroliniana Collections -->
+    
+    <citeCollection 
+        urn="urn:cite:botcar:catesbyLabels"
+        canonicalId="URN" 
+        label="name">
         <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans/botcar"/>
         
         <dc:title>Botanica Caroliniana: Labels</dc:title>
@@ -37,9 +40,10 @@
         
     </citeCollection>
     
-    <citeCollection canonicalId="specimenURN"
-        label="name" 
-        urn="urn:cite:botcar:sloane">
+    <citeCollection 
+        urn="urn:cite:botcar:sloane" 
+        canonicalId="specimenURN"
+        label="name">
         <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans"/>
         <dc:title>Botanica Caroliniana: Catesby Specimens</dc:title>
         <dc:description>BC: Specimens in Mark Catesbys H.S. volumes from the Sloane Herbarium</dc:description>
@@ -62,7 +66,65 @@
         <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeimg"/>
         <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"/>
     </citeCollection>
+   
     
+    <citeCollection 
+        urn="urn:cite:botcar:species"
+        canonicalId="speciesURN" 
+        label="scientificName">
+        <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Species</dc:title>
+        <dc:description>BC: Species represented in the Botanica Caroliniana dataset"</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="botcar/species.csv"/>
+        <citeProperty label="Species ID" name="speciesURN" type="citeurn"/>
+        <citeProperty label="Scientific Name" name="scientificName" type="string"/>
+    </citeCollection>
+    
+<citeCollection 
+    urn="urn:cite:botcar:genera"
+    canonicalId="genusURN"
+     label="genusName">
+        <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans"/>
+    <dc:title>Botanica Caroliniana: Genus</dc:title>
+    <dc:description>BC: Genera represented in the Botanica Caroliniana dataset</dc:description>
+    <dc:rights>All data in this collection are available
+        under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+        http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+    <source
+        type="file"
+        value="botcar/genera.csv"/>
+        <citeProperty label="Genus ID" name="genusURN" type="citeurn"/>
+        <citeProperty label="Genus Name" name="genusName" type="string"/>
+        <citeProperty label="Family URN" name="familyURN" type="citeurn"/>
+        <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"
+            />
+    </citeCollection>
+    
+<citeCollection 
+    urn="urn:cite:botcar:family"
+    label="familyName"
+    canonicalId="familyURN">
+        <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans"/>
+    <dc:title>Botanica Caroliniana: Family</dc:title>
+    <dc:description>BC: Families represented in the Botanica Caroliniana dataset</dc:description>
+    <dc:rights>All data in this collection are available
+        under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+        http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+    <source
+        type="file"
+        value="botcar/families.csv"/>
+        <citeProperty label="Family ID" name="familyURN" type="citeurn"/>
+        <citeProperty label="Family Name" name="familyName" type="string"/>
+        <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"/>
+    </citeCollection>
+   
+   <!-- Manuscript Collections -->
+   
     <citeCollection canonicalId="URN" 
         label="name"
         urn="urn:cite:fums:msfeatures">
