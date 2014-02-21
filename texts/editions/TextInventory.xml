@@ -1,86 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TextInventory tiversion="4.0" xmlns="http://chs.harvard.edu/xmlns/cts/ti">
+<TextInventory tiversion="5.0.rc.1" xmlns="http://chs.harvard.edu/xmlns/cts">
     <ctsnamespace abbr="greekLit" ns="chs.harvard.edu/ctsns">
         <description xml:lang="eng">The "First Thousand Years of Greek" project's inventory of Greek texts.</description>
     </ctsnamespace>
     <ctsnamespace abbr="latinLit" ns="http://perseus.org/namespaces/cts/latinLit">
         <description xml:lang="eng">Latin texts hosted by the Perseus Digital Library</description>
     </ctsnamespace>
-    <!--<ctsnamespace abbr="bbc" ns="cts.dh.uni-leipzig.de/bbc">
-        <description xml:lang="eng">
-            The Big Bible Collection.
-        </description>
-    </ctsnamespace>-->
+    
     <ctsnamespace abbr="botcar" ns="folio.furman.edu/ctsns">
         <description xml:lang="eng">Botanica Caroliniana.</description>
     </ctsnamespace>
     <ctsnamespace abbr="wexler" ns="folio.furman.edu/ctsns">
         <description xml:lang="eng">The Wexler Digital Museum.</description>
     </ctsnamespace>
-    <collection id="fu-texts">
-        <title xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Furman University Classical Texts</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">C.W. Blackwell</creator>
-        <coverage xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Selected texts</coverage>
-        <description xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts for teaching and research at Furman University’s Department of
-            classics</description>
-        <rights xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts in the Public Domain or licensed by copyright holders under a Creative
-            Commons 3.0 BY-NC Unported license.</rights>
-    </collection>
-    <collection id="wexler">
-        <title xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Furman University Classical Texts</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">C.W. Blackwell</creator>
-        <coverage xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Selected texts</coverage>
-        <description xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts related to the Wexler Digital Museum</description>
-        <rights xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts in the Public Domain or licensed by copyright holders under a Creative
-            Commons 3.0 BY-NC Unported license.</rights>
-    </collection>
-    <collection id="lichfield">
-        <title xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Furman University Classical Texts</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">C.W. Blackwell</creator>
-        <coverage xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Selected texts</coverage>
-        <description xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts for teaching and research at Furman University’s Department of
-            classics</description>
-        <rights xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts in the Public Domain or licensed by copyright holders under a Creative
-            Commons 3.0 BY-NC Unported license.</rights>
-    </collection>
-    <collection id="prose">
-        <title xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Prose Texts</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">C.W. Blackwell</creator>
-        <coverage xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Selected texts</coverage>
-        <description xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts for teaching and research at Furman University’s Department of
-            classics</description>
-        <rights xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts in the Public Domain or licensed by copyright holders under a Creative
-            Commons 3.0 BY-NC Unported license.</rights>
-    </collection>
-    <collection id="demos">
-        <title xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Demos Texts</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">C.W. Blackwell</creator>
-        <coverage xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Selected texts</coverage>
-        <description xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts for teaching and research at Furman University’s Department of
-            classics</description>
-        <rights xml:lang="eng" xmlns="http://purl.org/dc/elements/1.1/">Texts in the Public Domain or licensed by copyright holders under a Creative
-            Commons 3.0 BY-NC Unported license.</rights>
-    </collection>
-    <!--<collection id="bible-collection">
-        <title xmlns="http://purl.org/dc/elements/1.1/" xml:lang="eng">The Big Bible Collection</title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/">Marco BÜCHLER</creator>
-        <coverage xmlns="http://purl.org/dc/elements/1.1/" xml:lang="">Selected texts</coverage>
-        <description xmlns="http://purl.org/dc/elements/1.1/" xml:lang=""
-            >Texts for initial tests of CTS server</description>
-        <rights xmlns="http://purl.org/dc/elements/1.1/" xml:lang="">TBD</rights>
-    </collection>-->
+    
     <textgroup urn="urn:cts:wexler:berl001">
         <groupname xml:lang="eng">Berlioz</groupname>
         <work urn="urn:cts:wexler:berl001.troy" xml:lang="fra">
             <title xml:lang="fra">Les Troyens</title>
             <edition urn="urn:cts:wexler:berl001.troy.fu03">
                 <label xml:lang="eng">Libretto 1856 (courtesy of operalively.com)</label>
-                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's
-                    Aeneid. Plain-text transcription provided by http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
-                    public domain.</description>
+                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's Aeneid. Plain-text transcription provided by http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the public domain.</description>
                 <online docname="Troyens/LesTroy-French.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
@@ -98,11 +41,9 @@
             </edition>
             <translation urn="urn:cts:wexler:berl001.troy.fu04" xml:lang="eng">
                 <label xml:lang="eng">Libretto 1856 Gazzola and Greenley, trans.</label>
-                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's
-                    Aeneid. Translation by Luiz Gazzola and Natalie Greenley. Copyright 2012, Opera Lively Press. Provided for use by this project
-                    under a Creative Commons 3.0 Attribution, Non-Commercial License.</description>
+                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's Aeneid. Translation by Luiz Gazzola and Natalie Greenley. Copyright 2012, Opera Lively Press. Provided for use by this project under a Creative Commons 3.0 Attribution, Non-Commercial License.</description>
                 <online docname="Troyens/LesTroy-English.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
@@ -118,180 +59,7 @@
                     </citationMapping>
                 </online>
             </translation>
-            <!--<edition urn="urn:cts:wexler:berl001.troy.fu01">
-                <label xml:lang="eng">Libretto 1856 (courtesy of operalively.com)</label>
-                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's
-                    Aeneid. Plain-text transcription provided by http://operalively.com. TEI XML by Christopher W. Blackwell. This text is in the
-                    public domain.</description>
-                <online docname="Troyens/French-orig.xml">
-                    <validate schema="tei_all.rng"/>
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Head" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']" xpath="/tei:head[@n='?']"/>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Head"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:head[@n='?']"/>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Stage"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:stage[@n='?']"/>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Stage"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:stage[@n='?']"/>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Head"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:head[@n='?']"/>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Speech"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:sp[@n='?']">
-                                        <citation label="Stage"
-                                            scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']/tei:sp[@n='?']"
-                                            xpath="/tei:stage[@n='?']"/>
-                                    </citation>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Speech"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:sp[@n='?']">
-                                        <citation label="Line"
-                                            scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']/tei:sp[@n='?']"
-                                            xpath="/tei:l[@n='?']"/>
-                                    </citation>
-                                </citation>
-                            </citation>
-                        </citation>
-                    </citationMapping>
-                </online>
-            </edition>
-            <translation urn="urn:cts:wexler:berl001.troy.fu02" xml:lang="eng">
-                <label xml:lang="eng">Libretto 1856 Gazzola and Greenley, trans.</label>
-                <description xml:lang="eng">Les Troyens, Grand-Opéra in Five Acts, libretto in French (1856) by Hector Berlioz, based on Virgil's
-                    Aeneid. Translation by Luiz Gazzola and Natalie Greenley. Copyright 2012, Opera Lively Press. Provided for use by this project
-                    under a Creative Commons 3.0 Attribution, Non-Commercial License.</description>
-                <online docname="Troyens/English-orig.xml">
-                    <validate schema="tei_all.rng"/>
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Head" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']" xpath="/tei:head[@n='?']"/>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Head"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:head[@n='?']"/>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Stage"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:stage[@n='?']"/>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Stage"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:stage[@n='?']"/>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Head"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:head[@n='?']"/>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Speech"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:sp[@n='?']">
-                                        <citation label="Stage"
-                                            scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']/tei:sp[@n='?']"
-                                            xpath="/tei:stage[@n='?']"/>
-                                    </citation>
-                                </citation>
-                            </citation>
-                        </citation>
-                        <citation label="Part" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='part' and @n='?']">
-                            <citation label="Act" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']"
-                                xpath="/tei:div[@type='act' and @n='?']">
-                                <citation label="Song"
-                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']"
-                                    xpath="/tei:div[@type='song' and @n='?']">
-                                    <citation label="Speech"
-                                        scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']"
-                                        xpath="/tei:sp[@n='?']">
-                                        <citation label="Line"
-                                            scope="/tei:TEI/tei:text/tei:body/tei:div[@type='part' and @n='?']/tei:div[@type='act' and @n='?']/tei:div[@type='song' and @n='?']/tei:sp[@n='?']"
-                                            xpath="/tei:l[@n='?']"/>
-                                    </citation>
-                                </citation>
-                            </citation>
-                        </citation>
-                    </citationMapping>
-                </online>
-            </translation>-->
+            
         </work>
     </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg0011">
@@ -301,7 +69,7 @@
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu01">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers and Sections marked</label>
                 <online docname="ot-grc-sections-speakers.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div1" xpath="/tei:l[@n='?']"/>
@@ -312,7 +80,7 @@
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu02">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers marked</label>
                 <online docname="ot-grc-speakers.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
@@ -322,7 +90,7 @@
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu03">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers not marked</label>
                 <online docname="ot-grc-bare.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
@@ -332,7 +100,7 @@
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu04">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Tokenized for syntax</label>
                 <online docname="ot-grc-tokenized.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']">
@@ -341,18 +109,7 @@
                     </citationMapping>
                 </online>
             </edition>
-            <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu05">
-                <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Tokenized for meter</label>
-                <online docname="ot-syll-num.xml">
-                    <validate schema="tei_all.rng"/>
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']">
-                            <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
-                        </citation>
-                    </citationMapping>
-                </online>
-            </edition>
+           
         </work>
     </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg0020">
@@ -363,7 +120,7 @@
             <edition urn="urn:cts:greekLit:tlg0020.tlg001.fu01">
                 <label xml:lang="eng">Furman University Edition</label>
                 <online docname="hesiod_theogony.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
@@ -381,9 +138,9 @@
             <title xml:lang="eng">Commentary on the Gospel According to Matthew</title>
             <edition urn="urn:cts:greekLit:fuNTPL.matth.msCB25">
                 <label xml:lang="eng">Codex Bodmer 25 text</label>
-                <description xml:lang="">The text of Peter of Laodicea’s Commentary on Matthew, transcribed from Codex Bodmer 25.</description>
+                <description xml:lang="eng">The text of Peter of Laodicea’s Commentary on Matthew, transcribed from Codex Bodmer 25.</description>
                 <online docname="nt/cb25-marginalia.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='work' and @n='Matthew']"
@@ -397,10 +154,9 @@
             </edition>
             <translation urn="urn:cts:greekLit:fuNTPL.matth.msCB25eng" xml:lang="eng">
                 <label xml:lang="eng">Codex Bodmer 25 English trans.</label>
-                <description xml:lang="eng">An English translation of the text of Peter of Laodicea’s Commentary on Matthew, transcribed from Codex
-                    Bodmer 25.</description>
+                <description xml:lang="eng">An English translation of the text of Peter of Laodicea’s Commentary on Matthew, transcribed from Codex Bodmer 25.</description>
                 <online docname="nt/cb25-marginalia-trans.xml">
-                    <validate schema="tei_all.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='work' and @n='Matthew']"
@@ -425,7 +181,7 @@
                 <label xml:lang="eng">Westcott and Hort - Matthew</label>
                 <description xml:lang="eng">Mathew - Based on Wescott and Hort, from the Perseus Digital Library text.</description>
                 <online docname="nt/WH_Matthew.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -439,7 +195,7 @@
                 <label xml:lang="eng">Codex Bodmer 25 - Matthew</label>
                 <description xml:lang="eng">Mathew - Diplomatic Transcription of Codex Bodmer 25</description>
                 <online docname="nt/cb25_Matthew.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
@@ -452,7 +208,7 @@
                 <label xml:lang="eng">The King James Version - Matthew</label>
                 <description xml:lang="eng">Mathew - The KJV, from the Project Gutenberg text.</description>
                 <online docname="nt/KJV_Matthew.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -466,7 +222,7 @@
                 <label xml:lang="eng">The New International Version - Matthew</label>
                 <description xml:lang="eng">Mathew - based on the NIV Text.</description>
                 <online docname="nt/Matthew-NIV.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -480,7 +236,7 @@
                 <label xml:lang="eng">Wycliffe (Lichfield, 1410) - Matthew</label>
                 <description xml:lang="eng">Mathew - A transcription of the Wycliffe translation of Matthew (1410) in Lichfield Cathedral. Transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Leah Elder, Christopher Blackwell, Brent Seales edd.</description>
                 <online docname="nt/Wycliffe-Matthew_np.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -494,7 +250,21 @@
                 <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Matthew</label>
                 <description xml:lang="eng">A transcription of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Tucker Hannah, Tony Brown, Christopher Blackwell, Brent Seales edd.</description>
                 <online docname="nt/Matthew-Latin-corrected.xml">
-                    <validate schema="chstei.rng"/>
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg001.demo" xml:lang="lat">
+                <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Matthew</label>
+                <description xml:lang="eng">A greatly truncated transcription for demonstration purposes of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Tucker Hannah, Tony Brown, Christopher Blackwell, Brent Seales edd.</description>
+                <online docname="nt/Matthew-Latin-corrected-trunc.xml">
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -508,7 +278,7 @@
                 <label xml:lang="lat">Biblia Sacra, Vulgata Editionis - Matthew</label>
                 <description xml:lang="eng">The Latin Vulgate</description>
                 <online docname="nt/Vulgate_Matthew.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -527,7 +297,7 @@
                 <label xml:lang="eng">Westcott and Hort - Mark</label>
                 <description xml:lang="eng">Mark - Based on Wescott and Hort, from the Perseus Digital Library text.</description>
                 <online docname="nt/WH_Mark.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -541,7 +311,7 @@
                 <label xml:lang="eng">Mark - The King James Version</label>
                 <description xml:lang="eng">Mark - The KJV, from the Project Gutenberg text.</description>
                 <online docname="nt/KJV_Mark.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -555,7 +325,7 @@
                 <label xml:lang="eng">The New International Version - Mark</label>
                 <description xml:lang="eng">Mark - based on the NIV Text.</description>
                 <online docname="nt/Mark-NIV.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -569,7 +339,7 @@
                 <label xml:lang="eng">Biblia Sacra, Vulgata Editionis, Marcum</label>
                 <description xml:lang="eng">The Latin Vulgate: Mark.</description>
                 <online docname="nt/Vulgate_Mark.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -583,7 +353,7 @@
                 <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Mark</label>
                 <description xml:lang="eng">A transcription of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Bonnie Lewis, ed.</description>
                 <online docname="nt/Mark-Latin-np.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -593,8 +363,8 @@
                     </citationMapping>
                 </online>
             </translation>
-            <memberof collection="prose"/>
-            <memberof collection="lichfield"/>
+            
+            
         </work>
     </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg1407">
@@ -605,7 +375,7 @@
             <edition urn="urn:cts:greekLit:tlg1407.tlg001.fu01">
                 <label xml:lang="eng">Based on the edition of M.R. Dilts, “Heraclidis Lembi excerpta politiarum”, Durham: Duke University Press, 1971; Greek, Roman and Byzantine monographs 5. Normalized, hierarchical citation scheme, emendations to text, application of editorial and semantic markup.</label>
                 <online docname="Herac_Lembus_Politeia.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -615,8 +385,8 @@
                     </citationMapping>
                 </online>
             </edition>
-            <memberof collection="prose"/>
-            <memberof collection="demos"/>
+            
+            
         </work>
     </textgroup>
     <textgroup urn="urn:cts:botcar:lawson">
@@ -627,7 +397,7 @@
                 <label xml:lang="eng">1709 ed.</label>
                 <description xml:lang="eng">A New Voyage to Carolina; Containing the Exact Description and Natural History of That Country: Together with the Present State Thereof. And A Journal of a Thousand Miles, Travel’d Thro’ Several Nations of Indians. Giving a Particular Account of Their Customs, Manners, &amp;c. Based on the 2001 digital transcription of this Public Domain work by the University of North Carolina, with funding from the Institute for Museum and Library Services; Apex Data Services, Inc., Melissa Graham Meeks and Natalia Smith.</description>
                 <online docname="botcar/Lawson.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Section" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
@@ -648,7 +418,7 @@
                 <label xml:lang="eng">Furman/Perseus Text, based on Greenough</label>
                 <description xml:lang="eng">An edition based on the Perseus XML text.</description>
                 <online docname="Aeneid-Lat.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
@@ -667,7 +437,7 @@
                 <label xml:lang="eng">Furman/Perseus Text, based on Allen</label>
                 <description xml:lang="eng">An edition based on the Perseus XML text.</description>
                 <online docname="Allen-Iliad.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
@@ -683,7 +453,7 @@
                 <label xml:lang="eng">Furman Univ., after von der Mühl</label>
                 <description xml:lang="eng">Homer, Odyssey, a new electronic edition based on the readings and emendations of P. von der Mühl 1962) and additional semantic markup.</description>
                 <online docname="fu-odyssey-grc-utf8.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
@@ -704,7 +474,7 @@
                 <label xml:lang="eng">A digital edition based on that of F.G. Kenyon (1920)</label>
                 <description xml:lang="eng">A digital edition of based on that of F.G. Kenyon (1920), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
                 <online docname="athpol.xml">
-                    <validate schema="chstei.rng"/>
+                    
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
@@ -713,7 +483,7 @@
                         </citation>
                     </citationMapping>
                 </online>
-                <memberof collection="demos"/>
+                
             </edition>
         </work>
     </textgroup>

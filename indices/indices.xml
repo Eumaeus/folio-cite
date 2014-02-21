@@ -3,6 +3,7 @@
 <indexInventory xmlns="http://chs.harvard.edu/xmlns/cite">
       <rdfNamespace abbr="hmt" fullValue="http://www.homermultitext.org/hmt/rdf/"></rdfNamespace>
       <rdfNamespace abbr="cite" fullValue="http://www.homermultitext.org/cite/rdf/"></rdfNamespace>
+      <rdfNamespace abbr="bctaxon" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
     <index verb="cite:illustratedBy" inverse="cite:illustrates">
         <source type="file" value="image-features.csv"></source>
     </index>
@@ -23,5 +24,22 @@
     </index>
     <index verb="cite:hasOnIt" inverse="cite:appearsOn">
         <source type="file" value="RI_FolioCitation_Matthew.tsv"></source>
+    </index>
+    
+    <!-- Botanica Caroliniana Indices -->
+    
+    <!--        Taxonomy: Parent/Child relations -->
+    
+    <index verb="bctaxon:childOf" inverse="cite:hasChild">
+        <source type="file" value="botcar/tax-genus-family.tsv"></source>
+    </index>
+    <index verb="bctaxon:childOf" inverse="bctaxon:hasChild">
+        <source type="file" value="botcar/tax-species-genus.tsv"></source>
+    </index>
+    
+    
+    <!--        Taxonomy: Specimen/Species relations -->
+    <index verb="bctaxon:exampleOf" inverse="bctaxon:identifiedBy">
+        <source type="file" value="botcar/tax-specimen-species.tsv"></source>
     </index>
 </indexInventory>
