@@ -30,16 +30,16 @@
     
     <!--        Taxonomy: Parent/Child relations -->
     
-    <index verb="bctaxon:childOf" inverse="cite:hasChild">
+   <!-- <index verb="bctaxon:childOf" inverse="cite:hasChild">
         <source type="file" value="botcar/tax-genus-family.tsv"></source>
     </index>
     <index verb="bctaxon:childOf" inverse="bctaxon:hasChild">
         <source type="file" value="botcar/tax-species-genus.tsv"></source>
-    </index>
+    </index>-->
     
     
     <!--        Taxonomy: Specimen/Species relations -->
-    <index verb="bctaxon:exampleOf" inverse="bctaxon:identifiedBy">
+    <!--<index verb="bctaxon:exampleOf" inverse="bctaxon:identifiedBy">
         <source type="file" value="botcar/tax-specimen-species.tsv"></source>
-    </index>
+    </index>-->
 </indexInventory>

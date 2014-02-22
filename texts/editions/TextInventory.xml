@@ -260,20 +260,7 @@
                     </citationMapping>
                 </online>
             </translation>
-            <translation urn="urn:cts:greekLit:tlg0031.tlg001.demo" xml:lang="lat">
-                <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Matthew</label>
-                <description xml:lang="eng">A greatly truncated transcription for demonstration purposes of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Tucker Hannah, Tony Brown, Christopher Blackwell, Brent Seales edd.</description>
-                <online docname="nt/Matthew-Latin-corrected-trunc.xml">
-                    
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="Verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
-                                xpath="/tei:div[@type='verse' and @n='?']"/>
-                        </citation>
-                    </citationMapping>
-                </online>
-            </translation>
+            
             <translation urn="urn:cts:greekLit:tlg0031.tlg001.fu002" xml:lang="lat">
                 <label xml:lang="lat">Biblia Sacra, Vulgata Editionis - Matthew</label>
                 <description xml:lang="eng">The Latin Vulgate</description>
