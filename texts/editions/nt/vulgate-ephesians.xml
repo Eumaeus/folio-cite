@@ -1,0 +1,726 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biblia Sacra, Vulgata Editionis, Ephesians</title>
+                <editor xml:id="cwb">Christopher Blackwell</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>An XML Edition based on the public domain text</edition>
+                <respStmt>
+                    <name>Christopher Blackwell</name>
+                    <resp>ed.</resp>
+                </respStmt>
+            </editionStmt>
+            <extent>under 1Mb</extent>
+            <publicationStmt>
+                <publisher> The Center for Hellenic Studies of Harvard University </publisher>
+                <authority>
+                    <name>Casey Dué and Mary Ebbott, edd.</name>
+                </authority>
+                <availability>
+                    <p>©2010, The Center for Hellenic Studies. This work is made available under the
+                        Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States
+                        License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/ </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+                <language ident="deu">German</language>
+                <language ident="fra">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="lat">
+        <body>
+           
+                <div type="chapter" n="1">
+                    <div type="verse" n="1">
+                        <p> Paulus apostolus Christi Iesu per voluntatem Dei
+                            sanctis omnibus qui sunt Ephesi et fidelibus in
+                            Christo Iesu </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> gratia vobis et pax a Deo Patre nostro et Domino Iesu
+                            Christo </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> benedictus Deus et Pater Domini nostri Iesu Christi
+                            qui benedixit nos in omni benedictione spiritali in
+                            caelestibus in Christo </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> sicut elegit nos in ipso ante mundi constitutionem ut
+                            essemus sancti et inmaculati in conspectu eius in
+                            caritate </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> qui praedestinavit nos in adoptionem filiorum per
+                            Iesum Christum in ipsum secundum propositum
+                            voluntatis suae </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> in laudem gloriae gratiae suae in qua gratificavit
+                            nos in dilecto </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> in quo habemus redemptionem per sanguinem eius
+                            remissionem peccatorum secundum divitias gratiae
+                            eius </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> quae superabundavit in nobis in omni sapientia et
+                            prudentia </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> ut notum faceret nobis sacramentum voluntatis suae
+                            secundum bonum placitum eius quod proposuit in eo
+                        </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> in dispensationem plenitudinis temporum instaurare
+                            omnia in Christo quae in caelis et quae in terra
+                            sunt in ipso </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> in quo etiam sorte vocati sumus praedestinati
+                            secundum propositum eius qui omnia operatur secundum
+                            consilium voluntatis suae </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> ut simus in laudem gloriae eius qui ante speravimus
+                            in Christo </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> in quo et vos cum audissetis verbum veritatis
+                            evangelium salutis vestrae in quo et credentes
+                            signati estis Spiritu promissionis Sancto </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> qui est pignus hereditatis nostrae in redemptionem
+                            adquisitionis in laudem gloriae ipsius </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> propterea et ego audiens fidem vestram quae est in
+                            Domino Iesu et dilectionem in omnes sanctos </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> non cesso gratias agens pro vobis memoriam vestri
+                            faciens in orationibus meis </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> ut Deus Domini nostri Iesu Christi Pater gloriae det
+                            vobis spiritum sapientiae et revelationis in
+                            agnitione eius </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> inluminatos oculos cordis vestri ut sciatis quae sit
+                            spes vocationis eius quae divitiae gloriae
+                            hereditatis eius in sanctis </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> et quae sit supereminens magnitudo virtutis eius in
+                            nos qui credidimus secundum operationem potentiae
+                            virtutis eius </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> quam operatus est in Christo suscitans illum a
+                            mortuis et constituens ad dexteram suam in
+                            caelestibus </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> supra omnem principatum et potestatem et virtutem et
+                            dominationem et omne nomen quod nominatur non solum
+                            in hoc saeculo sed et in futuro </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p> et omnia subiecit sub pedibus eius et ipsum dedit
+                            caput supra omnia ecclesiae </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p> quae est corpus ipsius plenitudo eius qui omnia in
+                            omnibus adimpletur</p>
+                    </div>
+                </div>
+                <div type="chapter" n="2">
+                    <div type="verse" n="1">
+                        <p> et vos cum essetis mortui delictis et peccatis
+                            vestris </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> in quibus aliquando ambulastis secundum saeculum
+                            mundi huius secundum principem potestatis aeris
+                            huius spiritus qui nunc operatur in filios
+                            diffidentiae </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> in quibus et nos omnes aliquando conversati sumus in
+                            desideriis carnis nostrae facientes voluntates
+                            carnis et cogitationum et eramus natura filii irae
+                            sicut et ceteri </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> Deus autem qui dives est in misericordia propter
+                            nimiam caritatem suam qua dilexit nos </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> et cum essemus mortui peccatis convivificavit nos
+                            Christo gratia estis salvati </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> et conresuscitavit et consedere fecit in caelestibus
+                            in Christo Iesu </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> ut ostenderet in saeculis supervenientibus abundantes
+                            divitias gratiae suae in bonitate super nos in
+                            Christo Iesu </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> gratia enim estis salvati per fidem et hoc non ex
+                            vobis Dei enim donum est </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> non ex operibus ut ne quis glorietur </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> ipsius enim sumus factura creati in Christo Iesu in
+                            operibus bonis quae praeparavit Deus ut in illis
+                            ambulemus </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> propter quod memores estote quod aliquando vos gentes
+                            in carne qui dicimini praeputium ab ea quae dicitur
+                            circumcisio in carne manufacta </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> quia eratis illo in tempore sine Christo alienati a
+                            conversatione Israhel et hospites testamentorum
+                            promissionis spem non habentes et sine Deo in mundo
+                        </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> nunc autem in Christo Iesu vos qui aliquando eratis
+                            longe facti estis prope in sanguine Christi </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> ipse est enim pax nostra qui fecit utraque unum et
+                            medium parietem maceriae solvens inimicitiam in
+                            carne sua </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> legem mandatorum decretis evacuans ut duos condat in
+                            semet ipsum in unum novum hominem faciens pacem </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> et reconciliet ambos in uno corpore Deo per crucem
+                            interficiens inimicitiam in semet ipso </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> et veniens evangelizavit pacem vobis qui longe
+                            fuistis et pacem his qui prope </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> quoniam per ipsum habemus accessum ambo in uno
+                            Spiritu ad Patrem </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> ergo iam non estis hospites et advenae sed estis
+                            cives sanctorum et domestici Dei </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> superaedificati super fundamentum apostolorum et
+                            prophetarum ipso summo angulari lapide Christo Iesu
+                        </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> in quo omnis aedificatio constructa crescit in
+                            templum sanctum in Domino </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p> in quo et vos coaedificamini in habitaculum Dei in
+                            Spiritu</p>
+                    </div>
+                </div>
+                <div type="chapter" n="3">
+                    <div type="verse" n="1">
+                        <p> huius rei gratia ego Paulus vinctus Christi Iesu pro
+                            vobis gentibus </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> si tamen audistis dispensationem gratiae Dei quae
+                            data est mihi in vobis </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> quoniam secundum revelationem notum mihi factum est
+                            sacramentum sicut supra scripsi in brevi </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> prout potestis legentes intellegere prudentiam meam
+                            in mysterio Christi </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> quod aliis generationibus non est agnitum filiis
+                            hominum sicuti nunc revelatum est sanctis apostolis
+                            eius et prophetis in Spiritu </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> esse gentes coheredes et concorporales et
+                            conparticipes promissionis in Christo Iesu per
+                            evangelium </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> cuius factus sum minister secundum donum gratiae Dei
+                            quae data est mihi secundum operationem virtutis
+                            eius </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> mihi omnium sanctorum minimo data est gratia haec in
+                            gentibus evangelizare ininvestigabiles divitias
+                            Christi </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> et inluminare omnes quae sit dispensatio sacramenti
+                            absconditi a saeculis in Deo qui omnia creavit </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> ut innotescat principibus et potestatibus in
+                            caelestibus per ecclesiam multiformis sapientia Dei
+                        </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> secundum praefinitionem saeculorum quam fecit in
+                            Christo Iesu Domino nostro </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> in quo habemus fiduciam et accessum in confidentia
+                            per fidem eius </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> propter quod peto ne deficiatis in tribulationibus
+                            meis pro vobis quae est gloria vestra </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> huius rei gratia flecto genua mea ad Patrem Domini
+                            nostri Iesu Christi </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> ex quo omnis paternitas in caelis et in terra
+                            nominatur </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> ut det vobis secundum divitias gloriae suae virtute
+                            corroborari per Spiritum eius in interiore homine
+                        </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> habitare Christum per fidem in cordibus vestris in
+                            caritate radicati et fundati </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> ut possitis conprehendere cum omnibus sanctis quae
+                            sit latitudo et longitudo et sublimitas et profundum
+                        </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> scire etiam supereminentem scientiae caritatem
+                            Christi ut impleamini in omnem plenitudinem Dei </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> ei autem qui potens est omnia facere superabundanter
+                            quam petimus aut intellegimus secundum virtutem quae
+                            operatur in nobis </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> ipsi gloria in ecclesia et in Christo Iesu in omnes
+                            generationes saeculi saeculorum amen</p>
+                    </div>
+                </div>
+                <div type="chapter" n="4">
+                    <div type="verse" n="1">
+                        <p> obsecro itaque vos ego vinctus in Domino ut digne
+                            ambuletis vocatione qua vocati estis </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> cum omni humilitate et mansuetudine cum patientia
+                            subportantes invicem in caritate </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> solliciti servare unitatem spiritus in vinculo pacis
+                        </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> unum corpus et unus spiritus sicut vocati estis in
+                            una spe vocationis vestrae </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> unus Dominus una fides unum baptisma </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> unus Deus et Pater omnium qui super omnes et per
+                            omnia et in omnibus nobis </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> unicuique autem nostrum data est gratia secundum
+                            mensuram donationis Christi </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> propter quod dicit ascendens in altum captivam duxit
+                            captivitatem dedit dona hominibus </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> quod autem ascendit quid est nisi quia et descendit
+                            primum in inferiores partes terrae </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> qui descendit ipse est et qui ascendit super omnes
+                            caelos ut impleret omnia </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> et ipse dedit quosdam quidem apostolos quosdam autem
+                            prophetas alios vero evangelistas alios autem
+                            pastores et doctores </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> ad consummationem sanctorum in opus ministerii in
+                            aedificationem corporis Christi </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> donec occurramus omnes in unitatem fidei et
+                            agnitionis Filii Dei in virum perfectum in mensuram
+                            aetatis plenitudinis Christi </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> ut iam non simus parvuli fluctuantes et circumferamur
+                            omni vento doctrinae in nequitia hominum in astutia
+                            ad circumventionem erroris </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> veritatem autem facientes in caritate crescamus in
+                            illo per omnia qui est caput Christus </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> ex quo totum corpus conpactum et conexum per omnem
+                            iuncturam subministrationis secundum operationem in
+                            mensuram uniuscuiusque membri augmentum corporis
+                            facit in aedificationem sui in caritate </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> hoc igitur dico et testificor in Domino ut iam non
+                            ambuletis sicut gentes ambulant in vanitate sensus
+                            sui </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> tenebris obscuratum habentes intellectum alienati a
+                            vita Dei per ignorantiam quae est in illis propter
+                            caecitatem cordis ipsorum </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> qui desperantes semet ipsos tradiderunt inpudicitiae
+                            in operationem inmunditiae omnis in avaritia </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> vos autem non ita didicistis Christum </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> si tamen illum audistis et in ipso edocti estis sicut
+                            est veritas in Iesu </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p> deponere vos secundum pristinam conversationem
+                            veterem hominem qui corrumpitur secundum desideria
+                            erroris </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p> renovamini autem spiritu mentis vestrae </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p> et induite novum hominem qui secundum Deum creatus
+                            est in iustitia et sanctitate veritatis </p>
+                    </div>
+                    <div type="verse" n="25">
+                        <p> propter quod deponentes mendacium loquimini veritatem
+                            unusquisque cum proximo suo quoniam sumus invicem
+                            membra </p>
+                    </div>
+                    <div type="verse" n="26">
+                        <p> irascimini et nolite peccare sol non occidat super
+                            iracundiam vestram </p>
+                    </div>
+                    <div type="verse" n="27">
+                        <p> nolite locum dare diabolo </p>
+                    </div>
+                    <div type="verse" n="28">
+                        <p> qui furabatur iam non furetur magis autem laboret
+                            operando manibus quod bonum est ut habeat unde
+                            tribuat necessitatem patienti </p>
+                    </div>
+                    <div type="verse" n="29">
+                        <p> omnis sermo malus ex ore vestro non procedat sed si
+                            quis bonus ad aedificationem oportunitatis ut det
+                            gratiam audientibus </p>
+                    </div>
+                    <div type="verse" n="30">
+                        <p> et nolite contristare Spiritum Sanctum Dei in quo
+                            signati estis in die redemptionis </p>
+                    </div>
+                    <div type="verse" n="31">
+                        <p> omnis amaritudo et ira et indignatio et clamor et
+                            blasphemia tollatur a vobis cum omni malitia </p>
+                    </div>
+                    <div type="verse" n="32">
+                        <p> estote autem invicem benigni misericordes donantes
+                            invicem sicut et Deus in Christo donavit nobis</p>
+                    </div>
+                </div>
+                <div type="chapter" n="5">
+                    <div type="verse" n="1">
+                        <p> estote ergo imitatores Dei sicut filii carissimi </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> et ambulate in dilectione sicut et Christus dilexit
+                            nos et tradidit se ipsum pro nobis oblationem et
+                            hostiam Deo in odorem suavitatis </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> fornicatio autem et omnis inmunditia aut avaritia nec
+                            nominetur in vobis sicut decet sanctos </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> aut turpitudo aut stultiloquium aut scurrilitas quae
+                            ad rem non pertinent sed magis gratiarum actio </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> hoc enim scitote intellegentes quod omnis fornicator
+                            aut inmundus aut avarus quod est idolorum servitus
+                            non habet hereditatem in regno Christi et Dei </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> nemo vos seducat inanibus verbis propter haec enim
+                            venit ira Dei in filios diffidentiae </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> nolite ergo effici participes eorum </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> eratis enim aliquando tenebrae nunc autem lux in
+                            Domino ut filii lucis ambulate </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> fructus enim lucis est in omni bonitate et iustitia
+                            et veritate </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> probantes quid sit beneplacitum Deo </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> et nolite communicare operibus infructuosis
+                            tenebrarum magis autem et redarguite </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> quae enim in occulto fiunt ab ipsis turpe est et
+                            dicere </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> omnia autem quae arguuntur a lumine manifestantur
+                            omne enim quod manifestatur lumen est </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> propter quod dicit surge qui dormis et exsurge a
+                            mortuis et inluminabit tibi Christus </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> videte itaque fratres quomodo caute ambuletis non
+                            quasi insipientes sed ut sapientes </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> redimentes tempus quoniam dies mali sunt </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> propterea nolite fieri inprudentes sed intellegentes
+                            quae sit voluntas Domini </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> et nolite inebriari vino in quo est luxuria sed
+                            implemini Spiritu </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> loquentes vobismet ipsis in psalmis et hymnis et
+                            canticis spiritalibus cantantes et psallentes in
+                            cordibus vestris Domino </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> gratias agentes semper pro omnibus in nomine Domini
+                            nostri Iesu Christi Deo et Patri </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> subiecti invicem in timore Christi </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p> mulieres viris suis subditae sint sicut Domino </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p> quoniam vir caput est mulieris sicut Christus caput
+                            est ecclesiae ipse salvator corporis </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p> sed ut ecclesia subiecta est Christo ita et mulieres
+                            viris suis in omnibus </p>
+                    </div>
+                    <div type="verse" n="25">
+                        <p> viri diligite uxores sicut et Christus dilexit
+                            ecclesiam et se ipsum tradidit pro ea </p>
+                    </div>
+                    <div type="verse" n="26">
+                        <p> ut illam sanctificaret mundans lavacro aquae in verbo
+                        </p>
+                    </div>
+                    <div type="verse" n="27">
+                        <p> ut exhiberet ipse sibi gloriosam ecclesiam non
+                            habentem maculam aut rugam aut aliquid eiusmodi sed
+                            ut sit sancta et inmaculata </p>
+                    </div>
+                    <div type="verse" n="28">
+                        <p> ita et viri debent diligere uxores suas ut corpora
+                            sua qui suam uxorem diligit se ipsum diligit </p>
+                    </div>
+                    <div type="verse" n="29">
+                        <p> nemo enim umquam carnem suam odio habuit sed nutrit
+                            et fovet eam sicut et Christus ecclesiam </p>
+                    </div>
+                    <div type="verse" n="30">
+                        <p> quia membra sumus corporis eius de carne eius et de
+                            ossibus eius </p>
+                    </div>
+                    <div type="verse" n="31">
+                        <p> propter hoc relinquet homo patrem et matrem suam et
+                            adherebit uxori suae et erunt duo in carne una </p>
+                    </div>
+                    <div type="verse" n="32">
+                        <p> sacramentum hoc magnum est ego autem dico in Christo
+                            et in ecclesia </p>
+                    </div>
+                    <div type="verse" n="33">
+                        <p> verumtamen et vos singuli unusquisque suam uxorem
+                            sicut se ipsum diligat uxor autem ut timeat
+                            virum</p>
+                    </div>
+                </div>
+                <div type="chapter" n="6">
+                    <div type="verse" n="1">
+                        <p> filii oboedite parentibus vestris in Domino hoc enim
+                            est iustum </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p> honora patrem tuum et matrem quod est mandatum primum
+                            in promissione </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p> ut bene sit tibi et sis longevus super terram </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p> et patres nolite ad iracundiam provocare filios
+                            vestros sed educate illos in disciplina et
+                            correptione Domini </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p> servi oboedite dominis carnalibus cum timore et
+                            tremore in simplicitate cordis vestri sicut Christo
+                        </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p> non ad oculum servientes quasi hominibus placentes
+                            sed ut servi Christi facientes voluntatem Dei ex
+                            animo </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p> cum bona voluntate servientes sicut Domino et non
+                            hominibus </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p> scientes quoniam unusquisque quodcumque fecerit bonum
+                            hoc percipiet a Domino sive servus sive liber </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p> et domini eadem facite illis remittentes minas
+                            scientes quia et illorum et vester Dominus est in
+                            caelis et personarum acceptio non est apud eum </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p> de cetero fratres confortamini in Domino et in
+                            potentia virtutis eius </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p> induite vos arma Dei ut possitis stare adversus
+                            insidias diaboli </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p> quia non est nobis conluctatio adversus carnem et
+                            sanguinem sed adversus principes et potestates
+                            adversus mundi rectores tenebrarum harum contra
+                            spiritalia nequitiae in caelestibus </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p> propterea accipite armaturam Dei ut possitis
+                            resistere in die malo et omnibus perfectis stare
+                        </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p> state ergo succincti lumbos vestros in veritate et
+                            induti loricam iustitiae </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p> et calciati pedes in praeparatione evangelii pacis
+                        </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p> in omnibus sumentes scutum fidei in quo possitis
+                            omnia tela nequissimi ignea extinguere </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p> et galeam salutis adsumite et gladium Spiritus quod
+                            est verbum Dei </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p> per omnem orationem et obsecrationem orantes omni
+                            tempore in Spiritu et in ipso vigilantes in omni
+                            instantia et obsecratione pro omnibus sanctis </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p> et pro me ut detur mihi sermo in apertione oris mei
+                            cum fiducia notum facere mysterium evangelii </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p> pro quo legatione fungor in catena ita ut in ipso
+                            audeam prout oportet me loqui </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p> ut autem et vos sciatis quae circa me sunt quid agam
+                            omnia nota vobis faciet Tychicus carissimus frater
+                            et fidelis minister in Domino </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p> quem misi ad vos in hoc ipsum ut cognoscatis quae
+                            circa nos sunt et consoletur corda vestra </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p> pax fratribus et caritas cum fide a Deo Patre et
+                            Domino Iesu Christo </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p> gratia cum omnibus qui diligunt Dominum nostrum Iesum
+                            Christum in incorruptione</p>
+                    </div>
+                </div>
+            
+        </body></text></TEI>

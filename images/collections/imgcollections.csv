@@ -5,7 +5,6 @@
 "urn:cite:fufolioimg:WycliffMS","The Wycliffe New Testament (1410): Multispectral Images","/project/homer/Lichfield/ptiffs/Wycliffe_Multispectral_ptiffs"
 "urn:cite:fufolioimg:ChadRGB","The St. Chad Gospel: Composite RGB Images","/project/homer/Lichfield/ptiffs/Chad_RGB_ptiffs"
 "urn:cite:fufolioimg:ChadMS","The St. Chad Gospel: Multispectral Images","/project/homer/Lichfield/ptiffs/Chad_Multispectral_ptiffs"
-"urn:cite:fufolioimg:Caroliniana","Images of historical botanical collections and related texts","/project/homer/Sloane/pyramids"
 "urn:cite:fufolioimg:AthPol","B.L. Papyrus 141 - The Aristotelian Constitution of the Athenians","/project/homer/AthPol/pyramids"
 "urn:cite:fufolioimg:Bankes","B.L. Papyrus 114 - The Bankes Papyrus of Iliad 24","/project/homer/Bankes/pyramids"
 "urn:cite:ecod:codbod25","Cologny, Fondation Martin Bodmer, Cod. Bodmer 25 (www.e-codices.unifr.ch)","/project/homer/pyramidal/CodBod25"
@@ -23,3 +22,4 @@
 "urn:cite:fufolioimg:BotCarLord","Images of Lord's herbarium specimens from the Sloane Herbarium.","/project/homer/Sloane/pyramids"
 "urn:cite:fufolioimg:BotCarMichaux","Images of Michaux's herbarium specimens from the Jardin des Plantes, Paris.","/project/homer/Sloane/pyramids"
 "urn:cite:fufolioimg:BotCarWalter","Images of specimens from the Walter Herbarium, Sloane Herbarium, London.","/project/homer/Sloane/pyramids"
+"urn:cite:fufolioimg:BotCarLawson","Images of John Lawson's Specimens, Sloane Herbarium, London.","/project/homer/Sloane/pyramids"

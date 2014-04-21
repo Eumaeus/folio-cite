@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biblia Sacra, Vulgata Editionis, Ephesians</title>
+                <editor xml:id="cwb">Christopher Blackwell</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>An XML Edition based on the public domain text</edition>
+                <respStmt>
+                    <name>Christopher Blackwell</name>
+                    <resp>ed.</resp>
+                </respStmt>
+            </editionStmt>
+            <extent>under 1Mb</extent>
+            <publicationStmt>
+                <publisher> The Center for Hellenic Studies of Harvard University </publisher>
+                <authority>
+                    <name>Casey Dué and Mary Ebbott, edd.</name>
+                </authority>
+                <availability>
+                    <p>©2010, The Center for Hellenic Studies. This work is made available under the
+                        Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States
+                        License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/ </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+                <language ident="deu">German</language>
+                <language ident="fra">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="lat">
+        <body>
+            
+                <div type="chapter" n="1">
+                    <div type="verse" n="1">
+                        <p><w n="1">Paulus</w> <w n="2">apostolus</w> <w n="3">Christi</w> <w n="4">Iesu</w> <w n="5">per</w> <w n="6">voluntatem</w> <w n="7">Dei
+</w>                            <w n="8">sanctis</w> <w n="9">omnibus</w> <w n="10">qui</w> <w n="11">sunt</w> <w n="12">Ephesi</w> <w n="13">et</w> <w n="14">fidelibus</w> <w n="15">in
+</w>                            <w n="16">Christo</w> <w n="17">Iesu</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">gratia</w> <w n="2">vobis</w> <w n="3">et</w> <w n="4">pax</w> <w n="5">a</w> <w n="6">Deo</w> <w n="7">Patre</w> <w n="8">nostro</w> <w n="9">et</w> <w n="10">Domino</w> <w n="11">Iesu
+</w>                            <w n="12">Christo</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">benedictus</w> <w n="2">Deus</w> <w n="3">et</w> <w n="4">Pater</w> <w n="5">Domini</w> <w n="6">nostri</w> <w n="7">Iesu</w> <w n="8">Christi
+</w>                            <w n="9">qui</w> <w n="10">benedixit</w> <w n="11">nos</w> <w n="12">in</w> <w n="13">omni</w> <w n="14">benedictione</w> <w n="15">spiritali</w> <w n="16">in
+</w>                            <w n="17">caelestibus</w> <w n="18">in</w> <w n="19">Christo</w> </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">sicut</w> <w n="2">elegit</w> <w n="3">nos</w> <w n="4">in</w> <w n="5">ipso</w> <w n="6">ante</w> <w n="7">mundi</w> <w n="8">constitutionem</w> <w n="9">ut
+</w>                            <w n="10">essemus</w> <w n="11">sancti</w> <w n="12">et</w> <w n="13">inmaculati</w> <w n="14">in</w> <w n="15">conspectu</w> <w n="16">eius</w> <w n="17">in
+</w>                            <w n="18">caritate</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">qui</w> <w n="2">praedestinavit</w> <w n="3">nos</w> <w n="4">in</w> <w n="5">adoptionem</w> <w n="6">filiorum</w> <w n="7">per
+</w>                            <w n="8">Iesum</w> <w n="9">Christum</w> <w n="10">in</w> <w n="11">ipsum</w> <w n="12">secundum</w> <w n="13">propositum
+</w>                            <w n="14">voluntatis</w> <w n="15">suae</w> </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">in</w> <w n="2">laudem</w> <w n="3">gloriae</w> <w n="4">gratiae</w> <w n="5">suae</w> <w n="6">in</w> <w n="7">qua</w> <w n="8">gratificavit
+</w>                            <w n="9">nos</w> <w n="10">in</w> <w n="11">dilecto</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">habemus</w> <w n="4">redemptionem</w> <w n="5">per</w> <w n="6">sanguinem</w> <w n="7">eius
+</w>                            <w n="8">remissionem</w> <w n="9">peccatorum</w> <w n="10">secundum</w> <w n="11">divitias</w> <w n="12">gratiae
+</w>                            <w n="13">eius</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">quae</w> <w n="2">superabundavit</w> <w n="3">in</w> <w n="4">nobis</w> <w n="5">in</w> <w n="6">omni</w> <w n="7">sapientia</w> <w n="8">et
+</w>                            <w n="9">prudentia</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">ut</w> <w n="2">notum</w> <w n="3">faceret</w> <w n="4">nobis</w> <w n="5">sacramentum</w> <w n="6">voluntatis</w> <w n="7">suae
+</w>                            <w n="8">secundum</w> <w n="9">bonum</w> <w n="10">placitum</w> <w n="11">eius</w> <w n="12">quod</w> <w n="13">proposuit</w> <w n="14">in</w> <w n="15">eo
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">in</w> <w n="2">dispensationem</w> <w n="3">plenitudinis</w> <w n="4">temporum</w> <w n="5">instaurare
+</w>                            <w n="6">omnia</w> <w n="7">in</w> <w n="8">Christo</w> <w n="9">quae</w> <w n="10">in</w> <w n="11">caelis</w> <w n="12">et</w> <w n="13">quae</w> <w n="14">in</w> <w n="15">terra
+</w>                            <w n="16">sunt</w> <w n="17">in</w> <w n="18">ipso</w> </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">etiam</w> <w n="4">sorte</w> <w n="5">vocati</w> <w n="6">sumus</w> <w n="7">praedestinati
+</w>                            <w n="8">secundum</w> <w n="9">propositum</w> <w n="10">eius</w> <w n="11">qui</w> <w n="12">omnia</w> <w n="13">operatur</w> <w n="14">secundum
+</w>                            <w n="15">consilium</w> <w n="16">voluntatis</w> <w n="17">suae</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">ut</w> <w n="2">simus</w> <w n="3">in</w> <w n="4">laudem</w> <w n="5">gloriae</w> <w n="6">eius</w> <w n="7">qui</w> <w n="8">ante</w> <w n="9">speravimus
+</w>                            <w n="10">in</w> <w n="11">Christo</w> </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">et</w> <w n="4">vos</w> <w n="5">cum</w> <w n="6">audissetis</w> <w n="7">verbum</w> <w n="8">veritatis
+</w>                            <w n="9">evangelium</w> <w n="10">salutis</w> <w n="11">vestrae</w> <w n="12">in</w> <w n="13">quo</w> <w n="14">et</w> <w n="15">credentes
+</w>                            <w n="16">signati</w> <w n="17">estis</w> <w n="18">Spiritu</w> <w n="19">promissionis</w> <w n="20">Sancto</w> </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">qui</w> <w n="2">est</w> <w n="3">pignus</w> <w n="4">hereditatis</w> <w n="5">nostrae</w> <w n="6">in</w> <w n="7">redemptionem
+</w>                            <w n="8">adquisitionis</w> <w n="9">in</w> <w n="10">laudem</w> <w n="11">gloriae</w> <w n="12">ipsius</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">propterea</w> <w n="2">et</w> <w n="3">ego</w> <w n="4">audiens</w> <w n="5">fidem</w> <w n="6">vestram</w> <w n="7">quae</w> <w n="8">est</w> <w n="9">in
+</w>                            <w n="10">Domino</w> <w n="11">Iesu</w> <w n="12">et</w> <w n="13">dilectionem</w> <w n="14">in</w> <w n="15">omnes</w> <w n="16">sanctos</w> </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">non</w> <w n="2">cesso</w> <w n="3">gratias</w> <w n="4">agens</w> <w n="5">pro</w> <w n="6">vobis</w> <w n="7">memoriam</w> <w n="8">vestri
+</w>                            <w n="9">faciens</w> <w n="10">in</w> <w n="11">orationibus</w> <w n="12">meis</w> </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">ut</w> <w n="2">Deus</w> <w n="3">Domini</w> <w n="4">nostri</w> <w n="5">Iesu</w> <w n="6">Christi</w> <w n="7">Pater</w> <w n="8">gloriae</w> <w n="9">det
+</w>                            <w n="10">vobis</w> <w n="11">spiritum</w> <w n="12">sapientiae</w> <w n="13">et</w> <w n="14">revelationis</w> <w n="15">in
+</w>                            <w n="16">agnitione</w> <w n="17">eius</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">inluminatos</w> <w n="2">oculos</w> <w n="3">cordis</w> <w n="4">vestri</w> <w n="5">ut</w> <w n="6">sciatis</w> <w n="7">quae</w> <w n="8">sit
+</w>                            <w n="9">spes</w> <w n="10">vocationis</w> <w n="11">eius</w> <w n="12">quae</w> <w n="13">divitiae</w> <w n="14">gloriae
+</w>                            <w n="15">hereditatis</w> <w n="16">eius</w> <w n="17">in</w> <w n="18">sanctis</w> </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">et</w> <w n="2">quae</w> <w n="3">sit</w> <w n="4">supereminens</w> <w n="5">magnitudo</w> <w n="6">virtutis</w> <w n="7">eius</w> <w n="8">in
+</w>                            <w n="9">nos</w> <w n="10">qui</w> <w n="11">credidimus</w> <w n="12">secundum</w> <w n="13">operationem</w> <w n="14">potentiae
+</w>                            <w n="15">virtutis</w> <w n="16">eius</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">quam</w> <w n="2">operatus</w> <w n="3">est</w> <w n="4">in</w> <w n="5">Christo</w> <w n="6">suscitans</w> <w n="7">illum</w> <w n="8">a
+</w>                            <w n="9">mortuis</w> <w n="10">et</w> <w n="11">constituens</w> <w n="12">ad</w> <w n="13">dexteram</w> <w n="14">suam</w> <w n="15">in
+</w>                            <w n="16">caelestibus</w> </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">supra</w> <w n="2">omnem</w> <w n="3">principatum</w> <w n="4">et</w> <w n="5">potestatem</w> <w n="6">et</w> <w n="7">virtutem</w> <w n="8">et
+</w>                            <w n="9">dominationem</w> <w n="10">et</w> <w n="11">omne</w> <w n="12">nomen</w> <w n="13">quod</w> <w n="14">nominatur</w> <w n="15">non</w> <w n="16">solum
+</w>                            <w n="17">in</w> <w n="18">hoc</w> <w n="19">saeculo</w> <w n="20">sed</w> <w n="21">et</w> <w n="22">in</w> <w n="23">futuro</w> </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p><w n="1">et</w> <w n="2">omnia</w> <w n="3">subiecit</w> <w n="4">sub</w> <w n="5">pedibus</w> <w n="6">eius</w> <w n="7">et</w> <w n="8">ipsum</w> <w n="9">dedit
+</w>                            <w n="10">caput</w> <w n="11">supra</w> <w n="12">omnia</w> <w n="13">ecclesiae</w> </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p><w n="1">quae</w> <w n="2">est</w> <w n="3">corpus</w> <w n="4">ipsius</w> <w n="5">plenitudo</w> <w n="6">eius</w> <w n="7">qui</w> <w n="8">omnia</w> <w n="9">in
+</w>                            <w n="10">omnibus</w>  </p>
+                    </div>
+                </div>
+                <div type="chapter" n="2">
+                    <div type="verse" n="1">
+                        <p><w n="1">et</w> <w n="2">vos</w> <w n="3">cum</w> <w n="4">essetis</w> <w n="5">mortui</w> <w n="6">delictis</w> <w n="7">et</w> <w n="8">peccatis
+</w>                            <w n="9">vestris</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">in</w> <w n="2">quibus</w> <w n="3">aliquando</w> <w n="4">ambulastis</w> <w n="5">secundum</w> <w n="6">saeculum
+</w>                            <w n="7">mundi</w> <w n="8">huius</w> <w n="9">secundum</w> <w n="10">principem</w> <w n="11">potestatis</w> <w n="12">aeris
+</w>                            <w n="13">huius</w> <w n="14">spiritus</w> <w n="15">qui</w> <w n="16">nunc</w> <w n="17">operatur</w> <w n="18">in</w> <w n="19">filios
+</w>                            <w n="20">diffidentiae</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">in</w> <w n="2">quibus</w> <w n="3">et</w> <w n="4">nos</w> <w n="5">omnes</w> <w n="6">aliquando</w> <w n="7">conversati</w> <w n="8">sumus</w> <w n="9">in
+</w>                            <w n="10">desideriis</w> <w n="11">carnis</w> <w n="12">nostrae</w> <w n="13">facientes</w> <w n="14">voluntates
+</w>                            <w n="15">carnis</w> <w n="16">et</w> <w n="17">cogitationum</w> <w n="18">et</w> <w n="19">eramus</w> <w n="20">natura</w> <w n="21">filii</w> <w n="22">irae
+</w>                            <w n="23">sicut</w> <w n="24">et</w> <w n="25">ceteri</w> </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">Deus</w> <w n="2">autem</w> <w n="3">qui</w> <w n="4">dives</w> <w n="5">est</w> <w n="6">in</w> <w n="7">misericordia</w> <w n="8">propter
+</w>                            <w n="9">nimiam</w> <w n="10">caritatem</w> <w n="11">suam</w> <w n="12">qua</w> <w n="13">dilexit</w> <w n="14">nos</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">et</w> <w n="2">cum</w> <w n="3">essemus</w> <w n="4">mortui</w> <w n="5">peccatis</w> <w n="6">convivificavit</w> <w n="7">nos
+</w>                            <w n="8">Christo</w> <w n="9">gratia</w> <w n="10">estis</w> <w n="11">salvati</w> </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">et</w> <w n="2">conresuscitavit</w> <w n="3">et</w> <w n="4">consedere</w> <w n="5">fecit</w> <w n="6">in</w> <w n="7">caelestibus
+</w>                            <w n="8">in</w> <w n="9">Christo</w> <w n="10">Iesu</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">ut</w> <w n="2">ostenderet</w> <w n="3">in</w> <w n="4">saeculis</w> <w n="5">supervenientibus</w> <w n="6">abundantes
+</w>                            <w n="7">divitias</w> <w n="8">gratiae</w> <w n="9">suae</w> <w n="10">in</w> <w n="11">bonitate</w> <w n="12">super</w> <w n="13">nos</w> <w n="14">in
+</w>                            <w n="15">Christo</w> <w n="16">Iesu</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">gratia</w> <w n="2">enim</w> <w n="3">estis</w> <w n="4">salvati</w> <w n="5">per</w> <w n="6">fidem</w> <w n="7">et</w> <w n="8">hoc</w> <w n="9">non</w> <w n="10">ex
+</w>                            <w n="11">vobis</w> <w n="12">Dei</w> <w n="13">enim</w> <w n="14">donum</w> <w n="15">est</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">non</w> <w n="2">ex</w> <w n="3">operibus</w> <w n="4">ut</w> <w n="5">ne</w> <w n="6">quis</w> <w n="7">glorietur</w> </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">ipsius</w> <w n="2">enim</w> <w n="3">sumus</w> <w n="4">factura</w> <w n="5">creati</w> <w n="6">in</w> <w n="7">Christo</w> <w n="8">Iesu</w> <w n="9">in
+</w>                            <w n="10">operibus</w> <w n="11">bonis</w> <w n="12">quae</w> <w n="13">praeparavit</w> <w n="14">Deus</w> <w n="15">ut</w> <w n="16">in</w> <w n="17">illis
+</w>                            <w n="18">ambulemus</w> </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">propter</w> <w n="2">quod</w> <w n="3">memores</w> <w n="4">estote</w> <w n="5">quod</w> <w n="6">aliquando</w> <w n="7">vos</w> <w n="8">gentes
+</w>                            <w n="9">in</w> <w n="10">carne</w> <w n="11">qui</w> <w n="12">dicimini</w> <w n="13">praeputium</w> <w n="14">ab</w> <w n="15">ea</w> <w n="16">quae</w> <w n="17">dicitur
+</w>                            <w n="18">circumcisio</w> <w n="19">in</w> <w n="20">carne</w> <w n="21">manufacta</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">quia</w> <w n="2">eratis</w> <w n="3">illo</w> <w n="4">in</w> <w n="5">tempore</w> <w n="6">sine</w> <w n="7">Christo</w> <w n="8">alienati</w> <w n="9">a
+</w>                            <w n="10">conversatione</w> <w n="11">Israhel</w> <w n="12">et</w> <w n="13">hospites</w> <w n="14">testamentorum
+</w>                            <w n="15">promissionis</w> <w n="16">spem</w> <w n="17">non</w> <w n="18">habentes</w> <w n="19">et</w> <w n="20">sine</w> <w n="21">Deo</w> <w n="22">in</w> <w n="23">mundo
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">nunc</w> <w n="2">autem</w> <w n="3">in</w> <w n="4">Christo</w> <w n="5">Iesu</w> <w n="6">vos</w> <w n="7">qui</w> <w n="8">aliquando</w> <w n="9">eratis
+</w>                            <w n="10">longe</w> <w n="11">facti</w> <w n="12">estis</w> <w n="13">prope</w> <w n="14">in</w> <w n="15">sanguine</w> <w n="16">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">ipse</w> <w n="2">est</w> <w n="3">enim</w> <w n="4">pax</w> <w n="5">nostra</w> <w n="6">qui</w> <w n="7">fecit</w> <w n="8">utraque</w> <w n="9">unum</w> <w n="10">et
+</w>                            <w n="11">medium</w> <w n="12">parietem</w> <w n="13">maceriae</w> <w n="14">solvens</w> <w n="15">inimicitiam</w> <w n="16">in
+</w>                            <w n="17">carne</w> <w n="18">sua</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">legem</w> <w n="2">mandatorum</w> <w n="3">decretis</w> <w n="4">evacuans</w> <w n="5">ut</w> <w n="6">duos</w> <w n="7">condat</w> <w n="8">in
+</w>                            <w n="9">semet</w> <w n="10">ipsum</w> <w n="11">in</w> <w n="12">unum</w> <w n="13">novum</w> <w n="14">hominem</w> <w n="15">faciens</w> <w n="16">pacem</w> </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">et</w> <w n="2">reconciliet</w> <w n="3">ambos</w> <w n="4">in</w> <w n="5">uno</w> <w n="6">corpore</w> <w n="7">Deo</w> <w n="8">per</w> <w n="9">crucem
+</w>                            <w n="10">interficiens</w> <w n="11">inimicitiam</w> <w n="12">in</w> <w n="13">semet</w> <w n="14">ipso</w> </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">et</w> <w n="2">veniens</w> <w n="3">evangelizavit</w> <w n="4">pacem</w> <w n="5">vobis</w> <w n="6">qui</w> <w n="7">longe
+</w>                            <w n="8">fuistis</w> <w n="9">et</w> <w n="10">pacem</w> <w n="11">his</w> <w n="12">qui</w> <w n="13">prope</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">quoniam</w> <w n="2">per</w> <w n="3">ipsum</w> <w n="4">habemus</w> <w n="5">accessum</w> <w n="6">ambo</w> <w n="7">in</w> <w n="8">uno
+</w>                            <w n="9">Spiritu</w> <w n="10">ad</w> <w n="11">Patrem</w> </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">ergo</w> <w n="2">iam</w> <w n="3">non</w> <w n="4">estis</w> <w n="5">hospites</w> <w n="6">et</w> <w n="7">advenae</w> <w n="8">sed</w> <w n="9">estis
+</w>                            <w n="10">cives</w> <w n="11">sanctorum</w> <w n="12">et</w> <w n="13">domestici</w> <w n="14">Dei</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">superaedificati</w> <w n="2">super</w> <w n="3">fundamentum</w> <w n="4">apostolorum</w> <w n="5">et
+</w>                            <w n="6">prophetarum</w> <w n="7">ipso</w> <w n="8">summo</w> <w n="9">angulari</w> <w n="10">lapide</w> <w n="11">Christo</w> <w n="12">Iesu
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">omnis</w> <w n="4">aedificatio</w> <w n="5">constructa</w> <w n="6">crescit</w> <w n="7">in
+</w>                            <w n="8">templum</w> <w n="9">sanctum</w> <w n="10">in</w> <w n="11">Domino</w> </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">et</w> <w n="4">vos</w> <w n="5">coaedificamini</w> <w n="6">in</w> <w n="7">habitaculum</w> <w n="8">Dei</w> <w n="9">in
+</w>                             </p>
+                    </div>
+                </div>
+                <div type="chapter" n="3">
+                    <div type="verse" n="1">
+                        <p><w n="1">huius</w> <w n="2">rei</w> <w n="3">gratia</w> <w n="4">ego</w> <w n="5">Paulus</w> <w n="6">vinctus</w> <w n="7">Christi</w> <w n="8">Iesu</w> <w n="9">pro
+</w>                            <w n="10">vobis</w> <w n="11">gentibus</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">si</w> <w n="2">tamen</w> <w n="3">audistis</w> <w n="4">dispensationem</w> <w n="5">gratiae</w> <w n="6">Dei</w> <w n="7">quae
+</w>                            <w n="8">data</w> <w n="9">est</w> <w n="10">mihi</w> <w n="11">in</w> <w n="12">vobis</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">quoniam</w> <w n="2">secundum</w> <w n="3">revelationem</w> <w n="4">notum</w> <w n="5">mihi</w> <w n="6">factum</w> <w n="7">est
+</w>                            <w n="8">sacramentum</w> <w n="9">sicut</w> <w n="10">supra</w> <w n="11">scripsi</w> <w n="12">in</w> <w n="13">brevi</w> </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">prout</w> <w n="2">potestis</w> <w n="3">legentes</w> <w n="4">intellegere</w> <w n="5">prudentiam</w> <w n="6">meam
+</w>                            <w n="7">in</w> <w n="8">mysterio</w> <w n="9">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">quod</w> <w n="2">aliis</w> <w n="3">generationibus</w> <w n="4">non</w> <w n="5">est</w> <w n="6">agnitum</w> <w n="7">filiis
+</w>                            <w n="8">hominum</w> <w n="9">sicuti</w> <w n="10">nunc</w> <w n="11">revelatum</w> <w n="12">est</w> <w n="13">sanctis</w> <w n="14">apostolis
+</w>                            <w n="15">eius</w> <w n="16">et</w> <w n="17">prophetis</w> <w n="18">in</w> <w n="19">Spiritu</w> </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">esse</w> <w n="2">gentes</w> <w n="3">coheredes</w> <w n="4">et</w> <w n="5">concorporales</w> <w n="6">et
+</w>                            <w n="7">conparticipes</w> <w n="8">promissionis</w> <w n="9">in</w> <w n="10">Christo</w> <w n="11">Iesu</w> <w n="12">per
+</w>                            <w n="13">evangelium</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">cuius</w> <w n="2">factus</w> <w n="3">sum</w> <w n="4">minister</w> <w n="5">secundum</w> <w n="6">donum</w> <w n="7">gratiae</w> <w n="8">Dei
+</w>                            <w n="9">quae</w> <w n="10">data</w> <w n="11">est</w> <w n="12">mihi</w> <w n="13">secundum</w> <w n="14">operationem</w> <w n="15">virtutis
+</w>                            <w n="16">eius</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">mihi</w> <w n="2">omnium</w> <w n="3">sanctorum</w> <w n="4">minimo</w> <w n="5">data</w> <w n="6">est</w> <w n="7">gratia</w> <w n="8">haec</w> <w n="9">in
+</w>                            <w n="10">gentibus</w> <w n="11">evangelizare</w> <w n="12">ininvestigabiles</w> <w n="13">divitias
+</w>                            <w n="14">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">et</w> <w n="2">inluminare</w> <w n="3">omnes</w> <w n="4">quae</w> <w n="5">sit</w> <w n="6">dispensatio</w> <w n="7">sacramenti
+</w>                            <w n="8">absconditi</w> <w n="9">a</w> <w n="10">saeculis</w> <w n="11">in</w> <w n="12">Deo</w> <w n="13">qui</w> <w n="14">omnia</w> <w n="15">creavit</w> </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">ut</w> <w n="2">innotescat</w> <w n="3">principibus</w> <w n="4">et</w> <w n="5">potestatibus</w> <w n="6">in
+</w>                            <w n="7">caelestibus</w> <w n="8">per</w> <w n="9">ecclesiam</w> <w n="10">multiformis</w> <w n="11">sapientia</w> <w n="12">Dei
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">secundum</w> <w n="2">praefinitionem</w> <w n="3">saeculorum</w> <w n="4">quam</w> <w n="5">fecit</w> <w n="6">in
+</w>                            <w n="7">Christo</w> <w n="8">Iesu</w> <w n="9">Domino</w> <w n="10">nostro</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">in</w> <w n="2">quo</w> <w n="3">habemus</w> <w n="4">fiduciam</w> <w n="5">et</w> <w n="6">accessum</w> <w n="7">in</w> <w n="8">confidentia
+</w>                            <w n="9">per</w> <w n="10">fidem</w> <w n="11">eius</w> </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">propter</w> <w n="2">quod</w> <w n="3">peto</w> <w n="4">ne</w> <w n="5">deficiatis</w> <w n="6">in</w> <w n="7">tribulationibus
+</w>                            <w n="8">meis</w> <w n="9">pro</w> <w n="10">vobis</w> <w n="11">quae</w> <w n="12">est</w> <w n="13">gloria</w> <w n="14">vestra</w> </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">huius</w> <w n="2">rei</w> <w n="3">gratia</w> <w n="4">flecto</w> <w n="5">genua</w> <w n="6">mea</w> <w n="7">ad</w> <w n="8">Patrem</w> <w n="9">Domini
+</w>                            <w n="10">nostri</w> <w n="11">Iesu</w> <w n="12">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">ex</w> <w n="2">quo</w> <w n="3">omnis</w> <w n="4">paternitas</w> <w n="5">in</w> <w n="6">caelis</w> <w n="7">et</w> <w n="8">in</w> <w n="9">terra
+</w>                            <w n="10">nominatur</w> </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">ut</w> <w n="2">det</w> <w n="3">vobis</w> <w n="4">secundum</w> <w n="5">divitias</w> <w n="6">gloriae</w> <w n="7">suae</w> <w n="8">virtute
+</w>                            <w n="9">corroborari</w> <w n="10">per</w> <w n="11">Spiritum</w> <w n="12">eius</w> <w n="13">in</w> <w n="14">interiore</w> <w n="15">homine
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">habitare</w> <w n="2">Christum</w> <w n="3">per</w> <w n="4">fidem</w> <w n="5">in</w> <w n="6">cordibus</w> <w n="7">vestris</w> <w n="8">in
+</w>                            <w n="9">caritate</w> <w n="10">radicati</w> <w n="11">et</w> <w n="12">fundati</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">ut</w> <w n="2">possitis</w> <w n="3">conprehendere</w> <w n="4">cum</w> <w n="5">omnibus</w> <w n="6">sanctis</w> <w n="7">quae
+</w>                            <w n="8">sit</w> <w n="9">latitudo</w> <w n="10">et</w> <w n="11">longitudo</w> <w n="12">et</w> <w n="13">sublimitas</w> <w n="14">et</w> <w n="15">profundum
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">scire</w> <w n="2">etiam</w> <w n="3">supereminentem</w> <w n="4">scientiae</w> <w n="5">caritatem
+</w>                            <w n="6">Christi</w> <w n="7">ut</w> <w n="8">impleamini</w> <w n="9">in</w> <w n="10">omnem</w> <w n="11">plenitudinem</w> <w n="12">Dei</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">ei</w> <w n="2">autem</w> <w n="3">qui</w> <w n="4">potens</w> <w n="5">est</w> <w n="6">omnia</w> <w n="7">facere</w> <w n="8">superabundanter
+</w>                            <w n="9">quam</w> <w n="10">petimus</w> <w n="11">aut</w> <w n="12">intellegimus</w> <w n="13">secundum</w> <w n="14">virtutem</w> <w n="15">quae
+</w>                            <w n="16">operatur</w> <w n="17">in</w> <w n="18">nobis</w> </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">ipsi</w> <w n="2">gloria</w> <w n="3">in</w> <w n="4">ecclesia</w> <w n="5">et</w> <w n="6">in</w> <w n="7">Christo</w> <w n="8">Iesu</w> <w n="9">in</w> <w n="10">omnes
+</w>                            <w n="11">generationes</w> <w n="12">saeculi</w> <w n="13">saeculorum</w>  </p>
+                    </div>
+                </div>
+                <div type="chapter" n="4">
+                    <div type="verse" n="1">
+                        <p><w n="1">obsecro</w> <w n="2">itaque</w> <w n="3">vos</w> <w n="4">ego</w> <w n="5">vinctus</w> <w n="6">in</w> <w n="7">Domino</w> <w n="8">ut</w> <w n="9">digne
+</w>                            <w n="10">ambuletis</w> <w n="11">vocatione</w> <w n="12">qua</w> <w n="13">vocati</w> <w n="14">estis</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">cum</w> <w n="2">omni</w> <w n="3">humilitate</w> <w n="4">et</w> <w n="5">mansuetudine</w> <w n="6">cum</w> <w n="7">patientia
+</w>                            <w n="8">subportantes</w> <w n="9">invicem</w> <w n="10">in</w> <w n="11">caritate</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">solliciti</w> <w n="2">servare</w> <w n="3">unitatem</w> <w n="4">spiritus</w> <w n="5">in</w> <w n="6">vinculo</w> <w n="7">pacis
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">unum</w> <w n="2">corpus</w> <w n="3">et</w> <w n="4">unus</w> <w n="5">spiritus</w> <w n="6">sicut</w> <w n="7">vocati</w> <w n="8">estis</w> <w n="9">in
+</w>                            <w n="10">una</w> <w n="11">spe</w> <w n="12">vocationis</w> <w n="13">vestrae</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">unus</w> <w n="2">Dominus</w> <w n="3">una</w> <w n="4">fides</w> <w n="5">unum</w> <w n="6">baptisma</w> </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">unus</w> <w n="2">Deus</w> <w n="3">et</w> <w n="4">Pater</w> <w n="5">omnium</w> <w n="6">qui</w> <w n="7">super</w> <w n="8">omnes</w> <w n="9">et</w> <w n="10">per
+</w>                            <w n="11">omnia</w> <w n="12">et</w> <w n="13">in</w> <w n="14">omnibus</w> <w n="15">nobis</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">unicuique</w> <w n="2">autem</w> <w n="3">nostrum</w> <w n="4">data</w> <w n="5">est</w> <w n="6">gratia</w> <w n="7">secundum
+</w>                            <w n="8">mensuram</w> <w n="9">donationis</w> <w n="10">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">propter</w> <w n="2">quod</w> <w n="3">dicit</w> <w n="4">ascendens</w> <w n="5">in</w> <w n="6">altum</w> <w n="7">captivam</w> <w n="8">duxit
+</w>                            <w n="9">captivitatem</w> <w n="10">dedit</w> <w n="11">dona</w> <w n="12">hominibus</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">quod</w> <w n="2">autem</w> <w n="3">ascendit</w> <w n="4">quid</w> <w n="5">est</w> <w n="6">nisi</w> <w n="7">quia</w> <w n="8">et</w> <w n="9">descendit
+</w>                            <w n="10">primum</w> <w n="11">in</w> <w n="12">inferiores</w> <w n="13">partes</w> <w n="14">terrae</w> </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">qui</w> <w n="2">descendit</w> <w n="3">ipse</w> <w n="4">est</w> <w n="5">et</w> <w n="6">qui</w> <w n="7">ascendit</w> <w n="8">super</w> <w n="9">omnes
+</w>                            <w n="10">caelos</w> <w n="11">ut</w> <w n="12">impleret</w> <w n="13">omnia</w> </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">et</w> <w n="2">ipse</w> <w n="3">dedit</w> <w n="4">quosdam</w> <w n="5">quidem</w> <w n="6">apostolos</w> <w n="7">quosdam</w> <w n="8">autem
+</w>                            <w n="9">prophetas</w> <w n="10">alios</w> <w n="11">vero</w> <w n="12">evangelistas</w> <w n="13">alios</w> <w n="14">autem
+</w>                            <w n="15">pastores</w> <w n="16">et</w> <w n="17">doctores</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">ad</w> <w n="2">consummationem</w> <w n="3">sanctorum</w> <w n="4">in</w> <w n="5">opus</w> <w n="6">ministerii</w> <w n="7">in
+</w>                            <w n="8">aedificationem</w> <w n="9">corporis</w> <w n="10">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">donec</w> <w n="2">occurramus</w> <w n="3">omnes</w> <w n="4">in</w> <w n="5">unitatem</w> <w n="6">fidei</w> <w n="7">et
+</w>                            <w n="8">agnitionis</w> <w n="9">Filii</w> <w n="10">Dei</w> <w n="11">in</w> <w n="12">virum</w> <w n="13">perfectum</w> <w n="14">in</w> <w n="15">mensuram
+</w>                            <w n="16">aetatis</w> <w n="17">plenitudinis</w> <w n="18">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">ut</w> <w n="2">iam</w> <w n="3">non</w> <w n="4">simus</w> <w n="5">parvuli</w> <w n="6">fluctuantes</w> <w n="7">et</w> <w n="8">circumferamur
+</w>                            <w n="9">omni</w> <w n="10">vento</w> <w n="11">doctrinae</w> <w n="12">in</w> <w n="13">nequitia</w> <w n="14">hominum</w> <w n="15">in</w> <w n="16">astutia
+</w>                            <w n="17">ad</w> <w n="18">circumventionem</w> <w n="19">erroris</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">veritatem</w> <w n="2">autem</w> <w n="3">facientes</w> <w n="4">in</w> <w n="5">caritate</w> <w n="6">crescamus</w> <w n="7">in
+</w>                            <w n="8">illo</w> <w n="9">per</w> <w n="10">omnia</w> <w n="11">qui</w> <w n="12">est</w> <w n="13">caput</w> <w n="14">Christus</w> </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">ex</w> <w n="2">quo</w> <w n="3">totum</w> <w n="4">corpus</w> <w n="5">conpactum</w> <w n="6">et</w> <w n="7">conexum</w> <w n="8">per</w> <w n="9">omnem
+</w>                            <w n="10">iuncturam</w> <w n="11">subministrationis</w> <w n="12">secundum</w> <w n="13">operationem</w> <w n="14">in
+</w>                            <w n="15">mensuram</w> <w n="16">uniuscuiusque</w> <w n="17">membri</w> <w n="18">augmentum</w> <w n="19">corporis
+</w>                            <w n="20">facit</w> <w n="21">in</w> <w n="22">aedificationem</w> <w n="23">sui</w> <w n="24">in</w> <w n="25">caritate</w> </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">hoc</w> <w n="2">igitur</w> <w n="3">dico</w> <w n="4">et</w> <w n="5">testificor</w> <w n="6">in</w> <w n="7">Domino</w> <w n="8">ut</w> <w n="9">iam</w> <w n="10">non
+</w>                            <w n="11">ambuletis</w> <w n="12">sicut</w> <w n="13">gentes</w> <w n="14">ambulant</w> <w n="15">in</w> <w n="16">vanitate</w> <w n="17">sensus
+</w>                            <w n="18">sui</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">tenebris</w> <w n="2">obscuratum</w> <w n="3">habentes</w> <w n="4">intellectum</w> <w n="5">alienati</w> <w n="6">a
+</w>                            <w n="7">vita</w> <w n="8">Dei</w> <w n="9">per</w> <w n="10">ignorantiam</w> <w n="11">quae</w> <w n="12">est</w> <w n="13">in</w> <w n="14">illis</w> <w n="15">propter
+</w>                            <w n="16">caecitatem</w> <w n="17">cordis</w> <w n="18">ipsorum</w> </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">qui</w> <w n="2">desperantes</w> <w n="3">semet</w> <w n="4">ipsos</w> <w n="5">tradiderunt</w> <w n="6">inpudicitiae
+</w>                            <w n="7">in</w> <w n="8">operationem</w> <w n="9">inmunditiae</w> <w n="10">omnis</w> <w n="11">in</w> <w n="12">avaritia</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">vos</w> <w n="2">autem</w> <w n="3">non</w> <w n="4">ita</w> <w n="5">didicistis</w> <w n="6">Christum</w> </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">si</w> <w n="2">tamen</w> <w n="3">illum</w> <w n="4">audistis</w> <w n="5">et</w> <w n="6">in</w> <w n="7">ipso</w> <w n="8">edocti</w> <w n="9">estis</w> <w n="10">sicut
+</w>                            <w n="11">est</w> <w n="12">veritas</w> <w n="13">in</w> <w n="14">Iesu</w> </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p><w n="1">deponere</w> <w n="2">vos</w> <w n="3">secundum</w> <w n="4">pristinam</w> <w n="5">conversationem
+</w>                            <w n="6">veterem</w> <w n="7">hominem</w> <w n="8">qui</w> <w n="9">corrumpitur</w> <w n="10">secundum</w> <w n="11">desideria
+</w>                            <w n="12">erroris</w> </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p><w n="1">renovamini</w> <w n="2">autem</w> <w n="3">spiritu</w> <w n="4">mentis</w> <w n="5">vestrae</w> </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p><w n="1">et</w> <w n="2">induite</w> <w n="3">novum</w> <w n="4">hominem</w> <w n="5">qui</w> <w n="6">secundum</w> <w n="7">Deum</w> <w n="8">creatus
+</w>                            <w n="9">est</w> <w n="10">in</w> <w n="11">iustitia</w> <w n="12">et</w> <w n="13">sanctitate</w> <w n="14">veritatis</w> </p>
+                    </div>
+                    <div type="verse" n="25">
+                        <p><w n="1">propter</w> <w n="2">quod</w> <w n="3">deponentes</w> <w n="4">mendacium</w> <w n="5">loquimini</w> <w n="6">veritatem
+</w>                            <w n="7">unusquisque</w> <w n="8">cum</w> <w n="9">proximo</w> <w n="10">suo</w> <w n="11">quoniam</w> <w n="12">sumus</w> <w n="13">invicem
+</w>                            <w n="14">membra</w> </p>
+                    </div>
+                    <div type="verse" n="26">
+                        <p><w n="1">irascimini</w> <w n="2">et</w> <w n="3">nolite</w> <w n="4">peccare</w> <w n="5">sol</w> <w n="6">non</w> <w n="7">occidat</w> <w n="8">super
+</w>                            <w n="9">iracundiam</w> <w n="10">vestram</w> </p>
+                    </div>
+                    <div type="verse" n="27">
+                        <p><w n="1">nolite</w> <w n="2">locum</w> <w n="3">dare</w> <w n="4">diabolo</w> </p>
+                    </div>
+                    <div type="verse" n="28">
+                        <p><w n="1">qui</w> <w n="2">furabatur</w> <w n="3">iam</w> <w n="4">non</w> <w n="5">furetur</w> <w n="6">magis</w> <w n="7">autem</w> <w n="8">laboret
+</w>                            <w n="9">operando</w> <w n="10">manibus</w> <w n="11">quod</w> <w n="12">bonum</w> <w n="13">est</w> <w n="14">ut</w> <w n="15">habeat</w> <w n="16">unde
+</w>                            <w n="17">tribuat</w> <w n="18">necessitatem</w> <w n="19">patienti</w> </p>
+                    </div>
+                    <div type="verse" n="29">
+                        <p><w n="1">omnis</w> <w n="2">sermo</w> <w n="3">malus</w> <w n="4">ex</w> <w n="5">ore</w> <w n="6">vestro</w> <w n="7">non</w> <w n="8">procedat</w> <w n="9">sed</w> <w n="10">si
+</w>                            <w n="11">quis</w> <w n="12">bonus</w> <w n="13">ad</w> <w n="14">aedificationem</w> <w n="15">oportunitatis</w> <w n="16">ut</w> <w n="17">det
+</w>                            <w n="18">gratiam</w> <w n="19">audientibus</w> </p>
+                    </div>
+                    <div type="verse" n="30">
+                        <p><w n="1">et</w> <w n="2">nolite</w> <w n="3">contristare</w> <w n="4">Spiritum</w> <w n="5">Sanctum</w> <w n="6">Dei</w> <w n="7">in</w> <w n="8">quo
+</w>                            <w n="9">signati</w> <w n="10">estis</w> <w n="11">in</w> <w n="12">die</w> <w n="13">redemptionis</w> </p>
+                    </div>
+                    <div type="verse" n="31">
+                        <p><w n="1">omnis</w> <w n="2">amaritudo</w> <w n="3">et</w> <w n="4">ira</w> <w n="5">et</w> <w n="6">indignatio</w> <w n="7">et</w> <w n="8">clamor</w> <w n="9">et
+</w>                            <w n="10">blasphemia</w> <w n="11">tollatur</w> <w n="12">a</w> <w n="13">vobis</w> <w n="14">cum</w> <w n="15">omni</w> <w n="16">malitia</w> </p>
+                    </div>
+                    <div type="verse" n="32">
+                        <p><w n="1">estote</w> <w n="2">autem</w> <w n="3">invicem</w> <w n="4">benigni</w> <w n="5">misericordes</w> <w n="6">donantes
+</w>                            <w n="7">invicem</w> <w n="8">sicut</w> <w n="9">et</w> <w n="10">Deus</w> <w n="11">in</w> <w n="12">Christo</w> <w n="13">donavit</w>  </p>
+                    </div>
+                </div>
+                <div type="chapter" n="5">
+                    <div type="verse" n="1">
+                        <p><w n="1">estote</w> <w n="2">ergo</w> <w n="3">imitatores</w> <w n="4">Dei</w> <w n="5">sicut</w> <w n="6">filii</w> <w n="7">carissimi</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">et</w> <w n="2">ambulate</w> <w n="3">in</w> <w n="4">dilectione</w> <w n="5">sicut</w> <w n="6">et</w> <w n="7">Christus</w> <w n="8">dilexit
+</w>                            <w n="9">nos</w> <w n="10">et</w> <w n="11">tradidit</w> <w n="12">se</w> <w n="13">ipsum</w> <w n="14">pro</w> <w n="15">nobis</w> <w n="16">oblationem</w> <w n="17">et
+</w>                            <w n="18">hostiam</w> <w n="19">Deo</w> <w n="20">in</w> <w n="21">odorem</w> <w n="22">suavitatis</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">fornicatio</w> <w n="2">autem</w> <w n="3">et</w> <w n="4">omnis</w> <w n="5">inmunditia</w> <w n="6">aut</w> <w n="7">avaritia</w> <w n="8">nec
+</w>                            <w n="9">nominetur</w> <w n="10">in</w> <w n="11">vobis</w> <w n="12">sicut</w> <w n="13">decet</w> <w n="14">sanctos</w> </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">aut</w> <w n="2">turpitudo</w> <w n="3">aut</w> <w n="4">stultiloquium</w> <w n="5">aut</w> <w n="6">scurrilitas</w> <w n="7">quae
+</w>                            <w n="8">ad</w> <w n="9">rem</w> <w n="10">non</w> <w n="11">pertinent</w> <w n="12">sed</w> <w n="13">magis</w> <w n="14">gratiarum</w> <w n="15">actio</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">hoc</w> <w n="2">enim</w> <w n="3">scitote</w> <w n="4">intellegentes</w> <w n="5">quod</w> <w n="6">omnis</w> <w n="7">fornicator
+</w>                            <w n="8">aut</w> <w n="9">inmundus</w> <w n="10">aut</w> <w n="11">avarus</w> <w n="12">quod</w> <w n="13">est</w> <w n="14">idolorum</w> <w n="15">servitus
+</w>                            <w n="16">non</w> <w n="17">habet</w> <w n="18">hereditatem</w> <w n="19">in</w> <w n="20">regno</w> <w n="21">Christi</w> <w n="22">et</w> <w n="23">Dei</w> </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">nemo</w> <w n="2">vos</w> <w n="3">seducat</w> <w n="4">inanibus</w> <w n="5">verbis</w> <w n="6">propter</w> <w n="7">haec</w> <w n="8">enim
+</w>                            <w n="9">venit</w> <w n="10">ira</w> <w n="11">Dei</w> <w n="12">in</w> <w n="13">filios</w> <w n="14">diffidentiae</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">nolite</w> <w n="2">ergo</w> <w n="3">effici</w> <w n="4">participes</w> <w n="5">eorum</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">eratis</w> <w n="2">enim</w> <w n="3">aliquando</w> <w n="4">tenebrae</w> <w n="5">nunc</w> <w n="6">autem</w> <w n="7">lux</w> <w n="8">in
+</w>                            <w n="9">Domino</w> <w n="10">ut</w> <w n="11">filii</w> <w n="12">lucis</w> <w n="13">ambulate</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">fructus</w> <w n="2">enim</w> <w n="3">lucis</w> <w n="4">est</w> <w n="5">in</w> <w n="6">omni</w> <w n="7">bonitate</w> <w n="8">et</w> <w n="9">iustitia
+</w>                            <w n="10">et</w> <w n="11">veritate</w> </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">probantes</w> <w n="2">quid</w> <w n="3">sit</w> <w n="4">beneplacitum</w> <w n="5">Deo</w> </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">et</w> <w n="2">nolite</w> <w n="3">communicare</w> <w n="4">operibus</w> <w n="5">infructuosis
+</w>                            <w n="6">tenebrarum</w> <w n="7">magis</w> <w n="8">autem</w> <w n="9">et</w> <w n="10">redarguite</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">quae</w> <w n="2">enim</w> <w n="3">in</w> <w n="4">occulto</w> <w n="5">fiunt</w> <w n="6">ab</w> <w n="7">ipsis</w> <w n="8">turpe</w> <w n="9">est</w> <w n="10">et
+</w>                            <w n="11">dicere</w> </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">omnia</w> <w n="2">autem</w> <w n="3">quae</w> <w n="4">arguuntur</w> <w n="5">a</w> <w n="6">lumine</w> <w n="7">manifestantur
+</w>                            <w n="8">omne</w> <w n="9">enim</w> <w n="10">quod</w> <w n="11">manifestatur</w> <w n="12">lumen</w> <w n="13">est</w> </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">propter</w> <w n="2">quod</w> <w n="3">dicit</w> <w n="4">surge</w> <w n="5">qui</w> <w n="6">dormis</w> <w n="7">et</w> <w n="8">exsurge</w> <w n="9">a
+</w>                            <w n="10">mortuis</w> <w n="11">et</w> <w n="12">inluminabit</w> <w n="13">tibi</w> <w n="14">Christus</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">videte</w> <w n="2">itaque</w> <w n="3">fratres</w> <w n="4">quomodo</w> <w n="5">caute</w> <w n="6">ambuletis</w> <w n="7">non
+</w>                            <w n="8">quasi</w> <w n="9">insipientes</w> <w n="10">sed</w> <w n="11">ut</w> <w n="12">sapientes</w> </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">redimentes</w> <w n="2">tempus</w> <w n="3">quoniam</w> <w n="4">dies</w> <w n="5">mali</w> <w n="6">sunt</w> </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">propterea</w> <w n="2">nolite</w> <w n="3">fieri</w> <w n="4">inprudentes</w> <w n="5">sed</w> <w n="6">intellegentes
+</w>                            <w n="7">quae</w> <w n="8">sit</w> <w n="9">voluntas</w> <w n="10">Domini</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">et</w> <w n="2">nolite</w> <w n="3">inebriari</w> <w n="4">vino</w> <w n="5">in</w> <w n="6">quo</w> <w n="7">est</w> <w n="8">luxuria</w> <w n="9">sed
+</w>                            <w n="10">implemini</w> <w n="11">Spiritu</w> </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">loquentes</w> <w n="2">vobismet</w> <w n="3">ipsis</w> <w n="4">in</w> <w n="5">psalmis</w> <w n="6">et</w> <w n="7">hymnis</w> <w n="8">et
+</w>                            <w n="9">canticis</w> <w n="10">spiritalibus</w> <w n="11">cantantes</w> <w n="12">et</w> <w n="13">psallentes</w> <w n="14">in
+</w>                            <w n="15">cordibus</w> <w n="16">vestris</w> <w n="17">Domino</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">gratias</w> <w n="2">agentes</w> <w n="3">semper</w> <w n="4">pro</w> <w n="5">omnibus</w> <w n="6">in</w> <w n="7">nomine</w> <w n="8">Domini
+</w>                            <w n="9">nostri</w> <w n="10">Iesu</w> <w n="11">Christi</w> <w n="12">Deo</w> <w n="13">et</w> <w n="14">Patri</w> </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">subiecti</w> <w n="2">invicem</w> <w n="3">in</w> <w n="4">timore</w> <w n="5">Christi</w> </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p><w n="1">mulieres</w> <w n="2">viris</w> <w n="3">suis</w> <w n="4">subditae</w> <w n="5">sint</w> <w n="6">sicut</w> <w n="7">Domino</w> </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p><w n="1">quoniam</w> <w n="2">vir</w> <w n="3">caput</w> <w n="4">est</w> <w n="5">mulieris</w> <w n="6">sicut</w> <w n="7">Christus</w> <w n="8">caput
+</w>                            <w n="9">est</w> <w n="10">ecclesiae</w> <w n="11">ipse</w> <w n="12">salvator</w> <w n="13">corporis</w> </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p><w n="1">sed</w> <w n="2">ut</w> <w n="3">ecclesia</w> <w n="4">subiecta</w> <w n="5">est</w> <w n="6">Christo</w> <w n="7">ita</w> <w n="8">et</w> <w n="9">mulieres
+</w>                            <w n="10">viris</w> <w n="11">suis</w> <w n="12">in</w> <w n="13">omnibus</w> </p>
+                    </div>
+                    <div type="verse" n="25">
+                        <p><w n="1">viri</w> <w n="2">diligite</w> <w n="3">uxores</w> <w n="4">sicut</w> <w n="5">et</w> <w n="6">Christus</w> <w n="7">dilexit
+</w>                            <w n="8">ecclesiam</w> <w n="9">et</w> <w n="10">se</w> <w n="11">ipsum</w> <w n="12">tradidit</w> <w n="13">pro</w> <w n="14">ea</w> </p>
+                    </div>
+                    <div type="verse" n="26">
+                        <p><w n="1">ut</w> <w n="2">illam</w> <w n="3">sanctificaret</w> <w n="4">mundans</w> <w n="5">lavacro</w> <w n="6">aquae</w> <w n="7">in</w> <w n="8">verbo
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="27">
+                        <p><w n="1">ut</w> <w n="2">exhiberet</w> <w n="3">ipse</w> <w n="4">sibi</w> <w n="5">gloriosam</w> <w n="6">ecclesiam</w> <w n="7">non
+</w>                            <w n="8">habentem</w> <w n="9">maculam</w> <w n="10">aut</w> <w n="11">rugam</w> <w n="12">aut</w> <w n="13">aliquid</w> <w n="14">eiusmodi</w> <w n="15">sed
+</w>                            <w n="16">ut</w> <w n="17">sit</w> <w n="18">sancta</w> <w n="19">et</w> <w n="20">inmaculata</w> </p>
+                    </div>
+                    <div type="verse" n="28">
+                        <p><w n="1">ita</w> <w n="2">et</w> <w n="3">viri</w> <w n="4">debent</w> <w n="5">diligere</w> <w n="6">uxores</w> <w n="7">suas</w> <w n="8">ut</w> <w n="9">corpora
+</w>                            <w n="10">sua</w> <w n="11">qui</w> <w n="12">suam</w> <w n="13">uxorem</w> <w n="14">diligit</w> <w n="15">se</w> <w n="16">ipsum</w> <w n="17">diligit</w> </p>
+                    </div>
+                    <div type="verse" n="29">
+                        <p><w n="1">nemo</w> <w n="2">enim</w> <w n="3">umquam</w> <w n="4">carnem</w> <w n="5">suam</w> <w n="6">odio</w> <w n="7">habuit</w> <w n="8">sed</w> <w n="9">nutrit
+</w>                            <w n="10">et</w> <w n="11">fovet</w> <w n="12">eam</w> <w n="13">sicut</w> <w n="14">et</w> <w n="15">Christus</w> <w n="16">ecclesiam</w> </p>
+                    </div>
+                    <div type="verse" n="30">
+                        <p><w n="1">quia</w> <w n="2">membra</w> <w n="3">sumus</w> <w n="4">corporis</w> <w n="5">eius</w> <w n="6">de</w> <w n="7">carne</w> <w n="8">eius</w> <w n="9">et</w> <w n="10">de
+</w>                            <w n="11">ossibus</w> <w n="12">eius</w> </p>
+                    </div>
+                    <div type="verse" n="31">
+                        <p><w n="1">propter</w> <w n="2">hoc</w> <w n="3">relinquet</w> <w n="4">homo</w> <w n="5">patrem</w> <w n="6">et</w> <w n="7">matrem</w> <w n="8">suam</w> <w n="9">et
+</w>                            <w n="10">adherebit</w> <w n="11">uxori</w> <w n="12">suae</w> <w n="13">et</w> <w n="14">erunt</w> <w n="15">duo</w> <w n="16">in</w> <w n="17">carne</w> <w n="18">una</w> </p>
+                    </div>
+                    <div type="verse" n="32">
+                        <p><w n="1">sacramentum</w> <w n="2">hoc</w> <w n="3">magnum</w> <w n="4">est</w> <w n="5">ego</w> <w n="6">autem</w> <w n="7">dico</w> <w n="8">in</w> <w n="9">Christo
+</w>                            <w n="10">et</w> <w n="11">in</w> <w n="12">ecclesia</w> </p>
+                    </div>
+                    <div type="verse" n="33">
+                        <p><w n="1">verumtamen</w> <w n="2">et</w> <w n="3">vos</w> <w n="4">singuli</w> <w n="5">unusquisque</w> <w n="6">suam</w> <w n="7">uxorem
+</w>                            <w n="8">sicut</w> <w n="9">se</w> <w n="10">ipsum</w> <w n="11">diligat</w> <w n="12">uxor</w> <w n="13">autem</w> <w n="14">ut</w> <w n="15">timeat
+</w>                             </p>
+                    </div>
+                </div>
+                <div type="chapter" n="6">
+                    <div type="verse" n="1">
+                        <p><w n="1">filii</w> <w n="2">oboedite</w> <w n="3">parentibus</w> <w n="4">vestris</w> <w n="5">in</w> <w n="6">Domino</w> <w n="7">hoc</w> <w n="8">enim
+</w>                            <w n="9">est</w> <w n="10">iustum</w> </p>
+                    </div>
+                    <div type="verse" n="2">
+                        <p><w n="1">honora</w> <w n="2">patrem</w> <w n="3">tuum</w> <w n="4">et</w> <w n="5">matrem</w> <w n="6">quod</w> <w n="7">est</w> <w n="8">mandatum</w> <w n="9">primum
+</w>                            <w n="10">in</w> <w n="11">promissione</w> </p>
+                    </div>
+                    <div type="verse" n="3">
+                        <p><w n="1">ut</w> <w n="2">bene</w> <w n="3">sit</w> <w n="4">tibi</w> <w n="5">et</w> <w n="6">sis</w> <w n="7">longevus</w> <w n="8">super</w> <w n="9">terram</w> </p>
+                    </div>
+                    <div type="verse" n="4">
+                        <p><w n="1">et</w> <w n="2">patres</w> <w n="3">nolite</w> <w n="4">ad</w> <w n="5">iracundiam</w> <w n="6">provocare</w> <w n="7">filios
+</w>                            <w n="8">vestros</w> <w n="9">sed</w> <w n="10">educate</w> <w n="11">illos</w> <w n="12">in</w> <w n="13">disciplina</w> <w n="14">et
+</w>                            <w n="15">correptione</w> <w n="16">Domini</w> </p>
+                    </div>
+                    <div type="verse" n="5">
+                        <p><w n="1">servi</w> <w n="2">oboedite</w> <w n="3">dominis</w> <w n="4">carnalibus</w> <w n="5">cum</w> <w n="6">timore</w> <w n="7">et
+</w>                            <w n="8">tremore</w> <w n="9">in</w> <w n="10">simplicitate</w> <w n="11">cordis</w> <w n="12">vestri</w> <w n="13">sicut</w> <w n="14">Christo
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="6">
+                        <p><w n="1">non</w> <w n="2">ad</w> <w n="3">oculum</w> <w n="4">servientes</w> <w n="5">quasi</w> <w n="6">hominibus</w> <w n="7">placentes
+</w>                            <w n="8">sed</w> <w n="9">ut</w> <w n="10">servi</w> <w n="11">Christi</w> <w n="12">facientes</w> <w n="13">voluntatem</w> <w n="14">Dei</w> <w n="15">ex
+</w>                            <w n="16">animo</w> </p>
+                    </div>
+                    <div type="verse" n="7">
+                        <p><w n="1">cum</w> <w n="2">bona</w> <w n="3">voluntate</w> <w n="4">servientes</w> <w n="5">sicut</w> <w n="6">Domino</w> <w n="7">et</w> <w n="8">non
+</w>                            <w n="9">hominibus</w> </p>
+                    </div>
+                    <div type="verse" n="8">
+                        <p><w n="1">scientes</w> <w n="2">quoniam</w> <w n="3">unusquisque</w> <w n="4">quodcumque</w> <w n="5">fecerit</w> <w n="6">bonum
+</w>                            <w n="7">hoc</w> <w n="8">percipiet</w> <w n="9">a</w> <w n="10">Domino</w> <w n="11">sive</w> <w n="12">servus</w> <w n="13">sive</w> <w n="14">liber</w> </p>
+                    </div>
+                    <div type="verse" n="9">
+                        <p><w n="1">et</w> <w n="2">domini</w> <w n="3">eadem</w> <w n="4">facite</w> <w n="5">illis</w> <w n="6">remittentes</w> <w n="7">minas
+</w>                            <w n="8">scientes</w> <w n="9">quia</w> <w n="10">et</w> <w n="11">illorum</w> <w n="12">et</w> <w n="13">vester</w> <w n="14">Dominus</w> <w n="15">est</w> <w n="16">in
+</w>                            <w n="17">caelis</w> <w n="18">et</w> <w n="19">personarum</w> <w n="20">acceptio</w> <w n="21">non</w> <w n="22">est</w> <w n="23">apud</w> <w n="24">eum</w> </p>
+                    </div>
+                    <div type="verse" n="10">
+                        <p><w n="1">de</w> <w n="2">cetero</w> <w n="3">fratres</w> <w n="4">confortamini</w> <w n="5">in</w> <w n="6">Domino</w> <w n="7">et</w> <w n="8">in
+</w>                            <w n="9">potentia</w> <w n="10">virtutis</w> <w n="11">eius</w> </p>
+                    </div>
+                    <div type="verse" n="11">
+                        <p><w n="1">induite</w> <w n="2">vos</w> <w n="3">arma</w> <w n="4">Dei</w> <w n="5">ut</w> <w n="6">possitis</w> <w n="7">stare</w> <w n="8">adversus
+</w>                            <w n="9">insidias</w> <w n="10">diaboli</w> </p>
+                    </div>
+                    <div type="verse" n="12">
+                        <p><w n="1">quia</w> <w n="2">non</w> <w n="3">est</w> <w n="4">nobis</w> <w n="5">conluctatio</w> <w n="6">adversus</w> <w n="7">carnem</w> <w n="8">et
+</w>                            <w n="9">sanguinem</w> <w n="10">sed</w> <w n="11">adversus</w> <w n="12">principes</w> <w n="13">et</w> <w n="14">potestates
+</w>                            <w n="15">adversus</w> <w n="16">mundi</w> <w n="17">rectores</w> <w n="18">tenebrarum</w> <w n="19">harum</w> <w n="20">contra
+</w>                            <w n="21">spiritalia</w> <w n="22">nequitiae</w> <w n="23">in</w> <w n="24">caelestibus</w> </p>
+                    </div>
+                    <div type="verse" n="13">
+                        <p><w n="1">propterea</w> <w n="2">accipite</w> <w n="3">armaturam</w> <w n="4">Dei</w> <w n="5">ut</w> <w n="6">possitis
+</w>                            <w n="7">resistere</w> <w n="8">in</w> <w n="9">die</w> <w n="10">malo</w> <w n="11">et</w> <w n="12">omnibus</w> <w n="13">perfectis</w> <w n="14">stare
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="14">
+                        <p><w n="1">state</w> <w n="2">ergo</w> <w n="3">succincti</w> <w n="4">lumbos</w> <w n="5">vestros</w> <w n="6">in</w> <w n="7">veritate</w> <w n="8">et
+</w>                            <w n="9">induti</w> <w n="10">loricam</w> <w n="11">iustitiae</w> </p>
+                    </div>
+                    <div type="verse" n="15">
+                        <p><w n="1">et</w> <w n="2">calciati</w> <w n="3">pedes</w> <w n="4">in</w> <w n="5">praeparatione</w> <w n="6">evangelii</w> <w n="7">pacis
+</w>                       </p>
+                    </div>
+                    <div type="verse" n="16">
+                        <p><w n="1">in</w> <w n="2">omnibus</w> <w n="3">sumentes</w> <w n="4">scutum</w> <w n="5">fidei</w> <w n="6">in</w> <w n="7">quo</w> <w n="8">possitis
+</w>                            <w n="9">omnia</w> <w n="10">tela</w> <w n="11">nequissimi</w> <w n="12">ignea</w> <w n="13">extinguere</w> </p>
+                    </div>
+                    <div type="verse" n="17">
+                        <p><w n="1">et</w> <w n="2">galeam</w> <w n="3">salutis</w> <w n="4">adsumite</w> <w n="5">et</w> <w n="6">gladium</w> <w n="7">Spiritus</w> <w n="8">quod
+</w>                            <w n="9">est</w> <w n="10">verbum</w> <w n="11">Dei</w> </p>
+                    </div>
+                    <div type="verse" n="18">
+                        <p><w n="1">per</w> <w n="2">omnem</w> <w n="3">orationem</w> <w n="4">et</w> <w n="5">obsecrationem</w> <w n="6">orantes</w> <w n="7">omni
+</w>                            <w n="8">tempore</w> <w n="9">in</w> <w n="10">Spiritu</w> <w n="11">et</w> <w n="12">in</w> <w n="13">ipso</w> <w n="14">vigilantes</w> <w n="15">in</w> <w n="16">omni
+</w>                            <w n="17">instantia</w> <w n="18">et</w> <w n="19">obsecratione</w> <w n="20">pro</w> <w n="21">omnibus</w> <w n="22">sanctis</w> </p>
+                    </div>
+                    <div type="verse" n="19">
+                        <p><w n="1">et</w> <w n="2">pro</w> <w n="3">me</w> <w n="4">ut</w> <w n="5">detur</w> <w n="6">mihi</w> <w n="7">sermo</w> <w n="8">in</w> <w n="9">apertione</w> <w n="10">oris</w> <w n="11">mei
+</w>                            <w n="12">cum</w> <w n="13">fiducia</w> <w n="14">notum</w> <w n="15">facere</w> <w n="16">mysterium</w> <w n="17">evangelii</w> </p>
+                    </div>
+                    <div type="verse" n="20">
+                        <p><w n="1">pro</w> <w n="2">quo</w> <w n="3">legatione</w> <w n="4">fungor</w> <w n="5">in</w> <w n="6">catena</w> <w n="7">ita</w> <w n="8">ut</w> <w n="9">in</w> <w n="10">ipso
+</w>                            <w n="11">audeam</w> <w n="12">prout</w> <w n="13">oportet</w> <w n="14">me</w> <w n="15">loqui</w> </p>
+                    </div>
+                    <div type="verse" n="21">
+                        <p><w n="1">ut</w> <w n="2">autem</w> <w n="3">et</w> <w n="4">vos</w> <w n="5">sciatis</w> <w n="6">quae</w> <w n="7">circa</w> <w n="8">me</w> <w n="9">sunt</w> <w n="10">quid</w> <w n="11">agam
+</w>                            <w n="12">omnia</w> <w n="13">nota</w> <w n="14">vobis</w> <w n="15">faciet</w> <w n="16">Tychicus</w> <w n="17">carissimus</w> <w n="18">frater
+</w>                            <w n="19">et</w> <w n="20">fidelis</w> <w n="21">minister</w> <w n="22">in</w> <w n="23">Domino</w> </p>
+                    </div>
+                    <div type="verse" n="22">
+                        <p><w n="1">quem</w> <w n="2">misi</w> <w n="3">ad</w> <w n="4">vos</w> <w n="5">in</w> <w n="6">hoc</w> <w n="7">ipsum</w> <w n="8">ut</w> <w n="9">cognoscatis</w> <w n="10">quae
+</w>                            <w n="11">circa</w> <w n="12">nos</w> <w n="13">sunt</w> <w n="14">et</w> <w n="15">consoletur</w> <w n="16">corda</w> <w n="17">vestra</w> </p>
+                    </div>
+                    <div type="verse" n="23">
+                        <p><w n="1">pax</w> <w n="2">fratribus</w> <w n="3">et</w> <w n="4">caritas</w> <w n="5">cum</w> <w n="6">fide</w> <w n="7">a</w> <w n="8">Deo</w> <w n="9">Patre</w> <w n="10">et
+</w>                            <w n="11">Domino</w> <w n="12">Iesu</w> <w n="13">Christo</w> </p>
+                    </div>
+                    <div type="verse" n="24">
+                        <p><w n="1">gratia</w> <w n="2">cum</w> <w n="3">omnibus</w> <w n="4">qui</w> <w n="5">diligunt</w> <w n="6">Dominum</w> <w n="7">nostrum</w> <w n="8">Iesum
+</w>                            <w n="9">Christum</w> <w n="10">in</w>  </p>
+                    </div>
+                </div>
+            
+        </body></text></TEI>

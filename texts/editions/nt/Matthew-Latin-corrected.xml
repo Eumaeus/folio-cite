@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -55,13 +55,12 @@
             <div n="1" type="chapter">
                 <div n="1" type="verse">
                     <p>Liber<lb n="1"/>
+                        
                         <seg type="word">generatio<lb n="2"/>nis</seg> Iesu <seg type="word"
                                 >Chris<lb n="3"/>ti</seg> filii David<lb n="4"/>
-                        <pb n="1r"/></p>
+                        <pb n="1r"/></p> <p>filii Abracham;</p>
                 </div>
-                <div n="1" type="verse">
-                    <p>filii Abracham;</p>
-                </div>
+                
                 <div n="2" type="verse">
                     <p>Abracham autem<lb n="1"/> genuit Isac; Isac autem genuit <seg type="word"
                                 >Ia<lb n="2"/>cob</seg>; Iacob autem genuit Iudam et<lb n="3"/>

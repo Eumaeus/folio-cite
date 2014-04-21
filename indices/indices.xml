@@ -3,7 +3,8 @@
 <indexInventory xmlns="http://chs.harvard.edu/xmlns/cite">
       <rdfNamespace abbr="hmt" fullValue="http://www.homermultitext.org/hmt/rdf/"></rdfNamespace>
       <rdfNamespace abbr="cite" fullValue="http://www.homermultitext.org/cite/rdf/"></rdfNamespace>
-      <rdfNamespace abbr="bctaxon" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
+    <rdfNamespace abbr="bctaxon" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
+    <rdfNamespace abbr="fuSyntax" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
     <index verb="cite:illustratedBy" inverse="cite:illustrates">
         <source type="file" value="image-features.csv"></source>
     </index>
@@ -26,20 +27,76 @@
         <source type="file" value="RI_FolioCitation_Matthew.tsv"></source>
     </index>
     
+    <!-- Syntax Indices -->
+    
+    <index verb="fuSyntax:hasSurfaceForm" inverse="fuSyntax:surfaceFormOf">
+        <source type="file" value="syntax/surfaceForms.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasLemma" inverse="fuSyntax:lemmaOf">
+        <source type="file" value="syntax/lemmata.tsv"></source>
+    </index>
+    <index verb="fuSyntax:belongsToSentence" inverse="fuSyntax:sentenceContains">
+        <source type="file" value="syntax/tokenSentence.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasHeadUrn" inverse="fuSyntax:headUrnOf">
+        <source type="file" value="syntax/syntaxHeads.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasRelation" inverse="fuSyntax:relationOf">
+        <source type="file" value="syntax/relations.tsv"></source>
+    </index>
+    <index verb="fuSyntax:isPOS" inverse="fuSyntax:POSof">
+        <source type="file" value="syntax/pos.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasPerson" inverse="fuSyntax:personOf">
+        <source type="file" value="syntax/person.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasNumber" inverse="fuSyntax:numberOf">
+        <source type="file" value="syntax/number.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasTense" inverse="fuSyntax:tenseOf">
+        <source type="file" value="syntax/tense.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasVoice" inverse="fuSyntax:voiceOf">
+        <source type="file" value="syntax/voice.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasMood" inverse="fuSyntax:moodOf">
+        <source type="file" value="syntax/mood.tsv"></source>
+    </index>
+    
+    <index verb="fuSyntax:hasGender" inverse="fuSyntax:genderOf">
+        <source type="file" value="syntax/gender.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasCase" inverse="fuSyntax:caseOf">
+        <source type="file" value="syntax/case.tsv"></source>
+    </index>
+    <index verb="fuSyntax:hasDegree" inverse="fuSyntax:degreeOf">
+        <source type="file" value="syntax/degree.tsv"></source>
+    </index>
+    
+    <index verb="fuSyntax:parsesTo" inverse="fuSyntax:parsingOf">
+        <source type="file" value="syntax/parse.tsv"></source>
+    </index>
+    
+    <index verb="fuSyntax:posHasAttribute" inverse="fuSyntax:attributeOfPos">
+        <source type="file" value="syntax/pos_attribute.tsv"></source>
+    </index>
+    
+    
+    
     <!-- Botanica Caroliniana Indices -->
     
     <!--        Taxonomy: Parent/Child relations -->
     
-   <!-- <index verb="bctaxon:childOf" inverse="cite:hasChild">
+    <index verb="bctaxon:childOf" inverse="bctaxon:hasChild">
         <source type="file" value="botcar/tax-genus-family.tsv"></source>
     </index>
     <index verb="bctaxon:childOf" inverse="bctaxon:hasChild">
         <source type="file" value="botcar/tax-species-genus.tsv"></source>
-    </index>-->
+    </index>
     
     
     <!--        Taxonomy: Specimen/Species relations -->
-    <!--<index verb="bctaxon:exampleOf" inverse="bctaxon:identifiedBy">
+    <index verb="bctaxon:exampleOf" inverse="bctaxon:identifiedBy">
         <source type="file" value="botcar/tax-specimen-species.tsv"></source>
-    </index>-->
+    </index>
 </indexInventory>

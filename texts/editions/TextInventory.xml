@@ -15,7 +15,7 @@
         <description xml:lang="eng">The Wexler Digital Museum.</description>
     </ctsnamespace>
     
-    <textgroup urn="urn:cts:wexler:berl001">
+   <textgroup urn="urn:cts:wexler:berl001">
         <groupname xml:lang="eng">Berlioz</groupname>
         <work urn="urn:cts:wexler:berl001.troy" xml:lang="fra">
             <title xml:lang="fra">Les Troyens</title>
@@ -66,9 +66,9 @@
         <groupname xml:lang="eng">Sophocles</groupname>
         <work urn="urn:cts:greekLit:tlg0011.tlg004" xml:lang="grc">
             <title xml:lang="eng">Oedipus Tyrannos</title>
-            <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu01">
+           <!-- <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu01">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers and Sections marked</label>
-                <online docname="ot-grc-sections-speakers.xml">
+                <online docname="classics/ot-grc-sections-speakers.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -76,10 +76,10 @@
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div1/tei:div2" xpath="/tei:l[@n='?']"/>
                     </citationMapping>
                 </online>
-            </edition>
+            </edition>-->
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu02">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers marked</label>
-                <online docname="ot-grc-speakers.xml">
+                <online docname="classics/ot-grc-speakers.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -87,7 +87,7 @@
                     </citationMapping>
                 </online>
             </edition>
-            <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu03">
+           <!-- <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu03">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers not marked</label>
                 <online docname="ot-grc-bare.xml">
                     
@@ -96,10 +96,10 @@
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
                     </citationMapping>
                 </online>
-            </edition>
+            </edition>-->
             <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu04">
                 <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Tokenized for syntax</label>
-                <online docname="ot-grc-tokenized.xml">
+                <online docname="classics/ot-grc-tokenized.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -112,14 +112,14 @@
            
         </work>
     </textgroup>
-    <textgroup urn="urn:cts:greekLit:tlg0020">
+   <textgroup urn="urn:cts:greekLit:tlg0020">
         <groupname xml:lang="eng">Hesiod</groupname>
         <groupname xml:lang="lat">Hesiodus</groupname>
         <work urn="urn:cts:greekLit:tlg0020.tlg001" xml:lang="grc">
             <title xml:lang="eng">Theogony</title>
             <edition urn="urn:cts:greekLit:tlg0020.tlg001.fu01">
                 <label xml:lang="eng">Furman University Edition</label>
-                <online docname="hesiod_theogony.xml">
+                <online docname="classics/hesiod_theogony.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -170,6 +170,303 @@
             </translation>
         </work>
     </textgroup>
+    
+    <textgroup urn="urn:cts:greekLit:tlg0527">
+        <groupname xml:lang="eng">Septuagint</groupname>
+        <groupname xml:lang="lat">LXX</groupname>
+        <groupname xml:lang="lat">Septuaginta</groupname>
+        <work  urn="urn:cts:greekLit:tlg0527.tlg001" xml:lang="grc">
+            <title xml:lang="eng">Genesis</title>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg001.fu01">
+                <label xml:lang="eng">Genesis. Basic LXX Edition. C. Blackwell, ed.</label>
+                <description xml:lang="eng">LXX Genesis. A new digital edition, based on Rahlfs (1935).</description>
+                <online docname="LXX/genesis.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg001.fu01t">
+                <label xml:lang="eng">Genesis. Basic LXX Edition. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">LXX Genesis. A new digital edition, based on Rahlfs (1935). Tokenized for Syntax</description>
+                <online docname="LXX/genesis-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg001.fuKJV" xml:lang="eng">
+                <label xml:lang="eng">Genesis. King James Version. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Genesis. King James Version. A new digital edition, based on the Project Gutenberg text.</description>
+                <online docname="LXX/genesis-KJV.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg001.fuKJVt" xml:lang="eng">
+                <label xml:lang="eng">Genesis. King James Version. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">Genesis. King James Version. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/genesis-KJV-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg001.fuVulg" xml:lang="lat">
+                <label xml:lang="eng">Genesis. Vulgate Edition. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Genesis. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-genesis.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg001.fuVulgt" xml:lang="lat">
+                <label xml:lang="eng">Genesis. Vulgate Edition. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">Genesis. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-genesis-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+        </work>
+        <work  urn="urn:cts:greekLit:tlg0527.tlg002" xml:lang="grc">
+            <title xml:lang="eng">Exodus</title>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg002.fu01">
+                <label xml:lang="eng">Exodus. Basic LXX Edition. C. Blackwell, ed.</label>
+                <description xml:lang="eng">LXX Exodus. A new digital edition, based on Rahlfs (1935).</description>
+                <online docname="LXX/Exodus.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg002.fu01t">
+                <label xml:lang="eng">Exodus. Basic LXX Edition. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">LXX Exodus. A new digital edition, based on Rahlfs (1935). Tokenized for Syntax</description>
+                <online docname="LXX/Exodus-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg002.fuKJV" xml:lang="eng">
+                <label xml:lang="eng">Exodus. King James Version. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Exodus. King James Version. A new digital edition, based on the Project Gutenberg text.</description>
+                <online docname="LXX/Exodus-KJV.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg002.fuKJVt" xml:lang="eng">
+                <label xml:lang="eng">Exodus. King James Version. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">Exodus. King James Version. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/Exodus-KJV-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg002.fuVulg" xml:lang="lat">
+                <label xml:lang="eng">Exodus. Vulgate Edition. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Exodus. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-exodus.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg002.fuVulgt" xml:lang="lat">
+                <label xml:lang="eng">Exodus. Vulgate Edition. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">Exodus. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-exodus-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+        </work>
+        <work  urn="urn:cts:greekLit:tlg0527.tlg027" xml:lang="grc">
+            <title xml:lang="eng">Psalms</title>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg027.fu01">
+            <label xml:lang="eng">Psalms. Basic LXX Edition. C. Blackwell, ed.</label>
+            <description xml:lang="eng">LXX Psalms. A new digital edition, based on Rahlfs (1935).</description>
+                <online docname="LXX/psalms.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Psalm" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="verse-group" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']"
+                                xpath="/tei:lg[@n='?']">
+                                <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:lg[@n='?']"
+                                    xpath="/tei:l[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0527.tlg027.fu01t">
+                <label xml:lang="eng">Psalms. Basic LXX Edition. C. Blackwell, ed. Tokenized for syntax.</label>
+                <description xml:lang="eng">LXX Psalms. A new digital edition, based on Rahlfs (1935). Tokenized for syntax.</description>
+                <online docname="LXX/psalms-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Psalm" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="verse-group" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']"
+                                xpath="/tei:lg[@n='?']">
+                                <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:lg[@n='?']"
+                                    xpath="/tei:l[@n='?']">
+                                    <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:lg[@n='?']/tei:l[@n='?']"
+                                        xpath="/tei:w[@n='?']"/>
+                                </citation>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg027.fuKJV" xml:lang="eng">
+                <label xml:lang="eng">Psalms. King James Version. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Psalms.  A new digital edition, based on the Project Gutenberg text.</description>
+                <online docname="LXX/psalms-KJV.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Psalm" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            
+                                <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']"
+                                    xpath="/tei:l[@n='?']"/>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg027.fuKJVt" xml:lang="eng">
+                <label xml:lang="eng">Psalms. King James Version. C. Blackwell, ed. Tokenized for syntax.</label>
+                <description xml:lang="eng">Psalms.  A new digital edition, based on the Project Gutenberg text. Tokenized for syntax.</description>
+                <online docname="LXX/psalms-KJV-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Psalm" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            
+                            <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']"
+                                xpath="/tei:l[@n='?']">
+                                <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:l[@n='?']"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg027.fuVulg" xml:lang="lat">
+                <label xml:lang="eng">Psalms. Vulgate Edition. C. Blackwell, ed.</label>
+                <description xml:lang="eng">Psalms. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-psalms.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0527.tlg027.fuVulgt" xml:lang="lat">
+                <label xml:lang="eng">Psalms. Vulgate Edition. C. Blackwell, ed. Tokenized for Syntax</label>
+                <description xml:lang="eng">Psalms. Vulgate Edition. A new digital edition, based on the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="LXX/vulgate-psalms-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+        </work>
+    </textgroup>
+    
     <textgroup urn="urn:cts:greekLit:tlg0031">
         <groupname xml:lang="eng">New Testament</groupname>
         <groupname xml:lang="lat">Novum Testamentum</groupname>
@@ -185,8 +482,26 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0031.tlg001.fugnt001t">
+                <label xml:lang="eng">Westcott and Hort - Matthew. Tokenize for syntax.</label>
+                <description xml:lang="eng">Mathew - Based on Wescott and Hort, from the Perseus Digital Library text. Tokenize for syntax.</description>
+                <online docname="nt/WH_Matthew-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
                         </citation>
                     </citationMapping>
                 </online>
@@ -218,6 +533,23 @@
                     </citationMapping>
                 </online>
             </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg001.fu001t" xml:lang="eng"> 
+                <label xml:lang="eng">The King James Version - Matthew Tokenized for Syntax</label>
+                <description xml:lang="eng">Mathew - The KJV, from the Project Gutenberg text. Tokenized for Syntax</description>
+                <online docname="nt/KJV_Matthew-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
             <translation urn="urn:cts:greekLit:tlg0031.tlg001.ky001" xml:lang="eng">
                 <label xml:lang="eng">The New International Version - Matthew</label>
                 <description xml:lang="eng">Mathew - based on the NIV Text.</description>
@@ -226,8 +558,25 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg001.ky001t" xml:lang="eng"> 
+                <label xml:lang="eng">The New International Version - Matthew. Tokenized for Syntax</label>
+                <description xml:lang="eng">Mathew - based on the NIV Text. Tokenized for Syntax</description>
+                <online docname="nt/Matthew-NIV-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
                         </citation>
                     </citationMapping>
                 </online>
@@ -240,7 +589,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -249,13 +598,30 @@
             <translation urn="urn:cts:greekLit:tlg0031.tlg001.lichfield001" xml:lang="lat">
                 <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Matthew</label>
                 <description xml:lang="eng">A transcription of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Tucker Hannah, Tony Brown, Christopher Blackwell, Brent Seales edd.</description>
-                <online docname="nt/Matthew-Latin-corrected.xml">
+                <online docname="nt/Chad-Matthew-transform.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
                             <citation label="Verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg001.lichfield001wt" xml:lang="lat">
+                <label xml:lang="eng">The St. Chad Gospels (Lichfield, 8th c.) - Matthew. Tokenized for Syntax</label>
+                <description xml:lang="eng">A transcription of the St. Chad Gospel in Lichfield Cathedral. A new transcription from digital imagery, with semantic markup, based on digital images captured by the Univeristy of Kentucky’s Center for Visualization and Virtual Environments, Brent Seales, Director. The images are copyrighted by the Chapter of Lichfield Cathedral, 2010, and are released under a Creative Commons License. Tucker Hannah, Tony Brown, Christopher Blackwell, Brent Seales edd. Tokenized for Syntax</description>
+                <online docname="nt/Chad-Matthew-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="Verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
                         </citation>
                     </citationMapping>
                 </online>
@@ -269,8 +635,25 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg001.fu002t" xml:lang="lat"> 
+                <label xml:lang="eng">Biblia Sacra, Vulgata Editionis - Matthew</label>
+                <description xml:lang="eng">Mathew - The Vulgate Edition. Tokenized for Syntax</description>
+                <online docname="nt/Vulgate_Matthew-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
                         </citation>
                     </citationMapping>
                 </online>
@@ -288,7 +671,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -302,7 +685,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -316,7 +699,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -330,7 +713,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -344,7 +727,7 @@
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
-                            <citation label="version" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
                                 xpath="/tei:div[@type='verse' and @n='?']"/>
                         </citation>
                     </citationMapping>
@@ -353,6 +736,215 @@
             
             
         </work>
+        
+        <work urn="urn:cts:greekLit:tlg0031.tlg006" xml:lang="grc">
+            <title xml:lang="eng">Romans</title>
+            <title xml:lang="lat">Epistula Pauli ad Romanos</title>
+            <title xml:lang="grc">ΠΡΟΣ ΡΩΜΑΙΟΥΣ</title>
+            <edition urn="urn:cts:greekLit:tlg0031.tlg006.fugnt001">
+                <label xml:lang="eng">Westcott and Hort - Romans</label>
+                <description xml:lang="eng">Romans - Based on Wescott and Hort, from the Perseus Digital Library text.</description>
+                <online docname="nt/WH_Romans.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0031.tlg006.fugnt001t">
+                <label xml:lang="eng">Westcott and Hort - Romans (tokenized for Syntax)</label>
+                <description xml:lang="eng">Romans - Based on Wescott and Hort, from the Perseus Digital Library text. (tokenized for Syntax)</description>
+                <online docname="nt/WH_Romans-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg006.fu001" xml:lang="eng">
+                <label xml:lang="eng">Romans - The King James Version</label>
+                <description xml:lang="eng">Romans - The KJV, from the Project Gutenberg text.</description>
+                <online docname="nt/KJV_Romans.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg006.fu001t" xml:lang="eng">
+                <label xml:lang="eng">Romans - The King James Version (tokenized for Syntax)</label>
+                <description xml:lang="eng">Romans - The KJV, from the Project Gutenberg text. (tokenized for Syntax)</description>
+                <online docname="nt/KJV_Romans-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg006.fuVulg" xml:lang="lat">
+                <label xml:lang="eng">Romans - Vulgate Edition</label>
+                <description xml:lang="eng">Romans - Vulgate Edition, from the Project Gutenberg text.</description>
+                <online docname="nt/vulgate-romans.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg006.fuVulgt" xml:lang="lat">
+                <label xml:lang="eng">Romans - Vulgate Edition (tokenized for Syntax)</label>
+                <description xml:lang="eng">Romans - Vulgate Edition, from the Project Gutenberg text. (tokenized for Syntax)</description>
+                <online docname="nt/vulgate-romans-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            
+            
+            
+        </work>
+        <work urn="urn:cts:greekLit:tlg0031.tlg010" xml:lang="grc">
+            <title xml:lang="eng">Ephesians</title>
+            <title xml:lang="lat">Epistula Pauli ad Ephesios</title>
+            <title xml:lang="grc">ΠΡΟΣ ΕΦΕΣΙΟΥΣ</title>
+            <edition urn="urn:cts:greekLit:tlg0031.tlg010.fugnt001">
+                <label xml:lang="eng">Westcott and Hort - Ephesians</label>
+                <description xml:lang="eng">Ephesians - Based on Wescott and Hort, from the Perseus Digital Library text.</description>
+                <online docname="nt/WH_Ephesians.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0031.tlg010.fugnt001t">
+                <label xml:lang="eng">Westcott and Hort - Ephesians (tokenized for Syntax)</label>
+                <description xml:lang="eng">Ephesians - Based on Wescott and Hort, from the Perseus Digital Library text. (tokenized for Syntax)</description>
+                <online docname="nt/WH_Ephesians-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg010.fu001" xml:lang="eng">
+                <label xml:lang="eng">Ephesians - The King James Version</label>
+                <description xml:lang="eng">Ephesians - The KJV, from the Project Gutenberg text.</description>
+                <online docname="nt/KJV_Ephesians.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg010.fu001t" xml:lang="eng">
+                <label xml:lang="eng">Ephesians - The King James Version (tokenized for Syntax)</label>
+                <description xml:lang="eng">Ephesians - The KJV, from the Project Gutenberg text. (tokenized for Syntax)</description>
+                <online docname="nt/KJV_Ephesians-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg010.fuVulg" xml:lang="lat">
+                <label xml:lang="eng">Ephesians - Vulgate Edition</label>
+                <description xml:lang="eng">Ephesians - Vulgate Edition, from the Project Gutenberg text.</description>
+                <online docname="nt/vulgate-ephesians.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0031.tlg010.fuVulgt" xml:lang="lat">
+                <label xml:lang="eng">Ephesians - Vulgate Edition (tokenized for Syntax)</label>
+                <description xml:lang="eng">Ephesians - Vulgate Edition, from the Project Gutenberg text. (tokenized for Syntax)</description>
+                <online docname="nt/vulgate-ephesians-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='verse' and @n='?']">
+                                <citation label="verse" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']/tei:div[@type='verse' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                            
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            
+            
+        </work>
+        
     </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg1407">
         <groupname xml:lang="eng">Heraclides Lembus</groupname>
@@ -361,7 +953,7 @@
             <title xml:lang="grc">Ἐκ τῶν Ἡρακλείδου περὶ πολιτειῶν</title>
             <edition urn="urn:cts:greekLit:tlg1407.tlg001.fu01">
                 <label xml:lang="eng">Based on the edition of M.R. Dilts, “Heraclidis Lembi excerpta politiarum”, Durham: Duke University Press, 1971; Greek, Roman and Byzantine monographs 5. Normalized, hierarchical citation scheme, emendations to text, application of editorial and semantic markup.</label>
-                <online docname="Herac_Lembus_Politeia.xml">
+                <online docname="classics/Herac_Lembus_Politeia.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -404,7 +996,7 @@
             <edition urn="urn:cts:latinLit:phi0690.phi003.fuPers">
                 <label xml:lang="eng">Furman/Perseus Text, based on Greenough</label>
                 <description xml:lang="eng">An edition based on the Perseus XML text.</description>
-                <online docname="Aeneid-Lat.xml">
+                <online docname="classics/Aeneid-Lat.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -414,6 +1006,35 @@
                     </citationMapping>
                 </online>
             </edition>
+            <translation urn="urn:cts:latinLit:phi0690.phi003.fuEng" xml:lang="eng">
+                <label xml:lang="eng">T. Williams, trans. (1910). Text from the Perseus Digital Library.</label>
+                <description xml:lang="eng">T. Williams, trans. (1910). Text from the Perseus Digital Library.</description>
+                <online docname="classics/Aeneid-Eng-Alignment.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:lg[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+            
+             <!--  <translation urn="urn:cts:latinLit:phi0690.phi003.alignedEng" xml:lang="eng">
+                <label xml:lang="eng">T. Williams, trans. (1910), aligned to Greenough’s Latin.</label>
+                <description xml:lang="eng">T. Williams, trans. (1910), aligned to Greenough’s Latin.</description>
+                <online docname="classics/Aeneid-Eng-Alignment.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:lg[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>-->
+            
+            
         </work>
     </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg0012">
@@ -423,7 +1044,7 @@
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.fuPers">
                 <label xml:lang="eng">Furman/Perseus Text, based on Allen</label>
                 <description xml:lang="eng">An edition based on the Perseus XML text.</description>
-                <online docname="Allen-Iliad.xml">
+                <online docname="classics/Iliad-Allen.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -433,18 +1054,74 @@
                     </citationMapping>
                 </online>
             </edition>
+            <edition urn="urn:cts:greekLit:tlg0012.tlg001.fuPerst">
+                <label xml:lang="eng">Furman/Perseus Text, based on Allen, tokenized for syntax</label>
+                <description xml:lang="eng">An edition based on the Perseus XML text.</description>
+                <online docname="classics/Iliad-Allen-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:l[@n='?']">
+                                <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0012.tlg001.persEng" xml:lang="eng">
+                <label xml:lang="eng">Furman/Perseus Text, based on Butler's Translation</label>
+                <description xml:lang="eng">An edition based on the Perseus XML text.</description>
+                <online docname="classics/Iliad-Butler.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div1[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div1[@n='?']" xpath="/tei:p[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+           <!-- <translation urn="urn:cts:greekLit:tlg0012.tlg001.alignedEng" xml:lang="eng">
+                <label xml:lang="eng">Furman/Perseus Text, based on Butler's Translation. Aligned to Allen's Greek.</label>
+                <description xml:lang="eng">An edition based on the Perseus XML text. Aligned to Allen's Greek.</description>
+                <online docname="classics/Iliad-Butler.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div1[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div1[@n='?']" xpath="/tei:p[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>-->
         </work>
         <work urn="urn:cts:greekLit:tlg0012.tlg002" xml:lang="grc">
             <title xml:lang="eng">Odyssey</title>
             <edition urn="urn:cts:greekLit:tlg0012.tlg002.fuGreek">
                 <label xml:lang="eng">Furman Univ., after von der Mühl</label>
                 <description xml:lang="eng">Homer, Odyssey, a new electronic edition based on the readings and emendations of P. von der Mühl 1962) and additional semantic markup.</description>
-                <online docname="fu-odyssey-grc-utf8.xml">
+                <online docname="classics/Odyssey-vDM.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
                             <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']" xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0012.tlg002.fuGreekt">
+                <label xml:lang="eng">Furman Univ., after von der Mühl. Tokenized for Syntax.</label>
+                <description xml:lang="eng">An edition based on the Perseus XML text.  Tokenized for Syntax.</description>
+                <online docname="classics/Odyssey-vDM-tokens.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                            <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:l[@n='?']">
+                                <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                            </citation>
                         </citation>
                     </citationMapping>
                 </online>
@@ -460,7 +1137,7 @@
             <edition urn="urn:cts:greekLit:tlg0086.tlg003.fuKenyon">
                 <label xml:lang="eng">A digital edition based on that of F.G. Kenyon (1920)</label>
                 <description xml:lang="eng">A digital edition of based on that of F.G. Kenyon (1920), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
-                <online docname="athpol.xml">
+                <online docname="classics/athpol.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>

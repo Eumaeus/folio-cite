@@ -347,4 +347,254 @@
         
     </citeCollection>
     
+    <citeCollection canonicalId="urn" 
+        label="textreading"
+        urn="urn:cite:openpal:fuCB25op">
+        <namespaceMapping
+            abbr="openpal"
+            fullValue="http://folio.furman.edu/datans/openpal"/>
+        
+        <dc:title>Furman University Manuscripts: Open Palaeography Inventory, Codex Bodmer 25</dc:title>
+        <dc:description>FU-MSS: Inventory of Character Forms, Ligatures, &amp;c.</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="mss/op-cb25.csv"/>
+        <citeProperty label="URN" name="urn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Text Reading" name="textreading" type="string"/>
+        <citeProperty label="Comments" name="comments" type="string"/>
+
+    </citeCollection>
+    
+    <citeCollection canonicalId="urn" 
+        label="textreading"
+        urn="urn:cite:openpal:fuchadcop">
+        <namespaceMapping
+            abbr="openpal"
+            fullValue="http://folio.furman.edu/datans/openpal"/>
+        
+        <dc:title>Furman University Manuscripts: Open Palaeography Inventory, The St. Chad Gospels</dc:title>
+        <dc:description>FU-MSS: Inventory of Character Forms, Ligatures, &amp;c.</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="mss/op-chad.csv"/>
+        <citeProperty label="URN" name="urn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Text Reading" name="textreading" type="string"/>
+        <citeProperty label="Comments" name="comments" type="string"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="urn" 
+        label="textreading"
+        urn="urn:cite:openpal:fuwycop">
+        <namespaceMapping
+            abbr="openpal"
+            fullValue="http://folio.furman.edu/datans/openpal"/>
+        
+        <dc:title>Furman University Manuscripts: Open Palaeography Inventory, The St. Chad Gospels</dc:title>
+        <dc:description>FU-MSS: Inventory of Character Forms, Ligatures, &amp;c.</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="mss/op-wycliffe.csv"/>
+        <citeProperty label="URN" name="urn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Text Reading" name="textreading" type="string"/>
+        <citeProperty label="Comments" name="comments" type="string"/>
+        
+    </citeCollection>
+    
+    <!-- Syntax -->
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:0011004sentences">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Sentences</dc:title>
+        <dc:description>Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/sentences.tsv"/>
+        
+        <citeProperty name="name" label="Name" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        <citeProperty name="ctsUrn" label="CTS-URN" type="ctsurn"/>
+        <citeProperty name="seq" label="Sequence" type="number"/>
+    </citeCollection>
+    
+      <citeCollection canonicalId="tokenUrn" label="name" urn="urn:cite:fuSyntax:0011004tokens">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Tokens</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/syntax-tokens-all.tsv"/>
+        
+        <citeProperty name="name" label="Name" type="string"/>
+        <citeProperty name="tokenUrn" label="URN" type="citeurn"/>
+        <citeProperty name="ctsUrn" label="CTS URN" type="ctsurn"/>
+        <citeProperty name="seq" label="Sequence No." type="number"/>
+        <!--<citeProperty name="surfaceForm" label="Surface Form" type="string"/>
+         <citeProperty name="lemma" label="Lemma" type="string"/>
+         <citeProperty name="sentence" label="Sentence URN" type="citeurn"/>
+        <citeProperty name="head" label="Head URN" type="citeurn"/>
+        <citeProperty name="headLemma" label="Head Lemma" type="string"/>
+        <citeProperty name="relation" label="Relation" type="string"/>
+        <citeProperty name="pos1pos" label="Part of Speech" type="string"/>
+        <citeProperty name="pos2person" label="Person" type="string"/>
+        <citeProperty name="pos3number" label="Number" type="string"/>
+        <citeProperty name="pos4tense" label="Tense" type="string"/>
+        <citeProperty name="pos5mood" label="Mood" type="string"/>
+        <citeProperty name="pos6voice" label="Voice" type="string"/>
+        <citeProperty name="pos7gender" label="Gender" type="string"/>
+        <citeProperty name="pos8case" label="Case" type="string"/>
+        <citeProperty name="pos9degree" label="Degree" type="string"/>-->
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:pos">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Parts of Speech</dc:title>
+        <dc:description>Parts of Speech from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+       
+        <source type="file" value="syntax/pos.tsv"/>
+        
+        <citeProperty name="name" label="name" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+       
+        
+    </citeCollection>
+
+
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:degree">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Degrees</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/degree.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+        
+    </citeCollection>
+     
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:gender">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Genders</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/gender.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:mood">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Moods</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/mood.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+     
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:number">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Numbers</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/number.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:person">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Persons</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        
+        <source type="file" value="syntax/person.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:tense">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Tenses</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        
+        <source type="file" value="syntax/tense.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:voice">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Voices</dc:title>
+        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+       
+        <source type="file" value="syntax/voice.tsv"/>
+        
+        <citeProperty name="name" label="Token URN" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+
 </collectionService>
