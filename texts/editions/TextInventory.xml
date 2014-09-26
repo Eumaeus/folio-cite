@@ -1120,7 +1120,7 @@
                     <citationMapping>
                         <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
                             <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:l[@n='?']">
-                                <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                                <citation label="Word" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
                             </citation>
                         </citation>
                     </citationMapping>
