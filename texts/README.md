@@ -1,4 +1,9 @@
+The active files are all in the `editions` directory.
 
-This directory is for the contents of a CTS repository.
+Experiments, scripts, and so forth are in the `alignment` and `experimental` directories.
 
-It should include a TextInventory file, and one or more XML editions grouped in subdirectories.
+`editions/TextInventory.xml` is the file used to generate a CTS library.
+
+`inventories/inventory.xml` is the file used when publishing a CTS library.
+
+
