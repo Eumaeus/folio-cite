@@ -10,6 +10,7 @@
         urn="urn:cite:botcar:catesbyLabels"
         canonicalId="URN" 
         label="name">
+       
         <namespaceMapping abbr="botcar" fullValue="http://classics.furman.edu/datans/botcar"/>
         
         <dc:title>Botanica Caroliniana: Labels</dc:title>
@@ -22,7 +23,7 @@
             value="botcar/botcarLabels.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
         <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgURN" type="citeimg"/>
+        <citeProperty label="Image URN" name="imgURN" type="citeurn"/>
         <citeProperty label="Text" name="text" type="string"/>
         <citeProperty label="Category" name="category" type="string">
             <valueList>
@@ -34,7 +35,7 @@
         </citeProperty>
         <!--<citeProperty label="Authority" name="auth" type="string"/>
         <citeProperty label="Century" name="century" type="number"/>-->
-        <citeProperty label="Contributer" name="Contributer" type="authuser"/>
+        <citeProperty label="Contributer" name="Contributer" type="string"/>
         <citeProperty label="Date" name="Date" type="string"/>
         <citeProperty label="Name" name="name" type="string"/>
         
@@ -62,8 +63,8 @@
         <citeProperty label="Genus URN" name="genusURN" type="citeurn"/>
         <citeProperty label="Family URN" name="familyURN" type="citeurn"/>
         <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
-        <citeProperty label="Folio Image" name="folioImage" type="citeimg"/>
-        <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeimg"/>
+        <citeProperty label="Folio Image" name="folioImage" type="citeurn"/>
+        <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeurn"/>
         <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"/>
     </citeCollection>
    
@@ -237,7 +238,7 @@
             value="mss/ManuscriptFeatures.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
         <citeProperty label="Folio URN" name="FolioURN" type="citeurn"/>
-        <citeProperty label="Image URN" name="ImageURN" type="citeimg"/>
+        <citeProperty label="Image URN" name="ImageURN" type="citeurn"/>
         <citeProperty label="Caption" name="caption" type="string"/>
         <citeProperty label="Name" name="name" type="string"/>
        
@@ -333,7 +334,7 @@
             type="file"
             value="mss/char_inv.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
         <citeProperty label="Description" name="description" type="string"/>
         <citeProperty label="Type" name="type" type="string">
             <valueList>
@@ -363,7 +364,7 @@
             type="file"
             value="mss/op-cb25.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
 
@@ -385,7 +386,7 @@
             type="file"
             value="mss/op-chad.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
         
@@ -407,7 +408,7 @@
             type="file"
             value="mss/op-wycliffe.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
         
@@ -594,6 +595,32 @@
         
         <citeProperty name="name" label="Token URN" type="string"/>
         <citeProperty name="URN" label="URN" type="citeurn"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="urn" 
+        label="label"
+        urn="urn:cite:gsl:test">
+        <namespaceMapping
+            abbr="gsl"
+            fullValue="http://folio.furman.edu/datans/gsl"/>
+        
+        <dc:title>Graph Selection Logic</dc:title>
+        <dc:description>desc here</dc:description>
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="path/to/file"/>
+        <citeProperty name="urn" label="URN" type="citeurn"/>
+        <citeProperty name="auth" label="Authority" type="string"></citeProperty>
+        <citeProperty name="date" label="Date" type="string"></citeProperty>
+        <citeProperty name="label" label="Label" type="string"></citeProperty>
+        <citeProperty name="graphId" label="Graph ID" type="citeurn"></citeProperty>
+        <citeProperty name="gsl" label="Graph Selection Logic" type="string"></citeProperty>
+        <citeProperty name="lang" label="Language of GSL Expression" type="string"></citeProperty>
+        <citeProperty name="langVersion" label="Language Version" type="string"></citeProperty>
         
     </citeCollection>
 
