@@ -3,27 +3,28 @@
 <indexInventory xmlns="http://chs.harvard.edu/xmlns/cite">
       <rdfNamespace abbr="hmt" fullValue="http://www.homermultitext.org/hmt/rdf/"></rdfNamespace>
       <rdfNamespace abbr="cite" fullValue="http://www.homermultitext.org/cite/rdf/"></rdfNamespace>
+    <rdfNamespace abbr="dse" fullValue="http://www.homermultitext.org/dse/rdf/"></rdfNamespace>
     <rdfNamespace abbr="bctaxon" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
     <rdfNamespace abbr="fuSyntax" fullValue="http://folio.furman.edu/cite/rdf/"></rdfNamespace>
-    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+    <index verb="dse:illustratedBy" inverse="dse:illustrates">
         <source type="file" value="image-features.csv"></source>
     </index>
-    <index verb="cite:illustrates" inverse="cite:illustratedBy">
+    <index verb="dse:illustrates" inverse="dse:illustratedBy">
         <source type="file" value="image-citation.csv"></source>
     </index>
-    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+    <index verb="dse:illustratedBy" inverse="dse:illustrates">
         <source type="file" value="image-char.csv"></source>
     </index>
-    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+    <index verb="dse:illustratedBy" inverse="dse:illustrates">
         <source type="file" value="RI_CitationImage_Matthew.tsv"></source>
     </index>
-    <index verb="cite:illustratedBy" inverse="cite:illustrates">
+    <index verb="dse:illustratedBy" inverse="dse:illustrates">
         <source type="file" value="RI_FolioImage.tsv"></source>
     </index>
     <index verb="hmt:hasDefaultImage" inverse="hmt:isDefaultImage">
         <source type="file" value="RI_DefaultImage.tsv"></source>
     </index>
-    <index verb="cite:hasOnIt" inverse="cite:appearsOn">
+    <index verb="dse:hasOnIt" inverse="dse:appearsOn">
         <source type="file" value="RI_FolioCitation_Matthew.tsv"></source>
     </index>
     
