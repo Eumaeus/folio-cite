@@ -3,6 +3,352 @@
 <collectionService 
     xmlns="http://chs.harvard.edu/xmlns/cite"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <extensionImplementation abbr="image" rdfType="cite:CiteImage"/>
+    
+    
+    
+    <!-- Image Collections -->
+    <citeCollection urn="urn:cite:totprop:msn" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="totprop" fullValue="http://classics.furman.edu/datans/tp"/>
+        <extension name="image"/>
+        <dc:title>"Propertius MS N</dc:title>
+        <dc:description>Manuscript N of Propertius. R. Childree, ed.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/PropertiusN.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:WycliffMS" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>"The Wycliffe New Testament (1410)</dc:title>
+        <dc:description>The Wycliffe New Testament (1410): Multispectral Images.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/WycliffMS.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:ChadRGB" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>The St. Chad Gospel: Composite RGB Images</dc:title>
+        <dc:description>The St. Chad Gospel: Composite RGB Images</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/ChadRGB.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:ChadMS" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>The St. Chad Gospel: Multispectral Images</dc:title>
+        <dc:description>The St. Chad Gospel: Multispectral Images</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/ChadMS.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:AthPol" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>B.L. Papyrus 131 - The Aristotelian Constitution of the Athenians</dc:title>
+        <dc:description>B.L. Papyrus 131 - The Aristotelian Constitution of the Athenians</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/AthPol.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+
+    
+    <citeCollection urn="urn:cite:fufolioimg:Bankes" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>B.L. Papyrus 114 - The Bankes Papyrus of Iliad 24</dc:title>
+        <dc:description>B.L. Papyrus 114 - The Bankes Papyrus of Iliad 24</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/Bankes.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:ecod:codbod25" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Cologny, Fondation Martin Bodmer, Cod. Bodmer 25 (www.e-codices.unifr.ch)</dc:title>
+        <dc:description>Cologny, Fondation Martin Bodmer, Cod. Bodmer 25 (www.e-codices.unifr.ch)</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/codbod25.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:alcman" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Alcman, Fragment 1, Louvre.</dc:title>
+        <dc:description>Alcman, Fragment 1, Louvre.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/alcman.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+  
+    
+    <citeCollection urn="urn:cite:fufolioimg:wexler" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Images from the Peter Wexler Digital Museum, courtesy of Peter Wexler and the James B. Duke Library at Furman University</dc:title>
+        <dc:description>Images from the Peter Wexler Digital Museum, courtesy of Peter Wexler and the James B. Duke Library at Furman University</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/wexler.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:neh" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Images for an NEH application (nonarchival)</dc:title>
+        <dc:description>Images for an NEH application (nonarchival)</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/neh.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:berlioz" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Images of musical scores of Berlioz' Les Troyens</dc:title>
+        <dc:description>Images of musical scores of Berlioz' Les Troyens</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+            <source type="file" value="images/berlioz.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+   <!-- BotCar Image Collections -->
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarCatesbyHS" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <extension name="image"/>
+        <dc:title>Botanica Caroliniana: Mark Catesby's Specimens</dc:title>
+        <dc:description>Images of Mark Catesby's botanical specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/CatesbyHSimg.csv"/>
+        
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarCatesbyNH" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Mark Catesby's Natural History</dc:title>
+        <dc:description>Images of Mark Catesby's Natural History.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/CatesbyNHimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarBartramJ" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: John Bartram</dc:title>
+        <dc:description>Images of John Bartram's herbarium specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/BartramJimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarBartramW" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: William Bartram</dc:title>
+        <dc:description>Images of William Bartram's herbarium specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/BartramWimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarFranklin" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Franklin</dc:title>
+        <dc:description>Images of Franklin's herbarium specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/Franklinimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarHalsteed" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Halsteed</dc:title>
+        <dc:description>Images of Halsteed's herbarium specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/Halsteedimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarLord" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: Joseph Lord</dc:title>
+        <dc:description>Images of Joseph Lord's herbarium specimens from the Sloane
+            Herbarium.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/Lordimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:michauxParis" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: André Michaux</dc:title>
+        <dc:description>Images of Michaux's herbarium specimens from the Jardin des
+            Plantes, Paris.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/michauxImg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarWalter" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana:  Walter Herbarium</dc:title>
+        <dc:description>Images of specimens from the Walter Herbarium, Sloane Herbarium,
+            London.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/Walterimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <citeCollection urn="urn:cite:fufolioimg:BotCarLawson" label="caption" canonicalId="URN">
+        <namespaceMapping abbr="fufolioimg" fullValue="http://classics.furman.edu/datans"/>
+        <dc:title>Botanica Caroliniana: John Lawson</dc:title>
+        <dc:description>Images of John Lawson's Specimens, Sloane Herbarium,
+            London.</dc:description>
+        <dc:rights>All data in this collection are available under the terms of the Creative Commons
+            Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <source type="file" value="images/Lawsonimg.csv"/>
+        <citeProperty label="URN" name="URN" type="citeurn"/>
+        <citeProperty label="Caption" name="caption" type="string"/>
+        <citeProperty label="Rights" name="rights" type="string"/>
+    </citeCollection>
+    
+    <!-- Pleiades Collections -->
+    
+    <citeCollection 
+        urn="urn:cite:fufolio:pleiades"
+        canonicalId="URN" 
+        label="Title">
+        
+        <namespaceMapping
+            abbr="fufolio"
+            fullValue="http://folio.furman.edu/datans/fufolio"/>
+        
+        <dc:title>Pleiades Geographical Entities</dc:title>
+        <dc:description>Pleiades: A Transformation of data from http://pleiades.stoa.org </dc:description>
+        <dc:rights>ISAW Ancient World Mapping Center has made its data available
+            under the terms of the Creative Commons Attribution 3.0 Unported License,
+            http://creativecommons.org/licenses/by/3.0/deed.en_US</dc:rights>
+        <source
+            type="file"
+            value="folio/pleiadesCITE.tsv"/>
+        <citeProperty label="Pleiades URI" name="URI" type="string"/>
+        <citeProperty label="CITE URN" name="URN" type="citeurn"/>
+        
+        <citeProperty label="Title" name="Title" type="string"/>
+        <citeProperty label="Description" name="Description" type="string"/>
+        <citeProperty label="Rights" name="Rights" type="string"/>
+        <citeProperty label="GeoJSON" name="GeoJSON" type="geojson"/>
+          
+        
+    </citeCollection>
     
     <!-- Botanica Caroliniana Collections -->
     
@@ -418,8 +764,25 @@
     
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:0011004sentences">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
-        <dc:title>Furman University Syntax Experiment: Sentences</dc:title>
-        <dc:description>Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:title>Furman University Syntax Experiment: Soph. OT Sentences</dc:title>
+        <dc:description>Treebanked Sentences from Sophocles OT. F. Mambrini, C. Blackwell</dc:description>
+        
+        <dc:rights>All data in this collection are available
+            under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</dc:rights>
+        <orderedBy property="seq"/>
+        <source type="file" value="syntax/sentences.tsv"/>
+        
+        <citeProperty name="name" label="Name" type="string"/>
+        <citeProperty name="URN" label="URN" type="citeurn"/>
+        <citeProperty name="ctsUrn" label="CTS-URN" type="ctsurn"/>
+        <citeProperty name="seq" label="Sequence" type="number"/>
+    </citeCollection>
+    
+    <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:0085003sentences">
+        <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
+        <dc:title>Furman University Syntax Experiment: Aesch. PV Sentences</dc:title>
+        <dc:description>Treebanked Sentences from Aeschylus PV. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -487,7 +850,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:degree">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Degrees</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Adjective/Adverb Degrees from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -504,7 +867,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:gender">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Genders</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Grammatical Genders from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -521,7 +884,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:mood">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Moods</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Verbal Moods from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -537,7 +900,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:number">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Numbers</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Grammatical Numbers from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -553,7 +916,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:person">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Persons</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Grammatical Persons from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -569,7 +932,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:tense">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Tenses</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Verbal Tenses from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
@@ -585,7 +948,7 @@
     <citeCollection canonicalId="URN" label="name" urn="urn:cite:fuSyntax:voice">
         <namespaceMapping abbr="fuSyntax" fullValue="http://folio.furman.edu/datans/fuSyntax"></namespaceMapping>
         <dc:title>Furman University Syntax Experiment: Voices</dc:title>
-        <dc:description>Tokens from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
+        <dc:description>Verbal Voices from Treebanked Sentences. F. Mambrini, C. Blackwell</dc:description>
         
         <dc:rights>All data in this collection are available
             under the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
