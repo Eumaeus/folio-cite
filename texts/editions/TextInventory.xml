@@ -62,6 +62,26 @@
             
         </work>
     </textgroup>
+    <textgroup urn="urn:cts:greekLit:tlg0085">
+        <groupname xml:lang="eng">Aeschylus</groupname>
+        <work urn="urn:cts:greekLit:tlg0085.tlg003" xml:lang="grc">
+            <title xml:lang="eng">Prometheus Bound</title>
+            <title xml:lang="lat">Prometheus Vinctus</title>
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.fuSyn">
+                <label xml:lang="eng">Tokenized for syntax</label>
+                <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, tokenized for syntactic treebanking</description>
+                <online docname="classics/aesch-pv-tokens-numbered.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']">
+                            <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
     <textgroup urn="urn:cts:greekLit:tlg0011">
         <groupname xml:lang="eng">Sophocles</groupname>
         <work urn="urn:cts:greekLit:tlg0011.tlg004" xml:lang="grc">
@@ -1149,6 +1169,221 @@
                 </online>
                 
             </edition>
+            <edition urn="urn:cts:greekLit:tlg0086.tlg003.grc">
+                <label xml:lang="eng">A digital edition based on that of F.G. Kenyon (1920)</label>
+                <description xml:lang="eng">A digital edition of based on that of F.G. Kenyon (1920), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
+                <online docname="classics/athpol.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='section' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0086.tlg003.eng" xml:lang="eng">
+                <label xml:lang="eng">A digital edition based on the translation of F.G. Kenyon (1920)</label>
+                <description xml:lang="eng">A digital edition of based on the translation of F.G. Kenyon (1920), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
+                <online docname="classics/athpol-eng.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='section' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </translation>
+        </work>
+    </textgroup>
+    <textgroup urn="urn:cts:greekLit:tlg0007">
+        <groupname xml:lang="eng">Plutarch</groupname>
+        <groupname xml:lang="lat">Plutarchus</groupname>
+        <work urn="urn:cts:greekLit:tlg0007.tlg007" xml:lang="grc">
+            
+            <title xml:lang="eng">Solon</title>
+           
+            <edition urn="urn:cts:greekLit:tlg0007.tlg007.grc">
+                <label xml:lang="eng">A digital edition based on that of Bernadotte Perrin (1914)</label>
+                <description xml:lang="eng">A digital edition of based on that of Bernadotte Perrin (1914), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
+                <online docname="classics/Plut_Solon_grc.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='section' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0007.tlg007.eng" xml:lang="eng">
+                <label xml:lang="eng">A digital edition based on the translation of Bernadotte Perrin (1914)</label>
+                <description xml:lang="eng">A digital edition of based on the translation of Bernadotte Perrin  (1914), edited from the XML text provided by the Perseus Digital Library, Gregory Crane, ed.</description>
+                <online docname="classics/Plut_Solon_eng.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='chapter' and @n='?']">
+                            <citation label="Section" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='chapter' and @n='?']"
+                                xpath="/tei:div[@type='section' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </translation>
+        </work>
+    </textgroup>
+    <textgroup urn="urn:cts:greekLit:tlg0016">
+        <groupname xml:lang="eng">Herodotus</groupname>
+        <work urn="urn:cts:greekLit:tlg0016.tlg001" xml:lang="grc">
+            <title xml:lang="eng">Histories</title>
+            <edition urn="urn:cts:greekLit:tlg0016.tlg001.grc">
+                <label xml:lang="eng">A digital edition based on that of Ph.E. Legrand</label>
+                <description xml:lang="eng">S. LaBerge and C. Blackwell, collated against Ph.E. Legrand, ed. He/rodote. Histoires (Paris: Les Belles Lettres) and C. Hude, ed., Herodoti Historiae (Oxford).</description>
+                <online docname="classics/fu-hdt-grc.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0016.tlg001.grcTok">
+                <label xml:lang="eng">A digital edition based on that of Ph.E. Legrand, tokenized for syntax</label>
+                <description xml:lang="eng">Tokenized for syntax: S. LaBerge and C. Blackwell, collated against Ph.E. Legrand, ed. He/rodote. Histoires (Paris: Les Belles Lettres) and C. Hude, ed., Herodoti Historiae (Oxford).</description>
+                <online docname="classics/fu-hdt-grc-tok.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']">
+                                <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']/tei:div[@type='chapter' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0016.tlg001.eng" xml:lang="eng">
+                <label xml:lang="eng">A digital translation based on that of G. C. Macaulay</label>
+                <description xml:lang="eng">This text was prepared by Ross Scaife from the translation by G. C. Macaulay, third edition, printed in 1914, by MacMillan and Co., Limited, St. Martin's Street, London.</description>
+                <online docname="classics/fu-hdt-eng.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0016.tlg001.engTok" xml:lang="eng">
+                <label xml:lang="eng">Tokenized for Syntax: A digital translation based on that of G. C. Macaulay</label>
+                <description xml:lang="eng">Tokenized for Syntax: This text was prepared by Ross Scaife from the translation by G. C. Macaulay, third edition, printed in 1914, by MacMillan and Co., Limited, St. Martin's Street, London.</description>
+                <online docname="classics/fu-hdt-eng-tok.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']">
+                                <citation label="Token"
+                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']/tei:div[@type='chapter' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
+        </work>
+    </textgroup>
+    <textgroup urn="urn:cts:greekLit:tlg0003">
+        <groupname xml:lang="eng">Thucydides</groupname>
+        <work urn="urn:cts:greekLit:tlg0003.tlg001" xml:lang="grc">
+            <title xml:lang="eng">Histories</title>
+            <edition urn="urn:cts:greekLit:tlg0003.tlg001.grc">
+                <label xml:lang="eng">A digital edition, C. Blackwell, ed.</label>
+                <description xml:lang="eng">A digital edition, C. Blackwell, ed.</description>
+                <online docname="classics/fu-thuc-grc.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <edition urn="urn:cts:greekLit:tlg0003.tlg001.grcTok">
+                <label xml:lang="eng">A digital edition, tokenized for syntax</label>
+                <description xml:lang="eng">Tokenized for syntax.</description>
+                <online docname="classics/fu-thuc-grc-tok.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']">
+                                <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']/tei:div[@type='chapter' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            <translation urn="urn:cts:greekLit:tlg0003.tlg001.eng" xml:lang="eng">
+                <label xml:lang="eng">A digital translation based on that of Richard Crawley</label>
+                <description xml:lang="eng"> Based on the Project Gutenberg e-text. Title: The History of the Peloponnesian War Author: Thucydides translated by Richard Crawley Release Date: December, 2004 [EBook #7142] </description>
+                <online docname="classics/fu-thuc-eng.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </translation>
+            <translation urn="urn:cts:greekLit:tlg0003.tlg001.engTok" xml:lang="eng">
+                <label xml:lang="eng">Tokenized for Syntax: A digital translation based on that of Richard Crawley</label>
+                <description xml:lang="eng">Tokenized for Syntax: Based on the Project Gutenberg e-text. Title: The History of the Peloponnesian War Author: Thucydides translated by Richard Crawley Release Date: December, 2004 [EBook #7142] </description>
+                <online docname="classics/fu-thuc-eng-tok.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@type='book' and @n='?']">
+                            <citation label="Chapter"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']"
+                                xpath="/tei:div[@type='chapter' and @n='?']">
+                                <citation label="Token"
+                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@type='book' and @n='?']/tei:div[@type='chapter' and @n='?']/tei:p"
+                                    xpath="/tei:w[@n='?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </translation>
         </work>
     </textgroup>
 </TextInventory>
