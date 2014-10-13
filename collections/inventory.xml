@@ -369,7 +369,7 @@
             value="botcar/botcarLabels.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
         <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgURN" type="citeurn"/>
+       <citeProperty label="Image URN" name="imgURN" type="citeimg"/>
         <citeProperty label="Text" name="text" type="string"/>
         <citeProperty label="Category" name="category" type="string">
             <valueList>
@@ -409,8 +409,8 @@
         <citeProperty label="Genus URN" name="genusURN" type="citeurn"/>
         <citeProperty label="Family URN" name="familyURN" type="citeurn"/>
         <citeProperty label="Folio URN" name="folioURN" type="citeurn"/>
-        <citeProperty label="Folio Image" name="folioImage" type="citeurn"/>
-        <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeurn"/>
+        <citeProperty label="Folio Image" name="folioImage" type="citeimg"/>
+        <citeProperty label="Folio Image ROI" name="folioImageROI" type="citeimg"/>
         <citeProperty label="ITIS TSN Serial No." name="tsnID" type="string"/>
     </citeCollection>
    
@@ -584,7 +584,7 @@
             value="mss/ManuscriptFeatures.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
         <citeProperty label="Folio URN" name="FolioURN" type="citeurn"/>
-        <citeProperty label="Image URN" name="ImageURN" type="citeurn"/>
+        <citeProperty label="Image URN" name="ImageURN" type="citeimg"/>
         <citeProperty label="Caption" name="caption" type="string"/>
         <citeProperty label="Name" name="name" type="string"/>
        
@@ -680,7 +680,7 @@
             type="file"
             value="mss/char_inv.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
         <citeProperty label="Description" name="description" type="string"/>
         <citeProperty label="Type" name="type" type="string">
             <valueList>
@@ -710,7 +710,7 @@
             type="file"
             value="mss/op-cb25.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
 
@@ -732,7 +732,7 @@
             type="file"
             value="mss/op-chad.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
         
@@ -754,7 +754,7 @@
             type="file"
             value="mss/op-wycliffe.csv"/>
         <citeProperty label="URN" name="urn" type="citeurn"/>
-        <citeProperty label="Image URN" name="imgurn" type="citeurn"/>
+        <citeProperty label="Image URN" name="imgurn" type="citeimg"/>
         <citeProperty label="Text Reading" name="textreading" type="string"/>
         <citeProperty label="Comments" name="comments" type="string"/>
         

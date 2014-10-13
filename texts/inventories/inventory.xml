@@ -1040,7 +1040,7 @@
                 </online>
             </translation>
             
-             <!--  <translation urn="urn:cts:latinLit:phi0690.phi003.alignedEng" xml:lang="eng">
+               <translation urn="urn:cts:latinLit:phi0690.phi003.alignedEng" xml:lang="eng">
                 <label xml:lang="eng">T. Williams, trans. (1910), aligned to Greenough’s Latin.</label>
                 <description xml:lang="eng">T. Williams, trans. (1910), aligned to Greenough’s Latin.</description>
                 <online docname="classics/Aeneid-Eng-Alignment.xml">
@@ -1052,7 +1052,7 @@
                         </citation>
                     </citationMapping>
                 </online>
-            </translation>-->
+            </translation>
             
             
         </work>
@@ -1102,7 +1102,7 @@
                     </citationMapping>
                 </online>
             </translation>
-           <!-- <translation urn="urn:cts:greekLit:tlg0012.tlg001.alignedEng" xml:lang="eng">
+            <translation urn="urn:cts:greekLit:tlg0012.tlg001.alignedEng" xml:lang="eng">
                 <label xml:lang="eng">Furman/Perseus Text, based on Butler's Translation. Aligned to Allen's Greek.</label>
                 <description xml:lang="eng">An edition based on the Perseus XML text. Aligned to Allen's Greek.</description>
                 <online docname="classics/Iliad-Butler.xml">
@@ -1114,7 +1114,7 @@
                         </citation>
                     </citationMapping>
                 </online>
-            </translation>-->
+            </translation>
         </work>
         <work urn="urn:cts:greekLit:tlg0012.tlg002" xml:lang="grc">
             <title xml:lang="eng">Odyssey</title>
